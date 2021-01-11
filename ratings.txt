@@ -1,0 +1,817 @@
+3018.5414032894187	1719	Number Of Ways To Reconstruct A Tree
+2863.137829466723	770	Basic Calculator IV
+2765.2533837826923	803	Bricks Falling When Hit
+2666.668150865007	1397	Find All Good Strings
+2655.217871244531	1659	Maximize Grid Happiness
+2610.0826855399646	1687	Delivering Boxes from Storage to Ports
+2594.1356734838337	964	Least Operators to Express Number
+2583.406911988277	936	Stamping The Sequence
+2575.9570281370543	1531	String Compression II
+2571.5520281228237	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+2566.591074340977	913	Cat and Mouse
+2537.7965575898997	1595	Minimum Cost to Connect Two Groups of Points
+2533.30279054353	1675	Minimize Deviation in Array
+2529.5251086936332	1632	Rank Transform of a Matrix
+2481.7175364587456	1330	Reverse Subarray To Maximize Array Value
+2476.4517642906867	1622	Fancy Sequence
+2466.88917739084	1703	Minimum Adjacent Swaps for K Consecutive Ones
+2456.390021252446	1499	Max Value of Equation
+2455.8244138024747	1040	Moving Stones Until Consecutive II
+2433.376770466566	903	Valid Permutations for DI Sequence
+2429.6705422457308	782	Transform to Chessboard
+2428.7985254777595	1044	Longest Duplicate Substring
+2422.5309771718457	1000	Minimum Cost to Merge Stones
+2418.574274808634	1203	Sort Items by Groups Respecting Dependencies
+2409.758072870318	1388	Pizza With 3n Slices
+2399.572914233431	920	Number of Music Playlists
+2396.6267778887413	808	Soup Servings
+2391.808668791782	818	Race Car
+2389.963427616749	1681	Minimum Incompatibility
+2385.807212907821	1349	Maximum Students Taking Exam
+2383.772481174674	1521	Find a Value of a Mysterious Function Closest to Target
+2381.479024887085	956	Tallest Billboard
+2378.62341129221	757	Set Intersection Size At Least Two
+2377.389580127783	854	K-Similar Strings
+2376.8658923800103	887	Super Egg Drop
+2366.7099607991986	1183	Maximum Number of Ones
+2362.648088077549	1520	Maximum Number of Non-Overlapping Substrings
+2358.9669560897164	1707	Maximum XOR With an Element From Array
+2356.5811122534797	1467	Probability of a Two Boxes Having The Same Number of Distinct Balls
+2350.969437509775	1713	Minimum Operations to Make a Subsequence
+2350.0380301265977	837	New 21 Game
+2348.515937686898	1096	Brace Expansion II
+2345.341819222085	1611	Minimum One Bit Operations to Make Integers Zero
+2341.4506356348284	810	Chalkboard XOR Game
+2336.5210003685206	1505	Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+2333.240150590427	1674	Minimum Moves to Make Array Complementary
+2333.0078041763045	1585	Check If String Is Transformable With Substring Sort Operations
+2328.4294689656235	882	Reachable Nodes In Subdivided Graph
+2315.6037018052302	1187	Make Array Strictly Increasing
+2308.6545905680396	1617	Count Subtrees With Max Distance Between Cities
+2307.016171340365	1655	Distribute Repeating Integers
+2306.8472649902105	862	Shortest Subarray with Sum at Least K
+2300.155784061644	1697	Checking Existence of Edge Length Limited Paths
+2297.105362522416	1263	Minimum Moves to Move a Box to Their Target Location
+2294.0981174469925	932	Beautiful Array
+2292.1434667077847	761	Special Binary String
+2290.9040038939565	1591	Strange Printer II
+2288.2117442204617	1569	Number of Ways to Reorder Array to Get Same BST
+2277.023807691876	749	Contain Virus
+2276.4233585912734	1498	Number of Subsequences That Satisfy the Given Sum Condition
+2275.7337819202803	1606	Find Servers That Handled Most Number of Requests
+2273.7910625874065	753	Cracking the Safe
+2273.2215764699504	1434	Number of Ways to Wear Different Hats to Each Other
+2272.112226113677	952	Largest Component Size by Common Factor
+2259.6572192269377	857	Minimum Cost to Hire K Workers
+2258.637179795187	864	Shortest Path to Get All Keys
+2250.9318291558884	1125	Smallest Sufficient Team
+2250.2578740823083	1199	Minimum Time to Build Blocks
+2250.045479158871	1307	Verbal Arithmetic Puzzle
+2246.867117471993	960	Delete Columns to Make Sorted III
+2245.851296291221	1723	Find Minimum Time to Finish All Jobs
+2241.5199974784628	1240	Tiling a Rectangle with the Fewest Squares
+2235.9672341845	850	Rectangle Area II
+2233.9639034471475	1178	Number of Valid Words for Each Puzzle
+2230.167305970099	1012	Numbers With Repeated Digits
+2221.733655780554	1542	Find Longest Awesome Substring
+2221.3538766955025	1627	Graph Connectivity With Threshold
+2210.3503184043802	992	Subarrays with K Different Integers
+2208.5532172350213	1568	Minimum Number of Days to Disconnect Island
+2207.8565810224973	1649	Create Sorted Array through Instructions
+2205.4304374032654	1157	Online Majority Element In Subarray
+2204.3524370528758	879	Profitable Schemes
+2203.1738851219416	1246	Palindrome Removal
+2201.8209584639408	1453	Maximum Number of Darts Inside of a Circular Dartboard
+2200.6623666384257	847	Shortest Path Visiting All Nodes
+2198.3290663338266	1621	Number of Sets of K Non-Overlapping Line Segments
+2197.095144598279	834	Sum of Distances in Tree
+2190.175747789908	1478	Allocate Mailboxes
+2189.3802630947903	1074	Number of Submatrices That Sum to Target
+2185.5444704997353	943	Find the Shortest Superstring
+2184.52410120517	1081	Smallest Subsequence of Distinct Characters
+2182.6180031057447	891	Sum of Subsequence Widths
+2175.6850426318124	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons
+2171.716066717636	1691	Maximum Height by Stacking Cuboids 
+2168.7531235511415	786	K-th Smallest Prime Fraction
+2164.828715729527	1036	Escape a Large Maze
+2156.9515428855084	1515	Best Position for a Service Centre
+2147.1828942303546	1610	Maximum Number of Visible Points
+2140.0220704381354	906	Super Palindromes
+2135.5738659622148	959	Regions Cut By Slashes
+2134.5448970678262	910	Smallest Range II
+2133.9592509320937	1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows
+2133.100319595542	898	Bitwise ORs of Subarrays
+2131.791716092266	1579	Remove Max Number of Edges to Keep Graph Fully Traversable
+2130.113571882248	1039	Minimum Score Triangulation of Polygon
+2129.7051443252712	798	Smallest Rotation with Highest Score
+2126.6864346689545	1444	Number of Ways of Cutting a Pizza
+2124.1329592303373	968	Binary Tree Cameras
+2124.031720799394	1654	Minimum Jumps to Reach Home
+2121.3147151865996	972	Equal Rational Numbers
+2118.7923653051257	1601	Maximum Number of Achievable Transfer Requests
+2116.493528301362	1547	Minimum Cost to Cut a Stick
+2115.091149462387	1483	Kth Ancestor of a Tree Node
+2109.9830155144446	1172	Dinner Plate Stacks
+2100.3248877241276	793	Preimage Size of Factorial Zeroes Function
+2096.6201393748634	778	Swim in Rising Water
+2096.6098086792044	899	Orderly Queue
+2092.48616930563	1049	Last Stone Weight II
+2091.382037382573	1383	Maximum Performance of a Team
+2087.2049275785685	1563	Stone Game V
+2084.9697035737336	982	Triples with Bitwise AND Equal To Zero
+2084.686691639945	1192	Critical Connections in a Network
+2084.201076941099	774	Minimize Max Distance to Gas Station
+2081.8087755469605	1494	Parallel Courses II
+2081.6909344284795	1639	Number of Ways to Form a Target String Given a Dictionary
+2079.9846866284497	1643	Kth Smallest Instructions
+2079.1911227279343	975	Odd Even Jump
+2078.8099772762507	1718	Construct the Lexicographically Largest Valid Sequence
+2078.6986769526266	1712	Ways to Split Array Into Three Subarrays
+2077.5054883561097	843	Guess the Word
+2076.8975498504005	1088	Confusing Number II
+2074.4120526942424	871	Minimum Number of Refueling Stops
+2069.403028523084	1168	Optimize Water Distribution in a Village
+2068.8066376023926	1368	Minimum Cost to Make at Least One Valid Path in a Grid
+2067.064372182358	855	Exam Room
+2066.0972576006316	801	Minimum Swaps To Make Sequences Increasing
+2059.404062340036	1131	Maximum of Absolute Value Expression
+2056.3354942714795	1473	Paint House III
+2055.0970202311873	1575	Count All Possible Routes
+2053.7468090769835	839	Similar String Groups
+2050.7159775006585	1224	Maximum Equal Frequency
+2050.2553211990744	1648	Sell Diminishing-Valued Colored Balls
+2048.097654711455	1553	Minimum Number of Days to Eat N Oranges
+2040.539289067965	1371	Find the Longest Substring Containing Vowels in Even Counts
+2039.110874698963	1201	Ugly Number III
+2038.8592725503258	1590	Make Sum Divisible by P
+2036.720602074638	1348	Tweet Counts Per Frequency
+2034.9740902893245	1140	Stone Game II
+2034.9420578568242	1335	Minimum Difficulty of a Job Schedule
+2034.6759417443536	947	Most Stones Removed with Same Row or Column
+2034.406730439514	828	Count Unique Characters of All Substrings of a Given String
+2032.4773038737476	1425	Constrained Subsequence Sum
+2029.1301558027044	1231	Divide Chocolate
+2027.8772739693522	895	Maximum Frequency Stack
+2027.7304121409543	1320	Minimum Distance to Type a Word Using Two Fingers
+2027.3839266737923	1626	Best Team With No Conflicts
+2026.8957817461342	1406	Stone Game III
+2025.1529366360046	1067	Digit Count in Range
+2025.037742976565	751	IP to CIDR
+2022.8520613745786	1235	Maximum Profit in Job Scheduling
+2022.4752963986248	1210	Minimum Moves to Reach Target with Rotations
+2019.5399647927843	909	Snakes and Ladders
+2015.7291888608597	1353	Maximum Number of Events That Can Be Attended
+2014.765549392905	1354	Construct Target Array With Multiple Sums
+2014.29793209536	1105	Filling Bookcase Shelves
+2011.3542735925876	1102	Path With Maximum Minimum Value
+2010.552475694567	880	Decoded String at Index
+2008.406507957261	1223	Dice Roll Simulation
+2000.8441804675385	1686	Stone Game VI
+2000.8021428948268	911	Online Election
+1999.1208077408373	765	Couples Holding Hands
+1997.182440420147	1274	Number of Ships in a Rectangle
+1994.3618892575614	927	Three Equal Parts
+1992.0032293302938	1625	Lexicographically Smallest String After Applying Operations
+1990.7738526235335	963	Minimum Area Rectangle II
+1990.280099445954	756	Pyramid Transition Matrix
+1989.5369509467855	902	Numbers At Most N Given Digit Set
+1985.2504512527958	928	Minimize Malware Spread II
+1985.2417521178722	940	Distinct Subsequences II
+1983.2319731358439	1250	Check If It Is a Good Array
+1982.5085995253175	805	Split Array With Same Average
+1979.1323404060677	1278	Palindrome Partitioning III
+1976.7214151797816	1092	Shortest Common Supersequence 
+1975.5726301227696	907	Sum of Subarray Minimums
+1973.7407637294382	1488	Avoid Flood in The City
+1970.460809825454	1032	Stream of Characters
+1969.984554918483	835	Image Overlap
+1967.3284577438608	1293	Shortest Path in a Grid with Obstacles Elimination
+1964.3793590948917	815	Bus Routes
+1962.3314335476607	802	Find Eventual Safe States
+1962.200526962988	1642	Furthest Building You Can Reach
+1961.4987013628706	1537	Get the Maximum Score
+1956.7059586406685	1463	Cherry Pickup II
+1954.2533254716545	1696	Jump Game VI
+1951.350926014129	1259	Handshakes That Don't Cross
+1951.2096213293262	1690	Stone Game VII
+1949.0920823882334	1153	String Transforms Into Another String
+1947.5013968185522	1631	Path With Minimum Effort
+1945.509583398234	1482	Minimum Number of Days to Make m Bouquets
+1938.688336580526	777	Swap Adjacent in LR String
+1938.2224916480482	866	Prime Palindrome
+1936.6613415186293	813	Largest Sum of Averages
+1933.9571918244474	827	Making A Large Island
+1932.3730795294978	996	Number of Squareful Arrays
+1931.7335480009206	1574	Shortest Subarray to be Removed to Make Array Sorted
+1929.9086934770457	1705	Maximum Number of Eaten Apples
+1928.2304188236594	1562	Find Latest Group of Size M
+1927.400081709493	1449	Form Largest Integer With Digits That Add up to Target
+1919.7433862136677	1552	Magnetic Force Between Two Balls
+1919.6391897276044	1416	Restore The Array
+1919.174981827382	1130	Minimum Cost Tree From Leaf Values
+1916.0689858836122	1043	Partition Array for Maximum Sum
+1913.6704728589393	1373	Maximum Sum BST in Binary Tree
+1912.8455659956671	1671	Minimum Number of Removals to Make Mountain Array
+1912.082995811943	1147	Longest Chunked Palindrome Decomposition
+1911.195951688569	873	Length of Longest Fibonacci Subsequence
+1909.4189035822637	991	Broken Calculator
+1908.386612602044	1124	Longest Well-Performing Interval
+1900.8434123243205	1665	Minimum Initial Energy to Finish Tasks
+1899.6213867212646	823	Binary Trees With Factors
+1897.3309169523418	780	Reaching Points
+1896.7975214472972	878	Nth Magical Number
+1892.1755339833908	1722	Minimize Hamming Distance After Swap Operations
+1885.10515273083	1066	Campus Bikes II
+1885.0178370485082	1326	Minimum Number of Taps to Open to Water a Garden
+1881.6810367861763	1255	Maximum Score Words Formed by Letters
+1880.7433592155576	858	Mirror Reflection
+1880.5909929797053	1536	Minimum Swaps to Arrange a Binary Grid
+1880.4226854117587	1106	Parsing A Boolean Expression
+1880.326118262019	754	Reach a Number
+1877.8983358643018	1234	Replace the Substring for Balanced String
+1877.5624604313634	752	Open the Lock
+1876.385462586768	955	Delete Columns to Make Sorted II
+1876.1460190289654	1392	Longest Happy Prefix
+1874.6468976605684	1015	Smallest Integer Divisible by K
+1873.0367582757026	1001	Grid Illumination
+1872.0350139192306	1526	Minimum Number of Increments on Subarrays to Form a Target Array
+1871.3112059631385	1589	Maximum Sum Obtained of Any Permutation
+1868.9146756078117	924	Minimize Malware Spread
+1868.1914861663245	1616	Split Two Strings to Make Palindrome
+1867.8619695128873	1605	Find Valid Matrix Given Row and Column Sums
+1867.2074907226488	1717	Maximum Score From Removing Substrings
+1866.3014601333998	1340	Jump Game V
+1864.094867662061	1163	Last Substring in Lexicographical Order
+1857.6431822148152	1584	Min Cost to Connect All Points
+1855.5957296630368	799	Champagne Tower
+1855.4479040321894	1202	Smallest String With Swaps
+1855.3770461585373	1546	Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+1854.9547783914022	1334	Find the City With the Smallest Number of Neighbors at a Threshold Distance
+1854.0126400184818	1269	Number of Ways to Stay in the Same Place After Some Steps
+1853.0880092876032	1301	Number of Paths with Max Score
+1850.8490524836816	1152	Analyze User Website Visit Pattern
+1850.5506342626177	1477	Find Two Non-overlapping Sub-arrays Each With Target Sum
+1848.0912848608568	1177	Can Make Palindrome from Substring
+1847.2077655023895	1258	Synonymous Sentences
+1846.4077077805996	1514	Path with Maximum Probability
+1846.3568350416608	874	Walking Robot Simulation
+1845.042873173952	1504	Count Submatrices With All Ones
+1844.6289440034889	1411	Number of Ways to Paint N × 3 Grid
+1837.8252905094996	1559	Detect Cycles in 2D Grid
+1836.536348098889	1316	Distinct Echo Substrings
+1835.4868366150185	995	Minimum Number of K Consecutive Bit Flips
+1832.2280384600163	755	Pour Water
+1830.3165569668636	980	Unique Paths III
+1830.1493771723472	790	Domino and Tromino Tiling
+1827.090740262065	1095	Find in Mountain Array
+1825.7704860297963	934	Shortest Bridge
+1825.4207082791254	1702	Maximum Binary String After Change
+1824.8294463846833	1298	Maximum Candies You Can Get from Boxes
+1823.8779711537063	1377	Frog Position After T Seconds
+1823.5831438214518	1458	Max Dot Product of Two Subsequences
+1822.9768690071069	1363	Largest Multiple of Three
+1820.5855764681473	1405	Longest Happy String
+1818.0024504545145	861	Score After Flipping Matrix
+1817.224026308395	1658	Minimum Operations to Reduce X to Zero
+1817.0597074204125	795	Number of Subarrays with Bounded Maximum
+1815.1286459178664	773	Sliding Puzzle
+1810.7690062606707	1284	Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1809.8192889010534	1345	Jump Game IV
+1809.5579156652093	776	Split BST
+1808.7871088646352	1519	Number of Nodes in the Sub-Tree With the Same Label
+1808.5754921194166	1230	Toss Strange Coins
+1807.4618172831833	1594	Maximum Non Negative Product in a Matrix
+1806.589170009829	1073	Adding Two Negabinary Numbers
+1805.594707140699	1035	Uncrossed Lines
+1804.5783242559992	1080	Insufficient Nodes in Root to Leaf Paths
+1802.2256875410676	1673	Find the Most Competitive Subsequence
+1799.4635459035635	1186	Maximum Subarray Sum with One Deletion
+1797.8728516027331	1711	Count Good Meals
+1797.5851607625373	1072	Flip Columns For Maximum Number of Equal Rows
+1797.4917663959786	1028	Recover a Tree From Preorder Traversal
+1795.042225101497	966	Vowel Spellchecker
+1794.5827898802236	886	Possible Bipartition
+1793.8027487834916	1653	Minimum Deletions to Make String Balanced
+1792.0767945470288	1245	Tree Diameter
+1787.634686450474	768	Max Chunks To Make Sorted II
+1787.4514432623982	1156	Swap For Longest Repeated Character Substring
+1787.2310751699843	1497	Check If Array Pairs Are Divisible by k
+1786.9268133072183	1510	Stone Game IV
+1786.6885430994444	1312	Minimum Insertion Steps to Make a String Palindrome
+1786.5491562406532	971	Flip Binary Tree To Match Preorder Traversal
+1786.4753467729315	787	Cheapest Flights Within K Stops
+1786.3121598493308	983	Minimum Cost For Tickets
+1784.2539813718759	894	All Possible Full Binary Trees
+1783.233734080568	851	Loud and Rich
+1782.3312212130986	1171	Remove Zero Sum Consecutive Nodes from Linked List
+1779.9495819490403	842	Split Array into Fibonacci Sequence
+1779.836461355444	1424	Diagonal Traverse II
+1779.753434995655	1129	Shortest Path with Alternating Colors
+1779.39312485978	1016	Binary String With Substrings Representing 1 To N
+1777.3786570760421	918	Maximum Sum Circular Subarray
+1774.8764591524377	1238	Circular Permutation in Binary Representation
+1770.892456988804	1146	Snapshot Array
+1768.6238968744874	1600	Throne Inheritance
+1765.565405949019	875	Koko Eating Bananas
+1764.9170564836822	1706	Where Will the Ball Fall
+1762.3115124297328	948	Bag of Tokens
+1762.0307533070445	1262	Greatest Sum Divisible by Three
+1759.0197295648977	1541	Minimum Insertions to Balance a Parentheses String
+1758.7525514536537	1027	Longest Arithmetic Subsequence
+1753.9062487776391	1216	Valid Palindrome III
+1753.4775754320435	764	Largest Plus Sign
+1752.9555726214312	1135	Connecting Cities With Minimum Cost
+1752.2621077951044	939	Minimum Area Rectangle
+1749.498177843634	1111	Maximum Nesting Depth of Two Valid Parentheses Strings
+1748.152377200313	1297	Maximum Number of Occurrences of a Substring
+1747.6755111129023	1191	K-Concatenation Maximum Sum
+1746.1359180160798	1024	Video Stitching
+1745.6580749130808	1530	Number of Good Leaf Nodes Pairs
+1745.649074029643	1391	Check if There is a Valid Path in a Grid
+1744.761104870122	1638	Count Substrings That Differ by One Character
+1744.0388789982535	1139	Largest 1-Bordered Square
+1741.4527995279059	1145	Binary Tree Coloring Game
+1740.5014206306078	1079	Letter Tile Possibilities
+1739.5831401227042	1593	Split a String Into the Max Number of Unique Substrings
+1734.8208370385692	1292	Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1732.7813534648158	1273	Delete Tree Nodes
+1731.5555445384234	889	Construct Binary Tree from Preorder and Postorder Traversal
+1730.3052055067383	1014	Best Sightseeing Pair
+1729.6074000769295	1220	Count Vowels Permutation
+1725.4481937852688	1011	Capacity To Ship Packages Within D Days
+1722.812970110681	1359	Count All Valid Pickup and Delivery Options
+1722.3088173777796	1197	Minimum Knight Moves
+1719.945199904032	1239	Maximum Length of a Concatenated String with Unique Characters
+1713.2768268929794	1372	Longest ZigZag Path in a Binary Tree
+1712.4010133557022	1042	Flower Planting With No Adjacent
+1710.910537862219	923	3Sum With Multiplicity
+1710.3243520250544	1567	Maximum Length of Subarray With Positive Product
+1710.1120861480013	759	Employee Free Time
+1710.0787625531666	1136	Parallel Courses
+1709.1461452073418	979	Distribute Coins in Binary Tree
+1708.9983361656778	1401	Circle and Rectangle Overlapping
+1708.8735586148687	901	Online Stock Span
+1708.812923694495	826	Most Profit Assigning Work
+1707.8992928145453	816	Ambiguous Coordinates
+1702.80359237222	957	Prison Cells After N Days
+1701.573537196964	1054	Distant Barcodes
+1697.8500495897606	1017	Convert to Base -2
+1697.2356875194237	1289	Minimum Falling Path Sum II
+1697.0187705592252	825	Friends Of Appropriate Ages
+1696.9920075498521	1487	Making File Names Unique
+1695.307666552253	792	Number of Matching Subsequences
+1694.433951517567	829	Consecutive Numbers Sum
+1692.5884631928056	1462	Course Schedule IV
+1690.9043557825498	919	Complete Binary Tree Inserter
+1690.165523730684	935	Knight Dialer
+1689.75691444939	1419	Minimum Number of Frogs Croaking
+1686.4493679604493	950	Reveal Cards In Increasing Order
+1682.8882177942432	1443	Minimum Time to Collect All Apples in a Tree
+1681.3263732474297	767	Reorganize String
+1680.4852624190971	1031	Maximum Sum of Two Non-Overlapping Subarrays
+1679.2607152019627	1402	Reducing Dishes
+1678.3947690855712	885	Spiral Matrix III
+1678.1133886543103	853	Car Fleet
+1675.9894076385535	974	Subarray Sums Divisible by K
+1675.9610356530175	987	Vertical Order Traversal of a Binary Tree
+1674.9985843198374	1339	Maximum Product of Splitted Binary Tree
+1674.53652061522	1215	Stepping Numbers
+1672.1678031608462	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+1666.3469910272397	1162	As Far from Land as Possible
+1665.2490724809468	1620	Coordinate With Maximum Network Quality
+1664.7703750059009	1121	Divide Array Into Increasing Sequences
+1663.261231908109	1219	Path with Maximum Gold
+1663.1853149156086	863	All Nodes Distance K in Binary Tree
+1658.7495899875648	1254	Number of Closed Islands
+1658.6836279020645	1169	Invalid Transactions
+1658.3474650979042	1091	Shortest Path in Binary Matrix
+1658.3305548410863	1583	Count Unhappy Friends
+1657.1231739362702	1249	Minimum Remove to Make Valid Parentheses
+1655.6433886289597	1004	Max Consecutive Ones III
+1654.07936606789	1257	Smallest Common Region
+1653.7337081390433	1155	Number of Dice Rolls With Target Sum
+1653.035662660841	1509	Minimum Difference Between Largest and Smallest Value in Three Moves
+1652.5809810846113	1311	Get Watched Videos by Your Friends
+1651.5845871763304	750	Number Of Corner Rectangles
+1649.9728055205196	1367	Linked List in Binary Tree
+1648.341757885646	870	Advantage Shuffle
+1646.1943237227388	1358	Number of Substrings Containing All Three Characters
+1638.128125690855	838	Push Dominoes
+1638.014892116189	990	Satisfiability of Equality Equations
+1637.0082208886743	1558	Minimum Numbers of Function Calls to Make Target Array
+1636.6877598920837	1386	Cinema Seat Allocation
+1633.6202303064056	1466	Reorder Routes to Make All Paths Lead to the City Zero
+1633.1789522082545	1053	Previous Permutation With One Swap
+1633.1372577697039	1319	Number of Operations to Make Network Connected
+1632.0191837730817	820	Short Encoding of Words
+1631.3381457002833	1540	Can Convert String in K Moves
+1629.5416833017953	1680	Concatenation of Consecutive Binary Numbers
+1628.5072579048574	1332	Remove Palindromic Subsequences
+1626.6740430146456	1182	Shortest Distance to Target Color
+1626.3266982277855	1366	Rank Teams by Votes
+1624.9775945325382	785	Is Graph Bipartite?
+1624.47376124328	916	Word Subsets
+1623.9443250815384	1248	Count Number of Nice Subarrays
+1618.6016480787657	1503	Last Moment Before All Ants Fall Out of a Plank
+1615.4767730622552	1020	Number of Enclaves
+1613.04297670722	1277	Count Square Submatrices with All Ones
+1611.7621820885688	789	Escape The Ghosts
+1610.5693982099183	1524	Number of Sub-arrays With Odd Sum
+1610.186639125459	1670	Design Front Middle Back Queue
+1607.8060859581456	962	Maximum Width Ramp
+1607.000571617391	1123	Lowest Common Ancestor of Deepest Leaves
+1606.9895296823233	1300	Sum of Mutated Array Closest to Target
+1606.2185826594941	1604	Alert Using Same Key-Card Three or More Times in a One Hour Period
+1604.9737380817533	809	Expressive Words
+1601.5117605566047	926	Flip String to Monotone Increasing
+1599.2720585200004	1048	Longest String Chain
+1597.1931474050507	1218	Longest Arithmetic Subsequence of Given Difference
+1597.0215919078328	1247	Minimum Swaps to Make Strings Equal
+1594.2563236458227	822	Card Flipping Game
+1593.8926580711268	1577	Number of Ways Where Square of Number Is Equal to Product of Two Numbers
+1591.549253091216	930	Binary Subarrays With Sum
+1591.4725328912027	1286	Iterator for Combination
+1590.57910554111	969	Pancake Sorting
+1590.5477136839181	1573	Number of Ways to Split a String
+1590.2690308867022	1664	Ways to Make a Fair Array
+1590.0883962749504	893	Groups of Special-Equivalent Strings
+1590.0463216239586	877	Stone Game
+1585.5793144437484	1029	Two City Scheduling
+1578.8503818912432	1034	Coloring A Border
+1575.6324598914944	1415	The k-th Lexicographical String of All Happy Strings of Length n
+1574.7542247991078	981	Time Based Key-Value Store
+1574.039212136995	1578	Minimum Deletion Cost to Avoid Repeating Letters
+1573.8248080015182	1423	Maximum Points You Can Obtain from Cards
+1573.4042964177206	1268	Search Suggestions System
+1573.270179098472	931	Minimum Falling Path Sum
+1571.1721048573963	779	K-th Symbol in Grammar
+1570.8347522304393	1019	Next Greater Node In Linked List
+1569.7528744931333	1109	Corporate Flight Bookings
+1566.2526717060246	769	Max Chunks To Make Sorted
+1565.2483425219543	846	Hand of Straights
+1563.9451046590693	800	Similar RGB Color
+1562.9802666953765	1008	Construct Binary Search Tree from Preorder Traversal
+1562.91860336205	1452	People Whose List of Favorite Companies Is Not a Subset of Another List
+1562.7212466788478	856	Score of Parentheses
+1561.265563534107	1256	Encode Number
+1561.0553909209557	1376	Time Needed to Inform All Employees
+1558.7188539793715	1144	Decrease Elements To Make Array Zigzag
+1558.6880035698414	1181	Before and After Puzzle
+1558.4971807547845	1101	The Earliest Moment When Everyone Become Friends
+1558.1421869574115	1244	Design A Leaderboard
+1548.4678056673147	1329	Sort the Matrix Diagonally
+1548.0854419292882	1599	Maximum Profit of Operating a Centennial Wheel
+1547.5714796921238	954	Array of Doubled Pairs
+1547.038527962286	758	Bold Words in String
+1544.839162612334	1104	Path In Zigzag Labelled Binary Tree
+1544.8261365527287	1233	Remove Sub-Folders from the Filesystem
+1544.637152692303	794	Valid Tic-Tac-Toe State
+1542.563036782667	812	Largest Triangle Area
+1541.7840320733376	1283	Find the Smallest Divisor Given a Threshold
+1541.6944601456635	986	Interval List Intersections
+1541.5405750391074	1209	Remove All Adjacent Duplicates in String II
+1541.3484385353513	1007	Minimum Domino Rotations For Equal Row
+1541.2260256707668	1229	Meeting Scheduler
+1540.5750839272514	1382	Balance a Binary Search Tree
+1537.138768704608	1023	Camelcase Matching
+1534.3250051955692	865	Smallest Subtree with all the Deepest Nodes
+1533.9285875670612	1362	Closest Divisors
+1532.2539947810583	900	RLE Iterator
+1530.4954398307018	1400	Construct K Palindrome Strings
+1530.4652028135024	1657	Determine if Two Strings Are Close
+1529.7617244068533	881	Boats to Save People
+1528.7183829350397	1695	Maximum Erasure Value
+1524.821828235872	1272	Remove Interval
+1524.569348199293	1442	Count Triplets That Can Form Two Arrays of Equal XOR
+1524.3227469036356	1640	Check Array Formation Through Concatenation
+1521.9977490487508	1615	Maximal Network Rank
+1521.1768537992612	1041	Robot Bounded In Circle
+1519.1715594846755	1641	Count Sorted Vowel Strings
+1516.8229485861957	775	Global and Local Inversions
+1516.410490265116	904	Fruit Into Baskets
+1512.3323577572592	1557	Minimum Number of Vertices to Reach All Nodes
+1511.3725353730842	1110	Delete Nodes And Return Forest
+1509.5432132366113	1647	Minimum Deletions to Make Character Frequencies Unique
+1508.1169489421882	1151	Minimum Swaps to Group All 1's Together
+1508.0997658660635	1496	Path Crossing
+1507.8701119637117	892	Surface Area of 3D Shapes
+1506.8958220654167	1387	Sort Integers by The Power Value
+1505.866908293683	1253	Reconstruct a 2-Row Binary Matrix
+1504.8237159498967	869	Reordered Power of 2
+1504.0178889175877	1461	Check If a String Contains All Binary Codes of Size K
+1501.115261518862	1090	Largest Values From Labels
+1500.8381829829887	915	Partition Array into Disjoint Intervals
+1499.7136257588863	1525	Number of Good Ways to Split a String
+1497.888099111151	998	Maximum Binary Tree II
+1496.912864386104	1208	Get Equal Substrings Within Budget
+1495.7157408352941	1685	Sum of Absolute Differences in a Sorted Array
+1495.3186478232965	949	Largest Time for Given Digits
+1490.237038815394	1296	Divide Array in Sets of K Consecutive Numbers
+1489.0102202189155	1175	Prime Arrangements
+1486.7649334482849	1637	Widest Vertical Area Between Two Points Containing No Points
+1486.4687014487572	1566	Detect Pattern of Length M Repeated K or More Times
+1485.6550472322851	1190	Reverse Substrings Between Each Pair of Parentheses
+1485.1354013080709	1418	Display Table of Food Orders in a Restaurant
+1483.8137190090492	1314	Matrix Block Sum
+1481.5701320185326	1167	Minimum Cost to Connect Sticks
+1480.111624870915	1087	Brace Expansion
+1479.4837596127763	1545	Find Kth Bit in Nth Binary String
+1479.011093499139	1166	Design File System
+1478.3848028746434	1390	Four Divisors
+1477.4844514322467	951	Flip Equivalent Binary Trees
+1474.0150725701824	984	String Without AAA or BBB
+1473.8649930804968	1328	Break a Palindrome
+1473.7057465827093	1352	Product of the Last K Numbers
+1473.2523136772215	897	Increasing Order Search Tree
+1471.6221714043058	1093	Statistics from a Large Sample
+1465.702355839312	1414	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+1464.689503540285	1361	Validate Binary Tree Nodes
+1464.5254961797036	1396	Design Underground System
+1462.4423844506964	1022	Sum of Root To Leaf Binary Numbers
+1461.915771535132	946	Validate Stack Sequences
+1460.961093660444	833	Find And Replace in String
+1460.5903088813648	1663	Smallest String With A Given Numeric Value
+1459.820895222947	1310	XOR Queries of a Subarray
+1453.7818053504452	1472	Design Browser History
+1453.183376986999	781	Rabbits in Forest
+1450.5787293892354	831	Masking Personal Information
+1448.1207964126952	945	Minimum Increment to Make Array Unique
+1446.4280778774992	1026	Maximum Difference Between Node and Ancestor
+1444.609884696547	1465	Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+1444.206800952088	942	DI String Match
+1443.2353622396477	1560	Most Visited Sector in  a Circular Track
+1443.069762957748	763	Partition Labels
+1442.9468305315822	836	Rectangle Overlap
+1441.4290319546126	1094	Car Pooling
+1439.565607928671	1261	Find Elements in a Contaminated Binary Tree
+1438.8988490100019	1375	Bulb Switcher III
+1438.2231359486468	1609	Even Odd Tree
+1436.5343999234028	845	Longest Mountain in Array
+1436.3892316468991	1701	Average Waiting Time
+1436.1125054419972	1433	Check If a String Can Break Another String
+1435.3564964258112	1025	Divisor Game
+1433.0795555142686	1535	Find the Winner of an Array Game
+1432.9593207221478	967	Numbers With Same Consecutive Differences
+1432.9051051172428	994	Rotting Oranges
+1431.68649810832	1170	Compare Strings by Frequency of the Smallest Character
+1430.3429534193128	1636	Sort Array by Increasing Frequency
+1429.6349292853847	1357	Apply Discount Every n Orders
+1429.1878389776684	988	Smallest String Starting From Leaf
+1428.712905908469	817	Linked List Components
+1428.1443796935491	1669	Merge In Between Linked Lists
+1426.9483793177642	1315	Sum of Nodes with Even-Valued Grandparent
+1426.7384112463333	1432	Max Difference You Can Get From Changing an Integer
+1426.7144554760307	1003	Check If Word Is Valid After Substitutions
+1425.9672522894107	840	Magic Squares In Grid
+1425.3981616930105	883	Projection Area of 3D Shapes
+1423.550154431723	791	Custom Sort String
+1423.1058650184423	1333	Filter Restaurants by Vegan-Friendly
+1423.0355763575062	1493	Longest Subarray of 1's After Deleting One Element
+1421.9944677315652	1630	Arithmetic Subarrays
+1421.6541140340269	1360	Number of Days Between Two Dates
+1421.26240656944	1033	Moving Stones Until Consecutive
+1418.8205350073986	1656	Design an Ordered Stream
+1418.1401950190775	1052	Grumpy Bookstore Owner
+1416.896101029124	1652	Defuse the Bomb
+1414.4918812671676	890	Find and Replace Pattern
+1412.2790156980045	841	Keys and Rooms
+1410.5239927303046	1138	Alphabet Board Path
+1408.7923641200177	1588	Sum of All Odd Length Subarrays
+1407.9870845307596	1006	Clumsy Factorial
+1407.5442381436005	1217	Minimum Cost to Move Chips to The Same Position
+1407.1322366362438	1325	Delete Leaves With a Given Value
+1405.5786893004552	1561	Maximum Number of Coins You Can Get
+1405.4005354410037	1410	HTML Entity Parser
+1405.0021415459923	1457	Pseudo-Palindromic Paths in a Binary Tree
+1404.7016862314194	1237	Find Positive Integer Solution for a Given Equation
+1404.1839222190902	1700	Number of Students Unable to Eat Lunch
+1402.0863616024144	1508	Range Sum of Sorted Subarray Sums
+1401.2246983475052	1198	Find Smallest Common Element in All Rows
+1397.887511528097	1071	Greatest Common Divisor of Strings
+1397.7743199211545	1176	Diet Plan Performance
+1396.8422031030059	788	Rotated Digits
+1396.5990610304289	1404	Number of Steps to Reduce a Number in Binary Representation to One
+1396.544807474129	1306	Jump Game III
+1396.485353820026	944	Delete Columns to Make Sorted
+1395.513247931376	1668	Maximum Repeating Substring
+1393.4123492217623	978	Longest Turbulent Subarray
+1392.660162935499	1529	Bulb Switcher IV
+1392.0853312010877	958	Check Completeness of a Binary Tree
+1391.7243180330843	1222	Queens That Can Attack the King
+1389.3311694846489	1065	Index Pairs of a String
+1389.0328392153606	1214	Two Sum BSTs
+1387.9431104287505	1302	Deepest Leaves Sum
+1387.3672639601864	937	Reorder Data in Log Files
+1386.3256314070895	1276	Number of Burgers with No Waste of Ingredients
+1386.3167819217779	1721	Swapping Nodes in a Linked List
+1384.407808247488	1271	Hexspeak
+1383.4424411761574	762	Prime Number of Set Bits in Binary Representation
+1382.7606078702956	1318	Minimum Flips to Make a OR b Equal to c
+1382.71786889527	849	Maximize Distance to Closest Person
+1382.512915180996	797	All Paths From Source to Target
+1382.4809893849306	1185	Day of the Week
+1380.1541980938055	814	Binary Tree Pruning
+1378.7570411222987	1013	Partition Array Into Three Parts With Equal Sum
+1377.6120218681172	811	Subdomain Visit Count
+1377.1913915406913	1010	Pairs of Songs With Total Durations Divisible by 60
+1376.454962475691	1018	Binary Prefix Divisible By 5
+1376.2600892223418	807	Max Increase to Keep City Skyline
+1375.0234415056184	1288	Remove Covered Intervals
+1374.6755456086248	1038	Binary Search Tree to Greater Sum Tree
+1374.5749003137462	1267	Count Servers that Communicate
+1374.354900792241	1619	Mean of Array After Removing Some Elements
+1373.8113453728147	1291	Sequential Digits
+1372.7398808696307	748	Shortest Completing Word
+1370.614490879234	914	X of a Kind in a Deck of Cards
+1369.6144401910715	1608	Special Array With X Elements Greater Than or Equal X
+1369.005335494876	1370	Increasing Decreasing String
+1368.004351737909	1576	Replace All ?'s to Avoid Consecutive Repeating Characters
+1362.6613797387108	1592	Rearrange Spaces Between Words
+1361.8801013799384	1120	Maximum Average Subtree
+1360.218412883114	1448	Count Good Nodes in Binary Tree
+1358.3561730920337	746	Min Cost Climbing Stairs
+1355.9817185159773	1331	Rank Transform of an Array
+1355.3825442795642	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers
+1354.1247827233747	1243	Array Transformation
+1352.725005010143	848	Shifting Letters
+1351.4184681116603	1513	Number of Substrings With Only 1s
+1348.6701914807782	1100	Find K-Length Substrings With No Repeated Characters
+1348.0079390574247	1030	Matrix Cells in Distance Order
+1345.7371686236002	1679	Max Number of K-Sum Pairs
+1344.2261332529597	1544	Make The String Great
+1343.6289131059311	1395	Count Number of Teams
+1341.5076441597193	784	Letter Case Permutation
+1341.265982016921	859	Buddy Strings
+1341.047664231155	1399	Count Largest Group
+1340.5559417442419	976	Largest Perimeter Triangle
+1338.8322315877303	970	Powerful Integers
+1337.8472367767245	933	Number of Recent Calls
+1337.3722300166264	1260	Shift 2D Grid
+1336.9494482758455	1275	Find Winner on a Tic Tac Toe Game
+1335.0295688724145	938	Range Sum of BST
+1334.5718985656276	1409	Queries on a Permutation With Key
+1334.0564009267837	888	Fair Candy Swap
+1332.6225968194194	1128	Number of Equivalent Domino Pairs
+1332.4653491727076	1471	The k Strongest Values in an Array
+1330.9185778489336	1347	Minimum Number of Steps to Make Two Strings Anagram
+1328.72810336994	1324	Print Words Vertically
+1327.028299041558	1086	High Five
+1326.4047670527361	1476	Subrectangle Queries
+1324.569622403942	1344	Angle Between Hands of a Clock
+1324.1757200448774	1603	Design Parking System
+1322.8302750503644	1614	Maximum Nesting Depth of the Parentheses
+1321.9346201512963	1694	Reformat Phone Number
+1321.274890389759	1582	Special Positions in a Binary Matrix
+1317.952110490296	999	Available Captures for Rook
+1317.4638832570054	1313	Decompress Run-Length Encoded List
+1317.1729927998967	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+1315.4085759888403	1180	Count Substrings with Only One Distinct Letter
+1315.3715334483422	1629	Slowest Key
+1311.349531810265	1021	Remove Outermost Parentheses
+1309.8100518691353	1710	Maximum Units on a Truck
+1309.3113722279668	1451	Rearrange Words in a Sentence
+1307.9800903215073	1064	Fixed Point
+1307.5663523632102	804	Unique Morse Code Words
+1307.2991245426238	868	Binary Gap
+1303.3201984944753	783	Minimum Distance Between BST Nodes
+1303.022570500616	1338	Reduce Array Size to The Half
+1303.017979604192	1051	Height Checker
+1302.7005460462533	1266	Minimum Time Visiting All Points
+1301.411775755696	806	Number of Lines To Write String
+1301.4027058379725	1646	Get Maximum in Generated Array
+1299.6035133255646	953	Verifying an Alien Dictionary
+1298.5921473591588	908	Smallest Range I
+1297.5338328978978	819	Most Common Word
+1297.3006230895407	1598	Crawler Log Folder
+1295.4970938735642	1539	Kth Missing Positive Number
+1294.4135688012466	1716	Calculate Money in Leetcode Bank
+1293.4904281864874	1551	Minimum Operations to Make Array Equal
+1288.5621698223986	1684	Count the Number of Consistent Strings
+1288.1970048183575	1403	Minimum Subsequence in Non-Increasing Order
+1287.9002757254057	993	Cousins in Binary Tree
+1287.8970301826485	872	Leaf-Similar Trees
+1287.105391791556	1103	Distribute Candies to People
+1286.316793761216	1047	Remove All Adjacent Duplicates In String
+1285.9726675669663	1381	Design a Stack With Increment Operation
+1285.7282180921175	860	Lemonade Change
+1284.362573409453	1481	Least Number of Unique Integers after K Removals
+1283.5102145327255	1507	Reformat Date
+1283.4980318439193	1252	Cells with Odd Values in a Matrix
+1281.9771428476088	1624	Largest Substring Between Two Equal Characters
+1280.4782529710792	1720	Decode XORed Array
+1280.29416478239	1572	Matrix Diagonal Sum
+1279.766971245408	1002	Find Common Characters
+1279.3383966200054	1534	Count Good Triplets
+1277.8260125778615	1317	Convert Integer to the Sum of Two No-Zero Integers
+1274.759617052041	1078	Occurrences After Bigram
+1274.6742565068416	1005	Maximize Sum Of Array After K Negations
+1271.7055549728684	824	Goat Latin
+1271.3776510208845	1556	Thousand Separator
+1271.3313761050813	925	Long Pressed Name
+1268.5768567025661	1447	Simplified Fractions
+1267.2235913923942	1282	Group the People Given the Group Size They Belong To
+1266.3368046632968	821	Shortest Distance to a Character
+1263.272866839543	1456	Maximum Number of Vowels in a Substring of Given Length
+1262.5890312483534	1089	Duplicate Zeros
+1260.1755576906726	1305	All Elements in Two Binary Search Trees
+1259.409726189915	884	Uncommon Words from Two Sentences
+1259.1979660792276	1213	Intersection of Three Sorted Arrays
+1258.8401788962074	867	Transpose Matrix
+1258.6719675455242	896	Monotonic Array
+1257.7082143398002	1356	Sort Integers by The Number of 1 Bits
+1257.6796332141384	1309	Decrypt String from Alphabet to Integer Mapping
+1256.4891142537817	1085	Sum of Digits in the Minimum Number
+1255.9002796187997	1037	Valid Boomerang
+1251.8223787192255	830	Positions of Large Groups
+1249.9947801115923	1150	Check If a Number Is Majority Element in a Sorted Array
+1249.908640398644	1161	Maximum Level Sum of a Binary Tree
+1249.429434130434	766	Toeplitz Matrix
+1248.8026990904473	1196	How Many Apples Can You Put into the Basket
+1247.3198836669326	1232	Check If It Is a Straight Line
+1245.2999834204093	1518	Water Bottles
+1245.2741257147864	1099	Two Sum Less Than K
+1244.3173679057509	1228	Missing Number In Arithmetic Progression
+1243.100994382985	832	Flipping an Image
+1242.4710736377165	921	Minimum Add to Make Parentheses Valid
+1241.9262857292779	1417	Reformat The String
+1237.7565586357377	1422	Maximum Score After Splitting a String
+1234.8049089778215	1385	Find the Distance Value Between Two Arrays
+1234.7692637704313	989	Add to Array-Form of Integer
+1234.7084656357765	1009	Complement of Base 10 Integer
+1234.4144117087126	1184	Distance Between Bus Stops
+1232.831442845054	1119	Remove Vowels from a String
+1231.9992413395084	1492	The kth Factor of n
+1231.6157956956886	876	Middle of the Linked List
+1231.4004526124336	1134	Armstrong Number
+1228.630993689876	917	Reverse Only Letters
+1227.7906887466088	844	Backspace String Compare
+1227.3485530749895	1118	Number of Days in a Month
+1226.2960135703906	1133	Largest Unique Number
+1225.3601349075325	1346	Check If N and Its Double Exist
+1224.7606792952865	1337	The K Weakest Rows in a Matrix
+1223.3861904242076	1408	String Matching in an Array
+1221.9872943824157	1678	Goal Parser Interpretation
+1221.6801628819667	1550	Three Consecutive Odds
+1219.528456160333	1221	Split a String in Balanced Strings
+1219.4252907647751	1299	Replace Elements with Greatest Element on Right Side
+1217.118437460158	1662	Check If Two String Arrays are Equivalent
+1213.807362189982	973	K Closest Points to Origin
+1212.2606422635727	1475	Final Prices With a Special Discount in a Shop
+1212.2309421538375	1413	Minimum Value to Get Positive Step by Step Sum
+1209.3722198624164	1523	Count Odd Numbers in an Interval Range
+1208.0417047836818	1389	Create Target Array in the Given Order
+1208.0130657413974	941	Valid Mountain Array
+1207.781091448851	1380	Lucky Numbers in a Matrix
+1207.722440653015	1704	Determine if String Halves Are Alike
+1205.6698455708101	1160	Find Words That Can Be Formed by Characters
+1203.1408036127687	1688	Count of Matches in Tournament
+1201.611733820755	997	Find the Town Judge
+1201.349776412826	1491	Average Salary Excluding the Minimum and Maximum Salary
+1199.4427635800093	1154	Day of the Year
+1199.2892732960172	929	Unique Email Addresses
+1199.239267327357	1165	Single-Row Keyboard
+1198.5705826082267	1200	Minimum Absolute Difference
+1198.4180401195772	985	Sum of Even Numbers After Queries
+1195.7512695807964	1207	Unique Number of Occurrences
+1193.9819783437997	1323	Maximum 69 Number
+1193.2687290827744	1437	Check If All 1's Are at Least Length K Places Away
+1193.1328299688175	1528	Shuffle String
+1192.316796979867	1436	Destination City
+1188.647037022747	747	Largest Number At Least Twice of Others
+1188.631109369453	1122	Relative Sort Array
+1182.6489068916999	1672	Richest Customer Wealth
+1181.9716216996312	1189	Maximum Number of Balloons
+1181.5839867922477	852	Peak Index in a Mountain Array
+1180.9236239059828	1486	XOR Operation in an Array
+1180.3543157875538	1441	Build an Array With Stack Operations
+1179.149596777279	1287	Element Appearing More Than 25% In Sorted Array
+1178.4942541271448	905	Sort Array By Parity
+1177.566061844118	965	Univalued Binary Tree
+1176.4547273050994	1431	Kids With the Greatest Number of Candies
+1173.5059265047312	922	Sort Array By Parity II
+1172.6819789619185	1046	Last Stone Weight
+1172.510664560832	760	Find Anagram Mappings
+1167.1331832185388	1304	Find N Unique Integers Sum up to Zero
+1167.0749837649055	796	Rotate String
+1165.4768151929602	1446	Consecutive Characters
+1164.8182315402664	771	Jewels and Stones
+1164.0227691968903	1374	Generate a String With Characters That Have Odd Counts
+1163.604709552601	1342	Number of Steps to Reduce a Number to Zero
+1161.6227767663077	961	N-Repeated Element in Size 2N Array
+1160.8899403945543	1512	Number of Good Pairs
+1154.8280679853633	1502	Can Make Arithmetic Progression From Sequence
+1152.1377894096076	1365	How Many Numbers Are Smaller Than the Current Number
+1151.525032997597	1460	Make Two Arrays Equal by Reversing Sub-arrays
+1151.3534799451008	1290	Convert Binary Number in a Linked List to Integer
+1142.8650731686503	1137	N-th Tribonacci Number
+1141.2363999988884	1281	Subtract the Product and Sum of Digits of an Integer
+1139.6630206727423	1295	Find Numbers with Even Number of Digits
+1139.424849243369	1351	Count Negative Numbers in a Sorted Matrix
+1129.9490902456455	977	Squares of a Sorted Array
+1129.343298904132	1450	Number of Students Doing Homework at a Given Time
+1125.575238314923	1455	Check If a Word Occurs As a Prefix of Any Word in a Sentence
+1121.0677596973255	1464	Maximum Product of Two Elements in an Array
+1120.6981836585328	1470	Shuffle the Array
+1118.1080334936269	1394	Find Lucky Integer in an Array
+1104.7359028598294	1480	Running Sum of 1d Array
+1084.1319467872381	1108	Defanging an IP Address
