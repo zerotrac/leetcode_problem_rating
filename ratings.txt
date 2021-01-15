@@ -1,5 +1,5 @@
 Rating			ID		Title
-3018.5414032821		1719		Number Of Ways To Reconstruct A Tree
+3018.4940165727		1719		Number Of Ways To Reconstruct A Tree
 2863.1378294349		770		Basic Calculator IV
 2765.2533837781		803		Bricks Falling When Hit
 2666.6681508450		1397		Find All Good Strings
@@ -57,6 +57,7 @@ Rating			ID		Title
 2292.1434666805		761		Special Binary String
 2290.9040038639		1591		Strange Printer II
 2288.2117442123		1569		Number of Ways to Reorder Array to Get Same BST
+2284.4463940346		1723		Find Minimum Time to Finish All Jobs
 2277.0238076464		749		Contain Virus
 2276.4233585631		1498		Number of Subsequences That Satisfy the Given Sum Condition
 2275.7337818748		1606		Find Servers That Handled Most Number of Requests
@@ -69,7 +70,6 @@ Rating			ID		Title
 2250.2578740769		1199		Minimum Time to Build Blocks
 2250.0454791316		1307		Verbal Arithmetic Puzzle
 2246.8671174565		960		Delete Columns to Make Sorted III
-2245.8512962903		1723		Find Minimum Time to Finish All Jobs
 2241.5199974312		1240		Tiling a Rectangle with the Fewest Squares
 2235.9672341699		850		Rectangle Area II
 2233.9639034080		1178		Number of Valid Words for Each Puzzle
@@ -124,9 +124,9 @@ Rating			ID		Title
 2084.2010769193		774		Minimize Max Distance to Gas Station
 2081.8087755451		1494		Parallel Courses II
 2081.6909344021		1639		Number of Ways to Form a Target String Given a Dictionary
+2080.0425875741		1718		Construct the Lexicographically Largest Valid Sequence
 2079.9846866239		1643		Kth Smallest Instructions
 2079.1911227043		975		Odd Even Jump
-2078.8099772471		1718		Construct the Lexicographically Largest Valid Sequence
 2078.6986769435		1712		Ways to Split Array Into Three Subarrays
 2077.5054883516		843		Guess the Word
 2076.8975497986		1088		Confusing Number II
@@ -221,7 +221,7 @@ Rating			ID		Title
 1899.6213866649		823		Binary Trees With Factors
 1897.3309169423		780		Reaching Points
 1896.7975214446		878		Nth Magical Number
-1892.1755339688		1722		Minimize Hamming Distance After Swap Operations
+1892.1600619469		1722		Minimize Hamming Distance After Swap Operations
 1885.1051527272		1066		Campus Bikes II
 1885.0178370385		1326		Minimum Number of Taps to Open to Water a Garden
 1881.6810367589		1255		Maximum Score Words Formed by Letters
@@ -239,8 +239,8 @@ Rating			ID		Title
 1871.3112059413		1589		Maximum Sum Obtained of Any Permutation
 1868.9146755896		924		Minimize Malware Spread
 1868.1914861381		1616		Split Two Strings to Make Palindrome
+1867.9916069568		1717		Maximum Score From Removing Substrings
 1867.8619694847		1605		Find Valid Matrix Given Row and Column Sums
-1867.2074907090		1717		Maximum Score From Removing Substrings
 1866.3014601125		1340		Jump Game V
 1864.0948676111		1163		Last Substring in Lexicographical Order
 1857.6431822094		1584		Min Cost to Connect All Points
@@ -603,8 +603,8 @@ Rating			ID		Title
 1389.0328392117		1214		Two Sum BSTs
 1387.9431104106		1302		Deepest Leaves Sum
 1387.3672639293		937		Reorder Data in Log Files
+1386.9203620297		1721		Swapping Nodes in a Linked List
 1386.3256313989		1276		Number of Burgers with No Waste of Ingredients
-1386.3167818681		1721		Swapping Nodes in a Linked List
 1384.4078082338		1271		Hexspeak
 1383.4424411643		762		Prime Number of Set Bits in Binary Representation
 1382.7606078230		1318		Minimum Flips to Make a OR b Equal to c
@@ -685,7 +685,7 @@ Rating			ID		Title
 1297.5338328524		819		Most Common Word
 1297.3006230632		1598		Crawler Log Folder
 1295.4970938463		1539		Kth Missing Positive Number
-1294.4135687785		1716		Calculate Money in Leetcode Bank
+1294.5297034757		1716		Calculate Money in Leetcode Bank
 1293.4904281819		1551		Minimum Operations to Make Array Equal
 1288.5621697906		1684		Count the Number of Consistent Strings
 1288.1970048184		1403		Minimum Subsequence in Non-Increasing Order
@@ -695,11 +695,11 @@ Rating			ID		Title
 1286.3167937403		1047		Remove All Adjacent Duplicates In String
 1285.9726675488		1381		Design a Stack With Increment Operation
 1285.7282180721		860		Lemonade Change
+1284.4514662456		1720		Decode XORed Array
 1284.3625733813		1481		Least Number of Unique Integers after K Removals
 1283.5102144800		1507		Reformat Date
 1283.4980318021		1252		Cells with Odd Values in a Matrix
 1281.9771427903		1624		Largest Substring Between Two Equal Characters
-1280.4782529574		1720		Decode XORed Array
 1280.2941647587		1572		Matrix Diagonal Sum
 1279.7669712099		1002		Find Common Characters
 1279.3383966145		1534		Count Good Triplets
