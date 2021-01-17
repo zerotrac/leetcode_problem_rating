@@ -4,7 +4,6 @@ new gridjs.Grid({
         width: "7%",
     }, {
         name: "Title",
-        // width: "60%",
         formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/problems/${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
         sort: {
             enabled: false
@@ -24,7 +23,7 @@ new gridjs.Grid({
     sort: true,
     autoWidth: false,
     search: {
-        selector: (cell, rowIndex, cellIndex) => cellIndex === 2 ? "" : cell
+        selector: (cell, rowIndex, cellIndex) => cellIndex === 3 ? "" : cell
     },
     pagination: {
         limit: 20
