@@ -14,6 +14,7 @@ Rating	ID	Title	Title Slug
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
+2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	minimum-adjacent-swaps-for-k-consecutive-ones
@@ -159,6 +160,7 @@ Rating	ID	Title	Title Slug
 2026.8957817007	1406	Stone Game III	stone-game-iii
 2025.1529365814	1067	Digit Count in Range	digit-count-in-range
 2025.0377429311	751	IP to CIDR	ip-to-cidr
+2024.3797833173	1734	Decode XORed Permutation	decode-xored-permutation
 2022.8520613737	1235	Maximum Profit in Job Scheduling	maximum-profit-in-job-scheduling
 2022.4752963768	1210	Minimum Moves to Reach Target with Rotations	minimum-moves-to-reach-target-with-rotations
 2019.5399647546	909	Snakes and Ladders	snakes-and-ladders
@@ -179,6 +181,7 @@ Rating	ID	Title	Title Slug
 1989.5369509422	902	Numbers At Most N Given Digit Set	numbers-at-most-n-given-digit-set
 1985.2504512337	928	Minimize Malware Spread II	minimize-malware-spread-ii
 1985.2417520906	940	Distinct Subsequences II	distinct-subsequences-ii
+1983.7044070600	1733	Minimum Number of People to Teach	minimum-number-of-people-to-teach
 1983.2319731313	1250	Check If It Is a Good Array	check-if-it-is-a-good-array
 1982.5085994817	805	Split Array With Same Average	split-array-with-same-average
 1979.1323403633	1278	Palindrome Partitioning III	palindrome-partitioning-iii
@@ -724,6 +727,7 @@ Rating	ID	Title	Title Slug
 1258.6719675401	896	Monotonic Array	monotonic-array
 1257.7082143289	1356	Sort Integers by The Number of 1 Bits	sort-integers-by-the-number-of-1-bits
 1257.6796331650	1309	Decrypt String from Alphabet to Integer Mapping	decrypt-string-from-alphabet-to-integer-mapping
+1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number
 1255.9002796024	1037	Valid Boomerang	valid-boomerang
 1251.8223786910	830	Positions of Large Groups	positions-of-large-groups
