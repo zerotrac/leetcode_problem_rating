@@ -86,6 +86,7 @@ Rating	ID	Title	Title Slug
 2203.1738850937	1246	Palindrome Removal	palindrome-removal
 2201.8209584221	1453	Maximum Number of Darts Inside of a Circular Dartboard	maximum-number-of-darts-inside-of-a-circular-dartboard
 2200.6623666057	847	Shortest Path Visiting All Nodes	shortest-path-visiting-all-nodes
+2198.4642973466	1739	Building Boxes	building-boxes
 2198.3290662783	1621	Number of Sets of K Non-Overlapping Line Segments	number-of-sets-of-k-non-overlapping-line-segments
 2197.0951445919	834	Sum of Distances in Tree	sum-of-distances-in-tree
 2190.1757477854	1478	Allocate Mailboxes	allocate-mailboxes
@@ -197,6 +198,7 @@ Rating	ID	Title	Title Slug
 1961.4987013156	1537	Get the Maximum Score	get-the-maximum-score
 1956.7059585934	1463	Cherry Pickup II	cherry-pickup-ii
 1954.2533254344	1696	Jump Game VI	jump-game-vi
+1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	change-minimum-characters-to-satisfy-one-of-three-conditions
 1951.3509259668	1259	Handshakes That Don't Cross	handshakes-that-dont-cross
 1951.2096212775	1690	Stone Game VII	stone-game-vii
 1949.0920823355	1153	String Transforms Into Another String	string-transforms-into-another-string
@@ -212,6 +214,7 @@ Rating	ID	Title	Title Slug
 1928.2304187946	1562	Find Latest Group of Size M	find-latest-group-of-size-m
 1927.4000816649	1449	Form Largest Integer With Digits That Add up to Target	form-largest-integer-with-digits-that-add-up-to-target
 1926.7059583253	1727	Largest Submatrix With Rearrangements	largest-submatrix-with-rearrangements
+1924.9646394910	1745	Palindrome Partitioning IV	palindrome-partitioning-iv
 1919.7433862082	1552	Magnetic Force Between Two Balls	magnetic-force-between-two-balls
 1919.6391896894	1416	Restore The Array	restore-the-array
 1919.1749818083	1130	Minimum Cost Tree From Leaf Values	minimum-cost-tree-from-leaf-values
@@ -248,6 +251,7 @@ Rating	ID	Title	Title Slug
 1867.8619694847	1605	Find Valid Matrix Given Row and Column Sums	find-valid-matrix-given-row-and-column-sums
 1866.3014601125	1340	Jump Game V	jump-game-v
 1864.0948676111	1163	Last Substring in Lexicographical Order	last-substring-in-lexicographical-order
+1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	can-you-eat-your-favorite-candy-on-your-favorite-day
 1857.6431822094	1584	Min Cost to Connect All Points	min-cost-to-connect-all-points
 1855.5957296285	799	Champagne Tower	champagne-tower
 1855.4479039876	1202	Smallest String With Swaps	smallest-string-with-swaps
@@ -383,6 +387,7 @@ Rating	ID	Title	Title Slug
 1674.9985842835	1339	Maximum Product of Splitted Binary Tree	maximum-product-of-splitted-binary-tree
 1674.5365205597	1215	Stepping Numbers	stepping-numbers
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+1671.4657554194	1738	Find Kth Largest XOR Coordinate Value	find-kth-largest-xor-coordinate-value
 1666.3469909790	1162	As Far from Land as Possible	as-far-from-land-as-possible
 1665.2490724700	1620	Coordinate With Maximum Network Quality	coordinate-with-maximum-network-quality
 1664.7703749741	1121	Divide Array Into Increasing Sequences	divide-array-into-increasing-sequences
@@ -443,6 +448,7 @@ Rating	ID	Title	Title Slug
 1590.0883962313	893	Groups of Special-Equivalent Strings	groups-of-special-equivalent-strings
 1590.0463215721	877	Stone Game	stone-game
 1585.5793143983	1029	Two City Scheduling	two-city-scheduling
+1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs
 1578.8503818621	1034	Coloring A Border	coloring-a-border
 1575.6324598387	1415	The k-th Lexicographical String of All Happy Strings of Length n	the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
 1574.7542247682	981	Time Based Key-Value Store	time-based-key-value-store
@@ -709,6 +715,7 @@ Rating	ID	Title	Title Slug
 1280.2941647587	1572	Matrix Diagonal Sum	matrix-diagonal-sum
 1279.7669712099	1002	Find Common Characters	find-common-characters
 1279.3383966145	1534	Count Good Triplets	count-good-triplets
+1277.9987709491	1742	Maximum Number of Balls in a Box	maximum-number-of-balls-in-a-box
 1277.8260125315	1317	Convert Integer to the Sum of Two No-Zero Integers	convert-integer-to-the-sum-of-two-no-zero-integers
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations
@@ -718,6 +725,7 @@ Rating	ID	Title	Title Slug
 1268.5768566953	1447	Simplified Fractions	simplified-fractions
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	group-the-people-given-the-group-size-they-belong-to
 1266.3368046515	821	Shortest Distance to a Character	shortest-distance-to-a-character
+1264.4836883082	1736	Latest Time by Replacing Hidden Digits	latest-time-by-replacing-hidden-digits
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	maximum-number-of-vowels-in-a-substring-of-given-length
 1262.5890311992	1089	Duplicate Zeros	duplicate-zeros
 1260.1755576607	1305	All Elements in Two Binary Search Trees	all-elements-in-two-binary-search-trees
