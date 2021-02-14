@@ -37,6 +37,7 @@ Rating	ID	Title	Title Slug
 2377.3895801187	854	K-Similar Strings	k-similar-strings
 2376.8658923518	887	Super Egg Drop	super-egg-drop
 2366.7099607655	1183	Maximum Number of Ones	maximum-number-of-ones
+2363.5096568214	1755	Closest Subsequence Sum	closest-subsequence-sum
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	maximum-number-of-non-overlapping-substrings
 2358.9669560824	1707	Maximum XOR With an Element From Array	maximum-xor-with-an-element-from-array
 2356.5811122453	1467	Probability of a Two Boxes Having The Same Number of Distinct Balls	probability-of-a-two-boxes-having-the-same-number-of-distinct-balls
@@ -145,6 +146,7 @@ Rating	ID	Title	Title Slug
 2050.7159774570	1224	Maximum Equal Frequency	maximum-equal-frequency
 2050.2553211463	1648	Sell Diminishing-Valued Colored Balls	sell-diminishing-valued-colored-balls
 2048.0976546787	1553	Minimum Number of Days to Eat N Oranges	minimum-number-of-days-to-eat-n-oranges
+2040.5621123027	1751	Maximum Number of Events That Can Be Attended II	maximum-number-of-events-that-can-be-attended-ii
 2040.5392890370	1371	Find the Longest Substring Containing Vowels in Even Counts	find-the-longest-substring-containing-vowels-in-even-counts
 2039.1108746890	1201	Ugly Number III	ugly-number-iii
 2038.8592725467	1590	Make Sum Divisible by P	make-sum-divisible-by-p
@@ -171,6 +173,7 @@ Rating	ID	Title	Title Slug
 2011.3542735398	1102	Path With Maximum Minimum Value	path-with-maximum-minimum-value
 2010.5524756946	880	Decoded String at Index	decoded-string-at-index
 2008.4065079100	1223	Dice Roll Simulation	dice-roll-simulation
+2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	minimum-degree-of-a-connected-trio-in-a-graph
 2000.8441804448	1686	Stone Game VI	stone-game-vi
 2000.8021428612	911	Online Election	online-election
 1999.1208076854	765	Couples Holding Hands	couples-holding-hands
@@ -204,6 +207,7 @@ Rating	ID	Title	Title Slug
 1949.0920823355	1153	String Transforms Into Another String	string-transforms-into-another-string
 1947.5013967785	1631	Path With Minimum Effort	path-with-minimum-effort
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	minimum-number-of-days-to-make-m-bouquets
+1939.9323330472	1760	Minimum Limit of Balls in a Bag	minimum-limit-of-balls-in-a-bag
 1938.6883365596	777	Swap Adjacent in LR String	swap-adjacent-in-lr-string
 1938.2224916289	866	Prime Palindrome	prime-palindrome
 1936.6613414859	813	Largest Sum of Averages	largest-sum-of-averages
@@ -273,6 +277,7 @@ Rating	ID	Title	Title Slug
 1832.2280384591	755	Pour Water	pour-water
 1830.3165569278	980	Unique Paths III	unique-paths-iii
 1830.1493771696	790	Domino and Tromino Tiling	domino-and-tromino-tiling
+1828.6438563573	1754	Largest Merge Of Two Strings	largest-merge-of-two-strings
 1827.0907402220	1095	Find in Mountain Array	find-in-mountain-array
 1825.7704860080	934	Shortest Bridge	shortest-bridge
 1825.4207082682	1702	Maximum Binary String After Change	maximum-binary-string-after-change
@@ -481,6 +486,7 @@ Rating	ID	Title	Title Slug
 1542.5630367445	812	Largest Triangle Area	largest-triangle-area
 1541.7840320661	1283	Find the Smallest Divisor Given a Threshold	find-the-smallest-divisor-given-a-threshold
 1541.6944600975	986	Interval List Intersections	interval-list-intersections
+1541.6176288991	1749	Maximum Absolute Sum of Any Subarray	maximum-absolute-sum-of-any-subarray
 1541.5405749918	1209	Remove All Adjacent Duplicates in String II	remove-all-adjacent-duplicates-in-string-ii
 1541.3484385090	1007	Minimum Domino Rotations For Equal Row	minimum-domino-rotations-for-equal-row
 1541.2260256298	1229	Meeting Scheduler	meeting-scheduler
@@ -512,6 +518,7 @@ Rating	ID	Title	Title Slug
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	reconstruct-a-2-row-binary-matrix
 1504.8237159326	869	Reordered Power of 2	reordered-power-of-2
 1504.0178888667	1461	Check If a String Contains All Binary Codes of Size K	check-if-a-string-contains-all-binary-codes-of-size-k
+1501.6846714598	1750	Minimum Length of String After Deleting Similar Ends	minimum-length-of-string-after-deleting-similar-ends
 1501.1152614679	1090	Largest Values From Labels	largest-values-from-labels
 1500.8381829812	915	Partition Array into Disjoint Intervals	partition-array-into-disjoint-intervals
 1499.7136257352	1525	Number of Good Ways to Split a String	number-of-good-ways-to-split-a-string
@@ -519,8 +526,10 @@ Rating	ID	Title	Title Slug
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	sum-of-absolute-differences-in-a-sorted-array
 1495.3186477678	949	Largest Time for Given Digits	largest-time-for-given-digits
+1490.8990184504	1759	Count Number of Homogenous Substrings	count-number-of-homogenous-substrings
 1490.2370387981	1296	Divide Array in Sets of K Consecutive Numbers	divide-array-in-sets-of-k-consecutive-numbers
 1489.0102202162	1175	Prime Arrangements	prime-arrangements
+1487.5826663483	1753	Maximum Score From Removing Stones	maximum-score-from-removing-stones
 1486.7649334310	1637	Widest Vertical Area Between Two Points Containing No Points	widest-vertical-area-between-two-points-containing-no-points
 1486.4687014051	1566	Detect Pattern of Length M Repeated K or More Times	detect-pattern-of-length-m-repeated-k-or-more-times
 1485.6550472186	1190	Reverse Substrings Between Each Pair of Parentheses	reverse-substrings-between-each-pair-of-parentheses
@@ -646,6 +655,7 @@ Rating	ID	Title	Title Slug
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
 1354.1247827015	1243	Array Transformation	array-transformation
+1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string
 1352.7250049956	848	Shifting Letters	shifting-letters
 1351.4184681108	1513	Number of Substrings With Only 1s	number-of-substrings-with-only-1s
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	find-k-length-substrings-with-no-repeated-characters
@@ -671,6 +681,7 @@ Rating	ID	Title	Title Slug
 1327.0282989915	1086	High Five	high-five
 1326.4047670018	1476	Subrectangle Queries	subrectangle-queries
 1324.5696223867	1344	Angle Between Hands of a Clock	angle-between-hands-of-a-clock
+1324.5320836804	1752	Check if Array Is Sorted and Rotated	check-if-array-is-sorted-and-rotated
 1324.1757200103	1603	Design Parking System	design-parking-system
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	maximum-nesting-depth-of-the-parentheses
 1321.9346201204	1694	Reformat Phone Number	reformat-phone-number
@@ -761,6 +772,7 @@ Rating	ID	Title	Title Slug
 1231.4004525633	1134	Armstrong Number	armstrong-number
 1229.4850365142	1725	Number Of Rectangles That Can Form The Largest Square	number-of-rectangles-that-can-form-the-largest-square
 1228.6309936480	917	Reverse Only Letters	reverse-only-letters
+1228.4824438011	1748	Sum of Unique Elements	sum-of-unique-elements
 1227.7906887239	844	Backspace String Compare	backspace-string-compare
 1227.3485530532	1118	Number of Days in a Month	number-of-days-in-a-month
 1226.2960135431	1133	Largest Unique Number	largest-unique-number
