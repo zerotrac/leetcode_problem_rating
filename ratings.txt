@@ -76,6 +76,7 @@ Rating	ID	Title	Title Slug
 2241.5199974312	1240	Tiling a Rectangle with the Fewest Squares	tiling-a-rectangle-with-the-fewest-squares
 2235.9672341699	850	Rectangle Area II	rectangle-area-ii
 2233.9639034080	1178	Number of Valid Words for Each Puzzle	number-of-valid-words-for-each-puzzle
+2231.8099102949	1766	Tree of Coprimes	tree-of-coprimes
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold
@@ -318,6 +319,7 @@ Rating	ID	Title	Title Slug
 1786.3121598293	983	Minimum Cost For Tickets	minimum-cost-for-tickets
 1784.2539813582	894	All Possible Full Binary Trees	all-possible-full-binary-trees
 1783.2337340478	851	Loud and Rich	loud-and-rich
+1782.9801784101	1765	Map of Highest Peak	map-of-highest-peak
 1782.3312212058	1171	Remove Zero Sum Consecutive Nodes from Linked List	remove-zero-sum-consecutive-nodes-from-linked-list
 1779.9495819318	842	Split Array into Fibonacci Sequence	split-array-into-fibonacci-sequence
 1779.8364613072	1424	Diagonal Traverse II	diagonal-traverse-ii
@@ -452,6 +454,7 @@ Rating	ID	Title	Title Slug
 1590.2690308330	1664	Ways to Make a Fair Array	ways-to-make-a-fair-array
 1590.0883962313	893	Groups of Special-Equivalent Strings	groups-of-special-equivalent-strings
 1590.0463215721	877	Stone Game	stone-game
+1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	form-array-by-concatenating-subarrays-of-another-array
 1585.5793143983	1029	Two City Scheduling	two-city-scheduling
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs
 1578.8503818621	1034	Coloring A Border	coloring-a-border
@@ -504,6 +507,7 @@ Rating	ID	Title	Title Slug
 1524.5693481538	1442	Count Triplets That Can Form Two Arrays of Equal XOR	count-triplets-that-can-form-two-arrays-of-equal-xor
 1524.3227469000	1640	Check Array Formation Through Concatenation	check-array-formation-through-concatenation
 1521.9977490324	1615	Maximal Network Rank	maximal-network-rank
+1521.7133617698	1763	Longest Nice Substring	longest-nice-substring
 1521.1768537583	1041	Robot Bounded In Circle	robot-bounded-in-circle
 1519.1715594347	1641	Count Sorted Vowel Strings	count-sorted-vowel-strings
 1516.8229485853	775	Global and Local Inversions	global-and-local-inversions
