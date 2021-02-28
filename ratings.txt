@@ -13,6 +13,7 @@ Rating	ID	Title	Title Slug
 2566.5910742837	913	Cat and Mouse	cat-and-mouse
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
+2530.6905139914	1776	Car Fleet II	car-fleet-ii
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
@@ -96,6 +97,7 @@ Rating	ID	Title	Title Slug
 2185.5444704515	943	Find the Shortest Superstring	find-the-shortest-superstring
 2184.5241011615	1081	Smallest Subsequence of Distinct Characters	smallest-subsequence-of-distinct-characters
 2182.6180030785	891	Sum of Subsequence Widths	sum-of-subsequence-widths
+2182.0544529810	1771	Maximize Palindrome Length From Subsequences	maximize-palindrome-length-from-subsequences
 2175.6850426027	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons	build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 2171.7160666640	1691	Maximum Height by Stacking Cuboids 	maximum-height-by-stacking-cuboids
 2168.7531235448	786	K-th Smallest Prime Fraction	k-th-smallest-prime-fraction
@@ -138,6 +140,7 @@ Rating	ID	Title	Title Slug
 2074.4120526679	871	Minimum Number of Refueling Stops	minimum-number-of-refueling-stops
 2069.4030284676	1168	Optimize Water Distribution in a Village	optimize-water-distribution-in-a-village
 2068.8066375660	1368	Minimum Cost to Make at Least One Valid Path in a Grid	minimum-cost-to-make-at-least-one-valid-path-in-a-grid
+2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	maximum-score-from-performing-multiplication-operations
 2067.0643721733	855	Exam Room	exam-room
 2066.0972575597	801	Minimum Swaps To Make Sequences Increasing	minimum-swaps-to-make-sequences-increasing
 2059.4040623264	1131	Maximum of Absolute Value Expression	maximum-of-absolute-value-expression
@@ -266,6 +269,7 @@ Rating	ID	Title	Title Slug
 1853.0880092558	1301	Number of Paths with Max Score	number-of-paths-with-max-score
 1850.8490524791	1152	Analyze User Website Visit Pattern	analyze-user-website-visit-pattern
 1850.5506342426	1477	Find Two Non-overlapping Sub-arrays Each With Target Sum	find-two-non-overlapping-sub-arrays-each-with-target-sum
+1850.4091449367	1775	Equal Sum Arrays With Minimum Number of Operations	equal-sum-arrays-with-minimum-number-of-operations
 1848.0912848518	1177	Can Make Palindrome from Substring	can-make-palindrome-from-substring
 1847.2077654978	1258	Synonymous Sentences	synonymous-sentences
 1846.4077077642	1514	Path with Maximum Probability	path-with-maximum-probability
@@ -371,6 +375,7 @@ Rating	ID	Title	Title Slug
 1708.8129236790	826	Most Profit Assigning Work	most-profit-assigning-work
 1707.8992927609	816	Ambiguous Coordinates	ambiguous-coordinates
 1702.8035923458	957	Prison Cells After N Days	prison-cells-after-n-days
+1701.7584658834	1774	Closest Dessert Cost	closest-dessert-cost
 1701.5735371897	1054	Distant Barcodes	distant-barcodes
 1697.8500495479	1017	Convert to Base -2	convert-to-base-2
 1697.2356875149	1289	Minimum Falling Path Sum II	minimum-falling-path-sum-ii
@@ -712,6 +717,7 @@ Rating	ID	Title	Title Slug
 1297.5338328524	819	Most Common Word	most-common-word
 1297.3006230632	1598	Crawler Log Folder	crawler-log-folder
 1295.4970938463	1539	Kth Missing Positive Number	kth-missing-positive-number
+1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	minimum-number-of-operations-to-move-all-balls-to-each-box
 1294.5297034757	1716	Calculate Money in Leetcode Bank	calculate-money-in-leetcode-bank
 1293.4904281819	1551	Minimum Operations to Make Array Equal	minimum-operations-to-make-array-equal
 1288.5621697906	1684	Count the Number of Consistent Strings	count-the-number-of-consistent-strings
@@ -821,11 +827,13 @@ Rating	ID	Title	Title Slug
 1178.4942541235	905	Sort Array By Parity	sort-array-by-parity
 1177.5660617941	965	Univalued Binary Tree	univalued-binary-tree
 1176.4547272896	1431	Kids With the Greatest Number of Candies	kids-with-the-greatest-number-of-candies
+1174.8589329736	1773	Count Items Matching a Rule	count-items-matching-a-rule
 1173.5059264820	922	Sort Array By Parity II	sort-array-by-parity-ii
 1172.6819789183	1046	Last Stone Weight	last-stone-weight
 1172.5106645463	760	Find Anagram Mappings	find-anagram-mappings
 1167.1331831913	1304	Find N Unique Integers Sum up to Zero	find-n-unique-integers-sum-up-to-zero
 1167.0749837258	796	Rotate String	rotate-string
+1166.5264284193	1768	Merge Strings Alternately	merge-strings-alternately
 1165.4768151611	1446	Consecutive Characters	consecutive-characters
 1164.8182315157	771	Jewels and Stones	jewels-and-stones
 1164.0227691933	1374	Generate a String With Characters That Have Odd Counts	generate-a-string-with-characters-that-have-odd-counts
