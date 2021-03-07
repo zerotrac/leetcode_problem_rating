@@ -5,6 +5,7 @@ Rating	ID	Title	Title Slug
 2765.2533837781	803	Bricks Falling When Hit	bricks-falling-when-hit
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
+2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports
 2594.1356734520	964	Least Operators to Express Number	least-operators-to-express-number
 2583.4069119510	936	Stamping The Sequence	stamping-the-sequence
@@ -19,6 +20,7 @@ Rating	ID	Title	Title Slug
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	minimum-adjacent-swaps-for-k-consecutive-ones
+2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes
 2456.3900212097	1499	Max Value of Equation	max-value-of-equation
 2455.8244137907	1040	Moving Stones Until Consecutive II	moving-stones-until-consecutive-ii
 2433.3767704629	903	Valid Permutations for DI Sequence	valid-permutations-for-di-sequence
@@ -135,6 +137,7 @@ Rating	ID	Title	Title Slug
 2079.9846866239	1643	Kth Smallest Instructions	kth-smallest-instructions
 2079.1911227043	975	Odd Even Jump	odd-even-jump
 2078.6986769435	1712	Ways to Split Array Into Three Subarrays	ways-to-split-array-into-three-subarrays
+2078.5417326415	1786	Number of Restricted Paths From First to Last Node	number-of-restricted-paths-from-first-to-last-node
 2077.5054883516	843	Guess the Word	guess-the-word
 2076.8975497986	1088	Confusing Number II	confusing-number-ii
 2074.4120526679	871	Minimum Number of Refueling Stops	minimum-number-of-refueling-stops
@@ -363,6 +366,7 @@ Rating	ID	Title	Title Slug
 1722.8129701098	1359	Count All Valid Pickup and Delivery Options	count-all-valid-pickup-and-delivery-options
 1722.3088173214	1197	Minimum Knight Moves	minimum-knight-moves
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	maximum-length-of-a-concatenated-string-with-unique-characters
+1714.6960124182	1781	Sum of Beauty of All Substrings	sum-of-beauty-of-all-substrings
 1713.2768268466	1372	Longest ZigZag Path in a Binary Tree	longest-zigzag-path-in-a-binary-tree
 1712.4010133221	1042	Flower Planting With No Adjacent	flower-planting-with-no-adjacent
 1710.9105378431	923	3Sum With Multiplicity	3sum-with-multiplicity
@@ -525,6 +529,7 @@ Rating	ID	Title	Title Slug
 1507.8701119064	892	Surface Area of 3D Shapes	surface-area-of-3d-shapes
 1506.8958220609	1387	Sort Integers by The Power Value	sort-integers-by-the-power-value
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	reconstruct-a-2-row-binary-matrix
+1505.8249995300	1780	Check if Number is a Sum of Powers of Three	check-if-number-is-a-sum-of-powers-of-three
 1504.8237159326	869	Reordered Power of 2	reordered-power-of-2
 1504.0178888667	1461	Check If a String Contains All Binary Codes of Size K	check-if-a-string-contains-all-binary-codes-of-size-k
 1501.6846714598	1750	Minimum Length of String After Deleting Similar Ends	minimum-length-of-string-after-deleting-similar-ends
@@ -584,6 +589,7 @@ Rating	ID	Title	Title Slug
 1433.0795554833	1535	Find the Winner of an Array Game	find-the-winner-of-an-array-game
 1432.9593207076	967	Numbers With Same Consecutive Differences	numbers-with-same-consecutive-differences
 1432.9051050881	994	Rotting Oranges	rotting-oranges
+1432.0967926378	1785	Minimum Elements to Add to Form a Given Sum	minimum-elements-to-add-to-form-a-given-sum
 1431.6864980883	1170	Compare Strings by Frequency of the Smallest Character	compare-strings-by-frequency-of-the-smallest-character
 1430.3429533629	1636	Sort Array by Increasing Frequency	sort-array-by-increasing-frequency
 1429.6349292399	1357	Apply Discount Every n Orders	apply-discount-every-n-orders
@@ -750,6 +756,7 @@ Rating	ID	Title	Title Slug
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	maximum-number-of-vowels-in-a-substring-of-given-length
 1262.5890311992	1089	Duplicate Zeros	duplicate-zeros
 1260.1755576607	1305	All Elements in Two Binary Search Trees	all-elements-in-two-binary-search-trees
+1259.5707438932	1779	Find Nearest Point That Has the Same X or Y Coordinate	find-nearest-point-that-has-the-same-x-or-y-coordinate
 1259.4097261890	884	Uncommon Words from Two Sentences	uncommon-words-from-two-sentences
 1259.1979660519	1213	Intersection of Three Sorted Arrays	intersection-of-three-sorted-arrays
 1258.8401788462	867	Transpose Matrix	transpose-matrix
@@ -802,6 +809,7 @@ Rating	ID	Title	Title Slug
 1208.0130656905	941	Valid Mountain Array	valid-mountain-array
 1207.7810914125	1380	Lucky Numbers in a Matrix	lucky-numbers-in-a-matrix
 1207.7224406285	1704	Determine if String Halves Are Alike	determine-if-string-halves-are-alike
+1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	check-if-binary-string-has-at-most-one-segment-of-ones
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	find-words-that-can-be-formed-by-characters
 1203.1408035909	1688	Count of Matches in Tournament	count-of-matches-in-tournament
 1201.6117337798	997	Find the Town Judge	find-the-town-judge
