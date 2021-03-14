@@ -213,6 +213,7 @@ Rating	ID	Title	Title Slug
 1951.2096212775	1690	Stone Game VII	stone-game-vii
 1949.0920823355	1153	String Transforms Into Another String	string-transforms-into-another-string
 1947.5013967785	1631	Path With Minimum Effort	path-with-minimum-effort
+1945.7515607928	1793	Maximum Score of a Good Subarray	maximum-score-of-a-good-subarray
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	minimum-number-of-days-to-make-m-bouquets
 1939.9323330472	1760	Minimum Limit of Balls in a Bag	minimum-limit-of-balls-in-a-bag
 1938.6883365596	777	Swap Adjacent in LR String	swap-adjacent-in-lr-string
@@ -295,6 +296,7 @@ Rating	ID	Title	Title Slug
 1822.9768689716	1363	Largest Multiple of Three	largest-multiple-of-three
 1820.5855764400	1405	Longest Happy String	longest-happy-string
 1818.0024504436	861	Score After Flipping Matrix	score-after-flipping-matrix
+1817.9978644712	1792	Maximum Average Pass Ratio	maximum-average-pass-ratio
 1817.2240262920	1658	Minimum Operations to Reduce X to Zero	minimum-operations-to-reduce-x-to-zero
 1817.0597073686	795	Number of Subarrays with Bounded Maximum	number-of-subarrays-with-bounded-maximum
 1815.1286459024	773	Sliding Puzzle	sliding-puzzle
@@ -718,6 +720,7 @@ Rating	ID	Title	Title Slug
 1302.7005460171	1266	Minimum Time Visiting All Points	minimum-time-visiting-all-points
 1301.4117757184	806	Number of Lines To Write String	number-of-lines-to-write-string
 1301.4027057843	1646	Get Maximum in Generated Array	get-maximum-in-generated-array
+1300.8009461582	1790	Check if One String Swap Can Make Strings Equal	check-if-one-string-swap-can-make-strings-equal
 1299.6035132992	953	Verifying an Alien Dictionary	verifying-an-alien-dictionary
 1298.5921473119	908	Smallest Range I	smallest-range-i
 1297.5338328524	819	Most Common Word	most-common-word
@@ -731,6 +734,7 @@ Rating	ID	Title	Title Slug
 1287.9002757199	993	Cousins in Binary Tree	cousins-in-binary-tree
 1287.8970301681	872	Leaf-Similar Trees	leaf-similar-trees
 1287.1053917452	1103	Distribute Candies to People	distribute-candies-to-people
+1286.7934718934	1791	Find Center of Star Graph	find-center-of-star-graph
 1286.3167937403	1047	Remove All Adjacent Duplicates In String	remove-all-adjacent-duplicates-in-string
 1285.9726675488	1381	Design a Stack With Increment Operation	design-a-stack-with-increment-operation
 1285.7282180721	860	Lemonade Change	lemonade-change
