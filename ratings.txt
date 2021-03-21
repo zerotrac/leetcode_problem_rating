@@ -18,6 +18,7 @@ Rating	ID	Title	Title Slug
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
+2479.3282985529	1803	Count Pairs With XOR in a Range	count-pairs-with-xor-in-a-range
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	minimum-adjacent-swaps-for-k-consecutive-ones
 2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes
@@ -141,6 +142,7 @@ Rating	ID	Title	Title Slug
 2077.5054883516	843	Guess the Word	guess-the-word
 2076.8975497986	1088	Confusing Number II	confusing-number-ii
 2074.4120526679	871	Minimum Number of Refueling Stops	minimum-number-of-refueling-stops
+2072.7264178313	1799	Maximize Score After N Operations	maximize-score-after-n-operations
 2069.4030284676	1168	Optimize Water Distribution in a Village	optimize-water-distribution-in-a-village
 2068.8066375660	1368	Minimum Cost to Make at Least One Valid Path in a Grid	minimum-cost-to-make-at-least-one-valid-path-in-a-grid
 2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	maximum-score-from-performing-multiplication-operations
@@ -222,7 +224,9 @@ Rating	ID	Title	Title Slug
 1933.9571917853	827	Making A Large Island	making-a-large-island
 1932.3730795204	996	Number of Squareful Arrays	number-of-squareful-arrays
 1931.7335479582	1574	Shortest Subarray to be Removed to Make Array Sorted	shortest-subarray-to-be-removed-to-make-array-sorted
+1931.0849921121	1798	Maximum Number of Consecutive Values You Can Make	maximum-number-of-consecutive-values-you-can-make
 1929.9086934334	1705	Maximum Number of Eaten Apples	maximum-number-of-eaten-apples
+1929.3184180196	1802	Maximum Value at a Given Index in a Bounded Array	maximum-value-at-a-given-index-in-a-bounded-array
 1928.2304187946	1562	Find Latest Group of Size M	find-latest-group-of-size-m
 1927.4000816649	1449	Form Largest Integer With Digits That Add up to Target	form-largest-integer-with-digits-that-add-up-to-target
 1926.7059583253	1727	Largest Submatrix With Rearrangements	largest-submatrix-with-rearrangements
@@ -371,6 +375,7 @@ Rating	ID	Title	Title Slug
 1714.6960124182	1781	Sum of Beauty of All Substrings	sum-of-beauty-of-all-substrings
 1713.2768268466	1372	Longest ZigZag Path in a Binary Tree	longest-zigzag-path-in-a-binary-tree
 1712.4010133221	1042	Flower Planting With No Adjacent	flower-planting-with-no-adjacent
+1711.1205064321	1801	Number of Orders in the Backlog	number-of-orders-in-the-backlog
 1710.9105378431	923	3Sum With Multiplicity	3sum-with-multiplicity
 1710.3243520032	1567	Maximum Length of Subarray With Positive Product	maximum-length-of-subarray-with-positive-product
 1710.1120861153	759	Employee Free Time	employee-free-time
@@ -507,6 +512,7 @@ Rating	ID	Title	Title Slug
 1540.5750839091	1382	Balance a Binary Search Tree	balance-a-binary-search-tree
 1537.1387686755	1023	Camelcase Matching	camelcase-matching
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	smallest-subtree-with-all-the-deepest-nodes
+1534.0648719302	1797	Design Authentication Manager	design-authentication-manager
 1533.9285875234	1362	Closest Divisors	closest-divisors
 1532.2539947529	900	RLE Iterator	rle-iterator
 1530.4954397880	1400	Construct K Palindrome Strings	construct-k-palindrome-strings
@@ -680,6 +686,7 @@ Rating	ID	Title	Title Slug
 1345.7371686090	1679	Max Number of K-Sum Pairs	max-number-of-k-sum-pairs
 1344.2261332020	1544	Make The String Great	make-the-string-great
 1343.6289130550	1395	Count Number of Teams	count-number-of-teams
+1341.8397242604	1796	Second Largest Digit in a String	second-largest-digit-in-a-string
 1341.5076441361	784	Letter Case Permutation	letter-case-permutation
 1341.2659819842	859	Buddy Strings	buddy-strings
 1341.0476642293	1399	Count Largest Group	count-largest-group
@@ -792,6 +799,7 @@ Rating	ID	Title	Title Slug
 1231.6157956848	876	Middle of the Linked List	middle-of-the-linked-list
 1231.4004525633	1134	Armstrong Number	armstrong-number
 1229.4850365142	1725	Number Of Rectangles That Can Form The Largest Square	number-of-rectangles-that-can-form-the-largest-square
+1229.1709574783	1800	Maximum Ascending Subarray Sum	maximum-ascending-subarray-sum
 1228.6309936480	917	Reverse Only Letters	reverse-only-letters
 1228.4824438011	1748	Sum of Unique Elements	sum-of-unique-elements
 1227.7906887239	844	Backspace String Compare	backspace-string-compare
