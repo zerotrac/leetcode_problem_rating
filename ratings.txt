@@ -12,6 +12,8 @@ Rating	ID	Title	Title Slug
 2575.9570281316	1531	String Compression II	string-compression-ii
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
 2566.5910742837	913	Cat and Mouse	cat-and-mouse
+2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts
+2539.4895831478	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
@@ -143,7 +145,7 @@ Rating	ID	Title	Title Slug
 2076.8975497986	1088	Confusing Number II	confusing-number-ii
 2074.4120526679	871	Minimum Number of Refueling Stops	minimum-number-of-refueling-stops
 2072.7264178313	1799	Maximize Score After N Operations	maximize-score-after-n-operations
-2069.6551263964	1808	Maximize Number of Nice Divisors	maximize-number-of-nice-divisors
+2070.2102619334	1808	Maximize Number of Nice Divisors	maximize-number-of-nice-divisors
 2069.4030284676	1168	Optimize Water Distribution in a Village	optimize-water-distribution-in-a-village
 2068.8066375660	1368	Minimum Cost to Make at Least One Valid Path in a Grid	minimum-cost-to-make-at-least-one-valid-path-in-a-grid
 2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	maximum-score-from-performing-multiplication-operations
@@ -364,6 +366,7 @@ Rating	ID	Title	Title Slug
 1741.4527995252	1145	Binary Tree Coloring Game	binary-tree-coloring-game
 1740.5014205942	1079	Letter Tile Possibilities	letter-tile-possibilities
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	split-a-string-into-the-max-number-of-unique-substrings
+1737.8431142688	1814	Count Nice Pairs in an Array	count-nice-pairs-in-an-array
 1734.8208369949	1292	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
 1732.7813534239	1273	Delete Tree Nodes	delete-tree-nodes
 1731.5555445321	889	Construct Binary Tree from Preorder and Postorder Traversal	construct-binary-tree-from-preorder-and-postorder-traversal
@@ -471,6 +474,7 @@ Rating	ID	Title	Title Slug
 1590.2690308330	1664	Ways to Make a Fair Array	ways-to-make-a-fair-array
 1590.0883962313	893	Groups of Special-Equivalent Strings	groups-of-special-equivalent-strings
 1590.0463215721	877	Stone Game	stone-game
+1588.9690763997	1813	Sentence Similarity III	sentence-similarity-iii
 1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	form-array-by-concatenating-subarrays-of-another-array
 1585.5793143983	1029	Two City Scheduling	two-city-scheduling
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs
@@ -490,6 +494,7 @@ Rating	ID	Title	Title Slug
 1562.9802666517	1008	Construct Binary Search Tree from Preorder Traversal	construct-binary-search-tree-from-preorder-traversal
 1562.9186033202	1452	People Whose List of Favorite Companies Is Not a Subset of Another List	people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
 1562.7212466716	856	Score of Parentheses	score-of-parentheses
+1562.5913692875	1818	Minimum Absolute Sum Difference	minimum-absolute-sum-difference
 1561.2655635205	1256	Encode Number	encode-number
 1561.0553908973	1376	Time Needed to Inform All Employees	time-needed-to-inform-all-employees
 1558.7188539503	1144	Decrease Elements To Make Array Zigzag	decrease-elements-to-make-array-zigzag
@@ -549,8 +554,8 @@ Rating	ID	Title	Title Slug
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	sum-of-absolute-differences-in-a-sorted-array
 1495.3186477678	949	Largest Time for Given Digits	largest-time-for-given-digits
+1491.4638194905	1806	Minimum Number of Operations to Reinitialize a Permutation	minimum-number-of-operations-to-reinitialize-a-permutation
 1490.8990184504	1759	Count Number of Homogenous Substrings	count-number-of-homogenous-substrings
-1490.8534648530	1806	Minimum Number of Operations to Reinitialize a Permutation	minimum-number-of-operations-to-reinitialize-a-permutation
 1490.2370387981	1296	Divide Array in Sets of K Consecutive Numbers	divide-array-in-sets-of-k-consecutive-numbers
 1489.0102202162	1175	Prime Arrangements	prime-arrangements
 1487.5826663483	1753	Maximum Score From Removing Stones	maximum-score-from-removing-stones
@@ -559,8 +564,8 @@ Rating	ID	Title	Title Slug
 1485.6550472186	1190	Reverse Substrings Between Each Pair of Parentheses	reverse-substrings-between-each-pair-of-parentheses
 1485.1354012690	1418	Display Table of Food Orders in a Restaurant	display-table-of-food-orders-in-a-restaurant
 1483.8137189709	1314	Matrix Block Sum	matrix-block-sum
+1481.9608077860	1807	Evaluate the Bracket Pairs of a String	evaluate-the-bracket-pairs-of-a-string
 1481.5701319876	1167	Minimum Cost to Connect Sticks	minimum-cost-to-connect-sticks
-1481.3444833690	1807	Evaluate the Bracket Pairs of a String	evaluate-the-bracket-pairs-of-a-string
 1480.1116248664	1087	Brace Expansion	brace-expansion
 1479.4837595809	1545	Find Kth Bit in Nth Binary String	find-kth-bit-in-nth-binary-string
 1479.0110934646	1166	Design File System	design-file-system
@@ -679,6 +684,7 @@ Rating	ID	Title	Title Slug
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
+1355.8316326498	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
 1354.1247827015	1243	Array Transformation	array-transformation
 1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string
@@ -701,11 +707,12 @@ Rating	ID	Title	Title Slug
 1335.0295688697	938	Range Sum of BST	range-sum-of-bst
 1334.5718985411	1409	Queries on a Permutation With Key	queries-on-a-permutation-with-key
 1334.0564009231	888	Fair Candy Swap	fair-candy-swap
+1333.3138174157	1805	Number of Different Integers in a String	number-of-different-integers-in-a-string
 1332.6225967630	1128	Number of Equivalent Domino Pairs	number-of-equivalent-domino-pairs
-1332.5189004017	1805	Number of Different Integers in a String	number-of-different-integers-in-a-string
 1332.4653491345	1471	The k Strongest Values in an Array	the-k-strongest-values-in-an-array
 1330.9185778280	1347	Minimum Number of Steps to Make Two Strings Anagram	minimum-number-of-steps-to-make-two-strings-anagram
 1328.7281033317	1324	Print Words Vertically	print-words-vertically
+1328.5131477260	1812	Determine Color of a Chessboard Square	determine-color-of-a-chessboard-square
 1327.0282989915	1086	High Five	high-five
 1326.4047670018	1476	Subrectangle Queries	subrectangle-queries
 1324.5696223867	1344	Angle Between Hands of a Clock	angle-between-hands-of-a-clock
@@ -799,6 +806,7 @@ Rating	ID	Title	Title Slug
 1234.7084656358	1009	Complement of Base 10 Integer	complement-of-base-10-integer
 1234.4144116814	1184	Distance Between Bus Stops	distance-between-bus-stops
 1232.8314427996	1119	Remove Vowels from a String	remove-vowels-from-a-string
+1232.1288275025	1816	Truncate Sentence	truncate-sentence
 1231.9992413350	1492	The kth Factor of n	the-kth-factor-of-n
 1231.6157956848	876	Middle of the Linked List	middle-of-the-linked-list
 1231.4004525633	1134	Armstrong Number	armstrong-number
