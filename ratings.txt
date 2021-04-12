@@ -13,7 +13,7 @@ Rating	ID	Title	Title Slug
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
 2566.5910742837	913	Cat and Mouse	cat-and-mouse
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts
-2539.4895831478	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
+2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
@@ -73,6 +73,7 @@ Rating	ID	Title	Title Slug
 2273.7910625337	753	Cracking the Safe	cracking-the-safe
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor
+2263.7400874519	1825	Finding MK Average	finding-mk-average
 2259.6572191969	857	Minimum Cost to Hire K Workers	minimum-cost-to-hire-k-workers
 2258.6371797452	864	Shortest Path to Get All Keys	shortest-path-to-get-all-keys
 2250.9318291559	1125	Smallest Sufficient Team	smallest-sufficient-team
@@ -224,6 +225,7 @@ Rating	ID	Title	Title Slug
 1938.6883365596	777	Swap Adjacent in LR String	swap-adjacent-in-lr-string
 1938.2224916289	866	Prime Palindrome	prime-palindrome
 1936.6613414859	813	Largest Sum of Averages	largest-sum-of-averages
+1934.3556201811	1818	Minimum Absolute Sum Difference	minimum-absolute-sum-difference
 1933.9571917853	827	Making A Large Island	making-a-large-island
 1932.3730795204	996	Number of Squareful Arrays	number-of-squareful-arrays
 1931.7335479582	1574	Shortest Subarray to be Removed to Make Array Sorted	shortest-subarray-to-be-removed-to-make-array-sorted
@@ -349,6 +351,7 @@ Rating	ID	Title	Title Slug
 1764.9170564773	1706	Where Will the Ball Fall	where-will-the-ball-fall
 1762.3115124143	948	Bag of Tokens	bag-of-tokens
 1762.0307532652	1262	Greatest Sum Divisible by Three	greatest-sum-divisible-by-three
+1760.0105174752	1824	Minimum Sideway Jumps	minimum-sideway-jumps
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	minimum-insertions-to-balance-a-parentheses-string
 1758.7525514100	1027	Longest Arithmetic Subsequence	longest-arithmetic-subsequence
 1753.9062487685	1216	Valid Palindrome III	valid-palindrome-iii
@@ -494,7 +497,6 @@ Rating	ID	Title	Title Slug
 1562.9802666517	1008	Construct Binary Search Tree from Preorder Traversal	construct-binary-search-tree-from-preorder-traversal
 1562.9186033202	1452	People Whose List of Favorite Companies Is Not a Subset of Another List	people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
 1562.7212466716	856	Score of Parentheses	score-of-parentheses
-1562.5913692875	1818	Minimum Absolute Sum Difference	minimum-absolute-sum-difference
 1561.2655635205	1256	Encode Number	encode-number
 1561.0553908973	1376	Time Needed to Inform All Employees	time-needed-to-inform-all-employees
 1558.7188539503	1144	Decrease Elements To Make Array Zigzag	decrease-elements-to-make-array-zigzag
@@ -628,6 +630,7 @@ Rating	ID	Title	Title Slug
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern
 1412.2790156634	841	Keys and Rooms	keys-and-rooms
+1411.4434403145	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game
 1410.5239927267	1138	Alphabet Board Path	alphabet-board-path
 1408.7923640745	1588	Sum of All Odd Length Subarrays	sum-of-all-odd-length-subarrays
 1407.9870845299	1006	Clumsy Factorial	clumsy-factorial
@@ -681,10 +684,10 @@ Rating	ID	Title	Title Slug
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	replace-all-s-to-avoid-consecutive-repeating-characters
 1362.6613797387	1592	Rearrange Spaces Between Words	rearrange-spaces-between-words
 1361.8801013336	1120	Maximum Average Subtree	maximum-average-subtree
+1360.3005775112	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
-1355.8316326498	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
 1354.1247827015	1243	Array Transformation	array-transformation
 1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string
@@ -801,12 +804,12 @@ Rating	ID	Title	Title Slug
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	minimum-add-to-make-parentheses-valid
 1241.9262857175	1417	Reformat The String	reformat-the-string
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string
+1235.6114196155	1816	Truncate Sentence	truncate-sentence
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	find-the-distance-value-between-two-arrays
 1234.7692637513	989	Add to Array-Form of Integer	add-to-array-form-of-integer
 1234.7084656358	1009	Complement of Base 10 Integer	complement-of-base-10-integer
 1234.4144116814	1184	Distance Between Bus Stops	distance-between-bus-stops
 1232.8314427996	1119	Remove Vowels from a String	remove-vowels-from-a-string
-1232.1288275025	1816	Truncate Sentence	truncate-sentence
 1231.9992413350	1492	The kth Factor of n	the-kth-factor-of-n
 1231.6157956848	876	Middle of the Linked List	middle-of-the-linked-list
 1231.4004525633	1134	Armstrong Number	armstrong-number
@@ -843,6 +846,7 @@ Rating	ID	Title	Title Slug
 1199.2392672964	1165	Single-Row Keyboard	single-row-keyboard
 1198.5705825982	1200	Minimum Absolute Difference	minimum-absolute-difference
 1198.4180401014	985	Sum of Even Numbers After Queries	sum-of-even-numbers-after-queries
+1196.0656753135	1822	Sign of the Product of an Array	sign-of-the-product-of-an-array
 1195.7512695571	1207	Unique Number of Occurrences	unique-number-of-occurrences
 1193.9819783429	1323	Maximum 69 Number	maximum-69-number
 1193.2687290573	1437	Check If All 1's Are at Least Length K Places Away	check-if-all-1s-are-at-least-length-k-places-away
