@@ -6,6 +6,7 @@ Rating	ID	Title	Title Slug
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
+2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports
 2594.1356734520	964	Least Operators to Express Number	least-operators-to-express-number
 2583.4069119510	936	Stamping The Sequence	stamping-the-sequence
@@ -34,6 +35,7 @@ Rating	ID	Title	Title Slug
 2409.7580728676	1388	Pizza With 3n Slices	pizza-with-3n-slices
 2399.5729141925	920	Number of Music Playlists	number-of-music-playlists
 2396.6267778669	808	Soup Servings	soup-servings
+2395.8765531206	1825	Finding MK Average	finding-mk-average
 2391.8086687918	818	Race Car	race-car
 2389.9634276167	1681	Minimum Incompatibility	minimum-incompatibility
 2385.8072128533	1349	Maximum Students Taking Exam	maximum-students-taking-exam
@@ -73,7 +75,6 @@ Rating	ID	Title	Title Slug
 2273.7910625337	753	Cracking the Safe	cracking-the-safe
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor
-2263.7400874519	1825	Finding MK Average	finding-mk-average
 2259.6572191969	857	Minimum Cost to Hire K Workers	minimum-cost-to-hire-k-workers
 2258.6371797452	864	Shortest Path to Get All Keys	shortest-path-to-get-all-keys
 2250.9318291559	1125	Smallest Sufficient Team	smallest-sufficient-team
@@ -299,6 +300,7 @@ Rating	ID	Title	Title Slug
 1827.0907402220	1095	Find in Mountain Array	find-in-mountain-array
 1825.7704860080	934	Shortest Bridge	shortest-bridge
 1825.4207082682	1702	Maximum Binary String After Change	maximum-binary-string-after-change
+1825.0056908946	1835	Find XOR Sum of All Pairs Bitwise AND	find-xor-sum-of-all-pairs-bitwise-and
 1824.8294463410	1298	Maximum Candies You Can Get from Boxes	maximum-candies-you-can-get-from-boxes
 1823.8779711373	1377	Frog Position After T Seconds	frog-position-after-t-seconds
 1823.5831437787	1458	Max Dot Product of Two Subsequences	max-dot-product-of-two-subsequences
@@ -321,6 +323,7 @@ Rating	ID	Title	Title Slug
 1802.2256875356	1673	Find the Most Competitive Subsequence	find-the-most-competitive-subsequence
 1799.4635458535	1186	Maximum Subarray Sum with One Deletion	maximum-subarray-sum-with-one-deletion
 1797.8728515982	1711	Count Good Meals	count-good-meals
+1797.7466000366	1834	Single-Threaded CPU	single-threaded-cpu
 1797.5851607225	1072	Flip Columns For Maximum Number of Equal Rows	flip-columns-for-maximum-number-of-equal-rows
 1797.4917663632	1028	Recover a Tree From Preorder Traversal	recover-a-tree-from-preorder-traversal
 1795.0422250815	966	Vowel Spellchecker	vowel-spellchecker
@@ -343,6 +346,7 @@ Rating	ID	Title	Title Slug
 1779.8364613072	1424	Diagonal Traverse II	diagonal-traverse-ii
 1779.7534349429	1129	Shortest Path with Alternating Colors	shortest-path-with-alternating-colors
 1779.3931248179	1016	Binary String With Substrings Representing 1 To N	binary-string-with-substrings-representing-1-to-n
+1778.4880620629	1824	Minimum Sideway Jumps	minimum-sideway-jumps
 1777.3786570233	918	Maximum Sum Circular Subarray	maximum-sum-circular-subarray
 1774.8764591297	1238	Circular Permutation in Binary Representation	circular-permutation-in-binary-representation
 1770.8924569497	1146	Snapshot Array	snapshot-array
@@ -351,7 +355,6 @@ Rating	ID	Title	Title Slug
 1764.9170564773	1706	Where Will the Ball Fall	where-will-the-ball-fall
 1762.3115124143	948	Bag of Tokens	bag-of-tokens
 1762.0307532652	1262	Greatest Sum Divisible by Three	greatest-sum-divisible-by-three
-1760.0105174752	1824	Minimum Sideway Jumps	minimum-sideway-jumps
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	minimum-insertions-to-balance-a-parentheses-string
 1758.7525514100	1027	Longest Arithmetic Subsequence	longest-arithmetic-subsequence
 1753.9062487685	1216	Valid Palindrome III	valid-palindrome-iii
@@ -531,6 +534,7 @@ Rating	ID	Title	Title Slug
 1524.8218282113	1272	Remove Interval	remove-interval
 1524.5693481538	1442	Count Triplets That Can Form Two Arrays of Equal XOR	count-triplets-that-can-form-two-arrays-of-equal-xor
 1524.3227469000	1640	Check Array Formation Through Concatenation	check-array-formation-through-concatenation
+1523.4113866454	1829	Maximum XOR for Each Query	maximum-xor-for-each-query
 1521.9977490324	1615	Maximal Network Rank	maximal-network-rank
 1521.7133617698	1763	Longest Nice Substring	longest-nice-substring
 1521.1768537583	1041	Robot Bounded In Circle	robot-bounded-in-circle
@@ -629,8 +633,8 @@ Rating	ID	Title	Title Slug
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern
+1412.3053230205	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game
 1412.2790156634	841	Keys and Rooms	keys-and-rooms
-1411.4434403145	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game
 1410.5239927267	1138	Alphabet Board Path	alphabet-board-path
 1408.7923640745	1588	Sum of All Odd Length Subarrays	sum-of-all-odd-length-subarrays
 1407.9870845299	1006	Clumsy Factorial	clumsy-factorial
@@ -667,6 +671,7 @@ Rating	ID	Title	Title Slug
 1382.5129151601	797	All Paths From Source to Target	all-paths-from-source-to-target
 1382.4809893713	1185	Day of the Week	day-of-the-week
 1380.1541980647	814	Binary Tree Pruning	binary-tree-pruning
+1380.0192844155	1828	Queries on Number of Points Inside a Circle	queries-on-number-of-points-inside-a-circle
 1378.7570411077	1013	Partition Array Into Three Parts With Equal Sum	partition-array-into-three-parts-with-equal-sum
 1377.6120218199	811	Subdomain Visit Count	subdomain-visit-count
 1377.1913915125	1010	Pairs of Songs With Total Durations Divisible by 60	pairs-of-songs-with-total-durations-divisible-by-60
@@ -729,6 +734,7 @@ Rating	ID	Title	Title Slug
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 1315.4085759361	1180	Count Substrings with Only One Distinct Letter	count-substrings-with-only-one-distinct-letter
 1315.3715333947	1629	Slowest Key	slowest-key
+1314.8600143277	1827	Minimum Operations to Make the Array Increasing	minimum-operations-to-make-the-array-increasing
 1311.3495317884	1021	Remove Outermost Parentheses	remove-outermost-parentheses
 1309.8100518373	1710	Maximum Units on a Truck	maximum-units-on-a-truck
 1309.3113721825	1451	Rearrange Words in a Sentence	rearrange-words-in-a-sentence
@@ -791,6 +797,7 @@ Rating	ID	Title	Title Slug
 1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number
 1255.9002796024	1037	Valid Boomerang	valid-boomerang
+1252.7479413966	1833	Maximum Ice Cream Bars	maximum-ice-cream-bars
 1251.8223786910	830	Positions of Large Groups	positions-of-large-groups
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	check-if-a-number-is-majority-element-in-a-sorted-array
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	maximum-level-sum-of-a-binary-tree
@@ -831,6 +838,7 @@ Rating	ID	Title	Title Slug
 1213.8073621345	973	K Closest Points to Origin	k-closest-points-to-origin
 1212.2606422181	1475	Final Prices With a Special Discount in a Shop	final-prices-with-a-special-discount-in-a-shop
 1212.2309421538	1413	Minimum Value to Get Positive Step by Step Sum	minimum-value-to-get-positive-step-by-step-sum
+1209.6571020247	1822	Sign of the Product of an Array	sign-of-the-product-of-an-array
 1209.3722198224	1523	Count Odd Numbers in an Interval Range	count-odd-numbers-in-an-interval-range
 1208.0417047337	1389	Create Target Array in the Given Order	create-target-array-in-the-given-order
 1208.0130656905	941	Valid Mountain Array	valid-mountain-array
@@ -846,7 +854,6 @@ Rating	ID	Title	Title Slug
 1199.2392672964	1165	Single-Row Keyboard	single-row-keyboard
 1198.5705825982	1200	Minimum Absolute Difference	minimum-absolute-difference
 1198.4180401014	985	Sum of Even Numbers After Queries	sum-of-even-numbers-after-queries
-1196.0656753135	1822	Sign of the Product of an Array	sign-of-the-product-of-an-array
 1195.7512695571	1207	Unique Number of Occurrences	unique-number-of-occurrences
 1193.9819783429	1323	Maximum 69 Number	maximum-69-number
 1193.2687290573	1437	Check If All 1's Are at Least Length K Places Away	check-if-all-1s-are-at-least-length-k-places-away
@@ -869,6 +876,7 @@ Rating	ID	Title	Title Slug
 1172.5106645463	760	Find Anagram Mappings	find-anagram-mappings
 1167.1331831913	1304	Find N Unique Integers Sum up to Zero	find-n-unique-integers-sum-up-to-zero
 1167.0749837258	796	Rotate String	rotate-string
+1166.7881833200	1832	Check if the Sentence Is Pangram	check-if-the-sentence-is-pangram
 1166.5264284193	1768	Merge Strings Alternately	merge-strings-alternately
 1165.4768151611	1446	Consecutive Characters	consecutive-characters
 1164.8182315157	771	Jewels and Stones	jewels-and-stones
