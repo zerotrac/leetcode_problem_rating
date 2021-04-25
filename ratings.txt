@@ -44,6 +44,7 @@ Rating	ID	Title	Title Slug
 2378.6234112504	757	Set Intersection Size At Least Two	set-intersection-size-at-least-two
 2377.3895801187	854	K-Similar Strings	k-similar-strings
 2376.8658923518	887	Super Egg Drop	super-egg-drop
+2374.1850487395	1840	Maximum Building Height	maximum-building-height
 2366.7099607655	1183	Maximum Number of Ones	maximum-number-of-ones
 2363.5096568214	1755	Closest Subsequence Sum	closest-subsequence-sum
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	maximum-number-of-non-overlapping-substrings
@@ -262,6 +263,7 @@ Rating	ID	Title	Title Slug
 1877.8983358307	1234	Replace the Substring for Balanced String	replace-the-substring-for-balanced-string
 1877.5624603804	752	Open the Lock	open-the-lock
 1876.3854625677	955	Delete Columns to Make Sorted II	delete-columns-to-make-sorted-ii
+1876.3611046625	1838	Frequency of the Most Frequent Element	frequency-of-the-most-frequent-element
 1876.1460190080	1392	Longest Happy Prefix	longest-happy-prefix
 1874.6468976233	1015	Smallest Integer Divisible by K	smallest-integer-divisible-by-k
 1873.0367582475	1001	Grid Illumination	grid-illumination
@@ -483,6 +485,7 @@ Rating	ID	Title	Title Slug
 1588.9690763997	1813	Sentence Similarity III	sentence-similarity-iii
 1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	form-array-by-concatenating-subarrays-of-another-array
 1585.5793143983	1029	Two City Scheduling	two-city-scheduling
+1580.3620959714	1839	Longest Substring Of All Vowels in Order	longest-substring-of-all-vowels-in-order
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs
 1578.8503818621	1034	Coloring A Border	coloring-a-border
 1575.6324598387	1415	The k-th Lexicographical String of All Happy Strings of Length n	the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
@@ -769,6 +772,7 @@ Rating	ID	Title	Title Slug
 1284.3625733813	1481	Least Number of Unique Integers after K Removals	least-number-of-unique-integers-after-k-removals
 1283.5102144800	1507	Reformat Date	reformat-date
 1283.4980318021	1252	Cells with Odd Values in a Matrix	cells-with-odd-values-in-a-matrix
+1282.4111853142	1837	Sum of Digits in Base K	sum-of-digits-in-base-k
 1281.9771427903	1624	Largest Substring Between Two Equal Characters	largest-substring-between-two-equal-characters
 1280.2941647587	1572	Matrix Diagonal Sum	matrix-diagonal-sum
 1279.7669712099	1002	Find Common Characters	find-common-characters
