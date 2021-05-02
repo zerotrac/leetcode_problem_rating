@@ -69,6 +69,7 @@ Rating	ID	Title	Title Slug
 2292.1434666805	761	Special Binary String	special-binary-string
 2290.9040038639	1591	Strange Printer II	strange-printer-ii
 2288.2117442123	1569	Number of Ways to Reorder Array to Get Same BST	number-of-ways-to-reorder-array-to-get-same-bst
+2286.1378742318	1851	Minimum Interval to Include Each Query	minimum-interval-to-include-each-query
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	find-minimum-time-to-finish-all-jobs
 2277.0238076464	749	Contain Virus	contain-virus
 2276.4233585631	1498	Number of Subsequences That Satisfy the Given Sum Condition	number-of-subsequences-that-satisfy-the-given-sum-condition
@@ -138,6 +139,7 @@ Rating	ID	Title	Title Slug
 2084.6866916045	1192	Critical Connections in a Network	critical-connections-in-a-network
 2084.2010769193	774	Minimize Max Distance to Gas Station	minimize-max-distance-to-gas-station
 2081.8087755451	1494	Parallel Courses II	parallel-courses-ii
+2081.7518764643	1847	Closest Room	closest-room
 2081.6909344021	1639	Number of Ways to Form a Target String Given a Dictionary	number-of-ways-to-form-a-target-string-given-a-dictionary
 2080.0425875741	1718	Construct the Lexicographically Largest Valid Sequence	construct-the-lexicographically-largest-valid-sequence
 2079.9846866239	1643	Kth Smallest Instructions	kth-smallest-instructions
@@ -147,6 +149,7 @@ Rating	ID	Title	Title Slug
 2077.5054883516	843	Guess the Word	guess-the-word
 2076.8975497986	1088	Confusing Number II	confusing-number-ii
 2074.4120526679	871	Minimum Number of Refueling Stops	minimum-number-of-refueling-stops
+2073.0124645606	1850	Minimum Adjacent Swaps to Reach the Kth Smallest Number	minimum-adjacent-swaps-to-reach-the-kth-smallest-number
 2072.7264178313	1799	Maximize Score After N Operations	maximize-score-after-n-operations
 2070.2102619334	1808	Maximize Number of Nice Divisors	maximize-number-of-nice-divisors
 2069.4030284676	1168	Optimize Water Distribution in a Village	optimize-water-distribution-in-a-village
@@ -366,6 +369,7 @@ Rating	ID	Title	Title Slug
 1749.4981778209	1111	Maximum Nesting Depth of Two Valid Parentheses Strings	maximum-nesting-depth-of-two-valid-parentheses-strings
 1748.1523771585	1297	Maximum Number of Occurrences of a Substring	maximum-number-of-occurrences-of-a-substring
 1747.6755111029	1191	K-Concatenation Maximum Sum	k-concatenation-maximum-sum
+1746.8757919578	1849	Splitting a String Into Descending Consecutive Values	splitting-a-string-into-descending-consecutive-values
 1746.1359179770	1024	Video Stitching	video-stitching
 1745.6580748712	1530	Number of Good Leaf Nodes Pairs	number-of-good-leaf-nodes-pairs
 1745.6490739887	1391	Check if There is a Valid Path in a Grid	check-if-there-is-a-valid-path-in-a-grid
@@ -593,6 +597,7 @@ Rating	ID	Title	Title Slug
 1460.9610936441	833	Find And Replace in String	find-and-replace-in-string
 1460.5903088359	1663	Smallest String With A Given Numeric Value	smallest-string-with-a-given-numeric-value
 1459.8208951847	1310	XOR Queries of a Subarray	xor-queries-of-a-subarray
+1454.3901912166	1846	Maximum Element After Decreasing and Rearranging	maximum-element-after-decreasing-and-rearranging
 1453.7818053022	1472	Design Browser History	design-browser-history
 1453.1833769825	781	Rabbits in Forest	rabbits-in-forest
 1450.5787293419	831	Masking Personal Information	masking-personal-information
@@ -620,6 +625,7 @@ Rating	ID	Title	Title Slug
 1429.6349292399	1357	Apply Discount Every n Orders	apply-discount-every-n-orders
 1429.1878389249	988	Smallest String Starting From Leaf	smallest-string-starting-from-leaf
 1428.7129059030	817	Linked List Components	linked-list-components
+1428.6729861424	1845	Seat Reservation Manager	seat-reservation-manager
 1428.1443796872	1669	Merge In Between Linked Lists	merge-in-between-linked-lists
 1426.9483793050	1315	Sum of Nodes with Even-Valued Grandparent	sum-of-nodes-with-even-valued-grandparent
 1426.7384112327	1432	Max Difference You Can Get From Changing an Integer	max-difference-you-can-get-from-changing-an-integer
@@ -750,6 +756,7 @@ Rating	ID	Title	Title Slug
 1302.7005460171	1266	Minimum Time Visiting All Points	minimum-time-visiting-all-points
 1301.4117757184	806	Number of Lines To Write String	number-of-lines-to-write-string
 1301.4027057843	1646	Get Maximum in Generated Array	get-maximum-in-generated-array
+1300.9041426403	1844	Replace All Digits with Characters	replace-all-digits-with-characters
 1300.8009461582	1790	Check if One String Swap Can Make Strings Equal	check-if-one-string-swap-can-make-strings-equal
 1299.6035132992	953	Verifying an Alien Dictionary	verifying-an-alien-dictionary
 1298.5921473119	908	Smallest Range I	smallest-range-i
@@ -839,6 +846,7 @@ Rating	ID	Title	Title Slug
 1219.5284561367	1221	Split a String in Balanced Strings	split-a-string-in-balanced-strings
 1219.4252907184	1299	Replace Elements with Greatest Element on Right Side	replace-elements-with-greatest-element-on-right-side
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	check-if-two-string-arrays-are-equivalent
+1216.6376846517	1848	Minimum Distance to the Target Element	minimum-distance-to-the-target-element
 1213.8073621345	973	K Closest Points to Origin	k-closest-points-to-origin
 1212.2606422181	1475	Final Prices With a Special Discount in a Shop	final-prices-with-a-special-discount-in-a-shop
 1212.2309421538	1413	Minimum Value to Get Positive Step by Step Sum	minimum-value-to-get-positive-step-by-step-sum
