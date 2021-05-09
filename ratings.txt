@@ -60,6 +60,7 @@ Rating	ID	Title	Title Slug
 2333.0078041754	1585	Check If String Is Transformable With Substring Sort Operations	check-if-string-is-transformable-with-substring-sort-operations
 2328.4294689238	882	Reachable Nodes In Subdivided Graph	reachable-nodes-in-subdivided-graph
 2315.6037017989	1187	Make Array Strictly Increasing	make-array-strictly-increasing
+2312.9919953644	1857	Largest Color Value in a Directed Graph	largest-color-value-in-a-directed-graph
 2308.6545905335	1617	Count Subtrees With Max Distance Between Cities	count-subtrees-with-max-distance-between-cities
 2307.0161713185	1655	Distribute Repeating Integers	distribute-repeating-integers
 2306.8472649456	862	Shortest Subarray with Sum at Least K	shortest-subarray-with-sum-at-least-k
@@ -161,6 +162,7 @@ Rating	ID	Title	Title Slug
 2056.3354942160	1473	Paint House III	paint-house-iii
 2055.0970201875	1575	Count All Possible Routes	count-all-possible-routes
 2053.7468090497	839	Similar String Groups	similar-string-groups
+2051.0879431258	1856	Maximum Subarray Min-Product	maximum-subarray-min-product
 2050.7159774570	1224	Maximum Equal Frequency	maximum-equal-frequency
 2050.2553211463	1648	Sell Diminishing-Valued Colored Balls	sell-diminishing-valued-colored-balls
 2048.0976546787	1553	Minimum Number of Days to Eat N Oranges	minimum-number-of-days-to-eat-n-oranges
@@ -548,6 +550,7 @@ Rating	ID	Title	Title Slug
 1519.1715594347	1641	Count Sorted Vowel Strings	count-sorted-vowel-strings
 1516.8229485853	775	Global and Local Inversions	global-and-local-inversions
 1516.4104902196	904	Fruit Into Baskets	fruit-into-baskets
+1514.8181710611	1855	Maximum Distance Between a Pair of Values	maximum-distance-between-a-pair-of-values
 1512.3323577063	1557	Minimum Number of Vertices to Reach All Nodes	minimum-number-of-vertices-to-reach-all-nodes
 1511.3725353467	1110	Delete Nodes And Return Forest	delete-nodes-and-return-forest
 1509.5432131875	1647	Minimum Deletions to Make Character Frequencies Unique	minimum-deletions-to-make-character-frequencies-unique
@@ -693,6 +696,7 @@ Rating	ID	Title	Title Slug
 1373.8113453501	1291	Sequential Digits	sequential-digits
 1372.7398808669	748	Shortest Completing Word	shortest-completing-word
 1370.6144908238	914	X of a Kind in a Deck of Cards	x-of-a-kind-in-a-deck-of-cards
+1370.4186698287	1854	Maximum Population Year	maximum-population-year
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	special-array-with-x-elements-greater-than-or-equal-x
 1369.0053354603	1370	Increasing Decreasing String	increasing-decreasing-string
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	replace-all-s-to-avoid-consecutive-repeating-characters
