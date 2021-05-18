@@ -57,6 +57,7 @@ Rating	ID	Title	Title Slug
 2341.4506355884	810	Chalkboard XOR Game	chalkboard-xor-game
 2336.5210003185	1505	Minimum Possible Integer After at Most K Adjacent Swaps On Digits	minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits
 2333.2401505813	1674	Minimum Moves to Make Array Complementary	minimum-moves-to-make-array-complementary
+2333.0621537307	1866	Number of Ways to Rearrange Sticks With K Sticks Visible	number-of-ways-to-rearrange-sticks-with-k-sticks-visible
 2333.0078041754	1585	Check If String Is Transformable With Substring Sort Operations	check-if-string-is-transformable-with-substring-sort-operations
 2328.4294689238	882	Reachable Nodes In Subdivided Graph	reachable-nodes-in-subdivided-graph
 2315.6037017989	1187	Make Array Strictly Increasing	make-array-strictly-increasing
@@ -110,6 +111,7 @@ Rating	ID	Title	Title Slug
 2182.0544529810	1771	Maximize Palindrome Length From Subsequences	maximize-palindrome-length-from-subsequences
 2175.6850426027	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons	build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 2171.7160666640	1691	Maximum Height by Stacking Cuboids 	maximum-height-by-stacking-cuboids
+2170.1079846744	1862	Sum of Floored Pairs	sum-of-floored-pairs
 2168.7531235448	786	K-th Smallest Prime Fraction	k-th-smallest-prime-fraction
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre
@@ -419,6 +421,7 @@ Rating	ID	Title	Title Slug
 1686.4493679523	950	Reveal Cards In Increasing Order	reveal-cards-in-increasing-order
 1682.8882177724	1443	Minimum Time to Collect All Apples in a Tree	minimum-time-to-collect-all-apples-in-a-tree
 1681.3263732456	767	Reorganize String	reorganize-string
+1680.8242599300	1865	Finding Pairs With a Certain Sum	finding-pairs-with-a-certain-sum
 1680.4852623991	1031	Maximum Sum of Two Non-Overlapping Subarrays	maximum-sum-of-two-non-overlapping-subarrays
 1679.2607152001	1402	Reducing Dishes	reducing-dishes
 1678.3947690537	885	Spiral Matrix III	spiral-matrix-iii
@@ -476,6 +479,7 @@ Rating	ID	Title	Title Slug
 1606.2185826486	1604	Alert Using Same Key-Card Three or More Times in a One Hour Period	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
 1604.9737380545	809	Expressive Words	expressive-words
 1601.5117605320	926	Flip String to Monotone Increasing	flip-string-to-monotone-increasing
+1600.5573262373	1864	Minimum Number of Swaps to Make the Binary String Alternating	minimum-number-of-swaps-to-make-the-binary-string-alternating
 1599.2720584736	1048	Longest String Chain	longest-string-chain
 1597.1931473887	1218	Longest Arithmetic Subsequence of Given Difference	longest-arithmetic-subsequence-of-given-difference
 1597.0215918551	1247	Minimum Swaps to Make Strings Equal	minimum-swaps-to-make-strings-equal
@@ -531,6 +535,7 @@ Rating	ID	Title	Title Slug
 1541.2260256298	1229	Meeting Scheduler	meeting-scheduler
 1540.5750839091	1382	Balance a Binary Search Tree	balance-a-binary-search-tree
 1537.1387686755	1023	Camelcase Matching	camelcase-matching
+1536.7018543075	1861	Rotating the Box	rotating-the-box
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	smallest-subtree-with-all-the-deepest-nodes
 1534.0648719302	1797	Design Authentication Manager	design-authentication-manager
 1533.9285875234	1362	Closest Divisors	closest-divisors
@@ -674,6 +679,7 @@ Rating	ID	Title	Title Slug
 1389.0328392117	1214	Two Sum BSTs	two-sum-bsts
 1387.9431104106	1302	Deepest Leaves Sum	deepest-leaves-sum
 1387.3672639293	937	Reorder Data in Log Files	reorder-data-in-log-files
+1387.2941868867	1860	Incremental Memory Leak	incremental-memory-leak
 1386.9203620297	1721	Swapping Nodes in a Linked List	swapping-nodes-in-a-linked-list
 1386.3256313989	1276	Number of Burgers with No Waste of Ingredients	number-of-burgers-with-no-waste-of-ingredients
 1384.4078082338	1271	Hexspeak	hexspeak
@@ -695,6 +701,7 @@ Rating	ID	Title	Title Slug
 1374.3549007913	1619	Mean of Array After Removing Some Elements	mean-of-array-after-removing-some-elements
 1373.8113453501	1291	Sequential Digits	sequential-digits
 1372.7398808669	748	Shortest Completing Word	shortest-completing-word
+1372.1152262488	1863	Sum of All Subset XOR Totals	sum-of-all-subset-xor-totals
 1370.6144908238	914	X of a Kind in a Deck of Cards	x-of-a-kind-in-a-deck-of-cards
 1370.4186698287	1854	Maximum Population Year	maximum-population-year
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	special-array-with-x-elements-greater-than-or-equal-x
@@ -770,6 +777,7 @@ Rating	ID	Title	Title Slug
 1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	minimum-number-of-operations-to-move-all-balls-to-each-box
 1294.5297034757	1716	Calculate Money in Leetcode Bank	calculate-money-in-leetcode-bank
 1293.4904281819	1551	Minimum Operations to Make Array Equal	minimum-operations-to-make-array-equal
+1290.0361853035	1859	Sorting the Sentence	sorting-the-sentence
 1288.5621697906	1684	Count the Number of Consistent Strings	count-the-number-of-consistent-strings
 1288.1970048184	1403	Minimum Subsequence in Non-Increasing Order	minimum-subsequence-in-non-increasing-order
 1287.9002757199	993	Cousins in Binary Tree	cousins-in-binary-tree
