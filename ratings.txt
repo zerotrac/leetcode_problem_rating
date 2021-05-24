@@ -27,6 +27,7 @@ Rating	ID	Title	Title Slug
 2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes
 2456.3900212097	1499	Max Value of Equation	max-value-of-equation
 2455.8244137907	1040	Moving Stones Until Consecutive II	moving-stones-until-consecutive-ii
+2439.7337408636	1872	Stone Game VIII	stone-game-viii
 2433.3767704629	903	Valid Permutations for DI Sequence	valid-permutations-for-di-sequence
 2429.6705422448	782	Transform to Chessboard	transform-to-chessboard
 2428.7985254341	1044	Longest Duplicate Substring	longest-duplicate-substring
@@ -259,6 +260,7 @@ Rating	ID	Title	Title Slug
 1899.6213866649	823	Binary Trees With Factors	binary-trees-with-factors
 1897.3309169423	780	Reaching Points	reaching-points
 1896.7975214446	878	Nth Magical Number	nth-magical-number
+1896.1411567598	1871	Jump Game VII	jump-game-vii
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	minimize-hamming-distance-after-swap-operations
 1885.1051527272	1066	Campus Bikes II	campus-bikes-ii
 1885.0178370385	1326	Minimum Number of Taps to Open to Water a Garden	minimum-number-of-taps-to-open-to-water-a-garden
@@ -428,6 +430,7 @@ Rating	ID	Title	Title Slug
 1678.1133886034	853	Car Fleet	car-fleet
 1675.9894075840	974	Subarray Sums Divisible by K	subarray-sums-divisible-by-k
 1675.9610355975	987	Vertical Order Traversal of a Binary Tree	vertical-order-traversal-of-a-binary-tree
+1675.7612347410	1870	Minimum Speed to Arrive on Time	minimum-speed-to-arrive-on-time
 1674.9985842835	1339	Maximum Product of Splitted Binary Tree	maximum-product-of-splitted-binary-tree
 1674.5365205597	1215	Stepping Numbers	stepping-numbers
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
@@ -870,6 +873,7 @@ Rating	ID	Title	Title Slug
 1207.7224406285	1704	Determine if String Halves Are Alike	determine-if-string-halves-are-alike
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	check-if-binary-string-has-at-most-one-segment-of-ones
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	find-words-that-can-be-formed-by-characters
+1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	longer-contiguous-segments-of-ones-than-zeros
 1203.1408035909	1688	Count of Matches in Tournament	count-of-matches-in-tournament
 1201.6117337798	997	Find the Town Judge	find-the-town-judge
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	average-salary-excluding-the-minimum-and-maximum-salary
