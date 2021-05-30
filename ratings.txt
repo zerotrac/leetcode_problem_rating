@@ -9,6 +9,7 @@ Rating	ID	Title	Title Slug
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports
 2594.1356734520	964	Least Operators to Express Number	least-operators-to-express-number
+2587.8725248485	1883	Minimum Skips to Arrive at Meeting On Time	minimum-skips-to-arrive-at-meeting-on-time
 2583.4069119510	936	Stamping The Sequence	stamping-the-sequence
 2575.9570281316	1531	String Compression II	string-compression-ii
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
@@ -213,6 +214,7 @@ Rating	ID	Title	Title Slug
 1983.2319731313	1250	Check If It Is a Good Array	check-if-it-is-a-good-array
 1982.5085994817	805	Split Array With Same Average	split-array-with-same-average
 1979.1323403633	1278	Palindrome Partitioning III	palindrome-partitioning-iii
+1979.1112273597	1882	Process Tasks Using Servers	process-tasks-using-servers
 1976.7214151234	1092	Shortest Common Supersequence 	shortest-common-supersequence
 1975.5726300727	907	Sum of Subarray Minimums	sum-of-subarray-minimums
 1973.7407637067	1488	Avoid Flood in The City	avoid-flood-in-the-city
@@ -693,6 +695,7 @@ Rating	ID	Title	Title Slug
 1382.7178688716	849	Maximize Distance to Closest Person	maximize-distance-to-closest-person
 1382.5129151601	797	All Paths From Source to Target	all-paths-from-source-to-target
 1382.4809893713	1185	Day of the Week	day-of-the-week
+1381.2168789318	1881	Maximum Value after Insertion	maximum-value-after-insertion
 1380.1541980647	814	Binary Tree Pruning	binary-tree-pruning
 1380.0192844155	1828	Queries on Number of Points Inside a Circle	queries-on-number-of-points-inside-a-circle
 1378.7570411077	1013	Partition Array Into Three Parts With Equal Sum	partition-array-into-three-parts-with-equal-sum
@@ -893,6 +896,7 @@ Rating	ID	Title	Title Slug
 1192.3167969426	1436	Destination City	destination-city
 1188.6470369782	747	Largest Number At Least Twice of Others	largest-number-at-least-twice-of-others
 1188.6311093158	1122	Relative Sort Array	relative-sort-array
+1187.1641565458	1880	Check if Word Equals Summation of Two Words	check-if-word-equals-summation-of-two-words
 1182.6489068544	1672	Richest Customer Wealth	richest-customer-wealth
 1181.9716216714	1189	Maximum Number of Balloons	maximum-number-of-balloons
 1181.5839867359	852	Peak Index in a Mountain Array	peak-index-in-a-mountain-array
