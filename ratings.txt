@@ -117,6 +117,7 @@ Rating	ID	Title	Title Slug
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre
 2147.1828941776	1610	Maximum Number of Visible Points	maximum-number-of-visible-points
+2145.1839952670	1879	Minimum XOR Sum of Two Arrays	minimum-xor-sum-of-two-arrays
 2140.0220703954	906	Super Palindromes	super-palindromes
 2135.5738659086	959	Regions Cut By Slashes	regions-cut-by-slashes
 2134.5448970405	910	Smallest Range II	smallest-range-ii
@@ -258,6 +259,7 @@ Rating	ID	Title	Title Slug
 1908.3866125757	1124	Longest Well-Performing Interval	longest-well-performing-interval
 1900.8434122725	1665	Minimum Initial Energy to Finish Tasks	minimum-initial-energy-to-finish-tasks
 1899.6213866649	823	Binary Trees With Factors	binary-trees-with-factors
+1897.5516652727	1878	Get Biggest Three Rhombus Sums in a Grid	get-biggest-three-rhombus-sums-in-a-grid
 1897.3309169423	780	Reaching Points	reaching-points
 1896.7975214446	878	Nth Magical Number	nth-magical-number
 1896.1411567598	1871	Jump Game VII	jump-game-vii
@@ -770,6 +772,7 @@ Rating	ID	Title	Title Slug
 1302.7005460171	1266	Minimum Time Visiting All Points	minimum-time-visiting-all-points
 1301.4117757184	806	Number of Lines To Write String	number-of-lines-to-write-string
 1301.4027057843	1646	Get Maximum in Generated Array	get-maximum-in-generated-array
+1301.3817574010	1877	Minimize Maximum Pair Sum in Array	minimize-maximum-pair-sum-in-array
 1300.9041426403	1844	Replace All Digits with Characters	replace-all-digits-with-characters
 1300.8009461582	1790	Check if One String Swap Can Make Strings Equal	check-if-one-string-swap-can-make-strings-equal
 1299.6035132992	953	Verifying an Alien Dictionary	verifying-an-alien-dictionary
@@ -829,6 +832,7 @@ Rating	ID	Title	Title Slug
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	maximum-level-sum-of-a-binary-tree
 1249.4294341104	766	Toeplitz Matrix	toeplitz-matrix
 1248.8026990632	1196	How Many Apples Can You Put into the Basket	how-many-apples-can-you-put-into-the-basket
+1248.7224675206	1876	Substrings of Size Three with Distinct Characters	substrings-of-size-three-with-distinct-characters
 1247.3198836387	1232	Check If It Is a Straight Line	check-if-it-is-a-straight-line
 1245.2999833877	1518	Water Bottles	water-bottles
 1245.2741257148	1099	Two Sum Less Than K	two-sum-less-than-k
