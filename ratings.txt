@@ -94,6 +94,7 @@ Rating	ID	Title	Title Slug
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold
+2214.4798747386	1889	Minimum Space Wasted From Packaging	minimum-space-wasted-from-packaging
 2210.3503183571	992	Subarrays with K Different Integers	subarrays-with-k-different-integers
 2208.5532172086	1568	Minimum Number of Days to Disconnect Island	minimum-number-of-days-to-disconnect-island
 2207.8565809952	1649	Create Sorted Array through Instructions	create-sorted-array-through-instructions
@@ -198,6 +199,7 @@ Rating	ID	Title	Title Slug
 2011.3542735398	1102	Path With Maximum Minimum Value	path-with-maximum-minimum-value
 2010.5524756946	880	Decoded String at Index	decoded-string-at-index
 2008.4065079100	1223	Dice Roll Simulation	dice-roll-simulation
+2005.5862669078	1888	Minimum Number of Flips to Make the Binary String Alternating	minimum-number-of-flips-to-make-the-binary-string-alternating
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	minimum-degree-of-a-connected-trio-in-a-graph
 2000.8441804448	1686	Stone Game VI	stone-game-vi
 2000.8021428612	911	Online Election	online-election
@@ -642,6 +644,7 @@ Rating	ID	Title	Title Slug
 1428.7129059030	817	Linked List Components	linked-list-components
 1428.6729861424	1845	Seat Reservation Manager	seat-reservation-manager
 1428.1443796872	1669	Merge In Between Linked Lists	merge-in-between-linked-lists
+1427.7906804882	1887	Reduction Operations to Make the Array Elements Equal	reduction-operations-to-make-the-array-elements-equal
 1426.9483793050	1315	Sum of Nodes with Even-Valued Grandparent	sum-of-nodes-with-even-valued-grandparent
 1426.7384112327	1432	Max Difference You Can Get From Changing an Integer	max-difference-you-can-get-from-changing-an-integer
 1426.7144554733	1003	Check If Word Is Valid After Substitutions	check-if-word-is-valid-after-substitutions
@@ -664,6 +667,7 @@ Rating	ID	Title	Title Slug
 1407.9870845299	1006	Clumsy Factorial	clumsy-factorial
 1407.5442381391	1217	Minimum Cost to Move Chips to The Same Position	minimum-cost-to-move-chips-to-the-same-position
 1407.1322366299	1325	Delete Leaves With a Given Value	delete-leaves-with-a-given-value
+1407.0629410799	1886	Determine Whether Matrix Can Be Obtained By Rotation	determine-whether-matrix-can-be-obtained-by-rotation
 1405.5786892723	1561	Maximum Number of Coins You Can Get	maximum-number-of-coins-you-can-get
 1405.4005354401	1410	HTML Entity Parser	html-entity-parser
 1405.0021415178	1457	Pseudo-Palindromic Paths in a Binary Tree	pseudo-palindromic-paths-in-a-binary-tree
