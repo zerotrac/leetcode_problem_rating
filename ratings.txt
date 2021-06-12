@@ -18,6 +18,7 @@ Rating	ID	Title	Title Slug
 2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
+2531.6452775023	1896	Minimum Cost to Change the Final Value of Expression	minimum-cost-to-change-the-final-value-of-expression
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
@@ -359,6 +360,7 @@ Rating	ID	Title	Title Slug
 1783.2337340478	851	Loud and Rich	loud-and-rich
 1782.9801784101	1765	Map of Highest Peak	map-of-highest-peak
 1782.3312212058	1171	Remove Zero Sum Consecutive Nodes from Linked List	remove-zero-sum-consecutive-nodes-from-linked-list
+1781.3664141686	1895	Largest Magic Square	largest-magic-square
 1779.9495819318	842	Split Array into Fibonacci Sequence	split-array-into-fibonacci-sequence
 1779.8364613072	1424	Diagonal Traverse II	diagonal-traverse-ii
 1779.7534349429	1129	Shortest Path with Alternating Colors	shortest-path-with-alternating-colors
@@ -725,6 +727,7 @@ Rating	ID	Title	Title Slug
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
+1355.5386161215	1894	Find the Student that Will Replace the Chalk	find-the-student-that-will-replace-the-chalk
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
 1354.1247827015	1243	Array Transformation	array-transformation
 1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string
@@ -772,6 +775,7 @@ Rating	ID	Title	Title Slug
 1309.3113721825	1451	Rearrange Words in a Sentence	rearrange-words-in-a-sentence
 1307.9800903088	1064	Fixed Point	fixed-point
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words
+1307.3797385769	1893	Check if All the Integers in a Range Are Covered	check-if-all-the-integers-in-a-range-are-covered
 1307.2991245272	868	Binary Gap	binary-gap
 1303.3201984827	783	Minimum Distance Between BST Nodes	minimum-distance-between-bst-nodes
 1303.0225704970	1338	Reduce Array Size to The Half	reduce-array-size-to-the-half
