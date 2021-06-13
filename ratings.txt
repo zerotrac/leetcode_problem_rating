@@ -29,6 +29,7 @@ Rating	ID	Title	Title Slug
 2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes
 2456.3900212097	1499	Max Value of Equation	max-value-of-equation
 2455.8244137907	1040	Moving Stones Until Consecutive II	moving-stones-until-consecutive-ii
+2454.7653333657	1900	The Earliest and Latest Rounds Where Players Compete	the-earliest-and-latest-rounds-where-players-compete
 2439.7337408636	1872	Stone Game VIII	stone-game-viii
 2433.3767704629	903	Valid Permutations for DI Sequence	valid-permutations-for-di-sequence
 2429.6705422448	782	Transform to Chessboard	transform-to-chessboard
@@ -258,6 +259,7 @@ Rating	ID	Title	Title Slug
 1916.0689858272	1043	Partition Array for Maximum Sum	partition-array-for-maximum-sum
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	maximum-sum-bst-in-binary-tree
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	minimum-number-of-removals-to-make-mountain-array
+1912.8440554296	1898	Maximum Number of Removable Characters	maximum-number-of-removable-characters
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	longest-chunked-palindrome-decomposition
 1911.1959516695	873	Length of Longest Fibonacci Subsequence	length-of-longest-fibonacci-subsequence
 1909.4189035523	991	Broken Calculator	broken-calculator
@@ -466,6 +468,7 @@ Rating	ID	Title	Title Slug
 1638.0148920643	990	Satisfiability of Equality Equations	satisfiability-of-equality-equations
 1637.0082208814	1558	Minimum Numbers of Function Calls to Make Target Array	minimum-numbers-of-function-calls-to-make-target-array
 1636.6877598712	1386	Cinema Seat Allocation	cinema-seat-allocation
+1635.6879273926	1899	Merge Triplets to Form Target Triplet	merge-triplets-to-form-target-triplet
 1633.6202302555	1466	Reorder Routes to Make All Paths Lead to the City Zero	reorder-routes-to-make-all-paths-lead-to-the-city-zero
 1633.1789521619	1053	Previous Permutation With One Swap	previous-permutation-with-one-swap
 1633.1372577433	1319	Number of Operations to Make Network Connected	number-of-operations-to-make-network-connected
@@ -773,6 +776,7 @@ Rating	ID	Title	Title Slug
 1311.3495317884	1021	Remove Outermost Parentheses	remove-outermost-parentheses
 1309.8100518373	1710	Maximum Units on a Truck	maximum-units-on-a-truck
 1309.3113721825	1451	Rearrange Words in a Sentence	rearrange-words-in-a-sentence
+1309.1422268153	1897	Redistribute Characters to Make All Strings Equal	redistribute-characters-to-make-all-strings-equal
 1307.9800903088	1064	Fixed Point	fixed-point
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words
 1307.3797385769	1893	Check if All the Integers in a Range Are Covered	check-if-all-the-integers-in-a-range-are-covered
