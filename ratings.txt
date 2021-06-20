@@ -121,6 +121,7 @@ Rating	ID	Title	Title Slug
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre
 2147.1828941776	1610	Maximum Number of Visible Points	maximum-number-of-visible-points
+2146.6395819980	1906	Minimum Absolute Difference Queries	minimum-absolute-difference-queries
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	minimum-xor-sum-of-two-arrays
 2140.0220703954	906	Super Palindromes	super-palindromes
 2135.5738659086	959	Regions Cut By Slashes	regions-cut-by-slashes
@@ -436,6 +437,7 @@ Rating	ID	Title	Title Slug
 1680.8242599300	1865	Finding Pairs With a Certain Sum	finding-pairs-with-a-certain-sum
 1680.4852623991	1031	Maximum Sum of Two Non-Overlapping Subarrays	maximum-sum-of-two-non-overlapping-subarrays
 1679.2607152001	1402	Reducing Dishes	reducing-dishes
+1678.7231378948	1905	Count Sub Islands	count-sub-islands
 1678.3947690537	885	Spiral Matrix III	spiral-matrix-iii
 1678.1133886034	853	Car Fleet	car-fleet
 1675.9894075840	974	Subarray Sums Divisible by K	subarray-sums-divisible-by-k
@@ -585,6 +587,7 @@ Rating	ID	Title	Title Slug
 1501.1152614679	1090	Largest Values From Labels	largest-values-from-labels
 1500.8381829812	915	Partition Array into Disjoint Intervals	partition-array-into-disjoint-intervals
 1499.7136257352	1525	Number of Good Ways to Split a String	number-of-good-ways-to-split-a-string
+1498.1542511841	1904	The Number of Full Rounds You Have Played	the-number-of-full-rounds-you-have-played
 1497.8880991093	998	Maximum Binary Tree II	maximum-binary-tree-ii
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	sum-of-absolute-differences-in-a-sorted-array
@@ -846,6 +849,7 @@ Rating	ID	Title	Title Slug
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	check-if-a-number-is-majority-element-in-a-sorted-array
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	maximum-level-sum-of-a-binary-tree
 1249.4294341104	766	Toeplitz Matrix	toeplitz-matrix
+1248.8547072235	1903	Largest Odd Number in String	largest-odd-number-in-string
 1248.8026990632	1196	How Many Apples Can You Put into the Basket	how-many-apples-can-you-put-into-the-basket
 1248.7224675206	1876	Substrings of Size Three with Distinct Characters	substrings-of-size-three-with-distinct-characters
 1247.3198836387	1232	Check If It Is a Straight Line	check-if-it-is-a-straight-line
