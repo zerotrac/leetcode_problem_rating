@@ -4,6 +4,7 @@ Rating	ID	Title	Title Slug
 2849.4841858619	1728	Cat and Mouse II	cat-and-mouse-ii
 2765.2533837781	803	Bricks Falling When Hit	bricks-falling-when-hit
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
+2661.0670044656	1923	Longest Common Subpath	longest-common-subpath
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
@@ -22,6 +23,7 @@ Rating	ID	Title	Title Slug
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
+2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
 2479.3282985529	1803	Count Pairs With XOR in a Range	count-pairs-with-xor-in-a-range
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
@@ -91,6 +93,7 @@ Rating	ID	Title	Title Slug
 2246.8671174565	960	Delete Columns to Make Sorted III	delete-columns-to-make-sorted-iii
 2241.5199974312	1240	Tiling a Rectangle with the Fewest Squares	tiling-a-rectangle-with-the-fewest-squares
 2235.9672341699	850	Rectangle Area II	rectangle-area-ii
+2234.9191877602	1915	Number of Wonderful Substrings	number-of-wonderful-substrings
 2233.9639034080	1178	Number of Valid Words for Each Puzzle	number-of-valid-words-for-each-puzzle
 2231.8099102949	1766	Tree of Coprimes	tree-of-coprimes
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits
@@ -114,6 +117,7 @@ Rating	ID	Title	Title Slug
 2184.5241011615	1081	Smallest Subsequence of Distinct Characters	smallest-subsequence-of-distinct-characters
 2182.6180030785	891	Sum of Subsequence Widths	sum-of-subsequence-widths
 2182.0544529810	1771	Maximize Palindrome Length From Subsequences	maximize-palindrome-length-from-subsequences
+2181.7821188042	1912	Design Movie Rental System	design-movie-rental-system
 2175.6850426027	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons	build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 2171.7160666640	1691	Maximum Height by Stacking Cuboids 	maximum-height-by-stacking-cuboids
 2170.1079846744	1862	Sum of Floored Pairs	sum-of-floored-pairs
@@ -359,6 +363,7 @@ Rating	ID	Title	Title Slug
 1786.5491561897	971	Flip Binary Tree To Match Preorder Traversal	flip-binary-tree-to-match-preorder-traversal
 1786.4753467293	787	Cheapest Flights Within K Stops	cheapest-flights-within-k-stops
 1786.3121598293	983	Minimum Cost For Tickets	minimum-cost-for-tickets
+1785.6872758693	1911	Maximum Alternating Subsequence Sum	maximum-alternating-subsequence-sum
 1784.2539813582	894	All Possible Full Binary Trees	all-possible-full-binary-trees
 1783.2337340478	851	Loud and Rich	loud-and-rich
 1782.9801784101	1765	Map of Highest Peak	map-of-highest-peak
@@ -373,6 +378,7 @@ Rating	ID	Title	Title Slug
 1774.8764591297	1238	Circular Permutation in Binary Representation	circular-permutation-in-binary-representation
 1770.8924569497	1146	Snapshot Array	snapshot-array
 1768.6238968290	1600	Throne Inheritance	throne-inheritance
+1766.2506177612	1914	Cyclically Rotating a Grid	cyclically-rotating-a-grid
 1765.5654059263	875	Koko Eating Bananas	koko-eating-bananas
 1764.9170564773	1706	Where Will the Ball Fall	where-will-the-ball-fall
 1762.3115124143	948	Bag of Tokens	bag-of-tokens
@@ -444,6 +450,7 @@ Rating	ID	Title	Title Slug
 1675.9610355975	987	Vertical Order Traversal of a Binary Tree	vertical-order-traversal-of-a-binary-tree
 1675.7612347410	1870	Minimum Speed to Arrive on Time	minimum-speed-to-arrive-on-time
 1674.9985842835	1339	Maximum Product of Splitted Binary Tree	maximum-product-of-splitted-binary-tree
+1674.7986939472	1922	Count Good Numbers	count-good-numbers
 1674.5365205597	1215	Stepping Numbers	stepping-numbers
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
 1671.4657554194	1738	Find Kth Largest XOR Coordinate Value	find-kth-largest-xor-coordinate-value
@@ -561,6 +568,7 @@ Rating	ID	Title	Title Slug
 1530.0343519239	1726	Tuple with Same Product	tuple-with-same-product
 1529.7617243868	881	Boats to Save People	boats-to-save-people
 1528.7183829005	1695	Maximum Erasure Value	maximum-erasure-value
+1527.6868660176	1921	Eliminate Maximum Number of Monsters	eliminate-maximum-number-of-monsters
 1524.8218282113	1272	Remove Interval	remove-interval
 1524.5693481538	1442	Count Triplets That Can Form Two Arrays of Equal XOR	count-triplets-that-can-form-two-arrays-of-equal-xor
 1524.3227469000	1640	Check Array Formation Through Concatenation	check-array-formation-through-concatenation
@@ -619,7 +627,9 @@ Rating	ID	Title	Title Slug
 1464.5254961488	1396	Design Underground System	design-underground-system
 1462.4423844498	1022	Sum of Root To Leaf Binary Numbers	sum-of-root-to-leaf-binary-numbers
 1461.9157715206	946	Validate Stack Sequences	validate-stack-sequences
+1461.2892510067	1909	Remove One Element to Make the Array Strictly Increasing	remove-one-element-to-make-the-array-strictly-increasing
 1460.9610936441	833	Find And Replace in String	find-and-replace-in-string
+1460.9105672071	1910	Remove All Occurrences of a Substring	remove-all-occurrences-of-a-substring
 1460.5903088359	1663	Smallest String With A Given Numeric Value	smallest-string-with-a-given-numeric-value
 1459.8208951847	1310	XOR Queries of a Subarray	xor-queries-of-a-subarray
 1454.3901912166	1846	Maximum Element After Decreasing and Rearranging	maximum-element-after-decreasing-and-rearranging
@@ -936,10 +946,12 @@ Rating	ID	Title	Title Slug
 1163.6047095526	1342	Number of Steps to Reduce a Number to Zero	number-of-steps-to-reduce-a-number-to-zero
 1161.6227767245	961	N-Repeated Element in Size 2N Array	n-repeated-element-in-size-2n-array
 1160.8899403409	1512	Number of Good Pairs	number-of-good-pairs
+1160.4439395369	1920	Build Array from Permutation	build-array-from-permutation
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	can-make-arithmetic-progression-from-sequence
 1152.1377893605	1365	How Many Numbers Are Smaller Than the Current Number	how-many-numbers-are-smaller-than-the-current-number
 1151.5250329621	1460	Make Two Arrays Equal by Reversing Sub-arrays	make-two-arrays-equal-by-reversing-sub-arrays
 1151.3534799042	1290	Convert Binary Number in a Linked List to Integer	convert-binary-number-in-a-linked-list-to-integer
+1144.6237559885	1913	Maximum Product Difference Between Two Pairs	maximum-product-difference-between-two-pairs
 1142.8650731632	1137	N-th Tribonacci Number	n-th-tribonacci-number
 1141.2363999461	1281	Subtract the Product and Sum of Digits of an Integer	subtract-the-product-and-sum-of-digits-of-an-integer
 1139.6630206282	1295	Find Numbers with Even Number of Digits	find-numbers-with-even-number-of-digits
