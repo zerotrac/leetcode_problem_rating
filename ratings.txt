@@ -24,6 +24,7 @@ Rating	ID	Title	Title Slug
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony
+2483.9435767299	1932	Merge BSTs to Create Single BST	merge-bsts-to-create-single-bst
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
 2479.3282985529	1803	Count Pairs With XOR in a Range	count-pairs-with-xor-in-a-range
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
@@ -38,6 +39,7 @@ Rating	ID	Title	Title Slug
 2428.7985254341	1044	Longest Duplicate Substring	longest-duplicate-substring
 2422.5309771173	1000	Minimum Cost to Merge Stones	minimum-cost-to-merge-stones
 2418.5742747632	1203	Sort Items by Groups Respecting Dependencies	sort-items-by-groups-respecting-dependencies
+2413.3969129689	1928	Minimum Cost to Reach Destination in Time	minimum-cost-to-reach-destination-in-time
 2409.7580728676	1388	Pizza With 3n Slices	pizza-with-3n-slices
 2399.5729141925	920	Number of Music Playlists	number-of-music-playlists
 2396.6267778669	808	Soup Servings	soup-servings
@@ -121,6 +123,7 @@ Rating	ID	Title	Title Slug
 2175.6850426027	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons	build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 2171.7160666640	1691	Maximum Height by Stacking Cuboids 	maximum-height-by-stacking-cuboids
 2170.1079846744	1862	Sum of Floored Pairs	sum-of-floored-pairs
+2170.0439693714	1931	Painting a Grid With Three Different Colors	painting-a-grid-with-three-different-colors
 2168.7531235448	786	K-th Smallest Prime Fraction	k-th-smallest-prime-fraction
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre
@@ -208,6 +211,7 @@ Rating	ID	Title	Title Slug
 2008.4065079100	1223	Dice Roll Simulation	dice-roll-simulation
 2005.5862669078	1888	Minimum Number of Flips to Make the Binary String Alternating	minimum-number-of-flips-to-make-the-binary-string-alternating
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	minimum-degree-of-a-connected-trio-in-a-graph
+2004.5346526204	1927	Sum Game	sum-game
 2000.8441804448	1686	Stone Game VI	stone-game-vi
 2000.8021428612	911	Online Election	online-election
 1999.1208076854	765	Couples Holding Hands	couples-holding-hands
@@ -473,6 +477,7 @@ Rating	ID	Title	Title Slug
 1649.9728054796	1367	Linked List in Binary Tree	linked-list-in-binary-tree
 1648.3417578820	870	Advantage Shuffle	advantage-shuffle
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters
+1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze
 1638.1281256708	838	Push Dominoes	push-dominoes
 1638.0148920643	990	Satisfiability of Equality Equations	satisfiability-of-equality-equations
 1637.0082208814	1558	Minimum Numbers of Function Calls to Make Target Array	minimum-numbers-of-function-calls-to-make-target-array
@@ -562,6 +567,7 @@ Rating	ID	Title	Title Slug
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	smallest-subtree-with-all-the-deepest-nodes
 1534.0648719302	1797	Design Authentication Manager	design-authentication-manager
 1533.9285875234	1362	Closest Divisors	closest-divisors
+1533.3376144199	1930	Unique Length-3 Palindromic Subsequences	unique-length-3-palindromic-subsequences
 1532.2539947529	900	RLE Iterator	rle-iterator
 1530.4954397880	1400	Construct K Palindrome Strings	construct-k-palindrome-strings
 1530.4652027753	1657	Determine if Two Strings Are Close	determine-if-two-strings-are-close
@@ -777,6 +783,7 @@ Rating	ID	Title	Title Slug
 1324.5696223867	1344	Angle Between Hands of a Clock	angle-between-hands-of-a-clock
 1324.5320836804	1752	Check if Array Is Sorted and Rotated	check-if-array-is-sorted-and-rotated
 1324.1757200103	1603	Design Parking System	design-parking-system
+1323.8236471852	1925	Count Square Sum Triples	count-square-sum-triples
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	maximum-nesting-depth-of-the-parentheses
 1321.9346201204	1694	Reformat Phone Number	reformat-phone-number
 1321.2748903388	1582	Special Positions in a Binary Matrix	special-positions-in-a-binary-matrix
@@ -956,6 +963,7 @@ Rating	ID	Title	Title Slug
 1141.2363999461	1281	Subtract the Product and Sum of Digits of an Integer	subtract-the-product-and-sum-of-digits-of-an-integer
 1139.6630206282	1295	Find Numbers with Even Number of Digits	find-numbers-with-even-number-of-digits
 1139.4248492279	1351	Count Negative Numbers in a Sorted Matrix	count-negative-numbers-in-a-sorted-matrix
+1132.6812943289	1929	Concatenation of Array	concatenation-of-array
 1129.9490902320	977	Squares of a Sorted Array	squares-of-a-sorted-array
 1129.3432988996	1450	Number of Students Doing Homework at a Given Time	number-of-students-doing-homework-at-a-given-time
 1125.5752382740	1455	Check If a Word Occurs As a Prefix of Any Word in a Sentence	check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
