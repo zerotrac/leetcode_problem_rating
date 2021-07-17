@@ -1,5 +1,7 @@
 # Leetcode Problem Rating Project
 
+![img](https://fc.dianhsu.top/lc?user=zerotrac2&loc=cn&req=rating)
+
 The project has been deployed to [Github Pages](https://zerotrac.github.io/leetcode_problem_rating/).
 
 Calculate the rating of the problems in leetcode weekly/biweekly contests based on [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) as well as [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). It is not a 100% accurate result, but sufficient for evaluating the relative difficulty of a problem.
