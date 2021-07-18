@@ -22,6 +22,7 @@ Rating	ID	Title	Title Slug
 2531.6452775023	1896	Minimum Cost to Change the Final Value of Expression	minimum-cost-to-change-the-final-value-of-expression
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
+2502.5176603922	1938	Maximum Genetic Difference Query	maximum-genetic-difference-query
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony
 2483.9435767299	1932	Merge BSTs to Create Single BST	merge-bsts-to-create-single-bst
@@ -146,6 +147,7 @@ Rating	ID	Title	Title Slug
 2116.4935282950	1547	Minimum Cost to Cut a Stick	minimum-cost-to-cut-a-stick
 2115.0911494487	1483	Kth Ancestor of a Tree Node	kth-ancestor-of-a-tree-node
 2109.9830154953	1172	Dinner Plate Stacks	dinner-plate-stacks
+2105.7761215397	1937	Maximum Number of Points with Cost	maximum-number-of-points-with-cost
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	preimage-size-of-factorial-zeroes-function
 2096.6201393558	778	Swim in Rising Water	swim-in-rising-water
 2096.6098086765	899	Orderly Queue	orderly-queue
@@ -785,6 +787,7 @@ Rating	ID	Title	Title Slug
 1324.1757200103	1603	Design Parking System	design-parking-system
 1323.8236471852	1925	Count Square Sum Triples	count-square-sum-triples
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	maximum-nesting-depth-of-the-parentheses
+1322.5926536743	1936	Add Minimum Number of Rungs	add-minimum-number-of-rungs
 1321.9346201204	1694	Reformat Phone Number	reformat-phone-number
 1321.2748903388	1582	Special Positions in a Binary Matrix	special-positions-in-a-binary-matrix
 1317.9521104466	999	Available Captures for Rook	available-captures-for-rook
@@ -892,6 +895,7 @@ Rating	ID	Title	Title Slug
 1228.4824438011	1748	Sum of Unique Elements	sum-of-unique-elements
 1227.7906887239	844	Backspace String Compare	backspace-string-compare
 1227.3485530532	1118	Number of Days in a Month	number-of-days-in-a-month
+1226.8332278145	1935	Maximum Number of Words You Can Type	maximum-number-of-words-you-can-type
 1226.2960135431	1133	Largest Unique Number	largest-unique-number
 1225.3601348675	1346	Check If N and Its Double Exist	check-if-n-and-its-double-exist
 1224.7606792444	1337	The K Weakest Rows in a Matrix	the-k-weakest-rows-in-a-matrix
