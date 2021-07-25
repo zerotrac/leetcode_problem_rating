@@ -18,6 +18,7 @@ Rating	ID	Title	Title Slug
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts
 2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
+2533.7796160302	1948	Delete Duplicate Folders in System	delete-duplicate-folders-in-system
 2533.3027905062	1675	Minimize Deviation in Array	minimize-deviation-in-array
 2531.6452775023	1896	Minimum Cost to Change the Final Value of Expression	minimum-cost-to-change-the-final-value-of-expression
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
@@ -148,6 +149,7 @@ Rating	ID	Title	Title Slug
 2115.0911494487	1483	Kth Ancestor of a Tree Node	kth-ancestor-of-a-tree-node
 2109.9830154953	1172	Dinner Plate Stacks	dinner-plate-stacks
 2105.7761215397	1937	Maximum Number of Points with Cost	maximum-number-of-points-with-cost
+2104.9526046945	1944	Number of Visible People in a Queue	number-of-visible-people-in-a-queue
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	preimage-size-of-factorial-zeroes-function
 2096.6201393558	778	Swim in Rising Water	swim-in-rising-water
 2096.6098086765	899	Orderly Queue	orderly-queue
@@ -235,6 +237,7 @@ Rating	ID	Title	Title Slug
 1973.7407637067	1488	Avoid Flood in The City	avoid-flood-in-the-city
 1970.4608098164	1032	Stream of Characters	stream-of-characters
 1969.9845549158	835	Image Overlap	image-overlap
+1969.2019235672	1943	Describe the Painting	describe-the-painting
 1967.3284576938	1293	Shortest Path in a Grid with Obstacles Elimination	shortest-path-in-a-grid-with-obstacles-elimination
 1964.3793590858	815	Bus Routes	bus-routes
 1962.3314335449	802	Find Eventual Safe States	find-eventual-safe-states
@@ -430,6 +433,7 @@ Rating	ID	Title	Title Slug
 1708.8735585776	901	Online Stock Span	online-stock-span
 1708.8129236790	826	Most Profit Assigning Work	most-profit-assigning-work
 1707.8992927609	816	Ambiguous Coordinates	ambiguous-coordinates
+1704.3608916410	1947	Maximum Compatibility Score Sum	maximum-compatibility-score-sum
 1702.8035923458	957	Prison Cells After N Days	prison-cells-after-n-days
 1701.7584658834	1774	Closest Dessert Cost	closest-dessert-cost
 1701.5735371897	1054	Distant Barcodes	distant-barcodes
@@ -438,6 +442,7 @@ Rating	ID	Title	Title Slug
 1697.0187705319	825	Friends Of Appropriate Ages	friends-of-appropriate-ages
 1696.9920075471	1487	Making File Names Unique	making-file-names-unique
 1695.3076664977	792	Number of Matching Subsequences	number-of-matching-subsequences
+1695.2832486322	1942	The Number of the Smallest Unoccupied Chair	the-number-of-the-smallest-unoccupied-chair
 1694.4339515030	829	Consecutive Numbers Sum	consecutive-numbers-sum
 1692.5884631801	1462	Course Schedule IV	course-schedule-iv
 1690.9043557462	919	Complete Binary Tree Inserter	complete-binary-tree-inserter
@@ -646,6 +651,7 @@ Rating	ID	Title	Title Slug
 1450.5787293419	831	Masking Personal Information	masking-personal-information
 1448.1207963663	945	Minimum Increment to Make Array Unique	minimum-increment-to-make-array-unique
 1446.4280778775	1026	Maximum Difference Between Node and Ancestor	maximum-difference-between-node-and-ancestor
+1445.3734269673	1946	Largest Number After Mutating Substring	largest-number-after-mutating-substring
 1444.6098846511	1465	Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
 1444.2068009303	942	DI String Match	di-string-match
 1443.2353621969	1560	Most Visited Sector in  a Circular Track	most-visited-sector-in-a-circular-track
@@ -864,6 +870,7 @@ Rating	ID	Title	Title Slug
 1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number
 1255.9002796024	1037	Valid Boomerang	valid-boomerang
+1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert
 1252.7479413966	1833	Maximum Ice Cream Bars	maximum-ice-cream-bars
 1251.8223786910	830	Positions of Large Groups	positions-of-large-groups
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	check-if-a-number-is-majority-element-in-a-sorted-array
@@ -877,6 +884,7 @@ Rating	ID	Title	Title Slug
 1245.2741257148	1099	Two Sum Less Than K	two-sum-less-than-k
 1244.3173678830	1228	Missing Number In Arithmetic Progression	missing-number-in-arithmetic-progression
 1243.1009943284	832	Flipping an Image	flipping-an-image
+1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	check-if-all-characters-have-equal-number-of-occurrences
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	minimum-add-to-make-parentheses-valid
 1241.9262857175	1417	Reformat The String	reformat-the-string
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string
