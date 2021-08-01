@@ -141,6 +141,7 @@ Rating	ID	Title	Title Slug
 2130.1135718486	1039	Minimum Score Triangulation of Polygon	minimum-score-triangulation-of-polygon
 2129.7051442916	798	Smallest Rotation with Highest Score	smallest-rotation-with-highest-score
 2126.6864346508	1444	Number of Ways of Cutting a Pizza	number-of-ways-of-cutting-a-pizza
+2125.3125624762	1955	Count Number of Special Subsequences	count-number-of-special-subsequences
 2124.1329592058	968	Binary Tree Cameras	binary-tree-cameras
 2124.0317207867	1654	Minimum Jumps to Reach Home	minimum-jumps-to-reach-home
 2121.3147151648	972	Equal Rational Numbers	equal-rational-numbers
@@ -354,6 +355,7 @@ Rating	ID	Title	Title Slug
 1806.5891699944	1073	Adding Two Negabinary Numbers	adding-two-negabinary-numbers
 1805.5947071171	1035	Uncrossed Lines	uncrossed-lines
 1804.5783242151	1080	Insufficient Nodes in Root to Leaf Paths	insufficient-nodes-in-root-to-leaf-paths
+1803.7518552874	1953	Maximum Number of Weeks for Which You Can Work	maximum-number-of-weeks-for-which-you-can-work
 1802.2256875356	1673	Find the Most Competitive Subsequence	find-the-most-competitive-subsequence
 1799.4635458535	1186	Maximum Subarray Sum with One Deletion	maximum-subarray-sum-with-one-deletion
 1797.8728515982	1711	Count Good Meals	count-good-meals
@@ -394,6 +396,7 @@ Rating	ID	Title	Title Slug
 1762.0307532652	1262	Greatest Sum Divisible by Three	greatest-sum-divisible-by-three
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	minimum-insertions-to-balance-a-parentheses-string
 1758.7525514100	1027	Longest Arithmetic Subsequence	longest-arithmetic-subsequence
+1758.5135073787	1954	Minimum Garden Perimeter to Collect Enough Apples	minimum-garden-perimeter-to-collect-enough-apples
 1753.9062487685	1216	Valid Palindrome III	valid-palindrome-iii
 1753.4775753993	764	Largest Plus Sign	largest-plus-sign
 1752.9555725796	1135	Connecting Cities With Minimum Cost	connecting-cities-with-minimum-cost
@@ -926,6 +929,7 @@ Rating	ID	Title	Title Slug
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	check-if-binary-string-has-at-most-one-segment-of-ones
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	find-words-that-can-be-formed-by-characters
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	longer-contiguous-segments-of-ones-than-zeros
+1203.7504950404	1952	Three Divisors	three-divisors
 1203.1408035909	1688	Count of Matches in Tournament	count-of-matches-in-tournament
 1201.6117337798	997	Find the Town Judge	find-the-town-judge
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	average-salary-excluding-the-minimum-and-maximum-salary
