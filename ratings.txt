@@ -3,6 +3,7 @@ Rating	ID	Title	Title Slug
 2863.1378294349	770	Basic Calculator IV	basic-calculator-iv
 2849.4841858619	1728	Cat and Mouse II	cat-and-mouse-ii
 2765.2533837781	803	Bricks Falling When Hit	bricks-falling-when-hit
+2690.5859406179	1960	Maximum Product of the Length of Two Palindromic Substrings	maximum-product-of-the-length-of-two-palindromic-substrings
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
 2661.0670044656	1923	Longest Common Subpath	longest-common-subpath
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
@@ -72,6 +73,7 @@ Rating	ID	Title	Title Slug
 2328.4294689238	882	Reachable Nodes In Subdivided Graph	reachable-nodes-in-subdivided-graph
 2315.6037017989	1187	Make Array Strictly Increasing	make-array-strictly-increasing
 2312.9919953644	1857	Largest Color Value in a Directed Graph	largest-color-value-in-a-directed-graph
+2310.3824631335	1959	Minimum Total Space Wasted With K Resizing Operations	minimum-total-space-wasted-with-k-resizing-operations
 2308.6545905335	1617	Count Subtrees With Max Distance Between Cities	count-subtrees-with-max-distance-between-cities
 2307.0161713185	1655	Distribute Repeating Integers	distribute-repeating-integers
 2306.8472649456	862	Shortest Subarray with Sum at Least K	shortest-subarray-with-sum-at-least-k
@@ -259,6 +261,7 @@ Rating	ID	Title	Title Slug
 1936.6613414859	813	Largest Sum of Averages	largest-sum-of-averages
 1934.3556201811	1818	Minimum Absolute Sum Difference	minimum-absolute-sum-difference
 1933.9571917853	827	Making A Large Island	making-a-large-island
+1933.2169470617	1964	Find the Longest Valid Obstacle Course at Each Position	find-the-longest-valid-obstacle-course-at-each-position
 1932.3730795204	996	Number of Squareful Arrays	number-of-squareful-arrays
 1931.7335479582	1574	Shortest Subarray to be Removed to Make Array Sorted	shortest-subarray-to-be-removed-to-make-array-sorted
 1931.0849921121	1798	Maximum Number of Consecutive Values You Can Make	maximum-number-of-consecutive-values-you-can-make
@@ -451,6 +454,7 @@ Rating	ID	Title	Title Slug
 1690.9043557462	919	Complete Binary Tree Inserter	complete-binary-tree-inserter
 1690.1655236843	935	Knight Dialer	knight-dialer
 1689.7569144085	1419	Minimum Number of Frogs Croaking	minimum-number-of-frogs-croaking
+1688.9209684568	1963	Minimum Number of Swaps to Make the String Balanced	minimum-number-of-swaps-to-make-the-string-balanced
 1686.4493679523	950	Reveal Cards In Increasing Order	reveal-cards-in-increasing-order
 1682.8882177724	1443	Minimum Time to Collect All Apples in a Tree	minimum-time-to-collect-all-apples-in-a-tree
 1681.3263732456	767	Reorganize String	reorganize-string
@@ -475,6 +479,7 @@ Rating	ID	Title	Title Slug
 1663.1853149056	863	All Nodes Distance K in Binary Tree	all-nodes-distance-k-in-binary-tree
 1658.7495899767	1254	Number of Closed Islands	number-of-closed-islands
 1658.6836278802	1169	Invalid Transactions	invalid-transactions
+1658.5967147757	1958	Check if Move is Legal	check-if-move-is-legal
 1658.3474650806	1091	Shortest Path in Binary Matrix	shortest-path-in-binary-matrix
 1658.3305547865	1583	Count Unhappy Friends	count-unhappy-friends
 1657.1231739081	1249	Minimum Remove to Make Valid Parentheses	minimum-remove-to-make-valid-parentheses
@@ -692,6 +697,7 @@ Rating	ID	Title	Title Slug
 1421.6541140049	1360	Number of Days Between Two Dates	number-of-days-between-two-dates
 1421.2624065513	1033	Moving Stones Until Consecutive	moving-stones-until-consecutive
 1418.8205349928	1656	Design an Ordered Stream	design-an-ordered-stream
+1418.6847740057	1962	Remove Stones to Minimize the Total	remove-stones-to-minimize-the-total
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern
@@ -759,6 +765,7 @@ Rating	ID	Title	Title Slug
 1360.3005775112	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
+1357.6553050616	1957	Delete Characters to Make Fancy String	delete-characters-to-make-fancy-string
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
 1355.5386161215	1894	Find the Student that Will Replace the Chalk	find-the-student-that-will-replace-the-chalk
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
@@ -896,6 +903,7 @@ Rating	ID	Title	Title Slug
 1234.7692637513	989	Add to Array-Form of Integer	add-to-array-form-of-integer
 1234.7084656358	1009	Complement of Base 10 Integer	complement-of-base-10-integer
 1234.4144116814	1184	Distance Between Bus Stops	distance-between-bus-stops
+1234.0585375650	1961	Check If String Is a Prefix of Array	check-if-string-is-a-prefix-of-array
 1232.8314427996	1119	Remove Vowels from a String	remove-vowels-from-a-string
 1231.9992413350	1492	The kth Factor of n	the-kth-factor-of-n
 1231.6157956848	876	Middle of the Linked List	middle-of-the-linked-list
