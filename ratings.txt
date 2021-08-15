@@ -146,6 +146,7 @@ Rating	ID	Title	Title Slug
 2125.3125624762	1955	Count Number of Special Subsequences	count-number-of-special-subsequences
 2124.1329592058	968	Binary Tree Cameras	binary-tree-cameras
 2124.0317207867	1654	Minimum Jumps to Reach Home	minimum-jumps-to-reach-home
+2123.5708982185	1970	Last Day Where You Can Still Cross	last-day-where-you-can-still-cross
 2121.3147151648	972	Equal Rational Numbers	equal-rational-numbers
 2118.7923652824	1601	Maximum Number of Achievable Transfer Requests	maximum-number-of-achievable-transfer-requests
 2116.4935282950	1547	Minimum Cost to Cut a Stick	minimum-cost-to-cut-a-stick
@@ -242,6 +243,7 @@ Rating	ID	Title	Title Slug
 1969.9845549158	835	Image Overlap	image-overlap
 1969.2019235672	1943	Describe the Painting	describe-the-painting
 1967.3284576938	1293	Shortest Path in a Grid with Obstacles Elimination	shortest-path-in-a-grid-with-obstacles-elimination
+1966.7067914206	1969	Minimum Non-Zero Product of the Array Elements	minimum-non-zero-product-of-the-array-elements
 1964.3793590858	815	Bus Routes	bus-routes
 1962.3314335449	802	Find Eventual Safe States	find-eventual-safe-states
 1962.2005269503	1642	Furthest Building You Can Reach	furthest-building-you-can-reach
@@ -616,6 +618,7 @@ Rating	ID	Title	Title Slug
 1501.1152614679	1090	Largest Values From Labels	largest-values-from-labels
 1500.8381829812	915	Partition Array into Disjoint Intervals	partition-array-into-disjoint-intervals
 1499.7136257352	1525	Number of Good Ways to Split a String	number-of-good-ways-to-split-a-string
+1499.3290269267	1968	Array With Elements Not Equal to Average of Neighbors	array-with-elements-not-equal-to-average-of-neighbors
 1498.1542511841	1904	The Number of Full Rounds You Have Played	the-number-of-full-rounds-you-have-played
 1497.8880991093	998	Maximum Binary Tree II	maximum-binary-tree-ii
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget
@@ -906,6 +909,7 @@ Rating	ID	Title	Title Slug
 1234.0585375650	1961	Check If String Is a Prefix of Array	check-if-string-is-a-prefix-of-array
 1232.8314427996	1119	Remove Vowels from a String	remove-vowels-from-a-string
 1231.9992413350	1492	The kth Factor of n	the-kth-factor-of-n
+1231.8671440198	1967	Number of Strings That Appear as Substrings in Word	number-of-strings-that-appear-as-substrings-in-word
 1231.6157956848	876	Middle of the Linked List	middle-of-the-linked-list
 1231.4004525633	1134	Armstrong Number	armstrong-number
 1229.4850365142	1725	Number Of Rectangles That Can Form The Largest Square	number-of-rectangles-that-can-form-the-largest-square
