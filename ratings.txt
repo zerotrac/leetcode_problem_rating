@@ -1,7 +1,9 @@
 Rating	ID	Title	Title Slug
 3018.4940165727	1719	Number Of Ways To Reconstruct A Tree	number-of-ways-to-reconstruct-a-tree
+2872.0290327119	1982	Find Array Given Subset Sums	find-array-given-subset-sums
 2863.1378294349	770	Basic Calculator IV	basic-calculator-iv
 2849.4841858619	1728	Cat and Mouse II	cat-and-mouse-ii
+2817.2672126020	1977	Number of Ways to Separate Numbers	number-of-ways-to-separate-numbers
 2765.2533837781	803	Bricks Falling When Hit	bricks-falling-when-hit
 2690.5859406179	1960	Maximum Product of the Length of Two Palindromic Substrings	maximum-product-of-the-length-of-two-palindromic-substrings
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
@@ -157,6 +159,7 @@ Rating	ID	Title	Title Slug
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	preimage-size-of-factorial-zeroes-function
 2096.6201393558	778	Swim in Rising Water	swim-in-rising-water
 2096.6098086765	899	Orderly Queue	orderly-queue
+2094.5924265370	1976	Number of Ways to Arrive at Destination	number-of-ways-to-arrive-at-destination
 2092.4861692502	1049	Last Stone Weight II	last-stone-weight-ii
 2091.3820373571	1383	Maximum Performance of a Team	maximum-performance-of-a-team
 2087.2049275667	1563	Stone Game V	stone-game-v
@@ -216,6 +219,7 @@ Rating	ID	Title	Title Slug
 2014.2979320644	1105	Filling Bookcase Shelves	filling-bookcase-shelves
 2011.3542735398	1102	Path With Maximum Minimum Value	path-with-maximum-minimum-value
 2010.5524756946	880	Decoded String at Index	decoded-string-at-index
+2009.7322365973	1981	Minimize the Difference Between Target and Chosen Elements	minimize-the-difference-between-target-and-chosen-elements
 2008.4065079100	1223	Dice Roll Simulation	dice-roll-simulation
 2005.5862669078	1888	Minimum Number of Flips to Make the Binary String Alternating	minimum-number-of-flips-to-make-the-binary-string-alternating
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	minimum-degree-of-a-connected-trio-in-a-graph
@@ -493,6 +497,7 @@ Rating	ID	Title	Title Slug
 1651.5845871727	750	Number Of Corner Rectangles	number-of-corner-rectangles
 1649.9728054796	1367	Linked List in Binary Tree	linked-list-in-binary-tree
 1648.3417578820	870	Advantage Shuffle	advantage-shuffle
+1648.0880791614	1975	Maximum Matrix Sum	maximum-matrix-sum
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze
 1638.1281256708	838	Push Dominoes	push-dominoes
@@ -763,8 +768,10 @@ Rating	ID	Title	Title Slug
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	special-array-with-x-elements-greater-than-or-equal-x
 1369.0053354603	1370	Increasing Decreasing String	increasing-decreasing-string
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	replace-all-s-to-avoid-consecutive-repeating-characters
+1364.1548599180	1974	Minimum Time to Type Word Using Special Typewriter	minimum-time-to-type-word-using-special-typewriter
 1362.6613797387	1592	Rearrange Spaces Between Words	rearrange-spaces-between-words
 1361.8801013336	1120	Maximum Average Subtree	maximum-average-subtree
+1361.6459603518	1980	Find Unique Binary String	find-unique-binary-string
 1360.3005775112	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
@@ -958,6 +965,7 @@ Rating	ID	Title	Title Slug
 1188.6470369782	747	Largest Number At Least Twice of Others	largest-number-at-least-twice-of-others
 1188.6311093158	1122	Relative Sort Array	relative-sort-array
 1187.1641565458	1880	Check if Word Equals Summation of Two Words	check-if-word-equals-summation-of-two-words
+1184.4264833435	1979	Find Greatest Common Divisor of Array	find-greatest-common-divisor-of-array
 1182.6489068544	1672	Richest Customer Wealth	richest-customer-wealth
 1181.9716216714	1189	Maximum Number of Balloons	maximum-number-of-balloons
 1181.5839867359	852	Peak Index in a Mountain Array	peak-index-in-a-mountain-array
