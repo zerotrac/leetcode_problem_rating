@@ -43,6 +43,7 @@ Rating	ID	Title	Title Slug
 2429.6705422448	782	Transform to Chessboard	transform-to-chessboard
 2428.7985254341	1044	Longest Duplicate Substring	longest-duplicate-substring
 2422.5309771173	1000	Minimum Cost to Merge Stones	minimum-cost-to-merge-stones
+2422.3128048015	1987	Number of Unique Good Subsequences	number-of-unique-good-subsequences
 2418.5742747632	1203	Sort Items by Groups Respecting Dependencies	sort-items-by-groups-respecting-dependencies
 2413.3969129689	1928	Minimum Cost to Reach Destination in Time	minimum-cost-to-reach-destination-in-time
 2409.7580728676	1388	Pizza With 3n Slices	pizza-with-3n-slices
@@ -228,6 +229,7 @@ Rating	ID	Title	Title Slug
 2000.8021428612	911	Online Election	online-election
 1999.1208076854	765	Couples Holding Hands	couples-holding-hands
 1997.1824403719	1274	Number of Ships in a Rectangle	number-of-ships-in-a-rectangle
+1995.2937073376	1986	Minimum Number of Work Sessions to Finish the Tasks	minimum-number-of-work-sessions-to-finish-the-tasks
 1994.3618892548	927	Three Equal Parts	three-equal-parts
 1992.0032292739	1625	Lexicographically Smallest String After Applying Operations	lexicographically-smallest-string-after-applying-operations
 1990.7738526153	963	Minimum Area Rectangle II	minimum-area-rectangle-ii
@@ -709,6 +711,7 @@ Rating	ID	Title	Title Slug
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern
+1414.4351202231	1985	Find the Kth Largest Integer in the Array	find-the-kth-largest-integer-in-the-array
 1412.3053230205	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game
 1412.2790156634	841	Keys and Rooms	keys-and-rooms
 1410.5239927267	1138	Alphabet Board Path	alphabet-board-path
@@ -830,6 +833,7 @@ Rating	ID	Title	Title Slug
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words
 1307.3797385769	1893	Check if All the Integers in a Range Are Covered	check-if-all-the-integers-in-a-range-are-covered
 1307.2991245272	868	Binary Gap	binary-gap
+1306.2821637677	1984	Minimum Difference Between Highest and Lowest of K Scores	minimum-difference-between-highest-and-lowest-of-k-scores
 1303.3201984827	783	Minimum Distance Between BST Nodes	minimum-distance-between-bst-nodes
 1303.0225704970	1338	Reduce Array Size to The Half	reduce-array-size-to-the-half
 1303.0179795942	1051	Height Checker	height-checker
