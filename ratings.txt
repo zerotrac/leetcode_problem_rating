@@ -34,6 +34,7 @@ Rating	ID	Title	Title Slug
 2479.3282985529	1803	Count Pairs With XOR in a Range	count-pairs-with-xor-in-a-range
 2476.4517642870	1622	Fancy Sequence	fancy-sequence
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	minimum-adjacent-swaps-for-k-consecutive-ones
+2464.5077611012	1994	The Number of Good Subsets	the-number-of-good-subsets
 2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes
 2456.3900212097	1499	Max Value of Equation	max-value-of-equation
 2455.8244137907	1040	Moving Stones Until Consecutive II	moving-stones-until-consecutive-ii
@@ -41,6 +42,7 @@ Rating	ID	Title	Title Slug
 2439.7337408636	1872	Stone Game VIII	stone-game-viii
 2433.3767704629	903	Valid Permutations for DI Sequence	valid-permutations-for-di-sequence
 2429.6705422448	782	Transform to Chessboard	transform-to-chessboard
+2429.0940568399	1998	GCD Sort of an Array	gcd-sort-of-an-array
 2428.7985254341	1044	Longest Duplicate Substring	longest-duplicate-substring
 2422.5309771173	1000	Minimum Cost to Merge Stones	minimum-cost-to-merge-stones
 2422.3128048015	1987	Number of Unique Good Subsequences	number-of-unique-good-subsequences
@@ -94,6 +96,7 @@ Rating	ID	Title	Title Slug
 2273.7910625337	753	Cracking the Safe	cracking-the-safe
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor
+2260.2799775623	1997	First Day Where You Have Been in All the Rooms	first-day-where-you-have-been-in-all-the-rooms
 2259.6572191969	857	Minimum Cost to Hire K Workers	minimum-cost-to-hire-k-workers
 2258.6371797452	864	Shortest Path to Get All Keys	shortest-path-to-get-all-keys
 2250.9318291559	1125	Smallest Sufficient Team	smallest-sufficient-team
@@ -319,6 +322,8 @@ Rating	ID	Title	Title Slug
 1867.8619694847	1605	Find Valid Matrix Given Row and Column Sums	find-valid-matrix-given-row-and-column-sums
 1866.3014601125	1340	Jump Game V	jump-game-v
 1864.0948676111	1163	Last Substring in Lexicographical Order	last-substring-in-lexicographical-order
+1861.4906863586	1993	Operations on Tree	operations-on-tree
+1860.7429342910	1996	The Number of Weak Characters in the Game	the-number-of-weak-characters-in-the-game
 1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	can-you-eat-your-favorite-candy-on-your-favorite-day
 1857.6431822094	1584	Min Cost to Connect All Points	min-cost-to-connect-all-points
 1855.5957296285	799	Champagne Tower	champagne-tower
@@ -586,6 +591,7 @@ Rating	ID	Title	Title Slug
 1541.3484385090	1007	Minimum Domino Rotations For Equal Row	minimum-domino-rotations-for-equal-row
 1541.2260256298	1229	Meeting Scheduler	meeting-scheduler
 1540.5750839091	1382	Balance a Binary Search Tree	balance-a-binary-search-tree
+1539.2250193318	1992	Find All Groups of Farmland	find-all-groups-of-farmland
 1537.1387686755	1023	Camelcase Matching	camelcase-matching
 1536.7018543075	1861	Rotating the Box	rotating-the-box
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	smallest-subtree-with-all-the-deepest-nodes
@@ -785,6 +791,7 @@ Rating	ID	Title	Title Slug
 1354.1247827015	1243	Array Transformation	array-transformation
 1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string
 1352.7250049956	848	Shifting Letters	shifting-letters
+1352.1791099256	1995	Count Special Quadruplets	count-special-quadruplets
 1351.4184681108	1513	Number of Substrings With Only 1s	number-of-substrings-with-only-1s
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	find-k-length-substrings-with-no-repeated-characters
 1348.0079390256	1030	Matrix Cells in Distance Order	matrix-cells-in-distance-order
@@ -838,6 +845,7 @@ Rating	ID	Title	Title Slug
 1303.0225704970	1338	Reduce Array Size to The Half	reduce-array-size-to-the-half
 1303.0179795942	1051	Height Checker	height-checker
 1302.7005460171	1266	Minimum Time Visiting All Points	minimum-time-visiting-all-points
+1302.6469071738	1991	Find the Middle Index in Array	find-the-middle-index-in-array
 1301.4117757184	806	Number of Lines To Write String	number-of-lines-to-write-string
 1301.4027057843	1646	Get Maximum in Generated Array	get-maximum-in-generated-array
 1301.3817574010	1877	Minimize Maximum Pair Sum in Array	minimize-maximum-pair-sum-in-array
