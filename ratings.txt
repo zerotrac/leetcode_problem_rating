@@ -47,6 +47,7 @@ Rating	ID	Title	Title Slug
 2422.5309771173	1000	Minimum Cost to Merge Stones	minimum-cost-to-merge-stones
 2422.3128048015	1987	Number of Unique Good Subsequences	number-of-unique-good-subsequences
 2418.5742747632	1203	Sort Items by Groups Respecting Dependencies	sort-items-by-groups-respecting-dependencies
+2415.0089731911	2003	Smallest Missing Genetic Value in Each Subtree	smallest-missing-genetic-value-in-each-subtree
 2413.3969129689	1928	Minimum Cost to Reach Destination in Time	minimum-cost-to-reach-destination-in-time
 2409.7580728676	1388	Pizza With 3n Slices	pizza-with-3n-slices
 2399.5729141925	920	Number of Music Playlists	number-of-music-playlists
@@ -316,6 +317,7 @@ Rating	ID	Title	Title Slug
 1873.0367582475	1001	Grid Illumination	grid-illumination
 1872.0350138774	1526	Minimum Number of Increments on Subarrays to Form a Target Array	minimum-number-of-increments-on-subarrays-to-form-a-target-array
 1871.3112059413	1589	Maximum Sum Obtained of Any Permutation	maximum-sum-obtained-of-any-permutation
+1869.4024391280	2002	Maximum Product of the Length of Two Palindromic Subsequences	maximum-product-of-the-length-of-two-palindromic-subsequences
 1868.9146755896	924	Minimize Malware Spread	minimize-malware-spread
 1868.1914861381	1616	Split Two Strings to Make Palindrome	split-two-strings-to-make-palindrome
 1867.9916069568	1717	Maximum Score From Removing Substrings	maximum-score-from-removing-substrings
@@ -688,6 +690,7 @@ Rating	ID	Title	Title Slug
 1436.5343999134	845	Longest Mountain in Array	longest-mountain-in-array
 1436.3892315914	1701	Average Waiting Time	average-waiting-time
 1436.1125054038	1433	Check If a String Can Break Another String	check-if-a-string-can-break-another-string
+1435.9559888935	2001	Number of Pairs of Interchangeable Rectangles	number-of-pairs-of-interchangeable-rectangles
 1435.3564963722	1025	Divisor Game	divisor-game
 1433.0795554833	1535	Find the Winner of an Array Game	find-the-winner-of-an-array-game
 1432.9593207076	967	Numbers With Same Consecutive Differences	numbers-with-same-consecutive-differences
@@ -964,6 +967,7 @@ Rating	ID	Title	Title Slug
 1203.1408035909	1688	Count of Matches in Tournament	count-of-matches-in-tournament
 1201.6117337798	997	Find the Town Judge	find-the-town-judge
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	average-salary-excluding-the-minimum-and-maximum-salary
+1199.4477805501	2000	Reverse Prefix of Word	reverse-prefix-of-word
 1199.4427635582	1154	Day of the Year	day-of-the-year
 1199.2892732505	929	Unique Email Addresses	unique-email-addresses
 1199.2392672964	1165	Single-Row Keyboard	single-row-keyboard
