@@ -19,6 +19,7 @@ Rating	ID	Title	Title Slug
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
 2566.5910742837	913	Cat and Mouse	cat-and-mouse
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts
+2558.3297484354	2014	Longest Subsequence Repeated k Times	longest-subsequence-repeated-k-times
 2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	minimum-cost-to-connect-two-groups-of-points
 2533.7796160302	1948	Delete Duplicate Folders in System	delete-duplicate-folders-in-system
@@ -170,6 +171,7 @@ Rating	ID	Title	Title Slug
 2087.2049275667	1563	Stone Game V	stone-game-v
 2084.9697035674	982	Triples with Bitwise AND Equal To Zero	triples-with-bitwise-and-equal-to-zero
 2084.6866916045	1192	Critical Connections in a Network	critical-connections-in-a-network
+2084.4980206639	2009	Minimum Number of Operations to Make Array Continuous	minimum-number-of-operations-to-make-array-continuous
 2084.2010769193	774	Minimize Max Distance to Gas Station	minimize-max-distance-to-gas-station
 2081.8087755451	1494	Parallel Courses II	parallel-courses-ii
 2081.7518764643	1847	Closest Room	closest-room
@@ -316,6 +318,7 @@ Rating	ID	Title	Title Slug
 1874.6468976233	1015	Smallest Integer Divisible by K	smallest-integer-divisible-by-k
 1873.0367582475	1001	Grid Illumination	grid-illumination
 1872.0350138774	1526	Minimum Number of Increments on Subarrays to Form a Target Array	minimum-number-of-increments-on-subarrays-to-form-a-target-array
+1871.8245218615	2008	Maximum Earnings From Taxi	maximum-earnings-from-taxi
 1871.3112059413	1589	Maximum Sum Obtained of Any Permutation	maximum-sum-obtained-of-any-permutation
 1869.4024391280	2002	Maximum Product of the Length of Two Palindromic Subsequences	maximum-product-of-the-length-of-two-palindromic-subsequences
 1868.9146755896	924	Minimize Malware Spread	minimize-malware-spread
@@ -343,6 +346,7 @@ Rating	ID	Title	Title Slug
 1846.3568350016	874	Walking Robot Simulation	walking-robot-simulation
 1845.0428731248	1504	Count Submatrices With All Ones	count-submatrices-with-all-ones
 1844.6289439644	1411	Number of Ways to Paint N × 3 Grid	number-of-ways-to-paint-n-3-grid
+1841.4067816266	2013	Detect Squares	detect-squares
 1837.8252904904	1559	Detect Cycles in 2D Grid	detect-cycles-in-2d-grid
 1836.5363480780	1316	Distinct Echo Substrings	distinct-echo-substrings
 1835.4868365659	995	Minimum Number of K Consecutive Bit Flips	minimum-number-of-k-consecutive-bit-flips
@@ -578,6 +582,7 @@ Rating	ID	Title	Title Slug
 1558.6880035344	1181	Before and After Puzzle	before-and-after-puzzle
 1558.4971807039	1101	The Earliest Moment When Everyone Become Friends	the-earliest-moment-when-everyone-become-friends
 1558.1421869292	1244	Design A Leaderboard	design-a-leaderboard
+1557.0170555820	2007	Find Original Array From Doubled Array	find-original-array-from-doubled-array
 1548.4678056182	1329	Sort the Matrix Diagonally	sort-the-matrix-diagonally
 1548.0854419238	1599	Maximum Profit of Operating a Centennial Wheel	maximum-profit-of-operating-a-centennial-wheel
 1547.5714796512	954	Array of Doubled Pairs	array-of-doubled-pairs
@@ -661,6 +666,7 @@ Rating	ID	Title	Title Slug
 1473.7057465272	1352	Product of the Last K Numbers	product-of-the-last-k-numbers
 1473.2523136772	897	Increasing Order Search Tree	increasing-order-search-tree
 1471.6221713607	1093	Statistics from a Large Sample	statistics-from-a-large-sample
+1467.9366439696	2012	Sum of Beauty in the Array	sum-of-beauty-in-the-array
 1465.7023558248	1414	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k
 1464.6895034875	1361	Validate Binary Tree Nodes	validate-binary-tree-nodes
 1464.5254961488	1396	Design Underground System	design-underground-system
@@ -885,6 +891,7 @@ Rating	ID	Title	Title Slug
 1277.8260125315	1317	Convert Integer to the Sum of Two No-Zero Integers	convert-integer-to-the-sum-of-two-no-zero-integers
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations
+1271.7726574892	2006	Count Number of Pairs With Absolute Difference K	count-number-of-pairs-with-absolute-difference-k
 1271.7055549365	824	Goat Latin	goat-latin
 1271.3776510163	1556	Thousand Separator	thousand-separator
 1271.3313760514	925	Long Pressed Name	long-pressed-name
@@ -1000,6 +1007,7 @@ Rating	ID	Title	Title Slug
 1166.7881833200	1832	Check if the Sentence Is Pangram	check-if-the-sentence-is-pangram
 1166.5264284193	1768	Merge Strings Alternately	merge-strings-alternately
 1165.4768151611	1446	Consecutive Characters	consecutive-characters
+1165.2135167215	2011	Final Value of Variable After Performing Operations	final-value-of-variable-after-performing-operations
 1164.8182315157	771	Jewels and Stones	jewels-and-stones
 1164.0227691933	1374	Generate a String With Characters That Have Odd Counts	generate-a-string-with-characters-that-have-odd-counts
 1163.6047095526	1342	Number of Steps to Reduce a Number to Zero	number-of-steps-to-reduce-a-number-to-zero
