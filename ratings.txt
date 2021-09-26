@@ -14,6 +14,7 @@ Rating	ID	Title	Title Slug
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports
 2594.1356734520	964	Least Operators to Express Number	least-operators-to-express-number
 2587.8725248485	1883	Minimum Skips to Arrive at Meeting On Time	minimum-skips-to-arrive-at-meeting-on-time
+2583.9006314254	2019	The Score of Students Solving Math Expression	the-score-of-students-solving-math-expression
 2583.4069119510	936	Stamping The Sequence	stamping-the-sequence
 2575.9570281316	1531	String Compression II	string-compression-ii
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
@@ -280,6 +281,7 @@ Rating	ID	Title	Title Slug
 1931.7335479582	1574	Shortest Subarray to be Removed to Make Array Sorted	shortest-subarray-to-be-removed-to-make-array-sorted
 1931.0849921121	1798	Maximum Number of Consecutive Values You Can Make	maximum-number-of-consecutive-values-you-can-make
 1929.9086934334	1705	Maximum Number of Eaten Apples	maximum-number-of-eaten-apples
+1929.8973433160	2018	Check if Word Can Be Placed In Crossword	check-if-word-can-be-placed-in-crossword
 1929.3184180196	1802	Maximum Value at a Given Index in a Bounded Array	maximum-value-at-a-given-index-in-a-bounded-array
 1928.2304187946	1562	Find Latest Group of Size M	find-latest-group-of-size-m
 1927.4000816649	1449	Form Largest Integer With Digits That Add up to Target	form-largest-integer-with-digits-that-add-up-to-target
@@ -445,6 +447,7 @@ Rating	ID	Title	Title Slug
 1722.8129701098	1359	Count All Valid Pickup and Delivery Options	count-all-valid-pickup-and-delivery-options
 1722.3088173214	1197	Minimum Knight Moves	minimum-knight-moves
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	maximum-length-of-a-concatenated-string-with-unique-characters
+1718.9772466681	2017	Grid Game	grid-game
 1714.6960124182	1781	Sum of Beauty of All Substrings	sum-of-beauty-of-all-substrings
 1713.2768268466	1372	Longest ZigZag Path in a Binary Tree	longest-zigzag-path-in-a-binary-tree
 1712.4010133221	1042	Flower Planting With No Adjacent	flower-planting-with-no-adjacent
@@ -922,6 +925,7 @@ Rating	ID	Title	Title Slug
 1248.8026990632	1196	How Many Apples Can You Put into the Basket	how-many-apples-can-you-put-into-the-basket
 1248.7224675206	1876	Substrings of Size Three with Distinct Characters	substrings-of-size-three-with-distinct-characters
 1247.3198836387	1232	Check If It Is a Straight Line	check-if-it-is-a-straight-line
+1246.0141927368	2016	Maximum Difference Between Increasing Elements	maximum-difference-between-increasing-elements
 1245.2999833877	1518	Water Bottles	water-bottles
 1245.2741257148	1099	Two Sum Less Than K	two-sum-less-than-k
 1244.3173678830	1228	Missing Number In Arithmetic Progression	missing-number-in-arithmetic-progression
