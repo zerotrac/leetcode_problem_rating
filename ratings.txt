@@ -114,6 +114,7 @@ Rating	ID	Title	Title Slug
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold
+2217.8090802563	2025	Maximum Number of Ways to Partition an Array	maximum-number-of-ways-to-partition-an-array
 2214.4798747386	1889	Minimum Space Wasted From Packaging	minimum-space-wasted-from-packaging
 2210.3503183571	992	Subarrays with K Different Integers	subarrays-with-k-different-integers
 2208.5532172086	1568	Minimum Number of Days to Disconnect Island	minimum-number-of-days-to-disconnect-island
@@ -515,6 +516,7 @@ Rating	ID	Title	Title Slug
 1648.3417578820	870	Advantage Shuffle	advantage-shuffle
 1648.0880791614	1975	Maximum Matrix Sum	maximum-matrix-sum
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters
+1643.1325351423	2024	Maximize the Confusion of an Exam	maximize-the-confusion-of-an-exam
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze
 1638.1281256708	838	Push Dominoes	push-dominoes
 1638.0148920643	990	Satisfiability of Equality Equations	satisfiability-of-equality-equations
@@ -812,6 +814,7 @@ Rating	ID	Title	Title Slug
 1343.6289130550	1395	Count Number of Teams	count-number-of-teams
 1341.8397242604	1796	Second Largest Digit in a String	second-largest-digit-in-a-string
 1341.5076441361	784	Letter Case Permutation	letter-case-permutation
+1341.3713970313	2023	Number of Pairs of Strings With Concatenation Equal to Target	number-of-pairs-of-strings-with-concatenation-equal-to-target
 1341.2659819842	859	Buddy Strings	buddy-strings
 1341.0476642293	1399	Count Largest Group	count-largest-group
 1340.5559417151	976	Largest Perimeter Triangle	largest-perimeter-triangle
@@ -851,6 +854,7 @@ Rating	ID	Title	Title Slug
 1307.9800903088	1064	Fixed Point	fixed-point
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words
 1307.3797385769	1893	Check if All the Integers in a Range Are Covered	check-if-all-the-integers-in-a-range-are-covered
+1307.3265298181	2022	Convert 1D Array Into 2D Array	convert-1d-array-into-2d-array
 1307.2991245272	868	Binary Gap	binary-gap
 1306.2821637677	1984	Minimum Difference Between Highest and Lowest of K Scores	minimum-difference-between-highest-and-lowest-of-k-scores
 1303.3201984827	783	Minimum Distance Between BST Nodes	minimum-distance-between-bst-nodes
