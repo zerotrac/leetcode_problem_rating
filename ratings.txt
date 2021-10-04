@@ -19,6 +19,7 @@ Rating	ID	Title	Title Slug
 2575.9570281316	1531	String Compression II	string-compression-ii
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
 2566.5910742837	913	Cat and Mouse	cat-and-mouse
+2561.7794931859	2030	Smallest K-Length Subsequence With Occurrences of a Letter	smallest-k-length-subsequence-with-occurrences-of-a-letter
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts
 2558.3297484354	2014	Longest Subsequence Repeated k Times	longest-subsequence-repeated-k-times
 2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds
@@ -93,6 +94,7 @@ Rating	ID	Title	Title Slug
 2288.2117442123	1569	Number of Ways to Reorder Array to Get Same BST	number-of-ways-to-reorder-array-to-get-same-bst
 2286.1378742318	1851	Minimum Interval to Include Each Query	minimum-interval-to-include-each-query
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	find-minimum-time-to-finish-all-jobs
+2277.3595662538	2029	Stone Game IX	stone-game-ix
 2277.0238076464	749	Contain Virus	contain-virus
 2276.4233585631	1498	Number of Subsequences That Satisfy the Given Sum Condition	number-of-subsequences-that-satisfy-the-given-sum-condition
 2275.7337818748	1606	Find Servers That Handled Most Number of Requests	find-servers-that-handled-most-number-of-requests
@@ -689,6 +691,7 @@ Rating	ID	Title	Title Slug
 1448.1207963663	945	Minimum Increment to Make Array Unique	minimum-increment-to-make-array-unique
 1446.4280778775	1026	Maximum Difference Between Node and Ancestor	maximum-difference-between-node-and-ancestor
 1445.3734269673	1946	Largest Number After Mutating Substring	largest-number-after-mutating-substring
+1444.6795731919	2028	Find Missing Observations	find-missing-observations
 1444.6098846511	1465	Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
 1444.2068009303	942	DI String Match	di-string-match
 1443.2353621969	1560	Most Visited Sector in  a Circular Track	most-visited-sector-in-a-circular-track
@@ -809,6 +812,7 @@ Rating	ID	Title	Title Slug
 1351.4184681108	1513	Number of Substrings With Only 1s	number-of-substrings-with-only-1s
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	find-k-length-substrings-with-no-repeated-characters
 1348.0079390256	1030	Matrix Cells in Distance Order	matrix-cells-in-distance-order
+1346.3556309143	2027	Minimum Moves to Convert String	minimum-moves-to-convert-string
 1345.7371686090	1679	Max Number of K-Sum Pairs	max-number-of-k-sum-pairs
 1344.2261332020	1544	Make The String Great	make-the-string-great
 1343.6289130550	1395	Count Number of Teams	count-number-of-teams
