@@ -31,6 +31,7 @@ Rating	ID	Title	Title Slug
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
 2502.5176603922	1938	Maximum Genetic Difference Query	maximum-genetic-difference-query
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
+2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	partition-array-into-two-arrays-to-minimize-sum-difference
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony
 2483.9435767299	1932	Merge BSTs to Create Single BST	merge-bsts-to-create-single-bst
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value
@@ -356,6 +357,7 @@ Rating	ID	Title	Title Slug
 1836.5363480780	1316	Distinct Echo Substrings	distinct-echo-substrings
 1835.4868365659	995	Minimum Number of K Consecutive Bit Flips	minimum-number-of-k-consecutive-bit-flips
 1832.2280384591	755	Pour Water	pour-water
+1831.9395911303	2034	Stock Price Fluctuation 	stock-price-fluctuation
 1830.3165569278	980	Unique Paths III	unique-paths-iii
 1830.1493771696	790	Domino and Tromino Tiling	domino-and-tromino-tiling
 1828.6438563573	1754	Largest Merge Of Two Strings	largest-merge-of-two-strings
@@ -496,6 +498,7 @@ Rating	ID	Title	Title Slug
 1674.7986939472	1922	Count Good Numbers	count-good-numbers
 1674.5365205597	1215	Stepping Numbers	stepping-numbers
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+1671.9261598000	2033	Minimum Operations to Make a Uni-Value Grid	minimum-operations-to-make-a-uni-value-grid
 1671.4657554194	1738	Find Kth Largest XOR Coordinate Value	find-kth-largest-xor-coordinate-value
 1666.3469909790	1162	As Far from Land as Possible	as-far-from-land-as-possible
 1665.2490724700	1620	Coordinate With Maximum Network Quality	coordinate-with-maximum-network-quality
@@ -906,6 +909,7 @@ Rating	ID	Title	Title Slug
 1271.7055549365	824	Goat Latin	goat-latin
 1271.3776510163	1556	Thousand Separator	thousand-separator
 1271.3313760514	925	Long Pressed Name	long-pressed-name
+1269.7567553523	2032	Two Out of Three	two-out-of-three
 1268.5768566953	1447	Simplified Fractions	simplified-fractions
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	group-the-people-given-the-group-size-they-belong-to
 1266.3368046515	821	Shortest Distance to a Character	shortest-distance-to-a-character
