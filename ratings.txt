@@ -29,6 +29,7 @@ Rating	ID	Title	Title Slug
 2531.6452775023	1896	Minimum Cost to Change the Final Value of Expression	minimum-cost-to-change-the-final-value-of-expression
 2530.6905139914	1776	Car Fleet II	car-fleet-ii
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix
+2517.6829964848	2040	Kth Smallest Product of Two Sorted Arrays	kth-smallest-product-of-two-sorted-arrays
 2502.5176603922	1938	Maximum Genetic Difference Query	maximum-genetic-difference-query
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product
 2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	partition-array-into-two-arrays-to-minimize-sum-difference
@@ -332,6 +333,7 @@ Rating	ID	Title	Title Slug
 1867.9916069568	1717	Maximum Score From Removing Substrings	maximum-score-from-removing-substrings
 1867.8619694847	1605	Find Valid Matrix Given Row and Column Sums	find-valid-matrix-given-row-and-column-sums
 1866.3014601125	1340	Jump Game V	jump-game-v
+1865.3441063734	2039	The Time When the Network Becomes Idle	the-time-when-the-network-becomes-idle
 1864.0948676111	1163	Last Substring in Lexicographical Order	last-substring-in-lexicographical-order
 1861.4906863586	1993	Operations on Tree	operations-on-tree
 1860.7429342910	1996	The Number of Weak Characters in the Game	the-number-of-weak-characters-in-the-game
@@ -677,6 +679,7 @@ Rating	ID	Title	Title Slug
 1473.2523136772	897	Increasing Order Search Tree	increasing-order-search-tree
 1471.6221713607	1093	Statistics from a Large Sample	statistics-from-a-large-sample
 1467.9366439696	2012	Sum of Beauty in the Array	sum-of-beauty-in-the-array
+1467.7383709213	2038	Remove Colored Pieces if Both Neighbors are the Same Color	remove-colored-pieces-if-both-neighbors-are-the-same-color
 1465.7023558248	1414	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k
 1464.6895034875	1361	Validate Binary Tree Nodes	validate-binary-tree-nodes
 1464.5254961488	1396	Design Underground System	design-underground-system
@@ -805,6 +808,7 @@ Rating	ID	Title	Title Slug
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
 1357.6553050616	1957	Delete Characters to Make Fancy String	delete-characters-to-make-fancy-string
+1356.6925765299	2037	Minimum Number of Moves to Seat Everyone	minimum-number-of-moves-to-seat-everyone
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
 1355.5386161215	1894	Find the Student that Will Replace the Chalk	find-the-student-that-will-replace-the-chalk
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
