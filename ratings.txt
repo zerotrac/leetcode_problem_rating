@@ -127,6 +127,7 @@ Rating	ID	Title	Title Slug
 2204.3524370174	879	Profitable Schemes	profitable-schemes
 2203.1738850937	1246	Palindrome Removal	palindrome-removal
 2201.8209584221	1453	Maximum Number of Darts Inside of a Circular Dartboard	maximum-number-of-darts-inside-of-a-circular-dartboard
+2201.6219336792	2045	Second Minimum Time to Reach Destination	second-minimum-time-to-reach-destination
 2200.6623666057	847	Shortest Path Visiting All Nodes	shortest-path-visiting-all-nodes
 2198.4642973466	1739	Building Boxes	building-boxes
 2198.3290662783	1621	Number of Sets of K Non-Overlapping Line Segments	number-of-sets-of-k-non-overlapping-line-segments
@@ -582,6 +583,7 @@ Rating	ID	Title	Title Slug
 1571.1721048101	779	K-th Symbol in Grammar	k-th-symbol-in-grammar
 1570.8347522104	1019	Next Greater Node In Linked List	next-greater-node-in-linked-list
 1569.7528744586	1109	Corporate Flight Bookings	corporate-flight-bookings
+1567.6884942977	2044	Count Number of Maximum Bitwise-OR Subsets	count-number-of-maximum-bitwise-or-subsets
 1566.2526716951	769	Max Chunks To Make Sorted	max-chunks-to-make-sorted
 1565.2483424929	846	Hand of Straights	hand-of-straights
 1563.9451046163	800	Similar RGB Color	similar-rgb-color
@@ -809,6 +811,7 @@ Rating	ID	Title	Title Slug
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
 1357.6553050616	1957	Delete Characters to Make Fancy String	delete-characters-to-make-fancy-string
 1356.6925765299	2037	Minimum Number of Moves to Seat Everyone	minimum-number-of-moves-to-seat-everyone
+1356.1920189231	2043	Simple Bank System	simple-bank-system
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array
 1355.5386161215	1894	Find the Student that Will Replace the Chalk	find-the-student-that-will-replace-the-chalk
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers
@@ -928,6 +931,7 @@ Rating	ID	Title	Title Slug
 1258.6719675401	896	Monotonic Array	monotonic-array
 1257.7082143289	1356	Sort Integers by The Number of 1 Bits	sort-integers-by-the-number-of-1-bits
 1257.6796331650	1309	Decrypt String from Alphabet to Integer Mapping	decrypt-string-from-alphabet-to-integer-mapping
+1257.2649235990	2042	Check if Numbers Are Ascending in a Sentence	check-if-numbers-are-ascending-in-a-sentence
 1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number
 1255.9002796024	1037	Valid Boomerang	valid-boomerang
