@@ -180,6 +180,7 @@ Rating	ID	Title	Title Slug
 2084.6866916045	1192	Critical Connections in a Network	critical-connections-in-a-network
 2084.4980206639	2009	Minimum Number of Operations to Make Array Continuous	minimum-number-of-operations-to-make-array-continuous
 2084.2010769193	774	Minimize Max Distance to Gas Station	minimize-max-distance-to-gas-station
+2084.1404698713	2050	Parallel Courses III	parallel-courses-iii
 2081.8087755451	1494	Parallel Courses II	parallel-courses-ii
 2081.7518764643	1847	Closest Room	closest-room
 2081.6909344021	1639	Number of Ways to Form a Target String Given a Dictionary	number-of-ways-to-form-a-target-string-given-a-dictionary
@@ -301,6 +302,7 @@ Rating	ID	Title	Title Slug
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	minimum-number-of-removals-to-make-mountain-array
 1912.8440554296	1898	Maximum Number of Removable Characters	maximum-number-of-removable-characters
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	longest-chunked-palindrome-decomposition
+1911.7063530593	2049	Count Nodes With the Highest Score	count-nodes-with-the-highest-score
 1911.1959516695	873	Length of Longest Fibonacci Subsequence	length-of-longest-fibonacci-subsequence
 1909.4189035523	991	Broken Calculator	broken-calculator
 1908.3866125757	1124	Longest Well-Performing Interval	longest-well-performing-interval
@@ -447,6 +449,7 @@ Rating	ID	Title	Title Slug
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	split-a-string-into-the-max-number-of-unique-substrings
 1737.8431142688	1814	Count Nice Pairs in an Array	count-nice-pairs-in-an-array
 1734.8208369949	1292	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
+1734.0550202798	2048	Next Greater Numerically Balanced Number	next-greater-numerically-balanced-number
 1732.7813534239	1273	Delete Tree Nodes	delete-tree-nodes
 1731.5555445321	889	Construct Binary Tree from Preorder and Postorder Traversal	construct-binary-tree-from-preorder-and-postorder-traversal
 1730.3052054913	1014	Best Sightseeing Pair	best-sightseeing-pair
@@ -679,6 +682,7 @@ Rating	ID	Title	Title Slug
 1473.8649930450	1328	Break a Palindrome	break-a-palindrome
 1473.7057465272	1352	Product of the Last K Numbers	product-of-the-last-k-numbers
 1473.2523136772	897	Increasing Order Search Tree	increasing-order-search-tree
+1471.8964024887	2047	Number of Valid Words in a Sentence	number-of-valid-words-in-a-sentence
 1471.6221713607	1093	Statistics from a Large Sample	statistics-from-a-large-sample
 1467.9366439696	2012	Sum of Beauty in the Array	sum-of-beauty-in-the-array
 1467.7383709213	2038	Remove Colored Pieces if Both Neighbors are the Same Color	remove-colored-pieces-if-both-neighbors-are-the-same-color
