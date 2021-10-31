@@ -4,6 +4,7 @@ Rating	ID	Title	Title Slug
 2863.1378294349	770	Basic Calculator IV	basic-calculator-iv
 2849.4841858619	1728	Cat and Mouse II	cat-and-mouse-ii
 2817.2672126020	1977	Number of Ways to Separate Numbers	number-of-ways-to-separate-numbers
+2803.7652028979	2060	Check if an Original String Exists Given Two Encoded Strings	check-if-an-original-string-exists-given-two-encoded-strings
 2765.2533837781	803	Bricks Falling When Hit	bricks-falling-when-hit
 2690.5859406179	1960	Maximum Product of the Length of Two Palindromic Substrings	maximum-product-of-the-length-of-two-palindromic-substrings
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
@@ -11,6 +12,7 @@ Rating	ID	Title	Title Slug
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
+2610.9906730644	2056	Number of Valid Move Combinations On Chessboard	number-of-valid-move-combinations-on-chessboard
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports
 2594.1356734520	964	Least Operators to Express Number	least-operators-to-express-number
 2587.8725248485	1883	Minimum Skips to Arrive at Meeting On Time	minimum-skips-to-arrive-at-meeting-on-time
@@ -315,6 +317,7 @@ Rating	ID	Title	Title Slug
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	minimize-hamming-distance-after-swap-operations
 1885.1051527272	1066	Campus Bikes II	campus-bikes-ii
 1885.0178370385	1326	Minimum Number of Taps to Open to Water a Garden	minimum-number-of-taps-to-open-to-water-a-garden
+1883.3541964032	2054	Two Best Non-Overlapping Events	two-best-non-overlapping-events
 1881.6810367589	1255	Maximum Score Words Formed by Letters	maximum-score-words-formed-by-letters
 1880.7433591583	858	Mirror Reflection	mirror-reflection
 1880.5909929633	1536	Minimum Swaps to Arrange a Binary Grid	minimum-swaps-to-arrange-a-binary-grid
@@ -351,6 +354,7 @@ Rating	ID	Title	Title Slug
 1850.8490524791	1152	Analyze User Website Visit Pattern	analyze-user-website-visit-pattern
 1850.5506342426	1477	Find Two Non-overlapping Sub-arrays Each With Target Sum	find-two-non-overlapping-sub-arrays-each-with-target-sum
 1850.4091449367	1775	Equal Sum Arrays With Minimum Number of Operations	equal-sum-arrays-with-minimum-number-of-operations
+1849.8122180044	2059	Minimum Operations to Convert Number	minimum-operations-to-convert-number
 1848.0912848518	1177	Can Make Palindrome from Substring	can-make-palindrome-from-substring
 1847.2077654978	1258	Synonymous Sentences	synonymous-sentences
 1846.4077077642	1514	Path with Maximum Probability	path-with-maximum-probability
@@ -375,6 +379,7 @@ Rating	ID	Title	Title Slug
 1823.5831437787	1458	Max Dot Product of Two Subsequences	max-dot-product-of-two-subsequences
 1822.9768689716	1363	Largest Multiple of Three	largest-multiple-of-three
 1820.5855764400	1405	Longest Happy String	longest-happy-string
+1819.3068421506	2055	Plates Between Candles	plates-between-candles
 1818.0024504436	861	Score After Flipping Matrix	score-after-flipping-matrix
 1817.9978644712	1792	Maximum Average Pass Ratio	maximum-average-pass-ratio
 1817.2240262920	1658	Minimum Operations to Reduce X to Zero	minimum-operations-to-reduce-x-to-zero
@@ -824,6 +829,7 @@ Rating	ID	Title	Title Slug
 1352.7250049956	848	Shifting Letters	shifting-letters
 1352.1791099256	1995	Count Special Quadruplets	count-special-quadruplets
 1351.4184681108	1513	Number of Substrings With Only 1s	number-of-substrings-with-only-1s
+1350.6048768377	2053	Kth Distinct String in an Array	kth-distinct-string-in-an-array
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	find-k-length-substrings-with-no-repeated-characters
 1348.0079390256	1030	Matrix Cells in Distance Order	matrix-cells-in-distance-order
 1346.3556309143	2027	Minimum Moves to Convert String	minimum-moves-to-convert-string
@@ -866,6 +872,7 @@ Rating	ID	Title	Title Slug
 1315.3715333947	1629	Slowest Key	slowest-key
 1314.8600143277	1827	Minimum Operations to Make the Array Increasing	minimum-operations-to-make-the-array-increasing
 1311.3495317884	1021	Remove Outermost Parentheses	remove-outermost-parentheses
+1310.9129840277	2058	Find the Minimum and Maximum Number of Nodes Between Critical Points	find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 1309.8100518373	1710	Maximum Units on a Truck	maximum-units-on-a-truck
 1309.3113721825	1451	Rearrange Words in a Sentence	rearrange-words-in-a-sentence
 1309.1422268153	1897	Redistribute Characters to Make All Strings Equal	redistribute-characters-to-make-all-strings-equal
@@ -1030,6 +1037,7 @@ Rating	ID	Title	Title Slug
 1173.5059264820	922	Sort Array By Parity II	sort-array-by-parity-ii
 1172.6819789183	1046	Last Stone Weight	last-stone-weight
 1172.5106645463	760	Find Anagram Mappings	find-anagram-mappings
+1167.8737144048	2057	Smallest Index With Equal Value	smallest-index-with-equal-value
 1167.1331831913	1304	Find N Unique Integers Sum up to Zero	find-n-unique-integers-sum-up-to-zero
 1167.0749837258	796	Rotate String	rotate-string
 1166.7881833200	1832	Check if the Sentence Is Pangram	check-if-the-sentence-is-pangram
