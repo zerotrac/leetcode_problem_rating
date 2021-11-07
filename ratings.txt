@@ -141,6 +141,7 @@ Rating	ID	Title	Title Slug
 2182.6180030785	891	Sum of Subsequence Widths	sum-of-subsequence-widths
 2182.0544529810	1771	Maximize Palindrome Length From Subsequences	maximize-palindrome-length-from-subsequences
 2181.7821188042	1912	Design Movie Rental System	design-movie-rental-system
+2178.4249114144	2065	Maximum Path Quality of a Graph	maximum-path-quality-of-a-graph
 2175.6850426027	1420	Build Array Where You Can Find The Maximum Exactly K Comparisons	build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 2171.7160666640	1691	Maximum Height by Stacking Cuboids 	maximum-height-by-stacking-cuboids
 2170.1079846744	1862	Sum of Floored Pairs	sum-of-floored-pairs
@@ -315,6 +316,7 @@ Rating	ID	Title	Title Slug
 1896.7975214446	878	Nth Magical Number	nth-magical-number
 1896.1411567598	1871	Jump Game VII	jump-game-vii
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	minimize-hamming-distance-after-swap-operations
+1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	minimized-maximum-of-products-distributed-to-any-store
 1885.1051527272	1066	Campus Bikes II	campus-bikes-ii
 1885.0178370385	1326	Minimum Number of Taps to Open to Water a Garden	minimum-number-of-taps-to-open-to-water-a-garden
 1883.3541964032	2054	Two Best Non-Overlapping Events	two-best-non-overlapping-events
@@ -514,6 +516,7 @@ Rating	ID	Title	Title Slug
 1666.3469909790	1162	As Far from Land as Possible	as-far-from-land-as-possible
 1665.2490724700	1620	Coordinate With Maximum Network Quality	coordinate-with-maximum-network-quality
 1664.7703749741	1121	Divide Array Into Increasing Sequences	divide-array-into-increasing-sequences
+1663.3912882908	2063	Vowels of All Substrings	vowels-of-all-substrings
 1663.2612318917	1219	Path with Maximum Gold	path-with-maximum-gold
 1663.1853149056	863	All Nodes Distance K in Binary Tree	all-nodes-distance-k-in-binary-tree
 1658.7495899767	1254	Number of Closed Islands	number-of-closed-islands
@@ -701,6 +704,7 @@ Rating	ID	Title	Title Slug
 1460.9105672071	1910	Remove All Occurrences of a Substring	remove-all-occurrences-of-a-substring
 1460.5903088359	1663	Smallest String With A Given Numeric Value	smallest-string-with-a-given-numeric-value
 1459.8208951847	1310	XOR Queries of a Subarray	xor-queries-of-a-subarray
+1458.3564930390	2062	Count Vowel Substrings of a String	count-vowel-substrings-of-a-string
 1454.3901912166	1846	Maximum Element After Decreasing and Rearranging	maximum-element-after-decreasing-and-rearranging
 1453.7818053022	1472	Design Browser History	design-browser-history
 1453.1833769825	781	Rabbits in Forest	rabbits-in-forest
