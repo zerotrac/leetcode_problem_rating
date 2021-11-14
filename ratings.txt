@@ -10,6 +10,7 @@ Rating	ID	Title	Title Slug
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
 2661.0670044656	1923	Longest Common Subpath	longest-common-subpath
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
+2648.1748409542	2071	Maximum Number of Tasks You Can Assign	maximum-number-of-tasks-you-can-assign
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
 2610.9906730644	2056	Number of Valid Move Combinations On Chessboard	number-of-valid-move-combinations-on-chessboard
@@ -158,6 +159,7 @@ Rating	ID	Title	Title Slug
 2133.9592509012	1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows	find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows
 2133.1003195919	898	Bitwise ORs of Subarrays	bitwise-ors-of-subarrays
 2131.7917160422	1579	Remove Max Number of Edges to Keep Graph Fully Traversable	remove-max-number-of-edges-to-keep-graph-fully-traversable
+2130.9348604091	2076	Process Restricted Friend Requests	process-restricted-friend-requests
 2130.1135718486	1039	Minimum Score Triangulation of Polygon	minimum-score-triangulation-of-polygon
 2129.7051442916	798	Smallest Rotation with Highest Score	smallest-rotation-with-highest-score
 2126.6864346508	1444	Number of Ways of Cutting a Pizza	number-of-ways-of-cutting-a-pizza
@@ -300,6 +302,7 @@ Rating	ID	Title	Title Slug
 1919.7433862082	1552	Magnetic Force Between Two Balls	magnetic-force-between-two-balls
 1919.6391896894	1416	Restore The Array	restore-the-array
 1919.1749818083	1130	Minimum Cost Tree From Leaf Values	minimum-cost-tree-from-leaf-values
+1918.9960035055	2069	Walking Robot Simulation II	walking-robot-simulation-ii
 1916.0689858272	1043	Partition Array for Maximum Sum	partition-array-for-maximum-sum
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	maximum-sum-bst-in-binary-tree
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	minimum-number-of-removals-to-make-mountain-array
@@ -435,6 +438,7 @@ Rating	ID	Title	Title Slug
 1764.9170564773	1706	Where Will the Ball Fall	where-will-the-ball-fall
 1762.3115124143	948	Bag of Tokens	bag-of-tokens
 1762.0307532652	1262	Greatest Sum Divisible by Three	greatest-sum-divisible-by-three
+1759.2287478055	2075	Decode the Slanted Ciphertext	decode-the-slanted-ciphertext
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	minimum-insertions-to-balance-a-parentheses-string
 1758.7525514100	1027	Longest Arithmetic Subsequence	longest-arithmetic-subsequence
 1758.5135073787	1954	Minimum Garden Perimeter to Collect Enough Apples	minimum-garden-perimeter-to-collect-enough-apples
@@ -462,6 +466,7 @@ Rating	ID	Title	Title Slug
 1730.3052054913	1014	Best Sightseeing Pair	best-sightseeing-pair
 1729.6074000215	1220	Count Vowels Permutation	count-vowels-permutation
 1725.4481937307	1011	Capacity To Ship Packages Within D Days	capacity-to-ship-packages-within-d-days
+1724.1545485476	2070	Most Beautiful Item for Each Query	most-beautiful-item-for-each-query
 1722.8129701098	1359	Count All Valid Pickup and Delivery Options	count-all-valid-pickup-and-delivery-options
 1722.3088173214	1197	Minimum Knight Moves	minimum-knight-moves
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	maximum-length-of-a-concatenated-string-with-unique-characters
@@ -496,6 +501,7 @@ Rating	ID	Title	Title Slug
 1689.7569144085	1419	Minimum Number of Frogs Croaking	minimum-number-of-frogs-croaking
 1688.9209684568	1963	Minimum Number of Swaps to Make the String Balanced	minimum-number-of-swaps-to-make-the-string-balanced
 1686.4493679523	950	Reveal Cards In Increasing Order	reveal-cards-in-increasing-order
+1685.3599641299	2074	Reverse Nodes in Even Length Groups	reverse-nodes-in-even-length-groups
 1682.8882177724	1443	Minimum Time to Collect All Apples in a Tree	minimum-time-to-collect-all-apples-in-a-tree
 1681.3263732456	767	Reorganize String	reorganize-string
 1680.8242599300	1865	Finding Pairs With a Certain Sum	finding-pairs-with-a-certain-sum
@@ -861,6 +867,7 @@ Rating	ID	Title	Title Slug
 1328.5131477260	1812	Determine Color of a Chessboard Square	determine-color-of-a-chessboard-square
 1327.0282989915	1086	High Five	high-five
 1326.4047670018	1476	Subrectangle Queries	subrectangle-queries
+1325.3607218257	2073	Time Needed to Buy Tickets	time-needed-to-buy-tickets
 1324.5696223867	1344	Angle Between Hands of a Clock	angle-between-hands-of-a-clock
 1324.5320836804	1752	Check if Array Is Sorted and Rotated	check-if-array-is-sorted-and-rotated
 1324.1757200103	1603	Design Parking System	design-parking-system
@@ -927,6 +934,7 @@ Rating	ID	Title	Title Slug
 1277.8260125315	1317	Convert Integer to the Sum of Two No-Zero Integers	convert-integer-to-the-sum-of-two-no-zero-integers
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations
+1273.0588534723	2068	Check Whether Two Strings are Almost Equivalent	check-whether-two-strings-are-almost-equivalent
 1271.7726574892	2006	Count Number of Pairs With Absolute Difference K	count-number-of-pairs-with-absolute-difference-k
 1271.7055549365	824	Goat Latin	goat-latin
 1271.3776510163	1556	Thousand Separator	thousand-separator
