@@ -124,6 +124,7 @@ Rating	ID	Title	Title Slug
 2217.8090802563	2025	Maximum Number of Ways to Partition an Array	maximum-number-of-ways-to-partition-an-array
 2214.4798747386	1889	Minimum Space Wasted From Packaging	minimum-space-wasted-from-packaging
 2210.3503183571	992	Subarrays with K Different Integers	subarrays-with-k-different-integers
+2209.8815936961	2081	Sum of k-Mirror Numbers	sum-of-k-mirror-numbers
 2208.5532172086	1568	Minimum Number of Days to Disconnect Island	minimum-number-of-days-to-disconnect-island
 2207.8565809952	1649	Create Sorted Array through Instructions	create-sorted-array-through-instructions
 2205.4304373587	1157	Online Majority Element In Subarray	online-majority-element-in-subarray
@@ -486,6 +487,7 @@ Rating	ID	Title	Title Slug
 1707.8992927609	816	Ambiguous Coordinates	ambiguous-coordinates
 1704.3608916410	1947	Maximum Compatibility Score Sum	maximum-compatibility-score-sum
 1702.8035923458	957	Prison Cells After N Days	prison-cells-after-n-days
+1702.4387527636	2080	Range Frequency Queries	range-frequency-queries
 1701.7584658834	1774	Closest Dessert Cost	closest-dessert-cost
 1701.5735371897	1054	Distant Barcodes	distant-barcodes
 1697.8500495479	1017	Convert to Base -2	convert-to-base-2
@@ -876,6 +878,7 @@ Rating	ID	Title	Title Slug
 1322.5926536743	1936	Add Minimum Number of Rungs	add-minimum-number-of-rungs
 1321.9346201204	1694	Reformat Phone Number	reformat-phone-number
 1321.2748903388	1582	Special Positions in a Binary Matrix	special-positions-in-a-binary-matrix
+1320.6485731562	2079	Watering Plants	watering-plants
 1317.9521104466	999	Available Captures for Rook	available-captures-for-rook
 1317.4638832497	1313	Decompress Run-Length Encoded List	decompress-run-length-encoded-list
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
@@ -976,6 +979,7 @@ Rating	ID	Title	Title Slug
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	check-if-all-characters-have-equal-number-of-occurrences
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	minimum-add-to-make-parentheses-valid
 1241.9262857175	1417	Reformat The String	reformat-the-string
+1240.8297581760	2078	Two Furthest Houses With Different Colors	two-furthest-houses-with-different-colors
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string
 1235.6114196155	1816	Truncate Sentence	truncate-sentence
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	find-the-distance-value-between-two-arrays
