@@ -175,6 +175,7 @@ Rating	ID	Title	Title Slug
 2109.9830154953	1172	Dinner Plate Stacks	dinner-plate-stacks
 2105.7761215397	1937	Maximum Number of Points with Cost	maximum-number-of-points-with-cost
 2104.9526046945	1944	Number of Visible People in a Queue	number-of-visible-people-in-a-queue
+2104.7441214305	2088	Count Fertile Pyramids in a Land	count-fertile-pyramids-in-a-land
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	preimage-size-of-factorial-zeroes-function
 2096.6201393558	778	Swim in Rising Water	swim-in-rising-water
 2096.6098086765	899	Orderly Queue	orderly-queue
@@ -245,6 +246,7 @@ Rating	ID	Title	Title Slug
 2005.5862669078	1888	Minimum Number of Flips to Make the Binary String Alternating	minimum-number-of-flips-to-make-the-binary-string-alternating
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	minimum-degree-of-a-connected-trio-in-a-graph
 2004.5346526204	1927	Sum Game	sum-game
+2003.5794613668	2092	Find All People With Secret	find-all-people-with-secret
 2000.8441804448	1686	Stone Game VI	stone-game-vi
 2000.8021428612	911	Online Election	online-election
 1999.1208076854	765	Couples Holding Hands	couples-holding-hands
@@ -456,6 +458,7 @@ Rating	ID	Title	Title Slug
 1745.6490739887	1391	Check if There is a Valid Path in a Grid	check-if-there-is-a-valid-path-in-a-grid
 1744.7611048301	1638	Count Substrings That Differ by One Character	count-substrings-that-differ-by-one-character
 1744.0388789755	1139	Largest 1-Bordered Square	largest-1-bordered-square
+1743.7319765540	2087	Minimum Cost Homecoming of a Robot in a Grid	minimum-cost-homecoming-of-a-robot-in-a-grid
 1741.4527995252	1145	Binary Tree Coloring Game	binary-tree-coloring-game
 1740.5014205942	1079	Letter Tile Possibilities	letter-tile-possibilities
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	split-a-string-into-the-max-number-of-unique-substrings
@@ -562,6 +565,7 @@ Rating	ID	Title	Title Slug
 1624.9775945043	785	Is Graph Bipartite?	is-graph-bipartite
 1624.4737611923	916	Word Subsets	word-subsets
 1623.9443250479	1248	Count Number of Nice Subarrays	count-number-of-nice-subarrays
+1622.8414025136	2086	Minimum Number of Buckets Required to Collect Rainwater from Houses	minimum-number-of-buckets-required-to-collect-rainwater-from-houses
 1618.6016480451	1503	Last Moment Before All Ants Fall Out of a Plank	last-moment-before-all-ants-fall-out-of-a-plank
 1615.4767730477	1020	Number of Enclaves	number-of-enclaves
 1613.0429766636	1277	Count Square Submatrices with All Ones	count-square-submatrices-with-all-ones
@@ -798,6 +802,7 @@ Rating	ID	Title	Title Slug
 1386.9203620297	1721	Swapping Nodes in a Linked List	swapping-nodes-in-a-linked-list
 1386.3256313989	1276	Number of Burgers with No Waste of Ingredients	number-of-burgers-with-no-waste-of-ingredients
 1384.4078082338	1271	Hexspeak	hexspeak
+1384.0226911434	2091	Removing Minimum and Maximum From Array	removing-minimum-and-maximum-from-array
 1383.4424411643	762	Prime Number of Set Bits in Binary Representation	prime-number-of-set-bits-in-binary-representation
 1382.7606078230	1318	Minimum Flips to Make a OR b Equal to c	minimum-flips-to-make-a-or-b-equal-to-c
 1382.7178688716	849	Maximize Distance to Closest Person	maximize-distance-to-closest-person
@@ -830,6 +835,7 @@ Rating	ID	Title	Title Slug
 1360.3005775112	1817	Finding the Users Active Minutes	finding-the-users-active-minutes
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs
+1358.1526134030	2090	K Radius Subarray Averages	k-radius-subarray-averages
 1357.6553050616	1957	Delete Characters to Make Fancy String	delete-characters-to-make-fancy-string
 1356.6925765299	2037	Minimum Number of Moves to Seat Everyone	minimum-number-of-moves-to-seat-everyone
 1356.1920189231	2043	Simple Bank System	simple-bank-system
@@ -892,6 +898,7 @@ Rating	ID	Title	Title Slug
 1309.1422268153	1897	Redistribute Characters to Make All Strings Equal	redistribute-characters-to-make-all-strings-equal
 1307.9800903088	1064	Fixed Point	fixed-point
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words
+1307.4608905199	2085	Count Common Words With One Occurrence	count-common-words-with-one-occurrence
 1307.3797385769	1893	Check if All the Integers in a Range Are Covered	check-if-all-the-integers-in-a-range-are-covered
 1307.3265298181	2022	Convert 1D Array Into 2D Array	convert-1d-array-into-2d-array
 1307.2991245272	868	Binary Gap	binary-gap
@@ -1067,6 +1074,7 @@ Rating	ID	Title	Title Slug
 1160.8899403409	1512	Number of Good Pairs	number-of-good-pairs
 1160.4439395369	1920	Build Array from Permutation	build-array-from-permutation
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	can-make-arithmetic-progression-from-sequence
+1152.1494742874	2089	Find Target Indices After Sorting Array	find-target-indices-after-sorting-array
 1152.1377893605	1365	How Many Numbers Are Smaller Than the Current Number	how-many-numbers-are-smaller-than-the-current-number
 1151.5250329621	1460	Make Two Arrays Equal by Reversing Sub-arrays	make-two-arrays-equal-by-reversing-sub-arrays
 1151.3534799042	1290	Convert Binary Number in a Linked List to Integer	convert-binary-number-in-a-linked-list-to-integer
