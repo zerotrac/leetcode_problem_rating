@@ -10,6 +10,7 @@ Rating	ID	Title	Title Slug
 2666.6681508450	1397	Find All Good Strings	find-all-good-strings
 2661.0670044656	1923	Longest Common Subpath	longest-common-subpath
 2655.2178711909	1659	Maximize Grid Happiness	maximize-grid-happiness
+2650.8996457642	2097	Valid Arrangement of Pairs	valid-arrangement-of-pairs
 2648.1748409542	2071	Maximum Number of Tasks You Can Assign	maximum-number-of-tasks-you-can-assign
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted
@@ -402,6 +403,7 @@ Rating	ID	Title	Title Slug
 1806.5891699944	1073	Adding Two Negabinary Numbers	adding-two-negabinary-numbers
 1805.5947071171	1035	Uncrossed Lines	uncrossed-lines
 1804.5783242151	1080	Insufficient Nodes in Root to Leaf Paths	insufficient-nodes-in-root-to-leaf-paths
+1804.5283324227	2096	Step-By-Step Directions From a Binary Tree Node to Another	step-by-step-directions-from-a-binary-tree-node-to-another
 1803.7518552874	1953	Maximum Number of Weeks for Which You Can Work	maximum-number-of-weeks-for-which-you-can-work
 1802.2256875356	1673	Find the Most Competitive Subsequence	find-the-most-competitive-subsequence
 1799.4635458535	1186	Maximum Subarray Sum with One Deletion	maximum-subarray-sum-with-one-deletion
@@ -717,6 +719,7 @@ Rating	ID	Title	Title Slug
 1460.5903088359	1663	Smallest String With A Given Numeric Value	smallest-string-with-a-given-numeric-value
 1459.8208951847	1310	XOR Queries of a Subarray	xor-queries-of-a-subarray
 1458.3564930390	2062	Count Vowel Substrings of a String	count-vowel-substrings-of-a-string
+1454.7459647138	2094	Finding 3-Digit Even Numbers	finding-3-digit-even-numbers
 1454.3901912166	1846	Maximum Element After Decreasing and Rearranging	maximum-element-after-decreasing-and-rearranging
 1453.7818053022	1472	Design Browser History	design-browser-history
 1453.1833769825	781	Rabbits in Forest	rabbits-in-forest
@@ -878,6 +881,7 @@ Rating	ID	Title	Title Slug
 1325.3607218257	2073	Time Needed to Buy Tickets	time-needed-to-buy-tickets
 1324.5696223867	1344	Angle Between Hands of a Clock	angle-between-hands-of-a-clock
 1324.5320836804	1752	Check if Array Is Sorted and Rotated	check-if-array-is-sorted-and-rotated
+1324.3520304377	2095	Delete the Middle Node of a Linked List	delete-the-middle-node-of-a-linked-list
 1324.1757200103	1603	Design Parking System	design-parking-system
 1323.8236471852	1925	Count Square Sum Triples	count-square-sum-triples
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	maximum-nesting-depth-of-the-parentheses
