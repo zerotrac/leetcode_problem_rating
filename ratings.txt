@@ -151,6 +151,7 @@ Rating	ID	Title	Title Slug
 2170.0439693714	1931	Painting a Grid With Three Different Colors	painting-a-grid-with-three-different-colors
 2168.7531235448	786	K-th Smallest Prime Fraction	k-th-smallest-prime-fraction
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze
+2158.7683843245	2102	Sequentially Ordinal Rank Tracker	sequentially-ordinal-rank-tracker
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre
 2147.1828941776	1610	Maximum Number of Visible Points	maximum-number-of-visible-points
 2146.6395819980	1906	Minimum Absolute Difference Queries	minimum-absolute-difference-queries
@@ -208,6 +209,7 @@ Rating	ID	Title	Title Slug
 2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	maximum-score-from-performing-multiplication-operations
 2067.0643721733	855	Exam Room	exam-room
 2066.0972575597	801	Minimum Swaps To Make Sequences Increasing	minimum-swaps-to-make-sequences-increasing
+2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	maximum-fruits-harvested-after-at-most-k-steps
 2059.4040623264	1131	Maximum of Absolute Value Expression	maximum-of-absolute-value-expression
 2056.3354942160	1473	Paint House III	paint-house-iii
 2055.0970201875	1575	Count All Possible Routes	count-all-possible-routes
@@ -332,6 +334,7 @@ Rating	ID	Title	Title Slug
 1880.5909929633	1536	Minimum Swaps to Arrange a Binary Grid	minimum-swaps-to-arrange-a-binary-grid
 1880.4226853663	1106	Parsing A Boolean Expression	parsing-a-boolean-expression
 1880.3261182293	754	Reach a Number	reach-a-number
+1880.0511044074	2101	Detonate the Maximum Bombs	detonate-the-maximum-bombs
 1877.8983358307	1234	Replace the Substring for Balanced String	replace-the-substring-for-balanced-string
 1877.5624603804	752	Open the Lock	open-the-lock
 1876.3854625677	955	Delete Columns to Make Sorted II	delete-columns-to-make-sorted-ii
@@ -492,6 +495,7 @@ Rating	ID	Title	Title Slug
 1707.8992927609	816	Ambiguous Coordinates	ambiguous-coordinates
 1704.3608916410	1947	Maximum Compatibility Score Sum	maximum-compatibility-score-sum
 1702.8035923458	957	Prison Cells After N Days	prison-cells-after-n-days
+1702.4962514406	2100	Find Good Days to Rob the Bank	find-good-days-to-rob-the-bank
 1702.4387527636	2080	Range Frequency Queries	range-frequency-queries
 1701.7584658834	1774	Closest Dessert Cost	closest-dessert-cost
 1701.5735371897	1054	Distant Barcodes	distant-barcodes
@@ -668,10 +672,12 @@ Rating	ID	Title	Title Slug
 1508.1169489285	1151	Minimum Swaps to Group All 1's Together	minimum-swaps-to-group-all-1s-together
 1508.0997658270	1496	Path Crossing	path-crossing
 1507.8701119064	892	Surface Area of 3D Shapes	surface-area-of-3d-shapes
+1507.1617507911	2105	Watering Plants II	watering-plants-ii
 1506.8958220609	1387	Sort Integers by The Power Value	sort-integers-by-the-power-value
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	reconstruct-a-2-row-binary-matrix
 1505.8249995300	1780	Check if Number is a Sum of Powers of Three	check-if-number-is-a-sum-of-powers-of-three
 1504.8237159326	869	Reordered Power of 2	reordered-power-of-2
+1504.2133321504	2104	Sum of Subarray Ranges	sum-of-subarray-ranges
 1504.0178888667	1461	Check If a String Contains All Binary Codes of Size K	check-if-a-string-contains-all-binary-codes-of-size-k
 1501.6846714598	1750	Minimum Length of String After Deleting Similar Ends	minimum-length-of-string-after-deleting-similar-ends
 1501.1152614679	1090	Largest Values From Labels	largest-values-from-labels
@@ -725,6 +731,7 @@ Rating	ID	Title	Title Slug
 1453.1833769825	781	Rabbits in Forest	rabbits-in-forest
 1450.5787293419	831	Masking Personal Information	masking-personal-information
 1448.1207963663	945	Minimum Increment to Make Array Unique	minimum-increment-to-make-array-unique
+1447.0268321102	2099	Find Subsequence of Length K With the Largest Sum	find-subsequence-of-length-k-with-the-largest-sum
 1446.4280778775	1026	Maximum Difference Between Node and Ancestor	maximum-difference-between-node-and-ancestor
 1445.3734269673	1946	Largest Number After Mutating Substring	largest-number-after-mutating-substring
 1444.6795731919	2028	Find Missing Observations	find-missing-observations
@@ -966,6 +973,7 @@ Rating	ID	Title	Title Slug
 1259.1979660519	1213	Intersection of Three Sorted Arrays	intersection-of-three-sorted-arrays
 1258.8401788462	867	Transpose Matrix	transpose-matrix
 1258.6719675401	896	Monotonic Array	monotonic-array
+1257.7670945029	2103	Rings and Rods	rings-and-rods
 1257.7082143289	1356	Sort Integers by The Number of 1 Bits	sort-integers-by-the-number-of-1-bits
 1257.6796331650	1309	Decrypt String from Alphabet to Integer Mapping	decrypt-string-from-alphabet-to-integer-mapping
 1257.2649235990	2042	Check if Numbers Are Ascending in a Sentence	check-if-numbers-are-ascending-in-a-sentence
