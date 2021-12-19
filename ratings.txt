@@ -288,6 +288,7 @@ Rating	ID	Title	Title Slug
 1947.5013967785	1631	Path With Minimum Effort	path-with-minimum-effort
 1945.7515607928	1793	Maximum Score of a Good Subarray	maximum-score-of-a-good-subarray
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	minimum-number-of-days-to-make-m-bouquets
+1940.6002290953	2111	Minimum Operations to Make the Array K-Increasing	minimum-operations-to-make-the-array-k-increasing
 1939.9323330472	1760	Minimum Limit of Balls in a Bag	minimum-limit-of-balls-in-a-bag
 1938.6883365596	777	Swap Adjacent in LR String	swap-adjacent-in-lr-string
 1938.2224916289	866	Prime Palindrome	prime-palindrome
@@ -782,6 +783,7 @@ Rating	ID	Title	Title Slug
 1412.2790156634	841	Keys and Rooms	keys-and-rooms
 1410.5239927267	1138	Alphabet Board Path	alphabet-board-path
 1408.7923640745	1588	Sum of All Odd Length Subarrays	sum-of-all-odd-length-subarrays
+1408.4275924170	2110	Number of Smooth Descent Periods of a Stock	number-of-smooth-descent-periods-of-a-stock
 1407.9870845299	1006	Clumsy Factorial	clumsy-factorial
 1407.5442381391	1217	Minimum Cost to Move Chips to The Same Position	minimum-cost-to-move-chips-to-the-same-position
 1407.1322366299	1325	Delete Leaves With a Given Value	delete-leaves-with-a-given-value
@@ -901,6 +903,7 @@ Rating	ID	Title	Title Slug
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
 1315.4085759361	1180	Count Substrings with Only One Distinct Letter	count-substrings-with-only-one-distinct-letter
 1315.3715333947	1629	Slowest Key	slowest-key
+1315.1890809249	2109	Adding Spaces to a String	adding-spaces-to-a-string
 1314.8600143277	1827	Minimum Operations to Make the Array Increasing	minimum-operations-to-make-the-array-increasing
 1311.3495317884	1021	Remove Outermost Parentheses	remove-outermost-parentheses
 1310.9129840277	2058	Find the Minimum and Maximum Number of Nodes Between Critical Points	find-the-minimum-and-maximum-number-of-nodes-between-critical-points
@@ -1028,6 +1031,7 @@ Rating	ID	Title	Title Slug
 1219.4252907184	1299	Replace Elements with Greatest Element on Right Side	replace-elements-with-greatest-element-on-right-side
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	check-if-two-string-arrays-are-equivalent
 1216.6376846517	1848	Minimum Distance to the Target Element	minimum-distance-to-the-target-element
+1215.7443346869	2108	Find First Palindromic String in the Array	find-first-palindromic-string-in-the-array
 1213.8073621345	973	K Closest Points to Origin	k-closest-points-to-origin
 1212.2606422181	1475	Final Prices With a Special Discount in a Shop	final-prices-with-a-special-discount-in-a-shop
 1212.2309421538	1413	Minimum Value to Get Positive Step by Step Sum	minimum-value-to-get-positive-step-by-step-sum
