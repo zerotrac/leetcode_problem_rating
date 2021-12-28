@@ -26,7 +26,8 @@ new gridjs.Grid({
         selector: (cell, rowIndex, cellIndex) => cellIndex === 3 ? "" : cell
     },
     pagination: {
-        limit: 20
+        limit: 20,
+        buttonsCount: 7
     },
     style: {
         table: {
