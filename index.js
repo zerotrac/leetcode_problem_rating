@@ -19,12 +19,20 @@ new gridjs.Grid({
         formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/contest/${row.cells[3].data}" target="_blank">${row.cells[4].data}</a>`),
         sort: {
             compare: (a, b) => {
-                const idx = (x) => parseInt(x.split(" ").slice(-1)[0]);
-                if (idx(a) > idx(b)) {
+                // BiC or WC
+                const contest_type = (x) => x.split(" ")[0];
+                const contest_idx = (x) => parseInt(x.split(" ")[1]);
+                if (contest_type(a) > contest_type(b)) {
                     return 1;
-                } else if (idx(b) > idx(a)) {
+                } else if (contest_type(a) < contest_type(b)) {
                     return -1;
                 } else {
+                    if (contest_idx(a) > contest_idx(b)) {
+                        return 1;
+                    }
+                    else if (contest_idx(a) < contest_idx(b)) {
+                        return -1;
+                    }
                     return 0;
                 }
             }
