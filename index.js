@@ -12,18 +12,36 @@ new gridjs.Grid({
         name: "TitleSlug",
         hidden: true
     }, {
+        name: "ContestSlug",
+        hidden: true
+    }, {
+        name: "Contest",
+        formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/contest/${row.cells[3].data}" target="_blank">${row.cells[4].data}</a>`),
+        sort: {
+            compare: (a, b) => {
+                const idx = (x) => parseInt(x.split(" ").slice(-1)[0]);
+                if (idx(a) > idx(b)) {
+                    return 1;
+                } else if (idx(b) > idx(a)) {
+                    return -1;
+                } else {
+                    return 0;
+                }
+            }
+        }
+    }, {
         name: "Rating",
         width: "11%",
         formatter: (cell) => Math.round(cell)
     }],
     server: {
         url: "./data.json",
-        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.Rating])
+        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID, entry.Rating])
     },
     sort: true,
     autoWidth: false,
     search: {
-        selector: (cell, rowIndex, cellIndex) => cellIndex === 3 ? "" : cell
+        selector: (cell, rowIndex, cellIndex) => (cellIndex === 2 || cellIndex == 3 || cellIndex == 5) ? "" : cell
     },
     pagination: {
         limit: 20,
