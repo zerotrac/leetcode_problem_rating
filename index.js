@@ -1,7 +1,7 @@
 new gridjs.Grid({
     columns: [{
         name: "ID",
-        width: "7%",
+        width: "8%",
     }, {
         name: "Title",
         formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/problems/${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
