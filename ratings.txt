@@ -74,6 +74,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 2376.8658923518	887	Super Egg Drop	super-egg-drop	weekly-contest-97
 2374.1850487395	1840	Maximum Building Height	maximum-building-height	weekly-contest-238
 2366.7099607655	1183	Maximum Number of Ones	maximum-number-of-ones	biweekly-contest-8
+2364.3930657709	2132	Stamping the Grid	stamping-the-grid	biweekly-contest-69
 2363.5096568214	1755	Closest Subsequence Sum	closest-subsequence-sum	weekly-contest-227
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	maximum-number-of-non-overlapping-substrings	weekly-contest-198
 2358.9669560824	1707	Maximum XOR With an Element From Array	maximum-xor-with-an-element-from-array	weekly-contest-221
@@ -231,6 +232,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 2034.9420578559	1335	Minimum Difficulty of a Job Schedule	minimum-difficulty-of-a-job-schedule	weekly-contest-173
 2034.6759416871	947	Most Stones Removed with Same Row or Column	most-stones-removed-with-same-row-or-column	weekly-contest-112
 2034.4067304341	828	Count Unique Characters of All Substrings of a Given String	count-unique-characters-of-all-substrings-of-a-given-string	weekly-contest-83
+2033.4597721985	2136	Earliest Possible Day of Full Bloom	earliest-possible-day-of-full-bloom	weekly-contest-275
 2032.4773038683	1425	Constrained Subsequence Sum	constrained-subsequence-sum	weekly-contest-186
 2029.1301557536	1231	Divide Chocolate	divide-chocolate	biweekly-contest-11
 2027.8772739639	895	Maximum Frequency Stack	maximum-frequency-stack	weekly-contest-99
@@ -387,6 +389,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1830.3165569278	980	Unique Paths III	unique-paths-iii	weekly-contest-120
 1830.1493771696	790	Domino and Tromino Tiling	domino-and-tromino-tiling	weekly-contest-73
 1828.6438563573	1754	Largest Merge Of Two Strings	largest-merge-of-two-strings	weekly-contest-227
+1828.2700238306	2135	Count Words Obtained After Adding a Letter	count-words-obtained-after-adding-a-letter	weekly-contest-275
 1827.0907402220	1095	Find in Mountain Array	find-in-mountain-array	weekly-contest-142
 1825.7704860080	934	Shortest Bridge	shortest-bridge	weekly-contest-109
 1825.4207082682	1702	Maximum Binary String After Change	maximum-binary-string-after-change	biweekly-contest-42
@@ -461,6 +464,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1752.9555725796	1135	Connecting Cities With Minimum Cost	connecting-cities-with-minimum-cost	biweekly-contest-5
 1752.2621077596	939	Minimum Area Rectangle	minimum-area-rectangle	weekly-contest-110
 1749.4981778209	1111	Maximum Nesting Depth of Two Valid Parentheses Strings	maximum-nesting-depth-of-two-valid-parentheses-strings	weekly-contest-144
+1748.4522689101	2134	Minimum Swaps to Group All 1's Together II	minimum-swaps-to-group-all-1s-together-ii	weekly-contest-275
 1748.1523771585	1297	Maximum Number of Occurrences of a Substring	maximum-number-of-occurrences-of-a-substring	weekly-contest-168
 1747.6755111029	1191	K-Concatenation Maximum Sum	k-concatenation-maximum-sum	weekly-contest-154
 1746.8757919578	1849	Splitting a String Into Descending Consecutive Values	splitting-a-string-into-descending-consecutive-values	weekly-contest-239
@@ -633,6 +637,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1558.4971807039	1101	The Earliest Moment When Everyone Become Friends	the-earliest-moment-when-everyone-become-friends	biweekly-contest-3
 1558.1421869292	1244	Design A Leaderboard	design-a-leaderboard	biweekly-contest-12
 1557.0170555820	2007	Find Original Array From Doubled Array	find-original-array-from-doubled-array	biweekly-contest-61
+1556.8824239708	2131	Longest Palindrome by Concatenating Two Letter Words	longest-palindrome-by-concatenating-two-letter-words	biweekly-contest-69
 1548.4678056182	1329	Sort the Matrix Diagonally	sort-the-matrix-diagonally	biweekly-contest-18
 1548.0854419238	1599	Maximum Profit of Operating a Centennial Wheel	maximum-profit-of-operating-a-centennial-wheel	weekly-contest-208
 1547.5714796512	954	Array of Doubled Pairs	array-of-doubled-pairs	weekly-contest-114
@@ -907,6 +912,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1321.2748903388	1582	Special Positions in a Binary Matrix	special-positions-in-a-binary-matrix	weekly-contest-206
 1320.6485731562	2079	Watering Plants	watering-plants	weekly-contest-268
 1317.9521104466	999	Available Captures for Rook	available-captures-for-rook	weekly-contest-125
+1317.9207508583	2130	Maximum Twin Sum of a Linked List	maximum-twin-sum-of-a-linked-list	biweekly-contest-69
 1317.4638832497	1313	Decompress Run-Length Encoded List	decompress-run-length-encoded-list	biweekly-contest-17
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold	biweekly-contest-19
 1315.4085759361	1180	Count Substrings with Only One Distinct Letter	count-substrings-with-only-one-distinct-letter	biweekly-contest-8
@@ -965,6 +971,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1279.3383966145	1534	Count Good Triplets	count-good-triplets	weekly-contest-200
 1277.9987709491	1742	Maximum Number of Balls in a Box	maximum-number-of-balls-in-a-box	weekly-contest-226
 1277.8260125315	1317	Convert Integer to the Sum of Two No-Zero Integers	convert-integer-to-the-sum-of-two-no-zero-integers	weekly-contest-171
+1274.8817522170	2129	Capitalize the Title	capitalize-the-title	biweekly-contest-69
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram	weekly-contest-140
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations	weekly-contest-127
 1273.0588534723	2068	Check Whether Two Strings are Almost Equivalent	check-whether-two-strings-are-almost-equivalent	biweekly-contest-65
@@ -977,6 +984,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	group-the-people-given-the-group-size-they-belong-to	weekly-contest-166
 1266.3368046515	821	Shortest Distance to a Character	shortest-distance-to-a-character	weekly-contest-81
 1264.4836883082	1736	Latest Time by Replacing Hidden Digits	latest-time-by-replacing-hidden-digits	weekly-contest-225
+1264.2868345638	2133	Check if Every Row and Column Contains All Numbers	check-if-every-row-and-column-contains-all-numbers	weekly-contest-275
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	maximum-number-of-vowels-in-a-substring-of-given-length	weekly-contest-190
 1262.5890311992	1089	Duplicate Zeros	duplicate-zeros	weekly-contest-141
 1260.1755576607	1305	All Elements in Two Binary Search Trees	all-elements-in-two-binary-search-trees	weekly-contest-169
