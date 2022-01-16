@@ -110,6 +110,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 2273.7910625337	753	Cracking the Safe	cracking-the-safe	weekly-contest-64
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other	biweekly-contest-25
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor	weekly-contest-113
+2265.2118886972	2141	Maximum Running Time of N Computers	maximum-running-time-of-n-computers	weekly-contest-276
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257
 2259.6572191969	857	Minimum Cost to Hire K Workers	minimum-cost-to-hire-k-workers	weekly-contest-90
 2258.6371797452	864	Shortest Path to Get All Keys	shortest-path-to-get-all-keys	weekly-contest-92
@@ -499,6 +500,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1710.1120861153	759	Employee Free Time	employee-free-time	weekly-contest-66
 1710.0787625377	1136	Parallel Courses	parallel-courses	biweekly-contest-5
 1709.1461451873	979	Distribute Coins in Binary Tree	distribute-coins-in-binary-tree	weekly-contest-120
+1709.1054732427	2140	Solving Questions With Brainpower	solving-questions-with-brainpower	weekly-contest-276
 1708.9983361411	1401	Circle and Rectangle Overlapping	circle-and-rectangle-overlapping	biweekly-contest-23
 1708.8735585776	901	Online Stock Span	online-stock-span	weekly-contest-101
 1708.8129236790	826	Most Profit Assigning Work	most-profit-assigning-work	weekly-contest-82
@@ -787,6 +789,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1418.8205349928	1656	Design an Ordered Stream	design-an-ordered-stream	weekly-contest-215
 1418.6847740057	1962	Remove Stones to Minimize the Total	remove-stones-to-minimize-the-total	weekly-contest-253
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner	weekly-contest-138
+1417.3934930077	2139	Minimum Moves to Reach Target Score	minimum-moves-to-reach-target-score	weekly-contest-276
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb	biweekly-contest-39
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern	weekly-contest-98
 1414.4351202231	1985	Find the Kth Largest Integer in the Array	find-the-kth-largest-integer-in-the-array	weekly-contest-256
@@ -975,6 +978,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram	weekly-contest-140
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations	weekly-contest-127
 1273.0588534723	2068	Check Whether Two Strings are Almost Equivalent	check-whether-two-strings-are-almost-equivalent	biweekly-contest-65
+1273.0464737970	2138	Divide a String Into Groups of Size k	divide-a-string-into-groups-of-size-k	weekly-contest-276
 1271.7726574892	2006	Count Number of Pairs With Absolute Difference K	count-number-of-pairs-with-absolute-difference-k	biweekly-contest-61
 1271.7055549365	824	Goat Latin	goat-latin	weekly-contest-82
 1271.3776510163	1556	Thousand Separator	thousand-separator	biweekly-contest-33
