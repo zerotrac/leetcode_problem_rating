@@ -36,6 +36,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 2517.6829964848	2040	Kth Smallest Product of Two Sorted Arrays	kth-smallest-product-of-two-sorted-arrays	biweekly-contest-63
 2502.5176603922	1938	Maximum Genetic Difference Query	maximum-genetic-difference-query	weekly-contest-250
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product	biweekly-contest-44
+2499.3282271507	2157	Groups of Strings	groups-of-strings	weekly-contest-278
 2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	partition-array-into-two-arrays-to-minimize-sum-difference	weekly-contest-262
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony	weekly-contest-247
 2483.9435767299	1932	Merge BSTs to Create Single BST	merge-bsts-to-create-single-bst	weekly-contest-249
@@ -107,10 +108,10 @@ Rating	ID	Title	Title Slug	Contest Slug
 2277.0238076464	749	Contain Virus	contain-virus	weekly-contest-63
 2276.4233585631	1498	Number of Subsequences That Satisfy the Given Sum Condition	number-of-subsequences-that-satisfy-the-given-sum-condition	weekly-contest-195
 2275.7337818748	1606	Find Servers That Handled Most Number of Requests	find-servers-that-handled-most-number-of-requests	biweekly-contest-36
-2275.0251834259	2141	Maximum Running Time of N Computers	maximum-running-time-of-n-computers	weekly-contest-276
 2273.7910625337	753	Cracking the Safe	cracking-the-safe	weekly-contest-64
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other	biweekly-contest-25
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor	weekly-contest-113
+2265.2118886972	2141	Maximum Running Time of N Computers	maximum-running-time-of-n-computers	weekly-contest-276
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257
 2259.6572191969	857	Minimum Cost to Hire K Workers	minimum-cost-to-hire-k-workers	weekly-contest-90
 2258.6371797452	864	Shortest Path to Get All Keys	shortest-path-to-get-all-keys	weekly-contest-92
@@ -214,6 +215,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	maximum-score-from-performing-multiplication-operations	weekly-contest-229
 2067.0643721733	855	Exam Room	exam-room	weekly-contest-89
 2066.0972575597	801	Minimum Swaps To Make Sequences Increasing	minimum-swaps-to-make-sequences-increasing	weekly-contest-76
+2062.9876807625	2156	Find Substring With Given Hash Value	find-substring-with-given-hash-value	weekly-contest-278
 2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	maximum-fruits-harvested-after-at-most-k-steps	weekly-contest-271
 2059.4040623264	1131	Maximum of Absolute Value Expression	maximum-of-absolute-value-expression	weekly-contest-146
 2056.3354942160	1473	Paint House III	paint-house-iii	weekly-contest-192
@@ -503,9 +505,9 @@ Rating	ID	Title	Title Slug	Contest Slug
 1710.1120861153	759	Employee Free Time	employee-free-time	weekly-contest-66
 1710.0787625377	1136	Parallel Courses	parallel-courses	biweekly-contest-5
 1709.1461451873	979	Distribute Coins in Binary Tree	distribute-coins-in-binary-tree	weekly-contest-120
+1709.1054732427	2140	Solving Questions With Brainpower	solving-questions-with-brainpower	weekly-contest-276
 1708.9983361411	1401	Circle and Rectangle Overlapping	circle-and-rectangle-overlapping	biweekly-contest-23
 1708.8735585776	901	Online Stock Span	online-stock-span	weekly-contest-101
-1708.8300955820	2140	Solving Questions With Brainpower	solving-questions-with-brainpower	weekly-contest-276
 1708.8129236790	826	Most Profit Assigning Work	most-profit-assigning-work	weekly-contest-82
 1707.8992927609	816	Ambiguous Coordinates	ambiguous-coordinates	weekly-contest-80
 1704.3608916410	1947	Maximum Compatibility Score Sum	maximum-compatibility-score-sum	weekly-contest-251
@@ -793,8 +795,8 @@ Rating	ID	Title	Title Slug	Contest Slug
 1418.8205349928	1656	Design an Ordered Stream	design-an-ordered-stream	weekly-contest-215
 1418.6847740057	1962	Remove Stones to Minimize the Total	remove-stones-to-minimize-the-total	weekly-contest-253
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner	weekly-contest-138
+1417.3934930077	2139	Minimum Moves to Reach Target Score	minimum-moves-to-reach-target-score	weekly-contest-276
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb	biweekly-contest-39
-1416.7741175743	2139	Minimum Moves to Reach Target Score	minimum-moves-to-reach-target-score	weekly-contest-276
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern	weekly-contest-98
 1414.4351202231	1985	Find the Kth Largest Integer in the Array	find-the-kth-largest-integer-in-the-array	weekly-contest-256
 1412.3053230205	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game	weekly-contest-236
@@ -824,6 +826,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1392.6601629182	1529	Bulb Switcher IV	bulb-switcher-iv	weekly-contest-199
 1392.0853311911	958	Check Completeness of a Binary Tree	check-completeness-of-a-binary-tree	weekly-contest-115
 1391.7243180131	1222	Queens That Can Attack the King	queens-that-can-attack-the-king	weekly-contest-158
+1390.5023027273	2155	All Divisions With the Highest Score of a Binary Array	all-divisions-with-the-highest-score-of-a-binary-array	weekly-contest-278
 1389.3311694710	1065	Index Pairs of a String	index-pairs-of-a-string	biweekly-contest-1
 1389.0328392117	1214	Two Sum BSTs	two-sum-bsts	biweekly-contest-10
 1387.9431104106	1302	Deepest Leaves Sum	deepest-leaves-sum	biweekly-contest-16
@@ -983,7 +986,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1274.7596170193	1078	Occurrences After Bigram	occurrences-after-bigram	weekly-contest-140
 1274.6742564805	1005	Maximize Sum Of Array After K Negations	maximize-sum-of-array-after-k-negations	weekly-contest-127
 1273.0588534723	2068	Check Whether Two Strings are Almost Equivalent	check-whether-two-strings-are-almost-equivalent	biweekly-contest-65
-1272.5779242610	2138	Divide a String Into Groups of Size k	divide-a-string-into-groups-of-size-k	weekly-contest-276
+1273.0464737970	2138	Divide a String Into Groups of Size k	divide-a-string-into-groups-of-size-k	weekly-contest-276
 1271.7726574892	2006	Count Number of Pairs With Absolute Difference K	count-number-of-pairs-with-absolute-difference-k	biweekly-contest-61
 1271.7055549365	824	Goat Latin	goat-latin	weekly-contest-82
 1271.3776510163	1556	Thousand Separator	thousand-separator	biweekly-contest-33
@@ -1032,6 +1035,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1240.8297581760	2078	Two Furthest Houses With Different Colors	two-furthest-houses-with-different-colors	weekly-contest-268
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string	weekly-contest-186
 1235.9216009709	2149	Rearrange Array Elements by Sign	rearrange-array-elements-by-sign	weekly-contest-277
+1235.8413685224	2154	Keep Multiplying Found Values by Two	keep-multiplying-found-values-by-two	weekly-contest-278
 1235.6114196155	1816	Truncate Sentence	truncate-sentence	weekly-contest-235
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	find-the-distance-value-between-two-arrays	biweekly-contest-22
 1234.7692637513	989	Add to Array-Form of Integer	add-to-array-form-of-integer	weekly-contest-123
