@@ -38,18 +38,24 @@ new gridjs.Grid({
             }
         }
     }, {
+        name: "#",
+        width: "5%",
+        sort: {
+            enabled: false
+        }
+    }, {
         name: "Rating",
-        width: "11%",
+        width: "10%",
         formatter: (cell) => Math.round(cell)
     }],
     server: {
         url: "./data.json",
-        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID, entry.Rating])
+        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID, entry.ProblemIndex, entry.Rating])
     },
     sort: true,
     autoWidth: false,
     search: {
-        selector: (cell, rowIndex, cellIndex) => (cellIndex === 2 || cellIndex == 3 || cellIndex == 5) ? "" : cell
+        selector: (cell, rowIndex, cellIndex) => (cellIndex === 2 || cellIndex == 3 || cellIndex == 6) ? "" : cell
     },
     pagination: {
         limit: 20,

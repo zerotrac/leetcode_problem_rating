@@ -13,7 +13,7 @@ def contest_slug_to_id(contest_slug: str) -> str:
 
 obj = list()
 for line in body:
-    line = [float(line[0]), int(line[1]), line[2], line[3], line[4], contest_slug_to_id(line[4])]
+    line = [float(line[0]), int(line[1]), line[2], line[3], line[4], line[5], contest_slug_to_id(line[4])]
     obj.append({k: v for k, v in zip(title, line)})
 
 with open("data.json", "w") as fout:
