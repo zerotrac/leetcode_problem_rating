@@ -125,8 +125,10 @@ Rating	ID	Title	Title Slug	Contest Slug
 2233.9639034080	1178	Number of Valid Words for Each Puzzle	number-of-valid-words-for-each-puzzle	weekly-contest-152
 2231.8099102949	1766	Tree of Coprimes	tree-of-coprimes	biweekly-contest-46
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits	weekly-contest-128
+2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring	biweekly-contest-32
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold	weekly-contest-211
+2219.3465296423	2167	Minimum Time to Remove All Cars Containing Illegal Goods	minimum-time-to-remove-all-cars-containing-illegal-goods	weekly-contest-279
 2217.8090802563	2025	Maximum Number of Ways to Partition an Array	maximum-number-of-ways-to-partition-an-array	biweekly-contest-62
 2214.4798747386	1889	Minimum Space Wasted From Packaging	minimum-space-wasted-from-packaging	weekly-contest-244
 2210.3503183571	992	Subarrays with K Different Integers	subarrays-with-k-different-integers	weekly-contest-123
@@ -375,6 +377,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1854.9547783559	1334	Find the City With the Smallest Number of Neighbors at a Threshold Distance	find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance	weekly-contest-173
 1854.0126399812	1269	Number of Ways to Stay in the Same Place After Some Steps	number-of-ways-to-stay-in-the-same-place-after-some-steps	weekly-contest-164
 1853.0880092558	1301	Number of Paths with Max Score	number-of-paths-with-max-score	biweekly-contest-16
+1851.7255023016	2162	Minimum Cost to Set Cooking Time	minimum-cost-to-set-cooking-time	biweekly-contest-71
 1850.8490524791	1152	Analyze User Website Visit Pattern	analyze-user-website-visit-pattern	biweekly-contest-6
 1850.5506342426	1477	Find Two Non-overlapping Sub-arrays Each With Target Sum	find-two-non-overlapping-sub-arrays-each-with-target-sum	biweekly-contest-28
 1850.4091449367	1775	Equal Sum Arrays With Minimum Number of Operations	equal-sum-arrays-with-minimum-number-of-operations	weekly-contest-230
@@ -469,6 +472,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1753.4775753993	764	Largest Plus Sign	largest-plus-sign	weekly-contest-67
 1752.9555725796	1135	Connecting Cities With Minimum Cost	connecting-cities-with-minimum-cost	biweekly-contest-5
 1752.2621077596	939	Minimum Area Rectangle	minimum-area-rectangle	weekly-contest-110
+1751.5101577001	2166	Design Bitset	design-bitset	weekly-contest-279
 1749.4981778209	1111	Maximum Nesting Depth of Two Valid Parentheses Strings	maximum-nesting-depth-of-two-valid-parentheses-strings	weekly-contest-144
 1748.4522689101	2134	Minimum Swaps to Group All 1's Together II	minimum-swaps-to-group-all-1s-together-ii	weekly-contest-275
 1748.1523771585	1297	Maximum Number of Occurrences of a Substring	maximum-number-of-occurrences-of-a-substring	weekly-contest-168
@@ -866,6 +870,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1362.6613797387	1592	Rearrange Spaces Between Words	rearrange-spaces-between-words	weekly-contest-207
 1361.8801013336	1120	Maximum Average Subtree	maximum-average-subtree	biweekly-contest-4
 1361.6459603518	1980	Find Unique Binary String	find-unique-binary-string	weekly-contest-255
+1361.5824742947	2165	Smallest Value of the Rearranged Number	smallest-value-of-the-rearranged-number	weekly-contest-279
 1360.3005775112	1817	Finding the Users Active Minutes	finding-the-users-active-minutes	weekly-contest-235
 1360.2184128413	1448	Count Good Nodes in Binary Tree	count-good-nodes-in-binary-tree	biweekly-contest-26
 1358.3561730566	746	Min Cost Climbing Stairs	min-cost-climbing-stairs	weekly-contest-63
@@ -896,6 +901,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1340.5559417151	976	Largest Perimeter Triangle	largest-perimeter-triangle	weekly-contest-119
 1338.8322315568	970	Powerful Integers	powerful-integers	weekly-contest-118
 1337.8472367494	933	Number of Recent Calls	number-of-recent-calls	weekly-contest-109
+1337.6115578703	2161	Partition Array According to Given Pivot	partition-array-according-to-given-pivot	biweekly-contest-71
 1337.3722299775	1260	Shift 2D Grid	shift-2d-grid	weekly-contest-163
 1336.9494482313	1275	Find Winner on a Tic Tac Toe Game	find-winner-on-a-tic-tac-toe-game	weekly-contest-165
 1335.0295688697	938	Range Sum of BST	range-sum-of-bst	weekly-contest-110
@@ -929,6 +935,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1315.3715333947	1629	Slowest Key	slowest-key	weekly-contest-212
 1315.1890809249	2109	Adding Spaces to a String	adding-spaces-to-a-string	weekly-contest-272
 1314.8600143277	1827	Minimum Operations to Make the Array Increasing	minimum-operations-to-make-the-array-increasing	biweekly-contest-50
+1314.2912238536	2160	Minimum Sum of Four Digit Number After Splitting Digits	minimum-sum-of-four-digit-number-after-splitting-digits	biweekly-contest-71
 1311.3495317884	1021	Remove Outermost Parentheses	remove-outermost-parentheses	weekly-contest-131
 1310.9129840277	2058	Find the Minimum and Maximum Number of Nodes Between Critical Points	find-the-minimum-and-maximum-number-of-nodes-between-critical-points	weekly-contest-265
 1309.8100518373	1710	Maximum Units on a Truck	maximum-units-on-a-truck	weekly-contest-222
@@ -1015,6 +1022,7 @@ Rating	ID	Title	Title Slug	Contest Slug
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number	biweekly-contest-2
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135
 1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert	weekly-contest-251
+1252.8406166148	2164	Sort Even and Odd Indices Independently	sort-even-and-odd-indices-independently	weekly-contest-279
 1252.7479413966	1833	Maximum Ice Cream Bars	maximum-ice-cream-bars	weekly-contest-237
 1251.8223786910	830	Positions of Large Groups	positions-of-large-groups	weekly-contest-83
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	check-if-a-number-is-majority-element-in-a-sorted-array	biweekly-contest-6
