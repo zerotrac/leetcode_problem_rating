@@ -65,6 +65,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2399.5729141925	920	Number of Music Playlists	number-of-music-playlists	weekly-contest-105	Q4
 2396.6267778669	808	Soup Servings	soup-servings	weekly-contest-78	Q3
 2395.8765531206	1825	Finding MK Average	finding-mk-average	weekly-contest-236	Q4
+2392.0799451298	2172	Maximum AND Sum of Array	maximum-and-sum-of-array	weekly-contest-280	Q4
 2391.8086687918	818	Race Car	race-car	weekly-contest-80	Q4
 2389.9634276167	1681	Minimum Incompatibility	minimum-incompatibility	weekly-contest-218	Q4
 2385.8072128533	1349	Maximum Students Taking Exam	maximum-students-taking-exam	weekly-contest-175	Q4
@@ -476,6 +477,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1749.4981778209	1111	Maximum Nesting Depth of Two Valid Parentheses Strings	maximum-nesting-depth-of-two-valid-parentheses-strings	weekly-contest-144	Q4
 1748.4522689101	2134	Minimum Swaps to Group All 1's Together II	minimum-swaps-to-group-all-1s-together-ii	weekly-contest-275	Q2
 1748.1523771585	1297	Maximum Number of Occurrences of a Substring	maximum-number-of-occurrences-of-a-substring	weekly-contest-168	Q3
+1748.1339100823	2171	Removing Minimum Number of Magic Beans	removing-minimum-number-of-magic-beans	weekly-contest-280	Q3
 1747.6755111029	1191	K-Concatenation Maximum Sum	k-concatenation-maximum-sum	weekly-contest-154	Q3
 1746.8757919578	1849	Splitting a String Into Descending Consecutive Values	splitting-a-string-into-descending-consecutive-values	weekly-contest-239	Q2
 1746.1359179770	1024	Video Stitching	video-stitching	weekly-contest-131	Q4
@@ -558,6 +560,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1663.3912882908	2063	Vowels of All Substrings	vowels-of-all-substrings	weekly-contest-266	Q2
 1663.2612318917	1219	Path with Maximum Gold	path-with-maximum-gold	weekly-contest-157	Q3
 1663.1853149056	863	All Nodes Distance K in Binary Tree	all-nodes-distance-k-in-binary-tree	weekly-contest-91	Q2
+1662.6673692545	2170	Minimum Operations to Make the Array Alternating	minimum-operations-to-make-the-array-alternating	weekly-contest-280	Q2
 1658.7495899767	1254	Number of Closed Islands	number-of-closed-islands	weekly-contest-162	Q3
 1658.6836278802	1169	Invalid Transactions	invalid-transactions	weekly-contest-151	Q1
 1658.5967147757	1958	Check if Move is Legal	check-if-move-is-legal	biweekly-contest-58	Q2
@@ -1091,6 +1094,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1201.7686271329	2124	Check if All A's Appears Before All B's	check-if-all-as-appears-before-all-bs	weekly-contest-274	Q1
 1201.6117337798	997	Find the Town Judge	find-the-town-judge	weekly-contest-125	Q1
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	average-salary-excluding-the-minimum-and-maximum-salary	biweekly-contest-29	Q1
+1199.8592887103	2169	Count Operations to Obtain Zero	count-operations-to-obtain-zero	weekly-contest-280	Q1
 1199.4477805501	2000	Reverse Prefix of Word	reverse-prefix-of-word	weekly-contest-258	Q1
 1199.4427635582	1154	Day of the Year	day-of-the-year	weekly-contest-149	Q1
 1199.2892732505	929	Unique Email Addresses	unique-email-addresses	weekly-contest-108	Q1
