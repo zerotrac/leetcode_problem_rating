@@ -111,6 +111,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2275.7337818748	1606	Find Servers That Handled Most Number of Requests	find-servers-that-handled-most-number-of-requests	biweekly-contest-36	Q4
 2273.7910625337	753	Cracking the Safe	cracking-the-safe	weekly-contest-64	Q4
 2273.2215764545	1434	Number of Ways to Wear Different Hats to Each Other	number-of-ways-to-wear-different-hats-to-each-other	biweekly-contest-25	Q4
+2272.4412003208	2179	Count Good Triplets in an Array	count-good-triplets-in-an-array	biweekly-contest-72	Q4
 2272.1122260637	952	Largest Component Size by Common Factor	largest-component-size-by-common-factor	weekly-contest-113	Q4
 2265.2118886972	2141	Maximum Running Time of N Computers	maximum-running-time-of-n-computers	weekly-contest-276	Q4
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257	Q3
@@ -120,6 +121,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2250.2578740769	1199	Minimum Time to Build Blocks	minimum-time-to-build-blocks	biweekly-contest-9	Q4
 2250.0454791316	1307	Verbal Arithmetic Puzzle	verbal-arithmetic-puzzle	weekly-contest-169	Q4
 2246.8671174565	960	Delete Columns to Make Sorted III	delete-columns-to-make-sorted-iii	weekly-contest-115	Q4
+2246.0452639352	2183	Count Array Pairs Divisible by K	count-array-pairs-divisible-by-k	weekly-contest-281	Q4
 2241.5199974312	1240	Tiling a Rectangle with the Fewest Squares	tiling-a-rectangle-with-the-fewest-squares	weekly-contest-160	Q4
 2235.9672341699	850	Rectangle Area II	rectangle-area-ii	weekly-contest-88	Q4
 2234.9191877602	1915	Number of Wonderful Substrings	number-of-wonderful-substrings	weekly-contest-247	Q3
@@ -540,6 +542,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1681.3263732456	767	Reorganize String	reorganize-string	weekly-contest-68	Q2
 1680.8242599300	1865	Finding Pairs With a Certain Sum	finding-pairs-with-a-certain-sum	weekly-contest-241	Q3
 1680.4852623991	1031	Maximum Sum of Two Non-Overlapping Subarrays	maximum-sum-of-two-non-overlapping-subarrays	weekly-contest-133	Q3
+1680.1353258588	2182	Construct String With Repeat Limit	construct-string-with-repeat-limit	weekly-contest-281	Q3
 1679.2607152001	1402	Reducing Dishes	reducing-dishes	biweekly-contest-23	Q4
 1678.7231378948	1905	Count Sub Islands	count-sub-islands	weekly-contest-246	Q3
 1678.5871762113	2115	Find All Possible Recipes from Given Supplies	find-all-possible-recipes-from-given-supplies	biweekly-contest-68	Q2
@@ -669,6 +672,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1541.2260256298	1229	Meeting Scheduler	meeting-scheduler	biweekly-contest-11	Q2
 1540.5750839091	1382	Balance a Binary Search Tree	balance-a-binary-search-tree	weekly-contest-180	Q3
 1539.2250193318	1992	Find All Groups of Farmland	find-all-groups-of-farmland	biweekly-contest-60	Q2
+1538.2331497040	2178	Maximum Split of Positive Even Integers	maximum-split-of-positive-even-integers	biweekly-contest-72	Q3
 1537.1387686755	1023	Camelcase Matching	camelcase-matching	weekly-contest-131	Q3
 1536.7018543075	1861	Rotating the Box	rotating-the-box	biweekly-contest-52	Q3
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	smallest-subtree-with-all-the-deepest-nodes	weekly-contest-92	Q2
@@ -912,6 +916,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1334.5708444649	2126	Destroying Asteroids	destroying-asteroids	weekly-contest-274	Q3
 1334.0564009231	888	Fair Candy Swap	fair-candy-swap	weekly-contest-98	Q1
 1333.3138174157	1805	Number of Different Integers in a String	number-of-different-integers-in-a-string	weekly-contest-234	Q1
+1333.1920503970	2181	Merge Nodes in Between Zeros	merge-nodes-in-between-zeros	weekly-contest-281	Q2
 1332.6225967630	1128	Number of Equivalent Domino Pairs	number-of-equivalent-domino-pairs	weekly-contest-146	Q1
 1332.4653491345	1471	The k Strongest Values in an Array	the-k-strongest-values-in-an-array	weekly-contest-192	Q2
 1330.9185778280	1347	Minimum Number of Steps to Make Two Strings Anagram	minimum-number-of-steps-to-make-two-strings-anagram	weekly-contest-175	Q2
@@ -1021,6 +1026,8 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1257.6796331650	1309	Decrypt String from Alphabet to Integer Mapping	decrypt-string-from-alphabet-to-integer-mapping	weekly-contest-170	Q1
 1257.3235146110	2114	Maximum Number of Words Found in Sentences	maximum-number-of-words-found-in-sentences	biweekly-contest-68	Q1
 1257.2649235990	2042	Check if Numbers Are Ascending in a Sentence	check-if-numbers-are-ascending-in-a-sentence	weekly-contest-263	Q1
+1257.1556875655	2177	Find Three Consecutive Integers That Sum to a Given Number	find-three-consecutive-integers-that-sum-to-a-given-number	biweekly-contest-72	Q2
+1257.1166915286	2180	Count Integers With Even Digit Sum	count-integers-with-even-digit-sum	weekly-contest-281	Q1
 1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude	biweekly-contest-44	Q1
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number	biweekly-contest-2	Q1
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135	Q1
@@ -1075,6 +1082,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1219.4252907184	1299	Replace Elements with Greatest Element on Right Side	replace-elements-with-greatest-element-on-right-side	biweekly-contest-16	Q1
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	check-if-two-string-arrays-are-equivalent	weekly-contest-216	Q1
 1216.6376846517	1848	Minimum Distance to the Target Element	minimum-distance-to-the-target-element	weekly-contest-239	Q1
+1215.7827321325	2176	Count Equal and Divisible Pairs in an Array	count-equal-and-divisible-pairs-in-an-array	biweekly-contest-72	Q1
 1215.7443346869	2108	Find First Palindromic String in the Array	find-first-palindromic-string-in-the-array	weekly-contest-272	Q1
 1213.8073621345	973	K Closest Points to Origin	k-closest-points-to-origin	weekly-contest-119	Q1
 1212.2606422181	1475	Final Prices With a Special Discount in a Shop	final-prices-with-a-special-discount-in-a-shop	biweekly-contest-28	Q1
