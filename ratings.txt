@@ -92,6 +92,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2333.0078041754	1585	Check If String Is Transformable With Substring Sort Operations	check-if-string-is-transformable-with-substring-sort-operations	weekly-contest-206	Q4
 2328.4294689238	882	Reachable Nodes In Subdivided Graph	reachable-nodes-in-subdivided-graph	weekly-contest-96	Q4
 2315.6037017989	1187	Make Array Strictly Increasing	make-array-strictly-increasing	weekly-contest-153	Q4
+2315.0547336936	2188	Minimum Time to Finish the Race	minimum-time-to-finish-the-race	weekly-contest-282	Q4
 2312.9919953644	1857	Largest Color Value in a Directed Graph	largest-color-value-in-a-directed-graph	weekly-contest-240	Q4
 2310.3824631335	1959	Minimum Total Space Wasted With K Resizing Operations	minimum-total-space-wasted-with-k-resizing-operations	biweekly-contest-58	Q3
 2308.6545905335	1617	Count Subtrees With Max Distance Between Cities	count-subtrees-with-max-distance-between-cities	weekly-contest-210	Q4
@@ -581,6 +582,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1648.0880791614	1975	Maximum Matrix Sum	maximum-matrix-sum	biweekly-contest-59	Q2
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters	biweekly-contest-20	Q3
 1643.1325351423	2024	Maximize the Confusion of an Exam	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
+1640.9591585343	2187	Minimum Time to Complete Trips	minimum-time-to-complete-trips	weekly-contest-282	Q3
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze	biweekly-contest-56	Q2
 1638.1281256708	838	Push Dominoes	push-dominoes	weekly-contest-85	Q2
 1638.0148920643	990	Satisfiability of Equality Equations	satisfiability-of-equality-equations	weekly-contest-123	Q2
@@ -1032,6 +1034,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number	biweekly-contest-2	Q1
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
+1253.1107481745	2186	Minimum Number of Steps to Make Two Strings Anagram II	minimum-number-of-steps-to-make-two-strings-anagram-ii	weekly-contest-282	Q2
 1252.8406166148	2164	Sort Even and Odd Indices Independently	sort-even-and-odd-indices-independently	weekly-contest-279	Q1
 1252.7479413966	1833	Maximum Ice Cream Bars	maximum-ice-cream-bars	weekly-contest-237	Q2
 1251.8223786910	830	Positions of Large Groups	positions-of-large-groups	weekly-contest-83	Q1
@@ -1134,6 +1137,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1172.5106645463	760	Find Anagram Mappings	find-anagram-mappings	weekly-contest-66	Q1
 1167.8737144048	2057	Smallest Index With Equal Value	smallest-index-with-equal-value	weekly-contest-265	Q1
 1167.1331831913	1304	Find N Unique Integers Sum up to Zero	find-n-unique-integers-sum-up-to-zero	weekly-contest-169	Q1
+1167.1241589729	2185	Counting Words With a Given Prefix	counting-words-with-a-given-prefix	weekly-contest-282	Q1
 1167.0749837258	796	Rotate String	rotate-string	weekly-contest-75	Q1
 1166.7881833200	1832	Check if the Sentence Is Pangram	check-if-the-sentence-is-pangram	weekly-contest-237	Q1
 1166.5264284193	1768	Merge Strings Alternately	merge-strings-alternately	weekly-contest-229	Q1
