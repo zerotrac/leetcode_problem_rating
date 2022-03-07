@@ -196,6 +196,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2094.5924265370	1976	Number of Ways to Arrive at Destination	number-of-ways-to-arrive-at-destination	biweekly-contest-59	Q3
 2092.4861692502	1049	Last Stone Weight II	last-stone-weight-ii	weekly-contest-137	Q4
 2091.3820373571	1383	Maximum Performance of a Team	maximum-performance-of-a-team	weekly-contest-180	Q4
+2090.6800569319	2193	Minimum Number of Moves to Make Palindrome	minimum-number-of-moves-to-make-palindrome	biweekly-contest-73	Q4
 2087.2049275667	1563	Stone Game V	stone-game-v	weekly-contest-203	Q4
 2084.9697035674	982	Triples with Bitwise AND Equal To Zero	triples-with-bitwise-and-equal-to-zero	weekly-contest-121	Q4
 2084.6866916045	1192	Critical Connections in a Network	critical-connections-in-a-network	weekly-contest-154	Q4
@@ -224,6 +225,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2062.9876807625	2156	Find Substring With Given Hash Value	find-substring-with-given-hash-value	weekly-contest-278	Q3
 2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	maximum-fruits-harvested-after-at-most-k-steps	weekly-contest-271	Q4
 2059.4040623264	1131	Maximum of Absolute Value Expression	maximum-of-absolute-value-expression	weekly-contest-146	Q4
+2057.4788263111	2197	Replace Non-Coprime Numbers in Array	replace-non-coprime-numbers-in-array	weekly-contest-283	Q4
 2056.3354942160	1473	Paint House III	paint-house-iii	weekly-contest-192	Q4
 2055.0970201875	1575	Count All Possible Routes	count-all-possible-routes	biweekly-contest-34	Q4
 2053.7468090497	839	Similar String Groups	similar-string-groups	weekly-contest-85	Q4
@@ -439,6 +441,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1794.5827898448	886	Possible Bipartition	possible-bipartition	weekly-contest-97	Q3
 1793.8027487553	1653	Minimum Deletions to Make String Balanced	minimum-deletions-to-make-string-balanced	biweekly-contest-39	Q2
 1792.0767945370	1245	Tree Diameter	tree-diameter	biweekly-contest-12	Q3
+1787.8550568757	2192	All Ancestors of a Node in a Directed Acyclic Graph	all-ancestors-of-a-node-in-a-directed-acyclic-graph	biweekly-contest-73	Q3
 1787.6346864268	768	Max Chunks To Make Sorted II	max-chunks-to-make-sorted-ii	weekly-contest-68	Q4
 1787.4514432151	1156	Swap For Longest Repeated Character Substring	swap-for-longest-repeated-character-substring	weekly-contest-149	Q3
 1787.2310751136	1497	Check If Array Pairs Are Divisible by k	check-if-array-pairs-are-divisible-by-k	weekly-contest-195	Q2
@@ -565,6 +568,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1663.2612318917	1219	Path with Maximum Gold	path-with-maximum-gold	weekly-contest-157	Q3
 1663.1853149056	863	All Nodes Distance K in Binary Tree	all-nodes-distance-k-in-binary-tree	weekly-contest-91	Q2
 1662.6673692545	2170	Minimum Operations to Make the Array Alternating	minimum-operations-to-make-the-array-alternating	weekly-contest-280	Q2
+1658.9210227330	2195	Append K Integers With Minimal Sum	append-k-integers-with-minimal-sum	weekly-contest-283	Q2
 1658.7495899767	1254	Number of Closed Islands	number-of-closed-islands	weekly-contest-162	Q3
 1658.6836278802	1169	Invalid Transactions	invalid-transactions	weekly-contest-151	Q1
 1658.5967147757	1958	Check if Move is Legal	check-if-move-is-legal	biweekly-contest-58	Q2
@@ -581,6 +585,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1648.3417578820	870	Advantage Shuffle	advantage-shuffle	weekly-contest-93	Q3
 1648.0880791614	1975	Maximum Matrix Sum	maximum-matrix-sum	biweekly-contest-59	Q2
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters	biweekly-contest-20	Q3
+1643.5283095007	2196	Create Binary Tree From Descriptions	create-binary-tree-from-descriptions	weekly-contest-283	Q3
 1643.1325351423	2024	Maximize the Confusion of an Exam	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
 1640.9591585343	2187	Minimum Time to Complete Trips	minimum-time-to-complete-trips	weekly-contest-282	Q3
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze	biweekly-contest-56	Q2
@@ -720,6 +725,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1498.1542511841	1904	The Number of Full Rounds You Have Played	the-number-of-full-rounds-you-have-played	weekly-contest-246	Q2
 1497.8880991093	998	Maximum Binary Tree II	maximum-binary-tree-ii	weekly-contest-125	Q3
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget	weekly-contest-156	Q2
+1496.1462748679	2191	Sort the Jumbled Numbers	sort-the-jumbled-numbers	biweekly-contest-73	Q2
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	sum-of-absolute-differences-in-a-sorted-array	biweekly-contest-41	Q2
 1495.3186477678	949	Largest Time for Given Digits	largest-time-for-given-digits	weekly-contest-113	Q1
 1491.4638194905	1806	Minimum Number of Operations to Reinitialize a Permutation	minimum-number-of-operations-to-reinitialize-a-permutation	weekly-contest-234	Q2
@@ -977,6 +983,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1294.5297034757	1716	Calculate Money in Leetcode Bank	calculate-money-in-leetcode-bank	biweekly-contest-43	Q1
 1293.4904281819	1551	Minimum Operations to Make Array Equal	minimum-operations-to-make-array-equal	weekly-contest-202	Q2
 1290.0361853035	1859	Sorting the Sentence	sorting-the-sentence	biweekly-contest-52	Q1
+1289.1912178611	2190	Most Frequent Number Following Key In an Array	most-frequent-number-following-key-in-an-array	biweekly-contest-73	Q1
 1288.5621697906	1684	Count the Number of Consistent Strings	count-the-number-of-consistent-strings	biweekly-contest-41	Q1
 1288.1970048184	1403	Minimum Subsequence in Non-Increasing Order	minimum-subsequence-in-non-increasing-order	weekly-contest-183	Q1
 1287.9002757199	993	Cousins in Binary Tree	cousins-in-binary-tree	weekly-contest-124	Q1
@@ -1034,6 +1041,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number	biweekly-contest-2	Q1
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
+1253.1463945043	2194	Cells in a Range on an Excel Sheet	cells-in-a-range-on-an-excel-sheet	weekly-contest-283	Q1
 1253.1107481745	2186	Minimum Number of Steps to Make Two Strings Anagram II	minimum-number-of-steps-to-make-two-strings-anagram-ii	weekly-contest-282	Q2
 1252.8406166148	2164	Sort Even and Odd Indices Independently	sort-even-and-odd-indices-independently	weekly-contest-279	Q1
 1252.7479413966	1833	Maximum Ice Cream Bars	maximum-ice-cream-bars	weekly-contest-237	Q2
