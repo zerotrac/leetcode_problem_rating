@@ -77,6 +77,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2374.1850487395	1840	Maximum Building Height	maximum-building-height	weekly-contest-238	Q4
 2366.7099607655	1183	Maximum Number of Ones	maximum-number-of-ones	biweekly-contest-8	Q4
 2364.3930657709	2132	Stamping the Grid	stamping-the-grid	biweekly-contest-69	Q4
+2364.3455634374	2203	Minimum Weighted Subgraph With the Required Paths	minimum-weighted-subgraph-with-the-required-paths	weekly-contest-284	Q4
 2363.5096568214	1755	Closest Subsequence Sum	closest-subsequence-sum	weekly-contest-227	Q4
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	maximum-number-of-non-overlapping-substrings	weekly-contest-198	Q3
 2358.9669560824	1707	Maximum XOR With an Element From Array	maximum-xor-with-an-element-from-array	weekly-contest-221	Q4
@@ -508,6 +509,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1722.3088173214	1197	Minimum Knight Moves	minimum-knight-moves	biweekly-contest-9	Q2
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	maximum-length-of-a-concatenated-string-with-unique-characters	weekly-contest-160	Q3
 1718.9772466681	2017	Grid Game	grid-game	weekly-contest-260	Q2
+1716.9721777000	2202	Maximize the Topmost Element After K Moves	maximize-the-topmost-element-after-k-moves	weekly-contest-284	Q3
 1714.6960124182	1781	Sum of Beauty of All Substrings	sum-of-beauty-of-all-substrings	biweekly-contest-47	Q3
 1713.2768268466	1372	Longest ZigZag Path in a Binary Tree	longest-zigzag-path-in-a-binary-tree	biweekly-contest-21	Q3
 1712.4010133221	1042	Flower Planting With No Adjacent	flower-planting-with-no-adjacent	weekly-contest-136	Q2
@@ -693,6 +695,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1529.7617243868	881	Boats to Save People	boats-to-save-people	weekly-contest-96	Q2
 1528.7183829005	1695	Maximum Erasure Value	maximum-erasure-value	weekly-contest-220	Q2
 1527.6868660176	1921	Eliminate Maximum Number of Monsters	eliminate-maximum-number-of-monsters	weekly-contest-248	Q2
+1525.2146106195	2201	Count Artifacts That Can Be Extracted	count-artifacts-that-can-be-extracted	weekly-contest-284	Q2
 1524.8218282113	1272	Remove Interval	remove-interval	biweekly-contest-14	Q2
 1524.5693481538	1442	Count Triplets That Can Form Two Arrays of Equal XOR	count-triplets-that-can-form-two-arrays-of-equal-xor	weekly-contest-188	Q2
 1524.3227469000	1640	Check Array Formation Through Concatenation	check-array-formation-through-concatenation	weekly-contest-213	Q1
@@ -1018,6 +1021,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1269.7567553523	2032	Two Out of Three	two-out-of-three	weekly-contest-262	Q1
 1268.5768566953	1447	Simplified Fractions	simplified-fractions	biweekly-contest-26	Q2
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	group-the-people-given-the-group-size-they-belong-to	weekly-contest-166	Q2
+1266.3414689550	2200	Find All K-Distant Indices in an Array	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	shortest-distance-to-a-character	weekly-contest-81	Q1
 1264.4836883082	1736	Latest Time by Replacing Hidden Digits	latest-time-by-replacing-hidden-digits	weekly-contest-225	Q1
 1264.2868345638	2133	Check if Every Row and Column Contains All Numbers	check-if-every-row-and-column-contains-all-numbers	weekly-contest-275	Q1
