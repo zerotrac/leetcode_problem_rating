@@ -13,6 +13,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2650.8996457642	2097	Valid Arrangement of Pairs	valid-arrangement-of-pairs	weekly-contest-270	Q4
 2648.1748409542	2071	Maximum Number of Tasks You Can Assign	maximum-number-of-tasks-you-can-assign	biweekly-contest-65	Q4
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero	weekly-contest-231	Q4
+2628.7957821141	2213	Longest Substring of One Repeating Character	longest-substring-of-one-repeating-character	weekly-contest-285	Q4
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted	biweekly-contest-50	Q4
 2610.9906730644	2056	Number of Valid Move Combinations On Chessboard	number-of-valid-move-combinations-on-chessboard	biweekly-contest-64	Q4
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports	biweekly-contest-41	Q4
@@ -188,6 +189,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2116.4935282950	1547	Minimum Cost to Cut a Stick	minimum-cost-to-cut-a-stick	weekly-contest-201	Q4
 2115.0911494487	1483	Kth Ancestor of a Tree Node	kth-ancestor-of-a-tree-node	weekly-contest-193	Q4
 2109.9830154953	1172	Dinner Plate Stacks	dinner-plate-stacks	weekly-contest-151	Q4
+2105.8582288624	2209	Minimum White Tiles After Covering With Carpets	minimum-white-tiles-after-covering-with-carpets	biweekly-contest-74	Q4
 2105.7761215397	1937	Maximum Number of Points with Cost	maximum-number-of-points-with-cost	weekly-contest-250	Q3
 2104.9526046945	1944	Number of Visible People in a Queue	number-of-visible-people-in-a-queue	biweekly-contest-57	Q4
 2104.7441214305	2088	Count Fertile Pyramids in a Land	count-fertile-pyramids-in-a-land	biweekly-contest-66	Q4
@@ -367,6 +369,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1871.8245218615	2008	Maximum Earnings From Taxi	maximum-earnings-from-taxi	biweekly-contest-61	Q3
 1871.3112059413	1589	Maximum Sum Obtained of Any Permutation	maximum-sum-obtained-of-any-permutation	biweekly-contest-35	Q2
 1869.4024391280	2002	Maximum Product of the Length of Two Palindromic Subsequences	maximum-product-of-the-length-of-two-palindromic-subsequences	weekly-contest-258	Q3
+1868.9864493463	2212	Maximum Points in an Archery Competition	maximum-points-in-an-archery-competition	weekly-contest-285	Q3
 1868.9146755896	924	Minimize Malware Spread	minimize-malware-spread	weekly-contest-106	Q4
 1868.1914861381	1616	Split Two Strings to Make Palindrome	split-two-strings-to-make-palindrome	weekly-contest-210	Q3
 1867.9916069568	1717	Maximum Score From Removing Substrings	maximum-score-from-removing-substrings	biweekly-contest-43	Q2
@@ -638,6 +641,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1588.9690763997	1813	Sentence Similarity III	sentence-similarity-iii	biweekly-contest-49	Q2
 1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	form-array-by-concatenating-subarrays-of-another-array	biweekly-contest-46	Q2
 1585.5793143983	1029	Two City Scheduling	two-city-scheduling	weekly-contest-133	Q2
+1581.4963716166	2211	Count Collisions on a Road	count-collisions-on-a-road	weekly-contest-285	Q2
 1580.3620959714	1839	Longest Substring Of All Vowels in Order	longest-substring-of-all-vowels-in-order	weekly-contest-238	Q3
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs	weekly-contest-226	Q2
 1578.8503818621	1034	Coloring A Border	coloring-a-border	weekly-contest-134	Q2
@@ -665,6 +669,8 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1558.1421869292	1244	Design A Leaderboard	design-a-leaderboard	biweekly-contest-12	Q2
 1557.0170555820	2007	Find Original Array From Doubled Array	find-original-array-from-doubled-array	biweekly-contest-61	Q2
 1556.8824239708	2131	Longest Palindrome by Concatenating Two Letter Words	longest-palindrome-by-concatenating-two-letter-words	biweekly-contest-69	Q3
+1550.4297615307	2207	Maximize Number of Subsequences in a String	maximize-number-of-subsequences-in-a-string	biweekly-contest-74	Q2
+1550.0978082682	2208	Minimum Operations to Halve Array Sum	minimum-operations-to-halve-array-sum	biweekly-contest-74	Q3
 1548.4678056182	1329	Sort the Matrix Diagonally	sort-the-matrix-diagonally	biweekly-contest-18	Q3
 1548.0854419238	1599	Maximum Profit of Operating a Centennial Wheel	maximum-profit-of-operating-a-centennial-wheel	weekly-contest-208	Q2
 1547.5714796512	954	Array of Doubled Pairs	array-of-doubled-pairs	weekly-contest-114	Q2
@@ -899,6 +905,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1355.9817184778	1331	Rank Transform of an Array	rank-transform-of-an-array	biweekly-contest-18	Q1
 1355.5386161215	1894	Find the Student that Will Replace the Chalk	find-the-student-that-will-replace-the-chalk	biweekly-contest-54	Q2
 1355.3825442341	1689	Partitioning Into Minimum Number Of Deci-Binary Numbers	partitioning-into-minimum-number-of-deci-binary-numbers	weekly-contest-219	Q2
+1354.5231125217	2210	Count Hills and Valleys in an Array	count-hills-and-valleys-in-an-array	weekly-contest-285	Q1
 1354.1247827015	1243	Array Transformation	array-transformation	biweekly-contest-12	Q1
 1353.6296778120	1758	Minimum Changes To Make Alternating Binary String	minimum-changes-to-make-alternating-binary-string	weekly-contest-228	Q1
 1352.7250049956	848	Shifting Letters	shifting-letters	weekly-contest-88	Q1
@@ -1090,6 +1097,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1226.2960135431	1133	Largest Unique Number	largest-unique-number	biweekly-contest-5	Q1
 1225.3601348675	1346	Check If N and Its Double Exist	check-if-n-and-its-double-exist	weekly-contest-175	Q1
 1224.7606792444	1337	The K Weakest Rows in a Matrix	the-k-weakest-rows-in-a-matrix	weekly-contest-174	Q1
+1223.4065703960	2206	Divide Array Into Equal Pairs	divide-array-into-equal-pairs	biweekly-contest-74	Q1
 1223.3861903833	1408	String Matching in an Array	string-matching-in-an-array	weekly-contest-184	Q1
 1221.9872943569	1678	Goal Parser Interpretation	goal-parser-interpretation	weekly-contest-218	Q1
 1221.6801628274	1550	Three Consecutive Odds	three-consecutive-odds	weekly-contest-202	Q1
