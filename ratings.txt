@@ -166,6 +166,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2164.8287157213	1036	Escape a Large Maze	escape-a-large-maze	weekly-contest-134	Q4
 2158.8988728254	2122	Recover the Original Array	recover-the-original-array	weekly-contest-273	Q4
 2158.7683843245	2102	Sequentially Ordinal Rank Tracker	sequentially-ordinal-rank-tracker	biweekly-contest-67	Q4
+2157.5814371481	2218	Maximum Value of K Coins From Piles	maximum-value-of-k-coins-from-piles	weekly-contest-286	Q4
 2156.9515428364	1515	Best Position for a Service Centre	best-position-for-a-service-centre	weekly-contest-197	Q4
 2147.1828941776	1610	Maximum Number of Visible Points	maximum-number-of-visible-points	weekly-contest-209	Q3
 2146.6395819980	1906	Minimum Absolute Difference Queries	minimum-absolute-difference-queries	weekly-contest-246	Q4
@@ -417,6 +418,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1823.8779711373	1377	Frog Position After T Seconds	frog-position-after-t-seconds	weekly-contest-179	Q4
 1823.5831437787	1458	Max Dot Product of Two Subsequences	max-dot-product-of-two-subsequences	weekly-contest-190	Q4
 1822.9768689716	1363	Largest Multiple of Three	largest-multiple-of-three	weekly-contest-177	Q4
+1822.1301265412	2217	Find Palindrome With Fixed Length	find-palindrome-with-fixed-length	weekly-contest-286	Q3
 1820.5855764400	1405	Longest Happy String	longest-happy-string	weekly-contest-183	Q3
 1819.3068421506	2055	Plates Between Candles	plates-between-candles	biweekly-contest-64	Q3
 1818.0024504436	861	Score After Flipping Matrix	score-after-flipping-matrix	weekly-contest-91	Q3
@@ -715,6 +717,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1514.8181710611	1855	Maximum Distance Between a Pair of Values	maximum-distance-between-a-pair-of-values	weekly-contest-240	Q2
 1512.3323577063	1557	Minimum Number of Vertices to Reach All Nodes	minimum-number-of-vertices-to-reach-all-nodes	biweekly-contest-33	Q2
 1511.3725353467	1110	Delete Nodes And Return Forest	delete-nodes-and-return-forest	weekly-contest-144	Q3
+1509.5562928491	2216	Minimum Deletions to Make Array Beautiful	minimum-deletions-to-make-array-beautiful	weekly-contest-286	Q2
 1509.5432131875	1647	Minimum Deletions to Make Character Frequencies Unique	minimum-deletions-to-make-character-frequencies-unique	weekly-contest-214	Q2
 1508.1169489285	1151	Minimum Swaps to Group All 1's Together	minimum-swaps-to-group-all-1s-together	biweekly-contest-6	Q2
 1508.0997658270	1496	Path Crossing	path-crossing	weekly-contest-195	Q1
@@ -1115,6 +1118,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1208.0417047337	1389	Create Target Array in the Given Order	create-target-array-in-the-given-order	weekly-contest-181	Q1
 1208.0130656905	941	Valid Mountain Array	valid-mountain-array	weekly-contest-111	Q1
 1207.7810914125	1380	Lucky Numbers in a Matrix	lucky-numbers-in-a-matrix	weekly-contest-180	Q1
+1207.7482390750	2215	Find the Difference of Two Arrays	find-the-difference-of-two-arrays	weekly-contest-286	Q1
 1207.7224406285	1704	Determine if String Halves Are Alike	determine-if-string-halves-are-alike	weekly-contest-221	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	find-words-that-can-be-formed-by-characters	weekly-contest-150	Q1
