@@ -134,6 +134,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71	Q4
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring	biweekly-contest-32	Q4
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold	weekly-contest-211	Q4
+2220.0903365738	2223	Sum of Scores of Built Strings	sum-of-scores-of-built-strings	biweekly-contest-75	Q4
 2219.3465296423	2167	Minimum Time to Remove All Cars Containing Illegal Goods	minimum-time-to-remove-all-cars-containing-illegal-goods	weekly-contest-279	Q4
 2217.8090802563	2025	Maximum Number of Ways to Partition an Array	maximum-number-of-ways-to-partition-an-array	biweekly-contest-62	Q4
 2214.4798747386	1889	Minimum Space Wasted From Packaging	minimum-space-wasted-from-packaging	weekly-contest-244	Q4
@@ -310,6 +311,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1947.5013967785	1631	Path With Minimum Effort	path-with-minimum-effort	weekly-contest-212	Q3
 1945.7515607928	1793	Maximum Score of a Good Subarray	maximum-score-of-a-good-subarray	weekly-contest-232	Q4
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	minimum-number-of-days-to-make-m-bouquets	weekly-contest-193	Q3
+1944.5673996888	2227	Encrypt and Decrypt Strings	encrypt-and-decrypt-strings	weekly-contest-287	Q4
 1940.6002290953	2111	Minimum Operations to Make the Array K-Increasing	minimum-operations-to-make-the-array-k-increasing	weekly-contest-272	Q4
 1939.9323330472	1760	Minimum Limit of Balls in a Bag	minimum-limit-of-balls-in-a-bag	weekly-contest-228	Q3
 1938.6883365596	777	Swap Adjacent in LR String	swap-adjacent-in-lr-string	weekly-contest-70	Q3
@@ -582,6 +584,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1658.3474650806	1091	Shortest Path in Binary Matrix	shortest-path-in-binary-matrix	weekly-contest-141	Q3
 1658.3305547865	1583	Count Unhappy Friends	count-unhappy-friends	weekly-contest-206	Q2
 1657.1231739081	1249	Minimum Remove to Make Valid Parentheses	minimum-remove-to-make-valid-parentheses	weekly-contest-161	Q3
+1656.5588918365	2222	Number of Ways to Select Buildings	number-of-ways-to-select-buildings	biweekly-contest-75	Q3
 1655.6433885989	1004	Max Consecutive Ones III	max-consecutive-ones-iii	weekly-contest-126	Q3
 1654.0793660142	1257	Smallest Common Region	smallest-common-region	biweekly-contest-13	Q2
 1653.7337081336	1155	Number of Dice Rolls With Target Sum	number-of-dice-rolls-with-target-sum	weekly-contest-149	Q2
@@ -592,6 +595,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1648.3417578820	870	Advantage Shuffle	advantage-shuffle	weekly-contest-93	Q3
 1648.0880791614	1975	Maximum Matrix Sum	maximum-matrix-sum	biweekly-contest-59	Q2
 1646.1943237127	1358	Number of Substrings Containing All Three Characters	number-of-substrings-containing-all-three-characters	biweekly-contest-20	Q3
+1646.1765343383	2226	Maximum Candies Allocated to K Children	maximum-candies-allocated-to-k-children	weekly-contest-287	Q3
 1643.5283095007	2196	Create Binary Tree From Descriptions	create-binary-tree-from-descriptions	weekly-contest-283	Q3
 1643.1325351423	2024	Maximize the Confusion of an Exam	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
 1640.9591585343	2187	Minimum Time to Complete Trips	minimum-time-to-complete-trips	weekly-contest-282	Q3
@@ -959,7 +963,9 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1317.9521104466	999	Available Captures for Rook	available-captures-for-rook	weekly-contest-125	Q2
 1317.9207508583	2130	Maximum Twin Sum of a Linked List	maximum-twin-sum-of-a-linked-list	biweekly-contest-69	Q2
 1317.4638832497	1313	Decompress Run-Length Encoded List	decompress-run-length-encoded-list	biweekly-contest-17	Q1
+1317.2976846981	2221	Find Triangular Sum of an Array	find-triangular-sum-of-an-array	biweekly-contest-75	Q2
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold	biweekly-contest-19	Q2
+1316.2046992429	2225	Find Players With Zero or One Losses	find-players-with-zero-or-one-losses	weekly-contest-287	Q2
 1315.4085759361	1180	Count Substrings with Only One Distinct Letter	count-substrings-with-only-one-distinct-letter	biweekly-contest-8	Q1
 1315.3715333947	1629	Slowest Key	slowest-key	weekly-contest-212	Q1
 1315.1890809249	2109	Adding Spaces to a String	adding-spaces-to-a-string	weekly-contest-272	Q2
@@ -991,6 +997,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1298.5921473119	908	Smallest Range I	smallest-range-i	weekly-contest-103	Q1
 1297.5338328524	819	Most Common Word	most-common-word	weekly-contest-80	Q1
 1297.3006230632	1598	Crawler Log Folder	crawler-log-folder	weekly-contest-208	Q1
+1295.8868965907	2224	Minimum Number of Operations to Convert Time	minimum-number-of-operations-to-convert-time	weekly-contest-287	Q1
 1295.4970938463	1539	Kth Missing Positive Number	kth-missing-positive-number	biweekly-contest-32	Q1
 1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	minimum-number-of-operations-to-move-all-balls-to-each-box	weekly-contest-229	Q2
 1294.5297034757	1716	Calculate Money in Leetcode Bank	calculate-money-in-leetcode-bank	biweekly-contest-43	Q1
@@ -1011,6 +1018,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1283.5102144800	1507	Reformat Date	reformat-date	biweekly-contest-30	Q1
 1283.4980318021	1252	Cells with Odd Values in a Matrix	cells-with-odd-values-in-a-matrix	weekly-contest-162	Q1
 1282.4111853142	1837	Sum of Digits in Base K	sum-of-digits-in-base-k	weekly-contest-238	Q1
+1282.1502428906	2220	Minimum Bit Flips to Convert Number	minimum-bit-flips-to-convert-number	biweekly-contest-75	Q1
 1281.9771427903	1624	Largest Substring Between Two Equal Characters	largest-substring-between-two-equal-characters	weekly-contest-211	Q1
 1280.2941647587	1572	Matrix Diagonal Sum	matrix-diagonal-sum	biweekly-contest-34	Q1
 1280.2203734882	2125	Number of Laser Beams in a Bank	number-of-laser-beams-in-a-bank	weekly-contest-274	Q2
