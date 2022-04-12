@@ -25,6 +25,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree	weekly-contest-194	Q4
 2566.5910742837	913	Cat and Mouse	cat-and-mouse	weekly-contest-104	Q4
 2561.7794931859	2030	Smallest K-Length Subsequence With Occurrences of a Letter	smallest-k-length-subsequence-with-occurrences-of-a-letter	weekly-contest-261	Q4
+2561.5081492160	2234	Maximum Total Beauty of the Gardens	maximum-total-beauty-of-the-gardens	weekly-contest-288	Q4
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	maximum-number-of-groups-getting-fresh-donuts	biweekly-contest-49	Q4
 2558.3297484354	2014	Longest Subsequence Repeated k Times	longest-subsequence-repeated-k-times	weekly-contest-259	Q4
 2539.8637263970	1819	Number of Different Subsequences GCDs	number-of-different-subsequences-gcds	weekly-contest-235	Q4
@@ -550,6 +551,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1689.7569144085	1419	Minimum Number of Frogs Croaking	minimum-number-of-frogs-croaking	weekly-contest-185	Q3
 1688.9209684568	1963	Minimum Number of Swaps to Make the String Balanced	minimum-number-of-swaps-to-make-the-string-balanced	weekly-contest-253	Q3
 1686.4493679523	950	Reveal Cards In Increasing Order	reveal-cards-in-increasing-order	weekly-contest-113	Q3
+1685.5389350949	2233	Maximum Product After K Increments	maximum-product-after-k-increments	weekly-contest-288	Q3
 1685.3599641299	2074	Reverse Nodes in Even Length Groups	reverse-nodes-in-even-length-groups	weekly-contest-267	Q2
 1682.8882177724	1443	Minimum Time to Collect All Apples in a Tree	minimum-time-to-collect-all-apples-in-a-tree	weekly-contest-188	Q3
 1681.3263732456	767	Reorganize String	reorganize-string	weekly-contest-68	Q2
@@ -622,6 +624,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1615.4767730477	1020	Number of Enclaves	number-of-enclaves	weekly-contest-130	Q4
 1614.4877804672	2145	Count the Hidden Sequences	count-the-hidden-sequences	biweekly-contest-70	Q2
 1613.0429766636	1277	Count Square Submatrices with All Ones	count-square-submatrices-with-all-ones	weekly-contest-165	Q3
+1611.8434720083	2232	Minimize Result by Adding Parentheses to Expression	minimize-result-by-adding-parentheses-to-expression	weekly-contest-288	Q2
 1611.7621820686	789	Escape The Ghosts	escape-the-ghosts	weekly-contest-73	Q2
 1610.5693981590	1524	Number of Sub-arrays With Odd Sum	number-of-sub-arrays-with-odd-sum	biweekly-contest-31	Q2
 1610.1866391145	1670	Design Front Middle Back Queue	design-front-middle-back-queue	biweekly-contest-40	Q3
@@ -897,6 +900,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	special-array-with-x-elements-greater-than-or-equal-x	weekly-contest-209	Q1
 1369.0053354603	1370	Increasing Decreasing String	increasing-decreasing-string	biweekly-contest-21	Q1
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	replace-all-s-to-avoid-consecutive-repeating-characters	weekly-contest-205	Q1
+1365.2269076492	2231	Largest Number After Digit Swaps by Parity	largest-number-after-digit-swaps-by-parity	weekly-contest-288	Q1
 1364.1548599180	1974	Minimum Time to Type Word Using Special Typewriter	minimum-time-to-type-word-using-special-typewriter	biweekly-contest-59	Q1
 1362.6613797387	1592	Rearrange Spaces Between Words	rearrange-spaces-between-words	weekly-contest-207	Q1
 1361.8801013336	1120	Maximum Average Subtree	maximum-average-subtree	biweekly-contest-4	Q3
