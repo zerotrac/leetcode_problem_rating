@@ -101,6 +101,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2308.6545905335	1617	Count Subtrees With Max Distance Between Cities	count-subtrees-with-max-distance-between-cities	weekly-contest-210	Q4
 2307.0161713185	1655	Distribute Repeating Integers	distribute-repeating-integers	biweekly-contest-39	Q4
 2306.8472649456	862	Shortest Subarray with Sum at Least K	shortest-subarray-with-sum-at-least-k	weekly-contest-91	Q4
+2304.3094138939	2242	Maximum Score of a Node Sequence	maximum-score-of-a-node-sequence	biweekly-contest-76	Q4
 2300.1557840589	1697	Checking Existence of Edge Length Limited Paths	checking-existence-of-edge-length-limited-paths	weekly-contest-220	Q4
 2297.1053625160	1263	Minimum Moves to Move a Box to Their Target Location	minimum-moves-to-move-a-box-to-their-target-location	weekly-contest-163	Q4
 2294.0981174197	932	Beautiful Array	beautiful-array	weekly-contest-108	Q4
@@ -183,6 +184,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2130.1135718486	1039	Minimum Score Triangulation of Polygon	minimum-score-triangulation-of-polygon	weekly-contest-135	Q3
 2129.7051442916	798	Smallest Rotation with Highest Score	smallest-rotation-with-highest-score	weekly-contest-75	Q4
 2126.6864346508	1444	Number of Ways of Cutting a Pizza	number-of-ways-of-cutting-a-pizza	weekly-contest-188	Q4
+2126.3922279277	2246	Longest Path With Different Adjacent Characters	longest-path-with-different-adjacent-characters	weekly-contest-289	Q4
 2125.3125624762	1955	Count Number of Special Subsequences	count-number-of-special-subsequences	weekly-contest-252	Q4
 2124.1329592058	968	Binary Tree Cameras	binary-tree-cameras	weekly-contest-117	Q4
 2124.0317207867	1654	Minimum Jumps to Reach Home	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
@@ -244,6 +246,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2039.1108746890	1201	Ugly Number III	ugly-number-iii	weekly-contest-155	Q2
 2038.8592725467	1590	Make Sum Divisible by P	make-sum-divisible-by-p	biweekly-contest-35	Q3
 2037.6527962599	2116	Check if a Parentheses String Can Be Valid	check-if-a-parentheses-string-can-be-valid	biweekly-contest-68	Q3
+2036.7410194704	2245	Maximum Trailing Zeros in a Cornered Path	maximum-trailing-zeros-in-a-cornered-path	weekly-contest-289	Q3
 2036.7206020719	1348	Tweet Counts Per Frequency	tweet-counts-per-frequency	weekly-contest-175	Q3
 2034.9740902393	1140	Stone Game II	stone-game-ii	weekly-contest-147	Q4
 2034.9420578559	1335	Minimum Difficulty of a Job Schedule	minimum-difficulty-of-a-job-schedule	weekly-contest-173	Q4
@@ -621,6 +624,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1623.9443250479	1248	Count Number of Nice Subarrays	count-number-of-nice-subarrays	weekly-contest-161	Q2
 1622.8414025136	2086	Minimum Number of Buckets Required to Collect Rainwater from Houses	minimum-number-of-buckets-required-to-collect-rainwater-from-houses	biweekly-contest-66	Q2
 1618.6016480451	1503	Last Moment Before All Ants Fall Out of a Plank	last-moment-before-all-ants-fall-out-of-a-plank	weekly-contest-196	Q2
+1616.2067360638	2241	Design an ATM Machine	design-an-atm-machine	biweekly-contest-76	Q3
 1615.4767730477	1020	Number of Enclaves	number-of-enclaves	weekly-contest-130	Q4
 1614.4877804672	2145	Count the Hidden Sequences	count-the-hidden-sequences	biweekly-contest-70	Q2
 1613.0429766636	1277	Count Square Submatrices with All Ones	count-square-submatrices-with-all-ones	weekly-contest-165	Q3
@@ -853,6 +857,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1404.1839222000	1700	Number of Students Unable to Eat Lunch	number-of-students-unable-to-eat-lunch	biweekly-contest-42	Q1
 1402.0863615706	1508	Range Sum of Sorted Subarray Sums	range-sum-of-sorted-subarray-sums	biweekly-contest-30	Q2
 1401.2246983038	1198	Find Smallest Common Element in All Rows	find-smallest-common-element-in-all-rows	biweekly-contest-9	Q3
+1399.8468905274	2240	Number of Ways to Buy Pens and Pencils	number-of-ways-to-buy-pens-and-pencils	biweekly-contest-76	Q2
 1397.8875115008	1071	Greatest Common Divisor of Strings	greatest-common-divisor-of-strings	weekly-contest-139	Q1
 1397.7743198793	1176	Diet Plan Performance	diet-plan-performance	weekly-contest-152	Q2
 1396.8422030812	788	Rotated Digits	rotated-digits	weekly-contest-73	Q1
@@ -895,6 +900,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1373.8113453501	1291	Sequential Digits	sequential-digits	weekly-contest-167	Q2
 1372.7398808669	748	Shortest Completing Word	shortest-completing-word	weekly-contest-63	Q2
 1372.1152262488	1863	Sum of All Subset XOR Totals	sum-of-all-subset-xor-totals	weekly-contest-241	Q1
+1371.8092952004	2244	Minimum Rounds to Complete All Tasks	minimum-rounds-to-complete-all-tasks	weekly-contest-289	Q2
 1370.6144908238	914	X of a Kind in a Deck of Cards	x-of-a-kind-in-a-deck-of-cards	weekly-contest-104	Q1
 1370.4186698287	1854	Maximum Population Year	maximum-population-year	weekly-contest-240	Q1
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	special-array-with-x-elements-greater-than-or-equal-x	weekly-contest-209	Q1
@@ -992,6 +998,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1303.0179795942	1051	Height Checker	height-checker	weekly-contest-138	Q1
 1302.7005460171	1266	Minimum Time Visiting All Points	minimum-time-visiting-all-points	weekly-contest-164	Q1
 1302.6469071738	1991	Find the Middle Index in Array	find-the-middle-index-in-array	biweekly-contest-60	Q1
+1301.9432665133	2243	Calculate Digit Sum of a String	calculate-digit-sum-of-a-string	weekly-contest-289	Q1
 1301.4117757184	806	Number of Lines To Write String	number-of-lines-to-write-string	weekly-contest-77	Q1
 1301.4027057843	1646	Get Maximum in Generated Array	get-maximum-in-generated-array	weekly-contest-214	Q1
 1301.3817574010	1877	Minimize Maximum Pair Sum in Array	minimize-maximum-pair-sum-in-array	biweekly-contest-53	Q2
@@ -1065,6 +1072,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1257.1166915286	2180	Count Integers With Even Digit Sum	count-integers-with-even-digit-sum	weekly-contest-281	Q1
 1256.6807087287	1732	Find the Highest Altitude	find-the-highest-altitude	biweekly-contest-44	Q1
 1256.4891142083	1085	Sum of Digits in the Minimum Number	sum-of-digits-in-the-minimum-number	biweekly-contest-2	Q1
+1256.0514740971	2239	Find Closest Number to Zero	find-closest-number-to-zero	biweekly-contest-76	Q1
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
 1253.1463945043	2194	Cells in a Range on an Excel Sheet	cells-in-a-range-on-an-excel-sheet	weekly-contest-283	Q1
