@@ -264,6 +264,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2024.3797833173	1734	Decode XORed Permutation	decode-xored-permutation	biweekly-contest-44	Q3
 2022.8520613737	1235	Maximum Profit in Job Scheduling	maximum-profit-in-job-scheduling	weekly-contest-159	Q4
 2022.4752963768	1210	Minimum Moves to Reach Target with Rotations	minimum-moves-to-reach-target-with-rotations	weekly-contest-156	Q4
+2022.3137128296	2251	Number of Flowers in Full Bloom	number-of-flowers-in-full-bloom	weekly-contest-290	Q4
 2019.5399647546	909	Snakes and Ladders	snakes-and-ladders	weekly-contest-103	Q2
 2015.7291888336	1353	Maximum Number of Events That Can Be Attended	maximum-number-of-events-that-can-be-attended	weekly-contest-176	Q3
 2014.7655493665	1354	Construct Target Array With Multiple Sums	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
@@ -279,6 +280,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2000.8441804448	1686	Stone Game VI	stone-game-vi	biweekly-contest-41	Q3
 2000.8021428612	911	Online Election	online-election	weekly-contest-103	Q4
 1999.1208076854	765	Couples Holding Hands	couples-holding-hands	weekly-contest-67	Q4
+1997.7013718153	2250	Count Number of Rectangles Containing Each Point	count-number-of-rectangles-containing-each-point	weekly-contest-290	Q3
 1997.1824403719	1274	Number of Ships in a Rectangle	number-of-ships-in-a-rectangle	biweekly-contest-14	Q4
 1995.2937073376	1986	Minimum Number of Work Sessions to Finish the Tasks	minimum-number-of-work-sessions-to-finish-the-tasks	weekly-contest-256	Q3
 1994.3618892548	927	Three Equal Parts	three-equal-parts	weekly-contest-107	Q3
@@ -637,6 +639,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1606.9895296459	1300	Sum of Mutated Array Closest to Target	sum-of-mutated-array-closest-to-target	biweekly-contest-16	Q2
 1606.2185826486	1604	Alert Using Same Key-Card Three or More Times in a One Hour Period	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period	biweekly-contest-36	Q2
 1604.9737380545	809	Expressive Words	expressive-words	weekly-contest-78	Q2
+1602.7242171967	2249	Count Lattice Points Inside a Circle	count-lattice-points-inside-a-circle	weekly-contest-290	Q2
 1601.5117605320	926	Flip String to Monotone Increasing	flip-string-to-monotone-increasing	weekly-contest-107	Q2
 1600.5573262373	1864	Minimum Number of Swaps to Make the Binary String Alternating	minimum-number-of-swaps-to-make-the-binary-string-alternating	weekly-contest-241	Q2
 1599.2720584736	1048	Longest String Chain	longest-string-chain	weekly-contest-137	Q3
@@ -1053,6 +1056,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1266.3414689550	2200	Find All K-Distant Indices in an Array	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	shortest-distance-to-a-character	weekly-contest-81	Q1
 1264.4836883082	1736	Latest Time by Replacing Hidden Digits	latest-time-by-replacing-hidden-digits	weekly-contest-225	Q1
+1264.4778916192	2248	Intersection of Multiple Arrays	intersection-of-multiple-arrays	weekly-contest-290	Q1
 1264.2868345638	2133	Check if Every Row and Column Contains All Numbers	check-if-every-row-and-column-contains-all-numbers	weekly-contest-275	Q1
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	maximum-number-of-vowels-in-a-substring-of-given-length	weekly-contest-190	Q2
 1262.5890311992	1089	Duplicate Zeros	duplicate-zeros	weekly-contest-141	Q1
