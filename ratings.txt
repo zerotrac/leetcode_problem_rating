@@ -209,6 +209,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2087.2049275667	1563	Stone Game V	stone-game-v	weekly-contest-203	Q4
 2084.9697035674	982	Triples with Bitwise AND Equal To Zero	triples-with-bitwise-and-equal-to-zero	weekly-contest-121	Q4
 2084.6866916045	1192	Critical Connections in a Network	critical-connections-in-a-network	weekly-contest-154	Q4
+2084.5752686737	2267	 Check if There Is a Valid Parentheses String Path	check-if-there-is-a-valid-parentheses-string-path	weekly-contest-292	Q4
 2084.4980206639	2009	Minimum Number of Operations to Make Array Continuous	minimum-number-of-operations-to-make-array-continuous	biweekly-contest-61	Q4
 2084.2010769193	774	Minimize Max Distance to Gas Station	minimize-max-distance-to-gas-station	weekly-contest-69	Q4
 2084.1404698713	2050	Parallel Courses III	parallel-courses-iii	weekly-contest-264	Q4
@@ -392,6 +393,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1860.7429342910	1996	The Number of Weak Characters in the Game	the-number-of-weak-characters-in-the-game	weekly-contest-257	Q2
 1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	can-you-eat-your-favorite-candy-on-your-favorite-day	weekly-contest-226	Q3
 1857.6431822094	1584	Min Cost to Connect All Points	min-cost-to-connect-all-points	weekly-contest-206	Q3
+1856.8610192187	2266	Count Number of Texts	count-number-of-texts	weekly-contest-292	Q3
 1855.5957296285	799	Champagne Tower	champagne-tower	weekly-contest-75	Q3
 1855.4479039876	1202	Smallest String With Swaps	smallest-string-with-swaps	weekly-contest-155	Q3
 1855.3770461540	1546	Maximum Number of Non-Overlapping Subarrays With Sum Equals Target	maximum-number-of-non-overlapping-subarrays-with-sum-equals-target	weekly-contest-201	Q3
@@ -779,6 +781,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1473.8649930450	1328	Break a Palindrome	break-a-palindrome	biweekly-contest-18	Q2
 1473.7057465272	1352	Product of the Last K Numbers	product-of-the-last-k-numbers	weekly-contest-176	Q2
 1473.2523136772	897	Increasing Order Search Tree	increasing-order-search-tree	weekly-contest-100	Q2
+1472.7864965062	2265	Count Nodes Equal to Average of Subtree	count-nodes-equal-to-average-of-subtree	weekly-contest-292	Q2
 1471.8964024887	2047	Number of Valid Words in a Sentence	number-of-valid-words-in-a-sentence	weekly-contest-264	Q1
 1471.6221713607	1093	Statistics from a Large Sample	statistics-from-a-large-sample	weekly-contest-142	Q1
 1467.9366439696	2012	Sum of Beauty in the Array	sum-of-beauty-in-the-array	weekly-contest-259	Q2
@@ -996,6 +999,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1309.8100518373	1710	Maximum Units on a Truck	maximum-units-on-a-truck	weekly-contest-222	Q1
 1309.3113721825	1451	Rearrange Words in a Sentence	rearrange-words-in-a-sentence	weekly-contest-189	Q2
 1309.1422268153	1897	Redistribute Characters to Make All Strings Equal	redistribute-characters-to-make-all-strings-equal	weekly-contest-245	Q1
+1308.9485479750	2264	Largest 3-Same-Digit Number in String	largest-3-same-digit-number-in-string	weekly-contest-292	Q1
 1307.9800903088	1064	Fixed Point	fixed-point	biweekly-contest-1	Q1
 1307.5663523368	804	Unique Morse Code Words	unique-morse-code-words	weekly-contest-77	Q2
 1307.4608905199	2085	Count Common Words With One Occurrence	count-common-words-with-one-occurrence	biweekly-contest-66	Q1
