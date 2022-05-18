@@ -36,6 +36,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2530.6905139914	1776	Car Fleet II	car-fleet-ii	weekly-contest-230	Q4
 2529.5251086936	1632	Rank Transform of a Matrix	rank-transform-of-a-matrix	weekly-contest-212	Q4
 2517.6829964848	2040	Kth Smallest Product of Two Sorted Arrays	kth-smallest-product-of-two-sorted-arrays	biweekly-contest-63	Q4
+2515.7520586008	2272	Substring With Largest Variance	substring-with-largest-variance	biweekly-contest-78	Q4
 2502.5176603922	1938	Maximum Genetic Difference Query	maximum-genetic-difference-query	weekly-contest-250	Q4
 2499.5640490579	1735	Count Ways to Make Array With Product	count-ways-to-make-array-with-product	biweekly-contest-44	Q4
 2499.3282271507	2157	Groups of Strings	groups-of-strings	weekly-contest-278	Q4
@@ -135,6 +136,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2231.8099102949	1766	Tree of Coprimes	tree-of-coprimes	biweekly-contest-46	Q4
 2230.1673059455	1012	Numbers With Repeated Digits	numbers-with-repeated-digits	weekly-contest-128	Q4
 2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71	Q4
+2222.4805422748	2276	Count Integers in Intervals	count-integers-in-intervals	weekly-contest-293	Q4
 2221.7336557442	1542	Find Longest Awesome Substring	find-longest-awesome-substring	biweekly-contest-32	Q4
 2221.3538766773	1627	Graph Connectivity With Threshold	graph-connectivity-with-threshold	weekly-contest-211	Q4
 2220.0903365738	2223	Sum of Scores of Built Strings	sum-of-scores-of-built-strings	biweekly-contest-75	Q4
@@ -268,6 +270,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2022.8520613737	1235	Maximum Profit in Job Scheduling	maximum-profit-in-job-scheduling	weekly-contest-159	Q4
 2022.4752963768	1210	Minimum Moves to Reach Target with Rotations	minimum-moves-to-reach-target-with-rotations	weekly-contest-156	Q4
 2022.3137128296	2251	Number of Flowers in Full Bloom	number-of-flowers-in-full-bloom	weekly-contest-290	Q4
+2021.7790710467	2271	Maximum White Tiles Covered by a Carpet	maximum-white-tiles-covered-by-a-carpet	biweekly-contest-78	Q3
 2019.5399647546	909	Snakes and Ladders	snakes-and-ladders	weekly-contest-103	Q2
 2015.7291888336	1353	Maximum Number of Events That Can Be Attended	maximum-number-of-events-that-can-be-attended	weekly-contest-176	Q3
 2014.7655493665	1354	Construct Target Array With Multiple Sums	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
@@ -611,6 +614,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1646.1765343383	2226	Maximum Candies Allocated to K Children	maximum-candies-allocated-to-k-children	weekly-contest-287	Q3
 1643.5283095007	2196	Create Binary Tree From Descriptions	create-binary-tree-from-descriptions	weekly-contest-283	Q3
 1643.1325351423	2024	Maximize the Confusion of an Exam	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
+1642.1446933109	2275	Largest Combination With Bitwise AND Greater Than Zero	largest-combination-with-bitwise-and-greater-than-zero	weekly-contest-293	Q3
 1640.9591585343	2187	Minimum Time to Complete Trips	minimum-time-to-complete-trips	weekly-contest-282	Q3
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	nearest-exit-from-entrance-in-maze	biweekly-contest-56	Q2
 1638.1281256708	838	Push Dominoes	push-dominoes	weekly-contest-85	Q2
@@ -962,9 +966,11 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1334.5718985411	1409	Queries on a Permutation With Key	queries-on-a-permutation-with-key	weekly-contest-184	Q2
 1334.5708444649	2126	Destroying Asteroids	destroying-asteroids	weekly-contest-274	Q3
 1334.0564009231	888	Fair Candy Swap	fair-candy-swap	weekly-contest-98	Q1
+1334.0516779626	2270	Number of Ways to Split Array	number-of-ways-to-split-array	biweekly-contest-78	Q2
 1333.3138174157	1805	Number of Different Integers in a String	number-of-different-integers-in-a-string	weekly-contest-234	Q1
 1333.1920503970	2181	Merge Nodes in Between Zeros	merge-nodes-in-between-zeros	weekly-contest-281	Q2
 1332.6225967630	1128	Number of Equivalent Domino Pairs	number-of-equivalent-domino-pairs	weekly-contest-146	Q1
+1332.6187879411	2274	Maximum Consecutive Floors Without Special Floors	maximum-consecutive-floors-without-special-floors	weekly-contest-293	Q2
 1332.4653491345	1471	The k Strongest Values in an Array	the-k-strongest-values-in-an-array	weekly-contest-192	Q2
 1331.5287857686	2259	Remove Digit From Number to Maximize Result	remove-digit-from-number-to-maximize-result	weekly-contest-291	Q1
 1330.9185778280	1347	Minimum Number of Steps to Make Two Strings Anagram	minimum-number-of-steps-to-make-two-strings-anagram	weekly-contest-175	Q2
@@ -1025,6 +1031,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1295.8868965907	2224	Minimum Number of Operations to Convert Time	minimum-number-of-operations-to-convert-time	weekly-contest-287	Q1
 1295.4970938463	1539	Kth Missing Positive Number	kth-missing-positive-number	biweekly-contest-32	Q1
 1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	minimum-number-of-operations-to-move-all-balls-to-each-box	weekly-contest-229	Q2
+1294.5800368625	2273	Find Resultant Array After Removing Anagrams	find-resultant-array-after-removing-anagrams	weekly-contest-293	Q1
 1294.5297034757	1716	Calculate Money in Leetcode Bank	calculate-money-in-leetcode-bank	biweekly-contest-43	Q1
 1293.4904281819	1551	Minimum Operations to Make Array Equal	minimum-operations-to-make-array-equal	weekly-contest-202	Q2
 1290.0361853035	1859	Sorting the Sentence	sorting-the-sentence	biweekly-contest-52	Q1
@@ -1047,6 +1054,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1281.9771427903	1624	Largest Substring Between Two Equal Characters	largest-substring-between-two-equal-characters	weekly-contest-211	Q1
 1280.2941647587	1572	Matrix Diagonal Sum	matrix-diagonal-sum	biweekly-contest-34	Q1
 1280.2203734882	2125	Number of Laser Beams in a Bank	number-of-laser-beams-in-a-bank	weekly-contest-274	Q2
+1279.7894769956	2269	Find the K-Beauty of a Number	find-the-k-beauty-of-a-number	biweekly-contest-78	Q1
 1279.7669712099	1002	Find Common Characters	find-common-characters	weekly-contest-126	Q1
 1279.3383966145	1534	Count Good Triplets	count-good-triplets	weekly-contest-200	Q1
 1277.9987709491	1742	Maximum Number of Balls in a Box	maximum-number-of-balls-in-a-box	weekly-contest-226	Q1
