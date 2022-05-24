@@ -14,6 +14,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2648.1748409542	2071	Maximum Number of Tasks You Can Assign	maximum-number-of-tasks-you-can-assign	biweekly-contest-65	Q4
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	make-the-xor-of-all-segments-equal-to-zero	weekly-contest-231	Q4
 2628.7957821141	2213	Longest Substring of One Repeating Character	longest-substring-of-one-repeating-character	weekly-contest-285	Q4
+2621.1208072273	2281	Sum of Total Strength of Wizards	sum-of-total-strength-of-wizards	weekly-contest-294	Q4
 2620.4181842249	1830	Minimum Number of Operations to Make String Sorted	minimum-number-of-operations-to-make-string-sorted	biweekly-contest-50	Q4
 2610.9906730644	2056	Number of Valid Move Combinations On Chessboard	number-of-valid-move-combinations-on-chessboard	biweekly-contest-64	Q4
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	delivering-boxes-from-storage-to-ports	biweekly-contest-41	Q4
@@ -569,6 +570,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1685.3599641299	2074	Reverse Nodes in Even Length Groups	reverse-nodes-in-even-length-groups	weekly-contest-267	Q2
 1682.8882177724	1443	Minimum Time to Collect All Apples in a Tree	minimum-time-to-collect-all-apples-in-a-tree	weekly-contest-188	Q3
 1681.3263732456	767	Reorganize String	reorganize-string	weekly-contest-68	Q2
+1680.8669178490	2280	Minimum Lines to Represent a Line Chart	minimum-lines-to-represent-a-line-chart	weekly-contest-294	Q3
 1680.8242599300	1865	Finding Pairs With a Certain Sum	finding-pairs-with-a-certain-sum	weekly-contest-241	Q3
 1680.4852623991	1031	Maximum Sum of Two Non-Overlapping Subarrays	maximum-sum-of-two-non-overlapping-subarrays	weekly-contest-133	Q3
 1680.1353258588	2182	Construct String With Repeat Limit	construct-string-with-repeat-limit	weekly-contest-281	Q3
@@ -1107,6 +1109,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	check-if-a-number-is-majority-element-in-a-sorted-array	biweekly-contest-6	Q1
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	maximum-level-sum-of-a-binary-tree	weekly-contest-150	Q2
 1249.4294341104	766	Toeplitz Matrix	toeplitz-matrix	weekly-contest-68	Q1
+1249.2572200035	2279	Maximum Bags With Full Capacity of Rocks	maximum-bags-with-full-capacity-of-rocks	weekly-contest-294	Q2
 1248.8547072235	1903	Largest Odd Number in String	largest-odd-number-in-string	weekly-contest-246	Q1
 1248.8026990632	1196	How Many Apples Can You Put into the Basket	how-many-apples-can-you-put-into-the-basket	biweekly-contest-9	Q1
 1248.7224675206	1876	Substrings of Size Three with Distinct Characters	substrings-of-size-three-with-distinct-characters	biweekly-contest-53	Q1
@@ -1214,6 +1217,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1164.8182315157	771	Jewels and Stones	jewels-and-stones	weekly-contest-69	Q1
 1164.0227691933	1374	Generate a String With Characters That Have Odd Counts	generate-a-string-with-characters-that-have-odd-counts	weekly-contest-179	Q1
 1163.6047095526	1342	Number of Steps to Reduce a Number to Zero	number-of-steps-to-reduce-a-number-to-zero	biweekly-contest-19	Q1
+1161.8236318927	2278	Percentage of Letter in String	percentage-of-letter-in-string	weekly-contest-294	Q1
 1161.6227767245	961	N-Repeated Element in Size 2N Array	n-repeated-element-in-size-2n-array	weekly-contest-116	Q1
 1160.8899403409	1512	Number of Good Pairs	number-of-good-pairs	weekly-contest-197	Q1
 1160.4439395369	1920	Build Array from Permutation	build-array-from-permutation	weekly-contest-248	Q1
