@@ -44,10 +44,12 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	partition-array-into-two-arrays-to-minimize-sum-difference	weekly-contest-262	Q4
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	count-ways-to-build-rooms-in-an-ant-colony	weekly-contest-247	Q4
 2483.9435767299	1932	Merge BSTs to Create Single BST	merge-bsts-to-create-single-bst	weekly-contest-249	Q4
+2481.8722909195	2289	Steps to Make Array Non-decreasing	steps-to-make-array-non-decreasing	weekly-contest-295	Q3
 2481.7175364169	1330	Reverse Subarray To Maximize Array Value	reverse-subarray-to-maximize-array-value	biweekly-contest-18	Q4
 2479.3282985529	1803	Count Pairs With XOR in a Range	count-pairs-with-xor-in-a-range	weekly-contest-233	Q4
 2476.7727985927	2117	Abbreviating the Product of a Range	abbreviating-the-product-of-a-range	biweekly-contest-68	Q4
 2476.4517642870	1622	Fancy Sequence	fancy-sequence	biweekly-contest-37	Q4
+2470.2118194809	2286	Booking Concert Tickets in Groups	booking-concert-tickets-in-groups	biweekly-contest-79	Q4
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	minimum-adjacent-swaps-for-k-consecutive-ones	biweekly-contest-42	Q4
 2464.5077611012	1994	The Number of Good Subsets	the-number-of-good-subsets	biweekly-contest-60	Q4
 2457.1155741860	1782	Count Pairs Of Nodes	count-pairs-of-nodes	biweekly-contest-47	Q4
@@ -179,6 +181,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2146.6395819980	1906	Minimum Absolute Difference Queries	minimum-absolute-difference-queries	weekly-contest-246	Q4
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	minimum-xor-sum-of-two-arrays	biweekly-contest-53	Q4
 2140.0220703954	906	Super Palindromes	super-palindromes	weekly-contest-102	Q4
+2137.5633267453	2290	Minimum Obstacle Removal to Reach Corner	minimum-obstacle-removal-to-reach-corner	weekly-contest-295	Q4
 2135.5738659086	959	Regions Cut By Slashes	regions-cut-by-slashes	weekly-contest-115	Q3
 2134.5448970405	910	Smallest Range II	smallest-range-ii	weekly-contest-103	Q3
 2133.9592509012	1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows	find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows	weekly-contest-187	Q4
@@ -673,6 +676,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1580.3620959714	1839	Longest Substring Of All Vowels in Order	longest-substring-of-all-vowels-in-order	weekly-contest-238	Q3
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	restore-the-array-from-adjacent-pairs	weekly-contest-226	Q2
 1578.8503818621	1034	Coloring A Border	coloring-a-border	weekly-contest-134	Q2
+1577.1141767118	2288	Apply Discount to Prices	apply-discount-to-prices	weekly-contest-295	Q2
 1575.6324598387	1415	The k-th Lexicographical String of All Happy Strings of Length n	the-k-th-lexicographical-string-of-all-happy-strings-of-length-n	biweekly-contest-24	Q3
 1574.7542247682	981	Time Based Key-Value Store	time-based-key-value-store	weekly-contest-121	Q2
 1574.0392121288	1578	Minimum Deletion Cost to Avoid Repeating Letters	minimum-deletion-cost-to-avoid-repeating-letters	weekly-contest-205	Q3
@@ -763,6 +767,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1498.1542511841	1904	The Number of Full Rounds You Have Played	the-number-of-full-rounds-you-have-played	weekly-contest-246	Q2
 1497.8880991093	998	Maximum Binary Tree II	maximum-binary-tree-ii	weekly-contest-125	Q3
 1496.9128643588	1208	Get Equal Substrings Within Budget	get-equal-substrings-within-budget	weekly-contest-156	Q2
+1496.2502937005	2285	Maximum Total Importance of Roads	maximum-total-importance-of-roads	biweekly-contest-79	Q3
 1496.1462748679	2191	Sort the Jumbled Numbers	sort-the-jumbled-numbers	biweekly-contest-73	Q2
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	sum-of-absolute-differences-in-a-sorted-array	biweekly-contest-41	Q2
 1495.3186477678	949	Largest Time for Given Digits	largest-time-for-given-digits	weekly-contest-113	Q1
@@ -949,6 +954,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1350.6048768377	2053	Kth Distinct String in an Array	kth-distinct-string-in-an-array	biweekly-contest-64	Q1
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	find-k-length-substrings-with-no-repeated-characters	biweekly-contest-3	Q2
 1348.0079390256	1030	Matrix Cells in Distance Order	matrix-cells-in-distance-order	weekly-contest-133	Q1
+1346.9594471871	2284	Sender With Largest Word Count	sender-with-largest-word-count	biweekly-contest-79	Q2
 1346.3556309143	2027	Minimum Moves to Convert String	minimum-moves-to-convert-string	weekly-contest-261	Q1
 1345.7371686090	1679	Max Number of K-Sum Pairs	max-number-of-k-sum-pairs	weekly-contest-218	Q2
 1344.2261332020	1544	Make The String Great	make-the-string-great	weekly-contest-201	Q1
@@ -1026,6 +1032,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1301.3817574010	1877	Minimize Maximum Pair Sum in Array	minimize-maximum-pair-sum-in-array	biweekly-contest-53	Q2
 1300.9041426403	1844	Replace All Digits with Characters	replace-all-digits-with-characters	biweekly-contest-51	Q1
 1300.8009461582	1790	Check if One String Swap Can Make Strings Equal	check-if-one-string-swap-can-make-strings-equal	weekly-contest-232	Q1
+1299.8393735643	2287	Rearrange Characters to Make Target String	rearrange-characters-to-make-target-string	weekly-contest-295	Q1
 1299.6035132992	953	Verifying an Alien Dictionary	verifying-an-alien-dictionary	weekly-contest-114	Q1
 1298.5921473119	908	Smallest Range I	smallest-range-i	weekly-contest-103	Q1
 1297.5338328524	819	Most Common Word	most-common-word	weekly-contest-80	Q1
@@ -1101,6 +1108,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1256.0514740971	2239	Find Closest Number to Zero	find-closest-number-to-zero	biweekly-contest-76	Q1
 1255.9002796024	1037	Valid Boomerang	valid-boomerang	weekly-contest-135	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
+1253.4847783954	2283	Check if Number Has Equal Digit Count and Digit Value	check-if-number-has-equal-digit-count-and-digit-value	biweekly-contest-79	Q1
 1253.1463945043	2194	Cells in a Range on an Excel Sheet	cells-in-a-range-on-an-excel-sheet	weekly-contest-283	Q1
 1253.1107481745	2186	Minimum Number of Steps to Make Two Strings Anagram II	minimum-number-of-steps-to-make-two-strings-anagram-ii	weekly-contest-282	Q2
 1252.8406166148	2164	Sort Even and Odd Indices Independently	sort-even-and-odd-indices-independently	weekly-contest-279	Q1
