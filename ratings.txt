@@ -356,6 +356,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	minimum-number-of-removals-to-make-mountain-array	biweekly-contest-40	Q4
 1912.8440554296	1898	Maximum Number of Removable Characters	maximum-number-of-removable-characters	weekly-contest-245	Q2
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	longest-chunked-palindrome-decomposition	weekly-contest-148	Q4
+1911.8282317986	2296	Design a Text Editor	design-a-text-editor	weekly-contest-296	Q4
 1911.7063530593	2049	Count Nodes With the Highest Score	count-nodes-with-the-highest-score	weekly-contest-264	Q3
 1911.1959516695	873	Length of Longest Fibonacci Subsequence	length-of-longest-fibonacci-subsequence	weekly-contest-94	Q4
 1909.4189035523	991	Broken Calculator	broken-calculator	weekly-contest-123	Q3
@@ -817,6 +818,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1447.0268321102	2099	Find Subsequence of Length K With the Largest Sum	find-subsequence-of-length-k-with-the-largest-sum	biweekly-contest-67	Q1
 1446.4280778775	1026	Maximum Difference Between Node and Ancestor	maximum-difference-between-node-and-ancestor	weekly-contest-132	Q2
 1445.3734269673	1946	Largest Number After Mutating Substring	largest-number-after-mutating-substring	weekly-contest-251	Q2
+1445.1422945604	2295	Replace Elements in an Array	replace-elements-in-an-array	weekly-contest-296	Q3
 1444.6795731919	2028	Find Missing Observations	find-missing-observations	weekly-contest-261	Q2
 1444.6098846511	1465	Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts	weekly-contest-191	Q2
 1444.2068009303	942	DI String Match	di-string-match	weekly-contest-111	Q3
@@ -860,6 +862,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1418.1401949854	1052	Grumpy Bookstore Owner	grumpy-bookstore-owner	weekly-contest-138	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
 1416.8961009909	1652	Defuse the Bomb	defuse-the-bomb	biweekly-contest-39	Q1
+1416.4124723866	2294	Partition Array Such That Maximum Difference Is K	partition-array-such-that-maximum-difference-is-k	weekly-contest-296	Q2
 1414.4918812526	890	Find and Replace Pattern	find-and-replace-pattern	weekly-contest-98	Q2
 1414.4351202231	1985	Find the Kth Largest Integer in the Array	find-the-kth-largest-integer-in-the-array	weekly-contest-256	Q2
 1412.3053230205	1823	Find the Winner of the Circular Game	find-the-winner-of-the-circular-game	weekly-contest-236	Q2
@@ -1130,6 +1133,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	minimum-add-to-make-parentheses-valid	weekly-contest-106	Q2
 1241.9262857175	1417	Reformat The String	reformat-the-string	weekly-contest-185	Q1
+1241.0825147417	2293	Min Max Game	min-max-game	weekly-contest-296	Q1
 1240.8297581760	2078	Two Furthest Houses With Different Colors	two-furthest-houses-with-different-colors	weekly-contest-268	Q1
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string	weekly-contest-186	Q1
 1235.9216009709	2149	Rearrange Array Elements by Sign	rearrange-array-elements-by-sign	weekly-contest-277	Q2
