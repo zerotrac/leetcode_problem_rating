@@ -3,8 +3,8 @@ new gridjs.Grid({
         name: "ID",
         width: "8%",
     }, {
-        name: "Title",
-        formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/problems/${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
+        name: "题目名称",
+        formatter: (_, row) => gridjs.html(`<a href="https://leetcode.cn/problems/${row.cells[2].data}" target="_blank">${row.cells[1].data}</a>`),
         sort: {
             enabled: false
         }
@@ -15,8 +15,8 @@ new gridjs.Grid({
         name: "ContestSlug",
         hidden: true
     }, {
-        name: "Contest",
-        formatter: (_, row) => gridjs.html(`<a href="https://leetcode.com/contest/${row.cells[3].data}" target="_blank">${row.cells[4].data}</a>`),
+        name: "竞赛名称",
+        formatter: (_, row) => gridjs.html(`<a href="https://leetcode.cn/contest/${row.cells[3].data}" target="_blank">${row.cells[4].data}</a>`),
         sort: {
             compare: (a, b) => {
                 // BiC or WC
@@ -44,13 +44,13 @@ new gridjs.Grid({
             enabled: false
         }
     }, {
-        name: "Rating",
+        name: "分数",
         width: "10%",
         formatter: (cell) => Math.round(cell)
     }],
     server: {
-        url: "./data.json",
-        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID, entry.ProblemIndex, entry.Rating])
+        url: "../data.json",
+        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID_zh, entry.ProblemIndex, entry.Rating])
     },
     sort: true,
     autoWidth: false,
