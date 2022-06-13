@@ -50,7 +50,7 @@ new gridjs.Grid({
     }],
     server: {
         url: "../data.json",
-        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID_zh, entry.ProblemIndex, entry.Rating])
+        then: data => data.map(entry => [entry.ID, entry.TitleZH, entry.TitleSlug, entry.ContestSlug, entry.ContestID_zh, entry.ProblemIndex, entry.Rating])
     },
     sort: true,
     autoWidth: false,
