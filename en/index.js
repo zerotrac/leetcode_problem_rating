@@ -21,7 +21,7 @@ new gridjs.Grid({
             compare: (a, b) => {
                 // BiC or WC
                 const contest_type = (x) => x.split(" ")[0];
-                const contest_idx = (x) => parseInt(x.split(" ")[1]);
+                const contest_idx = (x) => parseInt(x.split(" ")[2]);
                 if (contest_type(a) > contest_type(b)) {
                     return 1;
                 } else if (contest_type(a) < contest_type(b)) {
@@ -49,8 +49,8 @@ new gridjs.Grid({
         formatter: (cell) => Math.round(cell)
     }],
     server: {
-        url: "./data.json",
-        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID, entry.ProblemIndex, entry.Rating])
+        url: "../data.json",
+        then: data => data.map(entry => [entry.ID, entry.Title, entry.TitleSlug, entry.ContestSlug, entry.ContestID_en, entry.ProblemIndex, entry.Rating])
     },
     sort: true,
     autoWidth: false,
