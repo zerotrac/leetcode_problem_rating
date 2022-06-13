@@ -106,6 +106,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 2308.6545905335	1617	Count Subtrees With Max Distance Between Cities	count-subtrees-with-max-distance-between-cities	weekly-contest-210	Q4
 2307.0161713185	1655	Distribute Repeating Integers	distribute-repeating-integers	biweekly-contest-39	Q4
 2306.8472649456	862	Shortest Subarray with Sum at Least K	shortest-subarray-with-sum-at-least-k	weekly-contest-91	Q4
+2305.4498281454	2306	Naming a Company	naming-a-company	weekly-contest-297	Q4
 2304.3094138939	2242	Maximum Score of a Node Sequence	maximum-score-of-a-node-sequence	biweekly-contest-76	Q4
 2300.1557840589	1697	Checking Existence of Edge Length Limited Paths	checking-existence-of-edge-length-limited-paths	weekly-contest-220	Q4
 2297.1053625160	1263	Minimum Moves to Move a Box to Their Target Location	minimum-moves-to-move-a-box-to-their-target-location	weekly-contest-163	Q4
@@ -368,6 +369,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1896.7975214446	878	Nth Magical Number	nth-magical-number	weekly-contest-95	Q3
 1896.1411567598	1871	Jump Game VII	jump-game-vii	weekly-contest-242	Q3
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	minimize-hamming-distance-after-swap-operations	weekly-contest-223	Q3
+1886.7040111218	2305	Fair Distribution of Cookies	fair-distribution-of-cookies	weekly-contest-297	Q3
 1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	minimized-maximum-of-products-distributed-to-any-store	weekly-contest-266	Q3
 1885.1051527272	1066	Campus Bikes II	campus-bikes-ii	biweekly-contest-1	Q3
 1885.0178370385	1326	Minimum Number of Taps to Open to Water a Garden	minimum-number-of-taps-to-open-to-water-a-garden	weekly-contest-172	Q4
@@ -399,6 +401,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1864.0948676111	1163	Last Substring in Lexicographical Order	last-substring-in-lexicographical-order	weekly-contest-150	Q4
 1861.4906863586	1993	Operations on Tree	operations-on-tree	biweekly-contest-60	Q3
 1860.7429342910	1996	The Number of Weak Characters in the Game	the-number-of-weak-characters-in-the-game	weekly-contest-257	Q2
+1860.5166780235	2301	Match Substring After Replacement	match-substring-after-replacement	biweekly-contest-80	Q3
 1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	can-you-eat-your-favorite-candy-on-your-favorite-day	weekly-contest-226	Q3
 1857.6431822094	1584	Min Cost to Connect All Points	min-cost-to-connect-all-points	weekly-contest-206	Q3
 1856.8610192187	2266	Count Number of Texts	count-number-of-texts	weekly-contest-292	Q3
@@ -451,6 +454,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1809.5579156134	776	Split BST	split-bst	weekly-contest-70	Q2
 1808.7871088310	1519	Number of Nodes in the Sub-Tree With the Same Label	number-of-nodes-in-the-sub-tree-with-the-same-label	weekly-contest-198	Q2
 1808.5754920785	1230	Toss Strange Coins	toss-strange-coins	biweekly-contest-11	Q3
+1808.3407696613	2302	Count Subarrays With Score Less Than K	count-subarrays-with-score-less-than-k	biweekly-contest-80	Q4
 1807.4618172386	1594	Maximum Non Negative Product in a Matrix	maximum-non-negative-product-in-a-matrix	weekly-contest-207	Q3
 1806.5891699944	1073	Adding Two Negabinary Numbers	adding-two-negabinary-numbers	weekly-contest-139	Q3
 1805.5947071171	1035	Uncrossed Lines	uncrossed-lines	weekly-contest-134	Q3
@@ -603,6 +607,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1658.7495899767	1254	Number of Closed Islands	number-of-closed-islands	weekly-contest-162	Q3
 1658.6836278802	1169	Invalid Transactions	invalid-transactions	weekly-contest-151	Q1
 1658.5967147757	1958	Check if Move is Legal	check-if-move-is-legal	biweekly-contest-58	Q2
+1658.3530344788	2304	Minimum Path Cost in a Grid	minimum-path-cost-in-a-grid	weekly-contest-297	Q2
 1658.3474650806	1091	Shortest Path in Binary Matrix	shortest-path-in-binary-matrix	weekly-contest-141	Q3
 1658.3305547865	1583	Count Unhappy Friends	count-unhappy-friends	weekly-contest-206	Q2
 1657.1231739081	1249	Minimum Remove to Make Valid Parentheses	minimum-remove-to-make-valid-parentheses	weekly-contest-161	Q3
@@ -789,6 +794,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1479.0110934646	1166	Design File System	design-file-system	biweekly-contest-7	Q2
 1478.3848028264	1390	Four Divisors	four-divisors	weekly-contest-181	Q2
 1477.4844514104	951	Flip Equivalent Binary Trees	flip-equivalent-binary-trees	weekly-contest-113	Q2
+1476.9062320302	2300	Successful Pairs of Spells and Potions	successful-pairs-of-spells-and-potions	biweekly-contest-80	Q2
 1474.0150725665	984	String Without AAA or BBB	string-without-aaa-or-bbb	weekly-contest-121	Q1
 1473.8649930450	1328	Break a Palindrome	break-a-palindrome	biweekly-contest-18	Q2
 1473.7057465272	1352	Product of the Last K Numbers	product-of-the-last-k-numbers	weekly-contest-176	Q2
@@ -1059,6 +1065,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1285.7282180721	860	Lemonade Change	lemonade-change	weekly-contest-91	Q1
 1284.4514662456	1720	Decode XORed Array	decode-xored-array	weekly-contest-223	Q1
 1284.3625733813	1481	Least Number of Unique Integers after K Removals	least-number-of-unique-integers-after-k-removals	weekly-contest-193	Q2
+1283.6412252736	2303	Calculate Amount Paid in Taxes	calculate-amount-paid-in-taxes	weekly-contest-297	Q1
 1283.5102144800	1507	Reformat Date	reformat-date	biweekly-contest-30	Q1
 1283.4980318021	1252	Cells with Odd Values in a Matrix	cells-with-odd-values-in-a-matrix	weekly-contest-162	Q1
 1282.4111853142	1837	Sum of Digits in Base K	sum-of-digits-in-base-k	weekly-contest-238	Q1
@@ -1133,6 +1140,7 @@ Rating	ID	Title	Title Slug	Contest Slug	Problem Index
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	minimum-add-to-make-parentheses-valid	weekly-contest-106	Q2
 1241.9262857175	1417	Reformat The String	reformat-the-string	weekly-contest-185	Q1
+1241.5396695569	2299	Strong Password Checker II	strong-password-checker-ii	biweekly-contest-80	Q1
 1241.0825147417	2293	Min Max Game	min-max-game	weekly-contest-296	Q1
 1240.8297581760	2078	Two Furthest Houses With Different Colors	two-furthest-houses-with-different-colors	weekly-contest-268	Q1
 1237.7565585875	1422	Maximum Score After Splitting a String	maximum-score-after-splitting-a-string	weekly-contest-186	Q1
