@@ -133,7 +133,7 @@ import axios, { AxiosResponse } from "axios";
 import { ElMessage } from "element-plus";
 import { useI18n } from "vue-i18n";
 
-const url = "https://zerotrac.github.io/leetcode_problem_rating/data.json";
+const url = "./data.json";
 
 interface Problem {
   ContestID_en: string;
