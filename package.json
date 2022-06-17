@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build && cp data.json ratings.txt LICENSE README.md gen.py ./dist",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
