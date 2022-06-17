@@ -1,0 +1,15 @@
+export default {
+  message: "hello world",
+  lang: "Language",
+  keyword: "Keyword",
+  placeholder: "type a keyword",
+  contestNumber: "Contest number",
+  ratingInterval: "Rating interval",
+  asc: "Asc",
+  desc: "Desc",
+  query: "Query",
+  reset: "Reset",
+  problemName: "Title",
+  contestName: "Contest",
+  rating: "Rating",
+};

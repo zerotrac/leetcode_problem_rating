@@ -1,0 +1,15 @@
+export default {
+  message: "你好世界",
+  lang: "Language",
+  keyword: "关键词",
+  placeholder: "输入关键词",
+  contestNumber: "竞赛编号",
+  ratingInterval: "分数区间",
+  asc: "升序",
+  desc: "降序",
+  query: "查询",
+  reset: "重置",
+  problemName: "题目名称",
+  contestName: "竞赛名称",
+  rating: "分数",
+};
