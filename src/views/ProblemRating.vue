@@ -273,6 +273,8 @@ function reset() {
   contestIndex.value = null;
   left.value = null;
   right.value = null;
+  sortInfo.order = "descending";
+  sortInfo.prop = "Rating";
   query();
 }
 </script>
