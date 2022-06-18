@@ -55,6 +55,7 @@
               v-model="asc"
               :active-text="$t('asc')"
               :inactive-text="$t('desc')"
+              @change="query"
             />
           </el-form-item>
           <el-form-item>
@@ -220,7 +221,8 @@ function query() {
       if (
         !item.TitleZH.includes(k) &&
         !item.Title.includes(k) &&
-        !item.TitleSlug.includes(k)
+        !item.TitleSlug.includes(k) &&
+        !String(item.ID).includes(k)
       ) {
         return;
       }
