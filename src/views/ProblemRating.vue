@@ -58,14 +58,6 @@
             />
           </el-form-item>
           <el-form-item>
-            <el-switch
-              v-model="asc"
-              :active-text="$t('asc')"
-              :inactive-text="$t('desc')"
-              @change="query"
-            />
-          </el-form-item>
-          <el-form-item>
             <el-button type="primary" @click="query"
               >{{ $t("query") }}
             </el-button>
@@ -85,8 +77,9 @@
         stripe
         style="width: 90%"
         :table-layout="'auto'"
+        @sort-change="sortChange"
       >
-        <el-table-column prop="ID" label="ID" width="180" sortable />
+        <el-table-column prop="ID" label="ID" width="180" sortable="custom" />
         <el-table-column :label="$t('problemName')">
           <template #default="scope">
             <el-link
@@ -114,7 +107,7 @@
           </template>
         </el-table-column>
         <el-table-column prop="ProblemIndex" label="#" />
-        <el-table-column :label="$t('rating')">
+        <el-table-column :label="$t('rating')" prop="Rating" sortable="custom">
           <template #default="scope">
             {{ formatNumber(scope.row.Rating) }}
           </template>
@@ -158,14 +151,20 @@ interface Problem {
   ContestHrefEN: string | null;
   ContestHrefZH: string | null;
 }
+interface SortInfo {
+  prop: keyof Problem;
+  order: string;
+}
 
 let i18n = useI18n();
 let locale = i18n.locale;
-let asc = ref(false);
 let left = ref(null);
 let right = ref(null);
+let sortInfo = reactive({
+  prop: "Rating",
+  order: "descending",
+} as SortInfo);
 const pageSizeCache = localStorage.getItem("pageSize");
-
 let pageSize = ref(pageSizeCache ? parseInt(pageSizeCache) : 15);
 let contestIndex = ref(null);
 const problemSetAll: Array<Problem> = reactive([]);
@@ -187,6 +186,18 @@ onMounted(() => {
     currentChange();
   });
 });
+
+function sortChange(s: SortInfo) {
+  if (s.prop == null) {
+    sortInfo.order = "descending";
+    sortInfo.prop = "Rating";
+    query();
+  } else {
+    sortInfo.order = s.order;
+    sortInfo.prop = s.prop;
+    query();
+  }
+}
 
 function switchLocale(locale: string) {
   i18n.locale.value = locale;
@@ -248,14 +259,17 @@ function query() {
     }
     filterProblemSet.push(item);
   });
-  if (asc.value) {
-    filterProblemSet.reverse();
-  }
+  filterProblemSet.sort((a: Problem, b: Problem) => {
+    if (sortInfo.order === "descending") {
+      return (b[sortInfo.prop] as number) - (a[sortInfo.prop] as number);
+    } else {
+      return (a[sortInfo.prop] as number) - (b[sortInfo.prop] as number);
+    }
+  });
   sizeChange();
 }
 
 function reset() {
-  asc.value = false;
   keyword.value = "";
   contestIndex.value = null;
   left.value = null;
