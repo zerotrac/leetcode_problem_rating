@@ -191,12 +191,11 @@ function sortChange(s: SortInfo) {
   if (s.prop == null) {
     sortInfo.order = "descending";
     sortInfo.prop = "Rating";
-    query();
   } else {
     sortInfo.order = s.order;
     sortInfo.prop = s.prop;
-    query();
   }
+  query();
 }
 
 function switchLocale(locale: string) {
