@@ -86,7 +86,7 @@
         style="width: 90%"
         :table-layout="'auto'"
       >
-        <el-table-column prop="ID" label="ID" width="180" />
+        <el-table-column prop="ID" label="ID" width="180" sortable />
         <el-table-column :label="$t('problemName')">
           <template #default="scope">
             <el-link
