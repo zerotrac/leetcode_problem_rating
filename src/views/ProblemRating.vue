@@ -20,7 +20,11 @@
       <div class="filter">
         <el-form :inline="true">
           <el-form-item :label="$t('keyword')">
-            <el-input :placeholder="$t('placeholder')" v-model="keyword" />
+            <el-input
+              :placeholder="$t('placeholder')"
+              v-model="keyword"
+              @keyup.enter="query"
+            />
           </el-form-item>
           <el-form-item :label="$t('contestNumber')">
             <el-input-number
@@ -29,6 +33,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
           </el-form-item>
           <el-form-item :label="$t('ratingInterval')">
@@ -38,9 +43,10 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
           </el-form-item>
-          <el-form-item> -</el-form-item>
+          <el-form-item> - </el-form-item>
           <el-form-item>
             <el-input-number
               v-model="right"
@@ -48,6 +54,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
           </el-form-item>
           <el-form-item>
