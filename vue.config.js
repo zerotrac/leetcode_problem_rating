@@ -3,6 +3,14 @@ module.exports = defineConfig({
   publicPath: process.env.NODE_ENV === "production" ? "./" : "/",
   transpileDependencies: true,
   productionSourceMap: false,
+  devServer: {
+    proxy: {
+      "/data.json": {
+        target: "https://zerotrac.github.io/leetcode_problem_rating",
+        secure: false,
+      },
+    },
+  },
   chainWebpack(config) {
     config.optimization.splitChunks({
       cacheGroups: {

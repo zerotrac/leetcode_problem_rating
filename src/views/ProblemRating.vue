@@ -20,7 +20,11 @@
       <div class="filter">
         <el-form :inline="true">
           <el-form-item :label="$t('keyword')">
-            <el-input :placeholder="$t('placeholder')" v-model="keyword" />
+            <el-input
+              :placeholder="$t('placeholder')"
+              v-model="keyword"
+              @keyup.enter="query"
+            />
           </el-form-item>
           <el-form-item :label="$t('contestNumber')">
             <el-input-number
@@ -29,6 +33,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
           </el-form-item>
           <el-form-item :label="$t('ratingInterval')">
@@ -38,9 +43,10 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
           </el-form-item>
-          <el-form-item> -</el-form-item>
+          <el-form-item> - </el-form-item>
           <el-form-item>
             <el-input-number
               v-model="right"
@@ -48,19 +54,8 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
+              @keyup.enter="query"
             />
-          </el-form-item>
-          <el-form-item>
-            <el-switch
-              v-model="asc"
-              :active-text="$t('asc')"
-              :inactive-text="$t('desc')"
-            />
-          </el-form-item>
-          <el-form-item>
-            <el-button type="primary" @click="query"
-              >{{ $t("query") }}
-            </el-button>
           </el-form-item>
           <el-form-item>
             <el-button type="danger" @click="reset"
@@ -77,8 +72,9 @@
         stripe
         style="width: 90%"
         :table-layout="'auto'"
+        @sort-change="sortChange"
       >
-        <el-table-column prop="ID" label="ID" width="180" />
+        <el-table-column prop="ID" label="ID" width="180" sortable="custom" />
         <el-table-column :label="$t('problemName')">
           <template #default="scope">
             <el-link
@@ -106,7 +102,7 @@
           </template>
         </el-table-column>
         <el-table-column prop="ProblemIndex" label="#" />
-        <el-table-column :label="$t('rating')">
+        <el-table-column :label="$t('rating')" prop="Rating" sortable="custom">
           <template #default="scope">
             {{ formatNumber(scope.row.Rating) }}
           </template>
@@ -150,14 +146,20 @@ interface Problem {
   ContestHrefEN: string | null;
   ContestHrefZH: string | null;
 }
+interface SortInfo {
+  prop: "Rating" | "ID";
+  order: string;
+}
 
 let i18n = useI18n();
 let locale = i18n.locale;
-let asc = ref(false);
 let left = ref(null);
 let right = ref(null);
+let sortInfo = reactive({
+  prop: "Rating",
+  order: "descending",
+} as SortInfo);
 const pageSizeCache = localStorage.getItem("pageSize");
-
 let pageSize = ref(pageSizeCache ? parseInt(pageSizeCache) : 15);
 let contestIndex = ref(null);
 const problemSetAll: Array<Problem> = reactive([]);
@@ -179,6 +181,17 @@ onMounted(() => {
     currentChange();
   });
 });
+
+function sortChange(s: SortInfo) {
+  if (s.prop == null) {
+    sortInfo.order = "descending";
+    sortInfo.prop = "Rating";
+  } else {
+    sortInfo.order = s.order;
+    sortInfo.prop = s.prop;
+  }
+  query();
+}
 
 function switchLocale(locale: string) {
   i18n.locale.value = locale;
@@ -220,7 +233,8 @@ function query() {
       if (
         !item.TitleZH.includes(k) &&
         !item.Title.includes(k) &&
-        !item.TitleSlug.includes(k)
+        !item.TitleSlug.includes(k) &&
+        !String(item.ID).includes(k)
       ) {
         return;
       }
@@ -239,18 +253,23 @@ function query() {
     }
     filterProblemSet.push(item);
   });
-  if (asc.value) {
-    filterProblemSet.reverse();
-  }
+  filterProblemSet.sort((a: Problem, b: Problem) => {
+    if (sortInfo.order === "descending") {
+      return b[sortInfo.prop] - a[sortInfo.prop];
+    } else {
+      return a[sortInfo.prop] - b[sortInfo.prop];
+    }
+  });
   sizeChange();
 }
 
 function reset() {
-  asc.value = false;
   keyword.value = "";
   contestIndex.value = null;
   left.value = null;
   right.value = null;
+  sortInfo.order = "descending";
+  sortInfo.prop = "Rating";
   query();
 }
 </script>
