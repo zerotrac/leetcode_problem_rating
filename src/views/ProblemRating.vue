@@ -58,11 +58,6 @@
             />
           </el-form-item>
           <el-form-item>
-            <el-button type="primary" @click="query"
-              >{{ $t("query") }}
-            </el-button>
-          </el-form-item>
-          <el-form-item>
             <el-button type="danger" @click="reset"
               >{{ $t("reset") }}
             </el-button>
@@ -152,7 +147,7 @@ interface Problem {
   ContestHrefZH: string | null;
 }
 interface SortInfo {
-  prop: keyof Problem;
+  prop: "Rating" | "ID";
   order: string;
 }
 
@@ -260,9 +255,9 @@ function query() {
   });
   filterProblemSet.sort((a: Problem, b: Problem) => {
     if (sortInfo.order === "descending") {
-      return (b[sortInfo.prop] as number) - (a[sortInfo.prop] as number);
+      return b[sortInfo.prop] - a[sortInfo.prop];
     } else {
-      return (a[sortInfo.prop] as number) - (b[sortInfo.prop] as number);
+      return a[sortInfo.prop] - b[sortInfo.prop];
     }
   });
   sizeChange();
