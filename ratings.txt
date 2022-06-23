@@ -85,6 +85,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2364.3930657709	2132	Stamping the Grid	用邮票贴满网格图	stamping-the-grid	biweekly-contest-69	Q4
 2364.3455634374	2203	Minimum Weighted Subgraph With the Required Paths	得到要求路径的最小带权子图	minimum-weighted-subgraph-with-the-required-paths	weekly-contest-284	Q4
 2363.5096568214	1755	Closest Subsequence Sum	最接近目标值的子序列和	closest-subsequence-sum	weekly-contest-227	Q4
+2363.0240184484	2312	Selling Pieces of Wood	卖木头块	selling-pieces-of-wood	weekly-contest-298	Q4
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	最多的不重叠子字符串	maximum-number-of-non-overlapping-substrings	weekly-contest-198	Q3
 2358.9669560824	1707	Maximum XOR With an Element From Array	与数组中元素的最大异或值	maximum-xor-with-an-element-from-array	weekly-contest-221	Q4
 2356.5811122453	1467	Probability of a Two Boxes Having The Same Number of Distinct Balls	两个盒子中球的颜色数相同的概率	probability-of-a-two-boxes-having-the-same-number-of-distinct-balls	weekly-contest-191	Q4
@@ -423,6 +424,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1845.0428731248	1504	Count Submatrices With All Ones	统计全 1 子矩形	count-submatrices-with-all-ones	weekly-contest-196	Q3
 1844.6289439644	1411	Number of Ways to Paint N × 3 Grid	给 N x 3 网格图涂色的方案数	number-of-ways-to-paint-n-3-grid	weekly-contest-184	Q4
 1841.4067816266	2013	Detect Squares	检测正方形	detect-squares	weekly-contest-259	Q3
+1839.9203623221	2311	Longest Binary Subsequence Less Than or Equal to K	小于等于 K 的最长二进制子序列	longest-binary-subsequence-less-than-or-equal-to-k	weekly-contest-298	Q3
 1837.8252904904	1559	Detect Cycles in 2D Grid	二维网格图中探测环	detect-cycles-in-2d-grid	biweekly-contest-33	Q4
 1836.5363480780	1316	Distinct Echo Substrings	不同的循环子字符串	distinct-echo-substrings	biweekly-contest-17	Q4
 1836.5345744332	2146	K Highest Ranked Items Within a Price Range	价格范围内最高排名的 K 样物品	k-highest-ranked-items-within-a-price-range	biweekly-contest-70	Q3
@@ -701,6 +703,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1562.7212466716	856	Score of Parentheses	括号的分数	score-of-parentheses	weekly-contest-90	Q2
 1561.2655635205	1256	Encode Number	加密数字	encode-number	biweekly-contest-13	Q1
 1561.0553908973	1376	Time Needed to Inform All Employees	通知所有员工所需的时间	time-needed-to-inform-all-employees	weekly-contest-179	Q3
+1558.9522968448	2310	Sum of Numbers With Units Digit K	个位数字为 K 的整数之和	sum-of-numbers-with-units-digit-k	weekly-contest-298	Q2
 1558.7188539503	1144	Decrease Elements To Make Array Zigzag	递减元素使数组呈锯齿状	decrease-elements-to-make-array-zigzag	weekly-contest-148	Q1
 1558.6880035344	1181	Before and After Puzzle	前后拼接	before-and-after-puzzle	biweekly-contest-8	Q2
 1558.4971807039	1101	The Earliest Moment When Everyone Become Friends	彼此熟识的最早时间	the-earliest-moment-when-everyone-become-friends	biweekly-contest-3	Q3
@@ -1137,6 +1140,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1245.2741257148	1099	Two Sum Less Than K	小于 K 的两数之和	two-sum-less-than-k	biweekly-contest-3	Q1
 1244.3173678830	1228	Missing Number In Arithmetic Progression	等差数列中缺失的数字	missing-number-in-arithmetic-progression	biweekly-contest-11	Q1
 1243.1009943284	832	Flipping an Image	翻转图像	flipping-an-image	weekly-contest-84	Q1
+1242.8939284628	2309	Greatest English Letter in Upper and Lower Case	兼具大小写的最好英文字母	greatest-english-letter-in-upper-and-lower-case	weekly-contest-298	Q1
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	检查是否所有字符出现次数相同	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	使括号有效的最少添加	minimum-add-to-make-parentheses-valid	weekly-contest-106	Q2
 1241.9262857175	1417	Reformat The String	重新格式化字符串	reformat-the-string	weekly-contest-185	Q1
