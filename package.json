@@ -33,6 +33,9 @@
     "prettier": "^2.4.1",
     "typescript": "~4.5.5"
   },
+  "overrides": {
+    "@types/eslint": "8.4.3"
+  },
   "eslintConfig": {
     "root": true,
     "env": {
