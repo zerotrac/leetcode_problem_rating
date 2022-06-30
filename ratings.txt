@@ -73,6 +73,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2395.8765531206	1825	Finding MK Average	求出 MK 平均值	finding-mk-average	weekly-contest-236	Q4
 2392.0799451298	2172	Maximum AND Sum of Array	数组的最大与和	maximum-and-sum-of-array	weekly-contest-280	Q4
 2391.8086687918	818	Race Car	赛车	race-car	weekly-contest-80	Q4
+2391.6572707330	2322	Minimum Score After Removals on a Tree	从树中删除边的最小分数	minimum-score-after-removals-on-a-tree	weekly-contest-299	Q4
 2389.9634276167	1681	Minimum Incompatibility	最小不兼容性	minimum-incompatibility	weekly-contest-218	Q4
 2385.8072128533	1349	Maximum Students Taking Exam	参加考试的最大学生数	maximum-students-taking-exam	weekly-contest-175	Q4
 2383.7724811656	1521	Find a Value of a Mysterious Function Closest to Target	找到最接近目标值的函数值	find-a-value-of-a-mysterious-function-closest-to-target	weekly-contest-198	Q4
@@ -214,6 +215,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2092.4861692502	1049	Last Stone Weight II	最后一块石头的重量 II	last-stone-weight-ii	weekly-contest-137	Q4
 2091.3820373571	1383	Maximum Performance of a Team	最大的团队表现值	maximum-performance-of-a-team	weekly-contest-180	Q4
 2090.6800569319	2193	Minimum Number of Moves to Make Palindrome	得到回文串的最少操作次数	minimum-number-of-moves-to-make-palindrome	biweekly-contest-73	Q4
+2090.4183788498	2318	Number of Distinct Roll Sequences	不同骰子序列的数目	number-of-distinct-roll-sequences	biweekly-contest-81	Q4
 2087.2049275667	1563	Stone Game V	石子游戏 V	stone-game-v	weekly-contest-203	Q4
 2084.9697035674	982	Triples with Bitwise AND Equal To Zero	按位与为零的三元组	triples-with-bitwise-and-equal-to-zero	weekly-contest-121	Q4
 2084.6866916045	1192	Critical Connections in a Network	查找集群内的「关键连接」	critical-connections-in-a-network	weekly-contest-154	Q4
@@ -473,6 +475,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1794.5827898448	886	Possible Bipartition	可能的二分法	possible-bipartition	weekly-contest-97	Q3
 1793.8027487553	1653	Minimum Deletions to Make String Balanced	使字符串平衡的最少删除次数	minimum-deletions-to-make-string-balanced	biweekly-contest-39	Q2
 1792.0767945370	1245	Tree Diameter	树的直径	tree-diameter	biweekly-contest-12	Q3
+1790.5747006625	2321	Maximum Score Of Spliced Array	拼接数组的最大分数	maximum-score-of-spliced-array	weekly-contest-299	Q3
 1787.8550568757	2192	All Ancestors of a Node in a Directed Acyclic Graph	有向无环图中一个节点的所有祖先	all-ancestors-of-a-node-in-a-directed-acyclic-graph	biweekly-contest-73	Q3
 1787.6346864268	768	Max Chunks To Make Sorted II	最多能完成排序的块 II	max-chunks-to-make-sorted-ii	weekly-contest-68	Q4
 1787.4514432151	1156	Swap For Longest Repeated Character Substring	单字符重复子串的最大长度	swap-for-longest-repeated-character-substring	weekly-contest-149	Q3
@@ -586,6 +589,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1680.1353258588	2182	Construct String With Repeat Limit	构造限制重复的字符串	construct-string-with-repeat-limit	weekly-contest-281	Q3
 1679.2607152001	1402	Reducing Dishes	做菜顺序	reducing-dishes	biweekly-contest-23	Q4
 1678.7231378948	1905	Count Sub Islands	统计子岛屿	count-sub-islands	weekly-contest-246	Q3
+1678.6241816708	2317	Maximum XOR After Operations 	操作后的最大异或和	maximum-xor-after-operations	biweekly-contest-81	Q3
 1678.5871762113	2115	Find All Possible Recipes from Given Supplies	从给定原材料中找到所有可以做出的菜	find-all-possible-recipes-from-given-supplies	biweekly-contest-68	Q2
 1678.3947690537	885	Spiral Matrix III	螺旋矩阵 III	spiral-matrix-iii	weekly-contest-97	Q2
 1678.1133886034	853	Car Fleet	车队	car-fleet	weekly-contest-89	Q2
@@ -658,10 +662,12 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1610.5693981590	1524	Number of Sub-arrays With Odd Sum	和为奇数的子数组数目	number-of-sub-arrays-with-odd-sum	biweekly-contest-31	Q2
 1610.1866391145	1670	Design Front Middle Back Queue	设计前中后队列	design-front-middle-back-queue	biweekly-contest-40	Q3
 1607.8060859500	962	Maximum Width Ramp	最大宽度坡	maximum-width-ramp	weekly-contest-116	Q2
+1607.7036437819	2320	Count Number of Ways to Place Houses	统计放置房子的方式数	count-number-of-ways-to-place-houses	weekly-contest-299	Q2
 1607.0005715974	1123	Lowest Common Ancestor of Deepest Leaves	最深叶节点的最近公共祖先	lowest-common-ancestor-of-deepest-leaves	weekly-contest-145	Q2
 1606.9895296459	1300	Sum of Mutated Array Closest to Target	转变数组后最接近目标值的数组和	sum-of-mutated-array-closest-to-target	biweekly-contest-16	Q2
 1606.2185826486	1604	Alert Using Same Key-Card Three or More Times in a One Hour Period	警告一小时内使用相同员工卡大于等于三次的人	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period	biweekly-contest-36	Q2
 1604.9737380545	809	Expressive Words	情感丰富的文字	expressive-words	weekly-contest-78	Q2
+1604.0695445163	2316	Count Unreachable Pairs of Nodes in an Undirected Graph	统计无向图中无法互相到达点对数	count-unreachable-pairs-of-nodes-in-an-undirected-graph	biweekly-contest-81	Q2
 1602.7242171967	2249	Count Lattice Points Inside a Circle	统计圆内格点数目	count-lattice-points-inside-a-circle	weekly-contest-290	Q2
 1601.5117605320	926	Flip String to Monotone Increasing	将字符串翻转到单调递增	flip-string-to-monotone-increasing	weekly-contest-107	Q2
 1600.5573262373	1864	Minimum Number of Swaps to Make the Binary String Alternating	构成交替字符串需要的最小交换次数	minimum-number-of-swaps-to-make-the-binary-string-alternating	weekly-contest-241	Q2
@@ -1127,6 +1133,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1252.8406166148	2164	Sort Even and Odd Indices Independently	对奇偶下标分别排序	sort-even-and-odd-indices-independently	weekly-contest-279	Q1
 1252.7479413966	1833	Maximum Ice Cream Bars	雪糕的最大数量	maximum-ice-cream-bars	weekly-contest-237	Q2
 1251.8223786910	830	Positions of Large Groups	较大分组的位置	positions-of-large-groups	weekly-contest-83	Q1
+1250.8974254752	2315	Count Asterisks	统计星号	count-asterisks	biweekly-contest-81	Q1
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	检查一个数是否在数组中占绝大多数	check-if-a-number-is-majority-element-in-a-sorted-array	biweekly-contest-6	Q1
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	最大层内元素和	maximum-level-sum-of-a-binary-tree	weekly-contest-150	Q2
 1249.4294341104	766	Toeplitz Matrix	托普利茨矩阵	toeplitz-matrix	weekly-contest-68	Q1
@@ -1200,6 +1207,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1201.7686271329	2124	Check if All A's Appears Before All B's	检查是否所有 A 都在 B 之前	check-if-all-as-appears-before-all-bs	weekly-contest-274	Q1
 1201.6117337798	997	Find the Town Judge	找到小镇的法官	find-the-town-judge	weekly-contest-125	Q1
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	去掉最低工资和最高工资后的工资平均值	average-salary-excluding-the-minimum-and-maximum-salary	biweekly-contest-29	Q1
+1200.9464053417	2319	Check if Matrix Is X-Matrix	判断矩阵是否是一个 X 矩阵	check-if-matrix-is-x-matrix	weekly-contest-299	Q1
 1199.8592887103	2169	Count Operations to Obtain Zero	得到 0 的操作数	count-operations-to-obtain-zero	weekly-contest-280	Q1
 1199.4477805501	2000	Reverse Prefix of Word	反转单词前缀	reverse-prefix-of-word	weekly-contest-258	Q1
 1199.4427635582	1154	Day of the Year	一年中的第几天	day-of-the-year	weekly-contest-149	Q1
