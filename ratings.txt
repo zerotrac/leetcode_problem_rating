@@ -291,6 +291,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	一个图中连通三元组的最小度数	minimum-degree-of-a-connected-trio-in-a-graph	weekly-contest-228	Q4
 2004.5346526204	1927	Sum Game	求和游戏	sum-game	biweekly-contest-56	Q3
 2003.5794613668	2092	Find All People With Secret	找出知晓秘密的所有专家	find-all-people-with-secret	weekly-contest-269	Q4
+2001.2074132383	2328	Number of Increasing Paths in a Grid	网格图中递增路径的数目	number-of-increasing-paths-in-a-grid	weekly-contest-300	Q4
 2000.8441804448	1686	Stone Game VI	石子游戏 VI	stone-game-vi	biweekly-contest-41	Q3
 2000.8021428612	911	Online Election	在线选举	online-election	weekly-contest-103	Q4
 1999.1208076854	765	Couples Holding Hands	情侣牵手	couples-holding-hands	weekly-contest-67	Q4
@@ -371,6 +372,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1897.3309169423	780	Reaching Points	到达终点	reaching-points	weekly-contest-71	Q3
 1896.7975214446	878	Nth Magical Number	第 N 个神奇数字	nth-magical-number	weekly-contest-95	Q3
 1896.1411567598	1871	Jump Game VII	跳跃游戏 VII	jump-game-vii	weekly-contest-242	Q3
+1893.5143805402	2327	Number of People Aware of a Secret	知道秘密的人数	number-of-people-aware-of-a-secret	weekly-contest-300	Q3
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	执行交换操作后的最小汉明距离	minimize-hamming-distance-after-swap-operations	weekly-contest-223	Q3
 1886.7040111218	2305	Fair Distribution of Cookies	公平分发饼干	fair-distribution-of-cookies	weekly-contest-297	Q3
 1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	分配给商店的最多商品的最小值	minimized-maximum-of-products-distributed-to-any-store	weekly-contest-266	Q3
@@ -870,6 +872,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1423.1058649921	1333	Filter Restaurants by Vegan-Friendly	 Price and Distance	餐厅过滤器	weekly-contest-173	Q2
 1423.0355763093	1493	Longest Subarray of 1's After Deleting One Element	删掉一个元素以后全为 1 的最长子数组	longest-subarray-of-1s-after-deleting-one-element	biweekly-contest-29	Q3
 1421.9944676861	1630	Arithmetic Subarrays	等差子数组	arithmetic-subarrays	weekly-contest-212	Q2
+1421.7251191403	2326	Spiral Matrix IV	螺旋矩阵 IV	spiral-matrix-iv	weekly-contest-300	Q2
 1421.6541140049	1360	Number of Days Between Two Dates	日期之间隔几天	number-of-days-between-two-dates	weekly-contest-177	Q1
 1421.2624065513	1033	Moving Stones Until Consecutive	移动石子直到连续	moving-stones-until-consecutive	weekly-contest-134	Q1
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
@@ -1099,6 +1102,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1271.3313760514	925	Long Pressed Name	长按键入	long-pressed-name	weekly-contest-107	Q1
 1269.7567553523	2032	Two Out of Three	至少在两个数组中出现的值	two-out-of-three	weekly-contest-262	Q1
 1268.5768566953	1447	Simplified Fractions	最简分数	simplified-fractions	biweekly-contest-26	Q2
+1268.0287696194	2325	Decode the Message	解密消息	decode-the-message	weekly-contest-300	Q1
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	用户分组	group-the-people-given-the-group-size-they-belong-to	weekly-contest-166	Q2
 1266.3414689550	2200	Find All K-Distant Indices in an Array	找出数组中的所有 K 近邻下标	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	字符的最短距离	shortest-distance-to-a-character	weekly-contest-81	Q1
