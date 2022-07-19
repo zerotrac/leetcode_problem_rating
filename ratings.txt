@@ -631,6 +631,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1653.0356626499	1509	Minimum Difference Between Largest and Smallest Value in Three Moves	三次操作后最大值与最小值的最小差	minimum-difference-between-largest-and-smallest-value-in-three-moves	biweekly-contest-30	Q3
 1652.5809810428	1311	Get Watched Videos by Your Friends	获取你好友已观看的视频	get-watched-videos-by-your-friends	weekly-contest-170	Q3
 1651.5845871727	750	Number Of Corner Rectangles	角矩形的数量	number-of-corner-rectangles	weekly-contest-63	Q3
+1651.5692678340	2343	Query Kth Smallest Trimmed Number	裁剪数字后查询第 K 小的数字	query-kth-smallest-trimmed-number	weekly-contest-302	Q3
 1649.9728054796	1367	Linked List in Binary Tree	二叉树中的列表	linked-list-in-binary-tree	weekly-contest-178	Q3
 1648.3417578820	870	Advantage Shuffle	优势洗牌	advantage-shuffle	weekly-contest-93	Q3
 1648.0880791614	1975	Maximum Matrix Sum	最大方阵和	maximum-matrix-sum	biweekly-contest-59	Q2
@@ -640,6 +641,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1643.1325351423	2024	Maximize the Confusion of an Exam	考试的最大困扰度	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
 1642.1446933109	2275	Largest Combination With Bitwise AND Greater Than Zero	按位与结果大于零的最长组合	largest-combination-with-bitwise-and-greater-than-zero	weekly-contest-293	Q3
 1640.9591585343	2187	Minimum Time to Complete Trips	完成旅途的最少时间	minimum-time-to-complete-trips	weekly-contest-282	Q3
+1640.8976042503	2344	Minimum Deletions to Make Array Divisible	使数组可以被整除的最少删除次数	minimum-deletions-to-make-array-divisible	weekly-contest-302	Q4
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	迷宫中离入口最近的出口	nearest-exit-from-entrance-in-maze	biweekly-contest-56	Q2
 1638.1281256708	838	Push Dominoes	推多米诺	push-dominoes	weekly-contest-85	Q2
 1638.0148920643	990	Satisfiability of Equality Equations	等式方程的可满足性	satisfiability-of-equality-equations	weekly-contest-123	Q2
@@ -1041,6 +1043,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1309.8100518373	1710	Maximum Units on a Truck	卡车上的最大单元数	maximum-units-on-a-truck	weekly-contest-222	Q1
 1309.3113721825	1451	Rearrange Words in a Sentence	重新排列句子中的单词	rearrange-words-in-a-sentence	weekly-contest-189	Q2
 1309.1422268153	1897	Redistribute Characters to Make All Strings Equal	重新分配字符使所有字符串都相等	redistribute-characters-to-make-all-strings-equal	weekly-contest-245	Q1
+1308.9617729374	2342	Max Sum of a Pair With Equal Sum of Digits	数位和相等数对的最大和	max-sum-of-a-pair-with-equal-sum-of-digits	weekly-contest-302	Q2
 1308.9485479750	2264	Largest 3-Same-Digit Number in String	字符串中最大的 3 位相同数字	largest-3-same-digit-number-in-string	weekly-contest-292	Q1
 1307.9800903088	1064	Fixed Point	不动点	fixed-point	biweekly-contest-1	Q1
 1307.5663523368	804	Unique Morse Code Words	唯一摩尔斯密码词	unique-morse-code-words	weekly-contest-77	Q2
@@ -1236,6 +1239,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1188.6311093158	1122	Relative Sort Array	数组的相对排序	relative-sort-array	weekly-contest-145	Q1
 1187.1641565458	1880	Check if Word Equals Summation of Two Words	检查某单词是否等于两单词之和	check-if-word-equals-summation-of-two-words	weekly-contest-243	Q1
 1187.1344261572	2119	A Number After a Double Reversal	反转两次的数字	a-number-after-a-double-reversal	weekly-contest-273	Q1
+1184.7957212840	2341	Maximum Number of Pairs in Array	数组能形成多少数对	maximum-number-of-pairs-in-array	weekly-contest-302	Q1
 1184.4264833435	1979	Find Greatest Common Divisor of Array	找出数组的最大公约数	find-greatest-common-divisor-of-array	weekly-contest-255	Q1
 1182.6489068544	1672	Richest Customer Wealth	最富有客户的资产总量	richest-customer-wealth	weekly-contest-217	Q1
 1181.9716216714	1189	Maximum Number of Balloons	“气球” 的最大数量	maximum-number-of-balloons	weekly-contest-154	Q1
