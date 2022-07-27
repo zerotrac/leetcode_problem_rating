@@ -235,6 +235,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2078.5417326415	1786	Number of Restricted Paths From First to Last Node	从第一个节点出发到最后一个节点的受限路径数	number-of-restricted-paths-from-first-to-last-node	weekly-contest-231	Q3
 2077.5054883516	843	Guess the Word	猜猜这个单词	guess-the-word	weekly-contest-86	Q4
 2076.8975497986	1088	Confusing Number II	易混淆数 II	confusing-number-ii	biweekly-contest-2	Q4
+2075.9046975409	2354	Number of Excellent Pairs	优质数对的数目	number-of-excellent-pairs	weekly-contest-303	Q4
 2074.4120526679	871	Minimum Number of Refueling Stops	最低加油次数	minimum-number-of-refueling-stops	weekly-contest-93	Q4
 2073.0124645606	1850	Minimum Adjacent Swaps to Reach the Kth Smallest Number	邻位交换的最小次数	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	weekly-contest-239	Q3
 2072.7264178313	1799	Maximize Score After N Operations	N 次操作后的最大分数和	maximize-score-after-n-operations	biweekly-contest-48	Q4
@@ -326,6 +327,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1962.3314335449	802	Find Eventual Safe States	找到最终的安全状态	find-eventual-safe-states	weekly-contest-76	Q3
 1962.2005269503	1642	Furthest Building You Can Reach	可以到达的最远建筑	furthest-building-you-can-reach	weekly-contest-213	Q3
 1961.4987013156	1537	Get the Maximum Score	最大得分	get-the-maximum-score	weekly-contest-200	Q4
+1960.5763266754	2350	Shortest Impossible Sequence of Rolls	不可能得到的最短骰子序列	shortest-impossible-sequence-of-rolls	biweekly-contest-83	Q4
 1956.7059585934	1463	Cherry Pickup II	摘樱桃 II	cherry-pickup-ii	biweekly-contest-27	Q4
 1954.2533254344	1696	Jump Game VI	跳跃游戏 VI	jump-game-vi	weekly-contest-220	Q3
 1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	满足三条件之一需改变的最少字符数	change-minimum-characters-to-satisfy-one-of-three-conditions	weekly-contest-225	Q2
@@ -496,6 +498,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1783.2337340478	851	Loud and Rich	喧闹和富有	loud-and-rich	weekly-contest-88	Q3
 1782.9801784101	1765	Map of Highest Peak	地图中的最高点	map-of-highest-peak	biweekly-contest-46	Q3
 1782.3312212058	1171	Remove Zero Sum Consecutive Nodes from Linked List	从链表中删去总和值为零的连续节点	remove-zero-sum-consecutive-nodes-from-linked-list	weekly-contest-151	Q3
+1781.8156963676	2353	Design a Food Rating System	设计食物评分系统	design-a-food-rating-system	weekly-contest-303	Q3
 1781.3664141686	1895	Largest Magic Square	最大的幻方	largest-magic-square	biweekly-contest-54	Q3
 1779.9495819318	842	Split Array into Fibonacci Sequence	将数组拆分成斐波那契序列	split-array-into-fibonacci-sequence	weekly-contest-86	Q3
 1779.8364613072	1424	Diagonal Traverse II	对角线遍历 II	diagonal-traverse-ii	weekly-contest-186	Q3
@@ -742,6 +745,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1541.3484385090	1007	Minimum Domino Rotations For Equal Row	行相等的最少多米诺旋转	minimum-domino-rotations-for-equal-row	weekly-contest-127	Q3
 1541.2260256298	1229	Meeting Scheduler	安排会议日程	meeting-scheduler	biweekly-contest-11	Q2
 1540.5750839091	1382	Balance a Binary Search Tree	将二叉搜索树变平衡	balance-a-binary-search-tree	weekly-contest-180	Q3
+1540.2351411176	2349	Design a Number Container System	设计数字容器系统	design-a-number-container-system	biweekly-contest-83	Q3
 1539.2250193318	1992	Find All Groups of Farmland	找到所有的农场组	find-all-groups-of-farmland	biweekly-contest-60	Q2
 1538.2331497040	2178	Maximum Split of Positive Even Integers	拆分成最多数目的偶整数之和	maximum-split-of-positive-even-integers	biweekly-contest-72	Q3
 1537.1387686755	1023	Camelcase Matching	驼峰式匹配	camelcase-matching	weekly-contest-131	Q3
@@ -1033,6 +1037,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1317.2976846981	2221	Find Triangular Sum of an Array	数组的三角和	find-triangular-sum-of-an-array	biweekly-contest-75	Q2
 1317.1729927899	1343	Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold	大小为 K 且平均值大于等于阈值的子数组数目	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold	biweekly-contest-19	Q2
 1316.2046992429	2225	Find Players With Zero or One Losses	找出输掉零场或一场比赛的玩家	find-players-with-zero-or-one-losses	weekly-contest-287	Q2
+1315.8569286597	2348	Number of Zero-Filled Subarrays	全 0 子数组的数目	number-of-zero-filled-subarrays	biweekly-contest-83	Q2
 1315.4085759361	1180	Count Substrings with Only One Distinct Letter	统计只含单一字母的子串	count-substrings-with-only-one-distinct-letter	biweekly-contest-8	Q1
 1315.3715333947	1629	Slowest Key	按键持续时间最长的键	slowest-key	weekly-contest-212	Q1
 1315.1890809249	2109	Adding Spaces to a String	向字符串添加空格	adding-spaces-to-a-string	weekly-contest-272	Q2
@@ -1083,6 +1088,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1287.8970301681	872	Leaf-Similar Trees	叶子相似的树	leaf-similar-trees	weekly-contest-94	Q1
 1287.1053917452	1103	Distribute Candies to People	分糖果 II	distribute-candies-to-people	weekly-contest-143	Q1
 1286.7934718934	1791	Find Center of Star Graph	找出星型图的中心节点	find-center-of-star-graph	weekly-contest-232	Q2
+1286.3841359213	2352	Equal Row and Column Pairs	相等行列对	equal-row-and-column-pairs	weekly-contest-303	Q2
 1286.3167937403	1047	Remove All Adjacent Duplicates In String	删除字符串中的所有相邻重复项	remove-all-adjacent-duplicates-in-string	weekly-contest-137	Q2
 1285.9726675488	1381	Design a Stack With Increment Operation	设计一个支持增量操作的栈	design-a-stack-with-increment-operation	weekly-contest-180	Q2
 1285.7282180721	860	Lemonade Change	柠檬水找零	lemonade-change	weekly-contest-91	Q1
@@ -1166,6 +1172,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	检查是否所有字符出现次数相同	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	使括号有效的最少添加	minimum-add-to-make-parentheses-valid	weekly-contest-106	Q2
 1241.9262857175	1417	Reformat The String	重新格式化字符串	reformat-the-string	weekly-contest-185	Q1
+1241.5645130241	2347	Best Poker Hand	最好的扑克手牌	best-poker-hand	biweekly-contest-83	Q1
 1241.5396695569	2299	Strong Password Checker II	强密码检验器 II	strong-password-checker-ii	biweekly-contest-80	Q1
 1241.0825147417	2293	Min Max Game	极大极小游戏	min-max-game	weekly-contest-296	Q1
 1240.8297581760	2078	Two Furthest Houses With Different Colors	两栋颜色不同且距离最远的房子	two-furthest-houses-with-different-colors	weekly-contest-268	Q1
@@ -1269,6 +1276,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1161.6227767245	961	N-Repeated Element in Size 2N Array	重复 N 次的元素	n-repeated-element-in-size-2n-array	weekly-contest-116	Q1
 1160.8899403409	1512	Number of Good Pairs	好数对的数目	number-of-good-pairs	weekly-contest-197	Q1
 1160.4439395369	1920	Build Array from Permutation	基于排列构建数组	build-array-from-permutation	weekly-contest-248	Q1
+1155.4545579447	2351	First Letter to Appear Twice	第一个出现两次的字母	first-letter-to-appear-twice	weekly-contest-303	Q1
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	判断能否形成等差数列	can-make-arithmetic-progression-from-sequence	weekly-contest-196	Q1
 1152.1494742874	2089	Find Target Indices After Sorting Array	找出数组排序后的目标下标	find-target-indices-after-sorting-array	weekly-contest-269	Q1
 1152.1377893605	1365	How Many Numbers Are Smaller Than the Current Number	有多少小于当前数字的数字	how-many-numbers-are-smaller-than-the-current-number	weekly-contest-178	Q1
