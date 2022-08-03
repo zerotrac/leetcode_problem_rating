@@ -375,6 +375,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1899.6213866649	823	Binary Trees With Factors	带因子的二叉树	binary-trees-with-factors	weekly-contest-81	Q4
 1897.5516652727	1878	Get Biggest Three Rhombus Sums in a Grid	矩阵中最大的三个菱形和	get-biggest-three-rhombus-sums-in-a-grid	biweekly-contest-53	Q3
 1897.3309169423	780	Reaching Points	到达终点	reaching-points	weekly-contest-71	Q3
+1897.1863301576	2360	Longest Cycle in a Graph	图中的最长环	longest-cycle-in-a-graph	weekly-contest-304	Q4
 1896.7975214446	878	Nth Magical Number	第 N 个神奇数字	nth-magical-number	weekly-contest-95	Q3
 1896.1411567598	1871	Jump Game VII	跳跃游戏 VII	jump-game-vii	weekly-contest-242	Q3
 1893.5143805402	2327	Number of People Aware of a Secret	知道秘密的人数	number-of-people-aware-of-a-secret	weekly-contest-300	Q3
@@ -554,6 +555,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	串联字符串的最大长度	maximum-length-of-a-concatenated-string-with-unique-characters	weekly-contest-160	Q3
 1718.9772466681	2017	Grid Game	网格游戏	grid-game	weekly-contest-260	Q2
 1716.9721777000	2202	Maximize the Topmost Element After K Moves	K 次操作后最大化顶端元素	maximize-the-topmost-element-after-k-moves	weekly-contest-284	Q3
+1714.9927637010	2359	Find Closest Node to Given Two Nodes	找到离给定两个节点最近的节点	find-closest-node-to-given-two-nodes	weekly-contest-304	Q3
 1714.6960124182	1781	Sum of Beauty of All Substrings	所有子字符串美丽值之和	sum-of-beauty-of-all-substrings	biweekly-contest-47	Q3
 1713.2768268466	1372	Longest ZigZag Path in a Binary Tree	二叉树中的最长交错路径	longest-zigzag-path-in-a-binary-tree	biweekly-contest-21	Q3
 1712.4010133221	1042	Flower Planting With No Adjacent	不邻接植花	flower-planting-with-no-adjacent	weekly-contest-136	Q2
@@ -787,6 +789,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1504.8237159326	869	Reordered Power of 2	重新排序得到 2 的幂	reordered-power-of-2	weekly-contest-93	Q2
 1504.2133321504	2104	Sum of Subarray Ranges	子数组范围和	sum-of-subarray-ranges	weekly-contest-271	Q2
 1504.0178888667	1461	Check If a String Contains All Binary Codes of Size K	检查一个字符串是否包含所有长度为 K 的二进制子串	check-if-a-string-contains-all-binary-codes-of-size-k	biweekly-contest-27	Q2
+1502.5363677723	2358	Maximum Number of Groups Entering a Competition	分组的最大数量	maximum-number-of-groups-entering-a-competition	weekly-contest-304	Q2
 1501.6846714598	1750	Minimum Length of String After Deleting Similar Ends	删除字符串两端相同字符后的最短长度	minimum-length-of-string-after-deleting-similar-ends	biweekly-contest-45	Q3
 1501.1152614679	1090	Largest Values From Labels	受标签影响的最大值	largest-values-from-labels	weekly-contest-141	Q2
 1500.8381829812	915	Partition Array into Disjoint Intervals	分割数组	partition-array-into-disjoint-intervals	weekly-contest-104	Q2
@@ -1198,6 +1201,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1227.3485530532	1118	Number of Days in a Month	一月有多少天	number-of-days-in-a-month	biweekly-contest-4	Q1
 1226.8332278145	1935	Maximum Number of Words You Can Type	可以输入的最大单词数	maximum-number-of-words-you-can-type	weekly-contest-250	Q1
 1226.2960135431	1133	Largest Unique Number	最大唯一数	largest-unique-number	biweekly-contest-5	Q1
+1225.3923012413	2357	Make Array Zero by Subtracting Equal Amounts	使数组中所有元素都等于零	make-array-zero-by-subtracting-equal-amounts	weekly-contest-304	Q1
 1225.3601348675	1346	Check If N and Its Double Exist	检查整数及其两倍数是否存在	check-if-n-and-its-double-exist	weekly-contest-175	Q1
 1224.7606792444	1337	The K Weakest Rows in a Matrix	矩阵中战斗力最弱的 K 行	the-k-weakest-rows-in-a-matrix	weekly-contest-174	Q1
 1223.4065703960	2206	Divide Array Into Equal Pairs	将数组划分成相等数对	divide-array-into-equal-pairs	biweekly-contest-74	Q1
