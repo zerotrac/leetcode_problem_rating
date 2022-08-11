@@ -247,6 +247,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2066.0972575597	801	Minimum Swaps To Make Sequences Increasing	使序列递增的最小交换次数	minimum-swaps-to-make-sequences-increasing	weekly-contest-76	Q2
 2062.9876807625	2156	Find Substring With Given Hash Value	查找给定哈希值的子串	find-substring-with-given-hash-value	weekly-contest-278	Q3
 2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	摘水果	maximum-fruits-harvested-after-at-most-k-steps	weekly-contest-271	Q4
+2060.3799915170	2366	Minimum Replacements to Sort the Array	将数组排序的最少替换次数	minimum-replacements-to-sort-the-array	biweekly-contest-84	Q4
 2059.4040623264	1131	Maximum of Absolute Value Expression	绝对值表达式的最大值	maximum-of-absolute-value-expression	weekly-contest-146	Q4
 2057.4788263111	2197	Replace Non-Coprime Numbers in Array	替换数组中的非互质数	replace-non-coprime-numbers-in-array	weekly-contest-283	Q4
 2056.3354942160	1473	Paint House III	粉刷房子 III	paint-house-iii	weekly-contest-192	Q4
@@ -440,6 +441,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1836.5363480780	1316	Distinct Echo Substrings	不同的循环子字符串	distinct-echo-substrings	biweekly-contest-17	Q4
 1836.5345744332	2146	K Highest Ranked Items Within a Price Range	价格范围内最高排名的 K 样物品	k-highest-ranked-items-within-a-price-range	biweekly-contest-70	Q3
 1835.4868365659	995	Minimum Number of K Consecutive Bit Flips	K 连续位的最小翻转次数	minimum-number-of-k-consecutive-bit-flips	weekly-contest-124	Q3
+1834.8680347090	2370	Longest Ideal Subsequence	最长理想子序列	longest-ideal-subsequence	weekly-contest-305	Q4
 1832.2280384591	755	Pour Water	倒水	pour-water	weekly-contest-65	Q2
 1831.9395911303	2034	Stock Price Fluctuation 	股票价格波动	stock-price-fluctuation	weekly-contest-262	Q3
 1830.3165569278	980	Unique Paths III	不同路径 III	unique-paths-iii	weekly-contest-120	Q4
@@ -504,6 +506,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1779.9495819318	842	Split Array into Fibonacci Sequence	将数组拆分成斐波那契序列	split-array-into-fibonacci-sequence	weekly-contest-86	Q3
 1779.8364613072	1424	Diagonal Traverse II	对角线遍历 II	diagonal-traverse-ii	weekly-contest-186	Q3
 1779.7534349429	1129	Shortest Path with Alternating Colors	颜色交替的最短路径	shortest-path-with-alternating-colors	weekly-contest-146	Q2
+1779.7001728541	2369	Check if There is a Valid Partition For The Array	检查数组是否存在有效划分	check-if-there-is-a-valid-partition-for-the-array	weekly-contest-305	Q3
 1779.3931248179	1016	Binary String With Substrings Representing 1 To N	子串能表示从 1 到 N 数字的二进制串	binary-string-with-substrings-representing-1-to-n	weekly-contest-129	Q4
 1778.4880620629	1824	Minimum Sideway Jumps	最少侧跳次数	minimum-sideway-jumps	weekly-contest-236	Q3
 1777.3786570233	918	Maximum Sum Circular Subarray	环形子数组的最大和	maximum-sum-circular-subarray	weekly-contest-105	Q2
@@ -666,6 +669,8 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1624.4737611923	916	Word Subsets	单词子集	word-subsets	weekly-contest-104	Q3
 1623.9443250479	1248	Count Number of Nice Subarrays	统计「优美子数组」	count-number-of-nice-subarrays	weekly-contest-161	Q2
 1622.8414025136	2086	Minimum Number of Buckets Required to Collect Rainwater from Houses	从房屋收集雨水需要的最少水桶数	minimum-number-of-buckets-required-to-collect-rainwater-from-houses	biweekly-contest-66	Q2
+1622.7743864401	2365	Task Scheduler II	任务调度器 II	task-scheduler-ii	biweekly-contest-84	Q3
+1622.2389577197	2364	Count Number of Bad Pairs	统计坏数对的数目	count-number-of-bad-pairs	biweekly-contest-84	Q2
 1618.6016480451	1503	Last Moment Before All Ants Fall Out of a Plank	所有蚂蚁掉下来前的最后一刻	last-moment-before-all-ants-fall-out-of-a-plank	weekly-contest-196	Q2
 1616.2067360638	2241	Design an ATM Machine	设计一个 ATM 机器	design-an-atm-machine	biweekly-contest-76	Q3
 1615.4767730477	1020	Number of Enclaves	飞地的数量	number-of-enclaves	weekly-contest-130	Q4
@@ -819,6 +824,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1479.0110934646	1166	Design File System	设计文件系统	design-file-system	biweekly-contest-7	Q2
 1478.3848028264	1390	Four Divisors	四因数	four-divisors	weekly-contest-181	Q2
 1477.4844514104	951	Flip Equivalent Binary Trees	翻转等价二叉树	flip-equivalent-binary-trees	weekly-contest-113	Q2
+1476.9118898539	2368	Reachable Nodes With Restrictions	受限条件下可到达节点的数目	reachable-nodes-with-restrictions	weekly-contest-305	Q2
 1476.9062320302	2300	Successful Pairs of Spells and Potions	咒语和药水的成功对数	successful-pairs-of-spells-and-potions	biweekly-contest-80	Q2
 1474.0150725665	984	String Without AAA or BBB	不含 AAA 或 BBB 的字符串	string-without-aaa-or-bbb	weekly-contest-121	Q1
 1473.8649930450	1328	Break a Palindrome	破坏回文串	break-a-palindrome	biweekly-contest-18	Q2
@@ -1120,6 +1126,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1271.7055549365	824	Goat Latin	山羊拉丁文	goat-latin	weekly-contest-82	Q1
 1271.3776510163	1556	Thousand Separator	千位分隔数	thousand-separator	biweekly-contest-33	Q1
 1271.3313760514	925	Long Pressed Name	长按键入	long-pressed-name	weekly-contest-107	Q1
+1270.6712381632	2363	Merge Similar Items	合并相似的物品	merge-similar-items	biweekly-contest-84	Q1
 1269.7567553523	2032	Two Out of Three	至少在两个数组中出现的值	two-out-of-three	weekly-contest-262	Q1
 1268.5768566953	1447	Simplified Fractions	最简分数	simplified-fractions	biweekly-contest-26	Q2
 1268.0287696194	2325	Decode the Message	解密消息	decode-the-message	weekly-contest-300	Q1
@@ -1229,6 +1236,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	哪种连续子字符串更长	longer-contiguous-segments-of-ones-than-zeros	weekly-contest-242	Q1
 1203.7504950404	1952	Three Divisors	三除数	three-divisors	weekly-contest-252	Q1
 1203.1408035909	1688	Count of Matches in Tournament	比赛中的配对次数	count-of-matches-in-tournament	weekly-contest-219	Q1
+1203.0737869081	2367	Number of Arithmetic Triplets	算术三元组的数目	number-of-arithmetic-triplets	weekly-contest-305	Q1
 1201.8730954169	2148	Count Elements With Strictly Smaller and Greater Elements 	元素计数	count-elements-with-strictly-smaller-and-greater-elements	weekly-contest-277	Q1
 1201.7686271329	2124	Check if All A's Appears Before All B's	检查是否所有 A 都在 B 之前	check-if-all-as-appears-before-all-bs	weekly-contest-274	Q1
 1201.6117337798	997	Find the Town Judge	找到小镇的法官	find-the-town-judge	weekly-contest-125	Q1
