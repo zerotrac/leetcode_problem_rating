@@ -202,6 +202,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
 2123.5708982185	1970	Last Day Where You Can Still Cross	你能穿过矩阵的最后一天	last-day-where-you-can-still-cross	weekly-contest-254	Q4
 2121.3147151648	972	Equal Rational Numbers	相等的有理数	equal-rational-numbers	weekly-contest-118	Q4
+2120.4466386371	2376	Count Special Integers	统计特殊整数	count-special-integers	weekly-contest-306	Q4
 2118.7923652824	1601	Maximum Number of Achievable Transfer Requests	最多可达成的换楼请求数目	maximum-number-of-achievable-transfer-requests	weekly-contest-208	Q4
 2116.4935282950	1547	Minimum Cost to Cut a Stick	切棍子的最小成本	minimum-cost-to-cut-a-stick	weekly-contest-201	Q4
 2115.0911494487	1483	Kth Ancestor of a Tree Node	树节点的第 K 个祖先	kth-ancestor-of-a-tree-node	weekly-contest-193	Q4
@@ -648,6 +649,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1643.5283095007	2196	Create Binary Tree From Descriptions	根据描述创建二叉树	create-binary-tree-from-descriptions	weekly-contest-283	Q3
 1643.1325351423	2024	Maximize the Confusion of an Exam	考试的最大困扰度	maximize-the-confusion-of-an-exam	biweekly-contest-62	Q3
 1642.1446933109	2275	Largest Combination With Bitwise AND Greater Than Zero	按位与结果大于零的最长组合	largest-combination-with-bitwise-and-greater-than-zero	weekly-contest-293	Q3
+1641.9424376927	2375	Construct Smallest Number From DI String	根据模式串构造最小数字	construct-smallest-number-from-di-string	weekly-contest-306	Q3
 1640.9591585343	2187	Minimum Time to Complete Trips	完成旅途的最少时间	minimum-time-to-complete-trips	weekly-contest-282	Q3
 1640.8976042503	2344	Minimum Deletions to Make Array Divisible	使数组可以被整除的最少删除次数	minimum-deletions-to-make-array-divisible	weekly-contest-302	Q4
 1638.3134093066	1926	Nearest Exit from Entrance in Maze	迷宫中离入口最近的出口	nearest-exit-from-entrance-in-maze	biweekly-contest-56	Q2
@@ -895,6 +897,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1421.7251191403	2326	Spiral Matrix IV	螺旋矩阵 IV	spiral-matrix-iv	weekly-contest-300	Q2
 1421.6541140049	1360	Number of Days Between Two Dates	日期之间隔几天	number-of-days-between-two-dates	weekly-contest-177	Q1
 1421.2624065513	1033	Moving Stones Until Consecutive	移动石子直到连续	moving-stones-until-consecutive	weekly-contest-134	Q1
+1418.9758090724	2374	Node With Highest Edge Score	边积分最高的节点	node-with-highest-edge-score	weekly-contest-306	Q2
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
 1418.6847740057	1962	Remove Stones to Minimize the Total	移除石子使总数最小	remove-stones-to-minimize-the-total	weekly-contest-253	Q2
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
@@ -1024,6 +1027,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1332.6187879411	2274	Maximum Consecutive Floors Without Special Floors	不含特殊楼层的最大连续楼层数	maximum-consecutive-floors-without-special-floors	weekly-contest-293	Q2
 1332.4653491345	1471	The k Strongest Values in an Array	数组中的 k 个最强值	the-k-strongest-values-in-an-array	weekly-contest-192	Q2
 1331.5287857686	2259	Remove Digit From Number to Maximize Result	移除指定数字得到的最大结果	remove-digit-from-number-to-maximize-result	weekly-contest-291	Q1
+1331.3935128035	2373	Largest Local Values in a Matrix	矩阵中的局部最大值	largest-local-values-in-a-matrix	weekly-contest-306	Q1
 1330.9185778280	1347	Minimum Number of Steps to Make Two Strings Anagram	制造字母异位词的最小步骤数	minimum-number-of-steps-to-make-two-strings-anagram	weekly-contest-175	Q2
 1328.7281033317	1324	Print Words Vertically	竖直打印单词	print-words-vertically	weekly-contest-172	Q2
 1328.5131477260	1812	Determine Color of a Chessboard Square	判断国际象棋棋盘中一个格子的颜色	determine-color-of-a-chessboard-square	biweekly-contest-49	Q1
