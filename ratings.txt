@@ -332,6 +332,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1962.2005269503	1642	Furthest Building You Can Reach	可以到达的最远建筑	furthest-building-you-can-reach	weekly-contest-213	Q3
 1961.4987013156	1537	Get the Maximum Score	最大得分	get-the-maximum-score	weekly-contest-200	Q4
 1960.5763266754	2350	Shortest Impossible Sequence of Rolls	不可能得到的最短骰子序列	shortest-impossible-sequence-of-rolls	biweekly-contest-83	Q4
+1960.5517123728	2392	Build a Matrix With Conditions	给定条件下构造矩阵	build-a-matrix-with-conditions	weekly-contest-308	Q4
 1956.7059585934	1463	Cherry Pickup II	摘樱桃 II	cherry-pickup-ii	biweekly-contest-27	Q4
 1954.2533254344	1696	Jump Game VI	跳跃游戏 VI	jump-game-vi	weekly-contest-220	Q3
 1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	满足三条件之一需改变的最少字符数	change-minimum-characters-to-satisfy-one-of-three-conditions	weekly-contest-225	Q2
@@ -854,6 +855,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1460.5903088359	1663	Smallest String With A Given Numeric Value	具有给定数值的最小字符串	smallest-string-with-a-given-numeric-value	weekly-contest-216	Q2
 1459.8208951847	1310	XOR Queries of a Subarray	子数组异或查询	xor-queries-of-a-subarray	weekly-contest-170	Q2
 1458.3564930390	2062	Count Vowel Substrings of a String	统计字符串中的元音子字符串	count-vowel-substrings-of-a-string	weekly-contest-266	Q1
+1455.8516200241	2391	Minimum Amount of Time to Collect Garbage	收集垃圾的最少总时间	minimum-amount-of-time-to-collect-garbage	weekly-contest-308	Q3
 1454.7459647138	2094	Finding 3-Digit Even Numbers	找出 3 位偶数	finding-3-digit-even-numbers	weekly-contest-270	Q1
 1454.3901912166	1846	Maximum Element After Decreasing and Rearranging	减小和重新排列数组后的最大元素	maximum-element-after-decreasing-and-rearranging	biweekly-contest-51	Q3
 1453.7818053022	1472	Design Browser History	设计浏览器历史记录	design-browser-history	weekly-contest-192	Q3
@@ -946,6 +948,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1389.3311694710	1065	Index Pairs of a String	字符串的索引对	index-pairs-of-a-string	biweekly-contest-1	Q2
 1389.0328392117	1214	Two Sum BSTs	查找两棵二叉搜索树之和	two-sum-bsts	biweekly-contest-10	Q2
 1387.9431104106	1302	Deepest Leaves Sum	层数最深叶子节点的和	deepest-leaves-sum	biweekly-contest-16	Q3
+1387.7347071166	2389	Longest Subsequence With Limited Sum	和有限的最长子序列	longest-subsequence-with-limited-sum	weekly-contest-308	Q1
 1387.3672639293	937	Reorder Data in Log Files	重新排列日志文件	reorder-data-in-log-files	weekly-contest-110	Q1
 1387.2941868867	1860	Incremental Memory Leak	增长的内存泄露	incremental-memory-leak	biweekly-contest-52	Q2
 1386.9203620297	1721	Swapping Nodes in a Linked List	交换链表中的节点	swapping-nodes-in-a-linked-list	weekly-contest-223	Q2
@@ -1008,6 +1011,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1350.6048768377	2053	Kth Distinct String in an Array	数组中第 K 个独一无二的字符串	kth-distinct-string-in-an-array	biweekly-contest-64	Q1
 1348.6701914380	1100	Find K-Length Substrings With No Repeated Characters	长度为 K 的无重复字符子串	find-k-length-substrings-with-no-repeated-characters	biweekly-contest-3	Q2
 1348.0079390256	1029	Two City Scheduling	两地调度	two-city-scheduling	weekly-contest-133	Q1
+1347.8521638635	2390	Removing Stars From a String	从字符串中移除星号	removing-stars-from-a-string	weekly-contest-308	Q2
 1346.9594471871	2284	Sender With Largest Word Count	最多单词数的发件人	sender-with-largest-word-count	biweekly-contest-79	Q2
 1346.3556309143	2027	Minimum Moves to Convert String	转换字符串的最少操作次数	minimum-moves-to-convert-string	weekly-contest-261	Q1
 1345.7371686090	1679	Max Number of K-Sum Pairs	K 和数对的最大数目	max-number-of-k-sum-pairs	weekly-contest-218	Q2
