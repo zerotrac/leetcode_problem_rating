@@ -217,6 +217,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2096.6201393558	778	Swim in Rising Water	水位上升的泳池中游泳	swim-in-rising-water	weekly-contest-70	Q4
 2096.6098086765	899	Orderly Queue	有序队列	orderly-queue	weekly-contest-100	Q4
 2094.5924265370	1976	Number of Ways to Arrive at Destination	到达目的地的方案数	number-of-ways-to-arrive-at-destination	biweekly-contest-59	Q3
+2092.8943149547	2402	Meeting Rooms III	会议室 III	meeting-rooms-iii	weekly-contest-309	Q4
 2092.4861692502	1049	Last Stone Weight II	最后一块石头的重量 II	last-stone-weight-ii	weekly-contest-137	Q4
 2091.3820373571	1383	Maximum Performance of a Team	最大的团队表现值	maximum-performance-of-a-team	weekly-contest-180	Q4
 2090.6800569319	2193	Minimum Number of Moves to Make Palindrome	得到回文串的最少操作次数	minimum-number-of-moves-to-make-palindrome	biweekly-contest-73	Q4
@@ -365,6 +366,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1919.6391896894	1416	Restore The Array	恢复数组	restore-the-array	biweekly-contest-24	Q4
 1919.1749818083	1130	Minimum Cost Tree From Leaf Values	叶值的最小代价生成树	minimum-cost-tree-from-leaf-values	weekly-contest-146	Q3
 1918.9960035055	2069	Walking Robot Simulation II	模拟行走机器人 II	walking-robot-simulation-ii	biweekly-contest-65	Q2
+1917.2145829853	2398	Maximum Number of Robots Within Budget	预算内的最多机器人数目	maximum-number-of-robots-within-budget	biweekly-contest-86	Q4
 1916.0689858272	1043	Partition Array for Maximum Sum	分隔数组以得到最大和	partition-array-for-maximum-sum	weekly-contest-136	Q3
 1914.6717285348	2147	Number of Ways to Divide a Long Corridor	分隔长廊的方案数	number-of-ways-to-divide-a-long-corridor	biweekly-contest-70	Q4
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	二叉搜索子树的最大键值和	maximum-sum-bst-in-binary-tree	biweekly-contest-21	Q4
@@ -533,6 +535,8 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1752.9555725796	1135	Connecting Cities With Minimum Cost	最低成本联通所有城市	connecting-cities-with-minimum-cost	biweekly-contest-5	Q3
 1752.2621077596	939	Minimum Area Rectangle	最小面积矩形	minimum-area-rectangle	weekly-contest-110	Q3
 1751.5101577001	2166	Design Bitset	设计位集	design-bitset	weekly-contest-279	Q3
+1751.1156254650	2400	Number of Ways to Reach a Position After Exactly k Steps	恰好移动 k 步到达某一位置的方法数目	number-of-ways-to-reach-a-position-after-exactly-k-steps	weekly-contest-309	Q2
+1749.5432375672	2401	Longest Nice Subarray	最长优雅子数组	longest-nice-subarray	weekly-contest-309	Q3
 1749.4981778209	1111	Maximum Nesting Depth of Two Valid Parentheses Strings	有效括号的嵌套深度	maximum-nesting-depth-of-two-valid-parentheses-strings	weekly-contest-144	Q4
 1748.4522689101	2134	Minimum Swaps to Group All 1's Together II	最少交换次数来组合所有的 1 II	minimum-swaps-to-group-all-1s-together-ii	weekly-contest-275	Q2
 1748.1523771585	1297	Maximum Number of Occurrences of a Substring	子串的最大出现次数	maximum-number-of-occurrences-of-a-substring	weekly-contest-168	Q3
@@ -562,6 +566,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1722.3088173214	1197	Minimum Knight Moves	进击的骑士	minimum-knight-moves	biweekly-contest-9	Q2
 1719.9451998740	1239	Maximum Length of a Concatenated String with Unique Characters	串联字符串的最大长度	maximum-length-of-a-concatenated-string-with-unique-characters	weekly-contest-160	Q3
 1718.9772466681	2017	Grid Game	网格游戏	grid-game	weekly-contest-260	Q2
+1718.8256321624	2397	Maximum Rows Covered by Columns	被列覆盖的最多行数	maximum-rows-covered-by-columns	biweekly-contest-86	Q3
 1716.9721777000	2202	Maximize the Topmost Element After K Moves	K 次操作后最大化顶端元素	maximize-the-topmost-element-after-k-moves	weekly-contest-284	Q3
 1714.9927637010	2359	Find Closest Node to Given Two Nodes	找到离给定两个节点最近的节点	find-closest-node-to-given-two-nodes	weekly-contest-304	Q3
 1714.6960124182	1781	Sum of Beauty of All Substrings	所有子字符串美丽值之和	sum-of-beauty-of-all-substrings	biweekly-contest-47	Q3
@@ -1042,6 +1047,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1331.3935128035	2373	Largest Local Values in a Matrix	矩阵中的局部最大值	largest-local-values-in-a-matrix	weekly-contest-306	Q1
 1330.9185778280	1347	Minimum Number of Steps to Make Two Strings Anagram	制造字母异位词的最小步骤数	minimum-number-of-steps-to-make-two-strings-anagram	weekly-contest-175	Q2
 1328.7281033317	1324	Print Words Vertically	竖直打印单词	print-words-vertically	weekly-contest-172	Q2
+1328.5499677186	2396	Strictly Palindromic Number	严格回文的数字	strictly-palindromic-number	biweekly-contest-86	Q2
 1328.5131477260	1812	Determine Color of a Chessboard Square	判断国际象棋棋盘中一个格子的颜色	determine-color-of-a-chessboard-square	biweekly-contest-49	Q1
 1327.0282989915	1086	High Five	前五科的均分	high-five	biweekly-contest-2	Q2
 1326.4047670018	1476	Subrectangle Queries	子矩形查询	subrectangle-queries	biweekly-contest-28	Q2
@@ -1183,6 +1189,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1250.8974254752	2315	Count Asterisks	统计星号	count-asterisks	biweekly-contest-81	Q1
 1249.9947800752	1150	Check If a Number Is Majority Element in a Sorted Array	检查一个数是否在数组中占绝大多数	check-if-a-number-is-majority-element-in-a-sorted-array	biweekly-contest-6	Q1
 1249.9086403595	1161	Maximum Level Sum of a Binary Tree	最大层内元素和	maximum-level-sum-of-a-binary-tree	weekly-contest-150	Q2
+1249.8425270142	2395	Find Subarrays With Equal Sum	和相等的子数组	find-subarrays-with-equal-sum	biweekly-contest-86	Q1
 1249.4294341104	766	Toeplitz Matrix	托普利茨矩阵	toeplitz-matrix	weekly-contest-68	Q1
 1249.2572200035	2279	Maximum Bags With Full Capacity of Rocks	装满石头的背包的最大数量	maximum-bags-with-full-capacity-of-rocks	weekly-contest-294	Q2
 1248.8547072235	1903	Largest Odd Number in String	字符串中的最大奇数	largest-odd-number-in-string	weekly-contest-246	Q1
@@ -1193,6 +1200,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1245.2999833877	1518	Water Bottles	换酒问题	water-bottles	weekly-contest-198	Q1
 1245.2741257148	1099	Two Sum Less Than K	小于 K 的两数之和	two-sum-less-than-k	biweekly-contest-3	Q1
 1244.3173678830	1228	Missing Number In Arithmetic Progression	等差数列中缺失的数字	missing-number-in-arithmetic-progression	biweekly-contest-11	Q1
+1243.6250741657	2399	Check Distances Between Same Letters	检查相同字母间的距离	check-distances-between-same-letters	weekly-contest-309	Q1
 1243.1009943284	832	Flipping an Image	翻转图像	flipping-an-image	weekly-contest-84	Q1
 1242.8939284628	2309	Greatest English Letter in Upper and Lower Case	兼具大小写的最好英文字母	greatest-english-letter-in-upper-and-lower-case	weekly-contest-298	Q1
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	检查是否所有字符出现次数相同	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
