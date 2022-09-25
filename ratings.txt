@@ -227,7 +227,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2087.2049275667	1563	Stone Game V	石子游戏 V	stone-game-v	weekly-contest-203	Q4
 2084.9697035674	982	Triples with Bitwise AND Equal To Zero	按位与为零的三元组	triples-with-bitwise-and-equal-to-zero	weekly-contest-121	Q4
 2084.6866916045	1192	Critical Connections in a Network	查找集群内的「关键连接」	critical-connections-in-a-network	weekly-contest-154	Q4
-2084.5752686737	2267	 Check if There Is a Valid Parentheses String Path	检查是否有合法括号字符串路径	check-if-there-is-a-valid-parentheses-string-path	weekly-contest-292	Q4
+2084.5752686737	2267	Check if There Is a Valid Parentheses String Path	检查是否有合法括号字符串路径	check-if-there-is-a-valid-parentheses-string-path	weekly-contest-292	Q4
 2084.4980206639	2009	Minimum Number of Operations to Make Array Continuous	使数组连续的最少操作数	minimum-number-of-operations-to-make-array-continuous	biweekly-contest-61	Q4
 2084.2010769193	774	Minimize Max Distance to Gas Station	最小化去加油站的最大距离	minimize-max-distance-to-gas-station	weekly-contest-69	Q4
 2084.1404698713	2050	Parallel Courses III	并行课程 III	parallel-courses-iii	weekly-contest-264	Q4
@@ -911,7 +911,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1425.9672522649	840	Magic Squares In Grid	矩阵中的幻方	magic-squares-in-grid	weekly-contest-86	Q1
 1425.3981616639	883	Projection Area of 3D Shapes	三维形体投影面积	projection-area-of-3d-shapes	weekly-contest-96	Q1
 1423.5501543781	791	Custom Sort String	自定义字符串排序	custom-sort-string	weekly-contest-73	Q3
-1423.1058649921	1333	Filter Restaurants by Vegan-Friendly	 Price and Distance	餐厅过滤器	weekly-contest-173	Q2
+1423.1058649921	1333	Filter Restaurants by Vegan-Friendly, Price and Distance	餐厅过滤器	filter-restaurants-by-vegan-friendly-price-and-distance	weekly-contest-173	Q2
 1423.0355763093	1493	Longest Subarray of 1's After Deleting One Element	删掉一个元素以后全为 1 的最长子数组	longest-subarray-of-1s-after-deleting-one-element	biweekly-contest-29	Q3
 1421.9944676861	1630	Arithmetic Subarrays	等差子数组	arithmetic-subarrays	weekly-contest-212	Q2
 1421.7251191403	2326	Spiral Matrix IV	螺旋矩阵 IV	spiral-matrix-iv	weekly-contest-300	Q2
