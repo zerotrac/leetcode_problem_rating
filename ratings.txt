@@ -59,6 +59,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2455.8244137907	1040	Moving Stones Until Consecutive II	移动石子直到连续 II	moving-stones-until-consecutive-ii	weekly-contest-135	Q4
 2454.7653333657	1900	The Earliest and Latest Rounds Where Players Compete	最佳运动员的比拼回合	the-earliest-and-latest-rounds-where-players-compete	weekly-contest-245	Q4
 2449.1323757838	2127	Maximum Employees to Be Invited to a Meeting	参加会议的最多员工数	maximum-employees-to-be-invited-to-a-meeting	weekly-contest-274	Q4
+2444.6660756903	2421	Number of Good Paths	好路径的数目	number-of-good-paths	weekly-contest-312	Q4
 2439.7337408636	1872	Stone Game VIII	石子游戏 VIII	stone-game-viii	weekly-contest-242	Q4
 2433.3767704629	903	Valid Permutations for DI Sequence	DI 序列的有效排列	valid-permutations-for-di-sequence	weekly-contest-101	Q4
 2429.6705422448	782	Transform to Chessboard	变为棋盘	transform-to-chessboard	weekly-contest-71	Q4
@@ -602,6 +603,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1696.9920075471	1487	Making File Names Unique	保证文件名唯一	making-file-names-unique	weekly-contest-194	Q2
 1695.3076664977	792	Number of Matching Subsequences	匹配子序列的单词数	number-of-matching-subsequences	weekly-contest-74	Q2
 1695.2832486322	1942	The Number of the Smallest Unoccupied Chair	最小未被占据椅子的编号	the-number-of-the-smallest-unoccupied-chair	biweekly-contest-57	Q2
+1695.0815222626	2420	Find All Good Indices	找到所有好下标	find-all-good-indices	weekly-contest-312	Q3
 1694.4339515030	829	Consecutive Numbers Sum	连续整数求和	consecutive-numbers-sum	weekly-contest-83	Q3
 1693.4495728383	2337	Move Pieces to Obtain a String	移动片段得到字符串	move-pieces-to-obtain-a-string	weekly-contest-301	Q3
 1692.5884631801	1462	Course Schedule IV	课程表 IV	course-schedule-iv	biweekly-contest-27	Q3
@@ -825,6 +827,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1496.2502937005	2285	Maximum Total Importance of Roads	道路的最大总重要性	maximum-total-importance-of-roads	biweekly-contest-79	Q3
 1496.1462748679	2191	Sort the Jumbled Numbers	将杂乱无章的数字排序	sort-the-jumbled-numbers	biweekly-contest-73	Q2
 1495.7157408280	1685	Sum of Absolute Differences in a Sorted Array	有序数组中差绝对值之和	sum-of-absolute-differences-in-a-sorted-array	biweekly-contest-41	Q2
+1495.5180147817	2419	Longest Subarray With Maximum Bitwise AND	按位与最大的最长子数组	longest-subarray-with-maximum-bitwise-and	weekly-contest-312	Q2
 1495.3186477678	949	Largest Time for Given Digits	给定数字能组成的最大时间	largest-time-for-given-digits	weekly-contest-113	Q1
 1491.4638194905	1806	Minimum Number of Operations to Reinitialize a Permutation	还原排列的最少操作步数	minimum-number-of-operations-to-reinitialize-a-permutation	weekly-contest-234	Q2
 1490.8990184504	1759	Count Number of Homogenous Substrings	统计同构子字符串的数目	count-number-of-homogenous-substrings	weekly-contest-228	Q2
@@ -1288,6 +1291,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1193.9819783429	1323	Maximum 69 Number	6 和 9 组成的最大数字	maximum-69-number	weekly-contest-172	Q1
 1193.2687290573	1437	Check If All 1's Are at Least Length K Places Away	是否所有 1 都至少相隔 k 个元素	check-if-all-1s-are-at-least-length-k-places-away	weekly-contest-187	Q2
 1193.1328299324	1528	Shuffle String	重新排列字符串	shuffle-string	weekly-contest-199	Q1
+1193.0585534828	2418	Sort the People	按身高排序	sort-the-people	weekly-contest-312	Q1
 1192.3167969426	1436	Destination City	旅行终点站	destination-city	weekly-contest-187	Q1
 1188.6470369782	747	Largest Number At Least Twice of Others	至少是其他数字两倍的最大数	largest-number-at-least-twice-of-others	weekly-contest-64	Q1
 1188.6311093158	1122	Relative Sort Array	数组的相对排序	relative-sort-array	weekly-contest-145	Q1
