@@ -341,7 +341,9 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1960.5517123728	2392	Build a Matrix With Conditions	给定条件下构造矩阵	build-a-matrix-with-conditions	weekly-contest-308	Q4
 1956.7059585934	1463	Cherry Pickup II	摘樱桃 II	cherry-pickup-ii	biweekly-contest-27	Q4
 1954.2533254344	1696	Jump Game VI	跳跃游戏 VI	jump-game-vi	weekly-contest-220	Q3
+1953.1377267440	2434	Using a Robot to Print the Lexicographically Smallest String	使用机器人打印字典序最小的字符串	using-a-robot-to-print-the-lexicographically-smallest-string	weekly-contest-314	Q3
 1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	满足三条件之一需改变的最少字符数	change-minimum-characters-to-satisfy-one-of-three-conditions	weekly-contest-225	Q2
+1951.5918682146	2435	Paths in Matrix Whose Sum Is Divisible by K	矩阵中和能被 K 整除的路径	paths-in-matrix-whose-sum-is-divisible-by-k	weekly-contest-314	Q4
 1951.3509259668	1259	Handshakes That Don't Cross	不相交的握手	handshakes-that-dont-cross	biweekly-contest-13	Q4
 1951.2096212775	1690	Stone Game VII	石子游戏 VII	stone-game-vii	weekly-contest-219	Q3
 1949.0920823355	1153	String Transforms Into Another String	字符串转化	string-transforms-into-another-string	biweekly-contest-6	Q4
@@ -1005,6 +1007,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	特殊数组的特征值	special-array-with-x-elements-greater-than-or-equal-x	weekly-contest-209	Q1
 1369.0053354603	1370	Increasing Decreasing String	上升下降字符串	increasing-decreasing-string	biweekly-contest-21	Q1
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	替换所有的问号	replace-all-s-to-avoid-consecutive-repeating-characters	weekly-contest-205	Q1
+1366.6789652398	2433	Find The Original Array of Prefix Xor	找出前缀异或的原始数组	find-the-original-array-of-prefix-xor	weekly-contest-314	Q2
 1365.2269076492	2231	Largest Number After Digit Swaps by Parity	按奇偶性交换后的最大数字	largest-number-after-digit-swaps-by-parity	weekly-contest-288	Q1
 1364.6787168645	2260	Minimum Consecutive Cards to Pick Up	必须拿起的最小连续卡牌数	minimum-consecutive-cards-to-pick-up	weekly-contest-291	Q2
 1364.1548599180	1974	Minimum Time to Type Word Using Special Typewriter	使用特殊打字机键入单词的最少时间	minimum-time-to-type-word-using-special-typewriter	biweekly-contest-59	Q1
@@ -1172,6 +1175,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1268.5768566953	1447	Simplified Fractions	最简分数	simplified-fractions	biweekly-contest-26	Q2
 1268.0287696194	2325	Decode the Message	解密消息	decode-the-message	weekly-contest-300	Q1
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	用户分组	group-the-people-given-the-group-size-they-belong-to	weekly-contest-166	Q2
+1266.7001363197	2432	The Employee That Worked on the Longest Task	处理用时最长的那个任务的员工	the-employee-that-worked-on-the-longest-task	weekly-contest-314	Q1
 1266.3414689550	2200	Find All K-Distant Indices in an Array	找出数组中的所有 K 近邻下标	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	字符的最短距离	shortest-distance-to-a-character	weekly-contest-81	Q1
 1264.4836883082	1736	Latest Time by Replacing Hidden Digits	替换隐藏数字得到的最晚时间	latest-time-by-replacing-hidden-digits	weekly-contest-225	Q1
