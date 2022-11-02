@@ -245,6 +245,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2078.5417326415	1786	Number of Restricted Paths From First to Last Node	从第一个节点出发到最后一个节点的受限路径数	number-of-restricted-paths-from-first-to-last-node	weekly-contest-231	Q3
 2077.5054883516	843	Guess the Word	猜猜这个单词	guess-the-word	weekly-contest-86	Q4
 2076.8975497986	1088	Confusing Number II	易混淆数 II	confusing-number-ii	biweekly-contest-2	Q4
+2076.0155978787	2449	Minimum Number of Operations to Make Arrays Similar	使数组相似的最少操作次数	minimum-number-of-operations-to-make-arrays-similar	weekly-contest-316	Q4
 2075.9046975409	2354	Number of Excellent Pairs	优质数对的数目	number-of-excellent-pairs	weekly-contest-303	Q4
 2074.4120526679	871	Minimum Number of Refueling Stops	最低加油次数	minimum-number-of-refueling-stops	weekly-contest-93	Q4
 2073.0124645606	1850	Minimum Adjacent Swaps to Reach the Kth Smallest Number	邻位交换的最小次数	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	weekly-contest-239	Q3
@@ -304,6 +305,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2009.7322365973	1981	Minimize the Difference Between Target and Chosen Elements	最小化目标值与所选元素的差	minimize-the-difference-between-target-and-chosen-elements	weekly-contest-255	Q3
 2008.4065079100	1223	Dice Roll Simulation	掷骰子模拟	dice-roll-simulation	weekly-contest-158	Q3
 2005.5862669078	1888	Minimum Number of Flips to Make the Binary String Alternating	使二进制字符串字符交替的最少反转次数	minimum-number-of-flips-to-make-the-binary-string-alternating	weekly-contest-244	Q3
+2005.3737929084	2448	Minimum Cost to Make Array Equal	使数组相等的最小开销	minimum-cost-to-make-array-equal	weekly-contest-316	Q3
 2005.2755755378	1761	Minimum Degree of a Connected Trio in a Graph	一个图中连通三元组的最小度数	minimum-degree-of-a-connected-trio-in-a-graph	weekly-contest-228	Q4
 2004.5346526204	1927	Sum Game	求和游戏	sum-game	biweekly-contest-56	Q3
 2003.5794613668	2092	Find All People With Secret	找出知晓秘密的所有专家	find-all-people-with-secret	weekly-contest-269	Q4
@@ -718,6 +720,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1604.9737380545	809	Expressive Words	情感丰富的文字	expressive-words	weekly-contest-78	Q2
 1604.1602280047	2424	Longest Uploaded Prefix	最长上传前缀	longest-uploaded-prefix	biweekly-contest-88	Q2
 1604.0695445163	2316	Count Unreachable Pairs of Nodes in an Undirected Graph	统计无向图中无法互相到达点对数	count-unreachable-pairs-of-nodes-in-an-undirected-graph	biweekly-contest-81	Q2
+1602.7742849665	2447	Number of Subarrays With GCD Equal to K	最大公因数等于 K 的子数组数目	number-of-subarrays-with-gcd-equal-to-k	weekly-contest-316	Q2
 1602.7242171967	2249	Count Lattice Points Inside a Circle	统计圆内格点数目	count-lattice-points-inside-a-circle	weekly-contest-290	Q2
 1601.5117605320	926	Flip String to Monotone Increasing	将字符串翻转到单调递增	flip-string-to-monotone-increasing	weekly-contest-107	Q2
 1600.5573262373	1864	Minimum Number of Swaps to Make the Binary String Alternating	构成交替字符串需要的最小交换次数	minimum-number-of-swaps-to-make-the-binary-string-alternating	weekly-contest-241	Q2
@@ -1086,6 +1089,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1323.8236471852	1925	Count Square Sum Triples	统计平方和三元组的数目	count-square-sum-triples	biweekly-contest-56	Q1
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	括号的最大嵌套深度	maximum-nesting-depth-of-the-parentheses	weekly-contest-210	Q1
 1322.5926536743	1936	Add Minimum Number of Rungs	新增的最少台阶数	add-minimum-number-of-rungs	weekly-contest-250	Q2
+1322.3886921778	2446	Determine if Two Events Have Conflict	判断两个事件是否存在冲突	determine-if-two-events-have-conflict	weekly-contest-316	Q1
 1321.9346201204	1694	Reformat Phone Number	重新格式化电话号码	reformat-phone-number	weekly-contest-220	Q1
 1321.2748903388	1582	Special Positions in a Binary Matrix	二进制矩阵中的特殊位置	special-positions-in-a-binary-matrix	weekly-contest-206	Q1
 1320.6485731562	2079	Watering Plants	给植物浇水	watering-plants	weekly-contest-268	Q2
