@@ -1,6 +1,6 @@
 # Leetcode Problem Rating Project
 
-![img](https://fc.dianhsu.top/lc?user=zerotrac2&loc=cn&req=rating)
+![img](http://fc.dianhsu.top/lc?user=zerotrac2&loc=cn&req=rating)
 
 The project has been deployed to [Github Pages](https://zerotrac.github.io/leetcode_problem_rating/).
 
