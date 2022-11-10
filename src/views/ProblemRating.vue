@@ -229,11 +229,11 @@ function query() {
   filterProblemSet.length = 0;
   problemSetAll.forEach((item) => {
     if (keyword.value.trim().length > 0) {
-      let k = keyword.value.trim();
+      let k = keyword.value.trim().toLowerCase();
       if (
-        !item.TitleZH.includes(k) &&
-        !item.Title.includes(k) &&
-        !item.TitleSlug.includes(k) &&
+        !item.TitleZH.toLowerCase().includes(k) &&
+        !item.Title.toLowerCase().includes(k) &&
+        !item.TitleSlug.toLowerCase().includes(k) &&
         !String(item.ID).includes(k)
       ) {
         return;
