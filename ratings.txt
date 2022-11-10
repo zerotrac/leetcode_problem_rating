@@ -704,7 +704,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1624.9775945043	785	Is Graph Bipartite?	判断二分图	is-graph-bipartite	weekly-contest-72	Q2
 1624.4737611923	916	Word Subsets	单词子集	word-subsets	weekly-contest-104	Q3
 1623.9443250479	1248	Count Number of Nice Subarrays	统计「优美子数组」	count-number-of-nice-subarrays	weekly-contest-161	Q2
-1622.8414025136	2086	Minimum Number of Buckets Required to Collect Rainwater from Houses	从房屋收集雨水需要的最少水桶数	minimum-number-of-buckets-required-to-collect-rainwater-from-houses	biweekly-contest-66	Q2
+1622.8414025136	2086	Minimum Number of Buckets Required to Collect Rainwater from Houses	从房屋收集雨水需要的最少水桶数	minimum-number-of-food-buckets-to-feed-the-hamsters	biweekly-contest-66	Q2
 1622.7743864401	2365	Task Scheduler II	任务调度器 II	task-scheduler-ii	biweekly-contest-84	Q3
 1622.3970914116	2425	Bitwise XOR of All Pairings	所有数对的异或和	bitwise-xor-of-all-pairings	biweekly-contest-88	Q3
 1622.2389577197	2364	Count Number of Bad Pairs	统计坏数对的数目	count-number-of-bad-pairs	biweekly-contest-84	Q2
@@ -1366,7 +1366,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	判断能否形成等差数列	can-make-arithmetic-progression-from-sequence	weekly-contest-196	Q1
 1152.1494742874	2089	Find Target Indices After Sorting Array	找出数组排序后的目标下标	find-target-indices-after-sorting-array	weekly-contest-269	Q1
 1152.1377893605	1365	How Many Numbers Are Smaller Than the Current Number	有多少小于当前数字的数字	how-many-numbers-are-smaller-than-the-current-number	weekly-contest-178	Q1
-1151.5250329621	1460	Make Two Arrays Equal by Reversing Sub-arrays	通过翻转子数组使两个数组相等	make-two-arrays-equal-by-reversing-sub-arrays	biweekly-contest-27	Q1
+1151.5250329621	1460	Make Two Arrays Equal by Reversing Sub-arrays	通过翻转子数组使两个数组相等	make-two-arrays-equal-by-reversing-subarrays	biweekly-contest-27	Q1
 1151.3534799042	1290	Convert Binary Number in a Linked List to Integer	二进制链表转整数	convert-binary-number-in-a-linked-list-to-integer	weekly-contest-167	Q1
 1151.2537511408	2455	Average Value of Even Numbers That Are Divisible by Three	可被三整除的偶数的平均值	average-value-of-even-numbers-that-are-divisible-by-three	weekly-contest-317	Q1
 1144.9508874557	2413	Smallest Even Multiple	最小偶倍数	smallest-even-multiple	weekly-contest-311	Q1
