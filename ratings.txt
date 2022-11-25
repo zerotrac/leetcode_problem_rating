@@ -102,6 +102,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2348.5159376523	1096	Brace Expansion II	花括号展开 II	brace-expansion-ii	weekly-contest-142	Q4
 2346.5717839654	2258	Escape the Spreading Fire	逃离火灾	escape-the-spreading-fire	biweekly-contest-77	Q4
 2345.3418191684	1611	Minimum One Bit Operations to Make Integers Zero	使整数变为 0 的最少操作次数	minimum-one-bit-operations-to-make-integers-zero	weekly-contest-209	Q4
+2344.3664724791	2478	Number of Beautiful Partitions	完美分割的方案数	number-of-beautiful-partitions	weekly-contest-320	Q4
 2341.4506355884	810	Chalkboard XOR Game	黑板异或游戏	chalkboard-xor-game	weekly-contest-78	Q4
 2336.5210003185	1505	Minimum Possible Integer After at Most K Adjacent Swaps On Digits	最多 K 次交换相邻数位后得到的最小整数	minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits	weekly-contest-196	Q4
 2333.2401505813	1674	Minimum Moves to Make Array Complementary	使数组互补的最少操作次数	minimum-moves-to-make-array-complementary	weekly-contest-217	Q3
@@ -305,6 +306,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2014.7655493665	1354	Construct Target Array With Multiple Sums	多次求和构造目标数组	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
 2014.2979320644	1105	Filling Bookcase Shelves	填充书架	filling-bookcase-shelves	weekly-contest-143	Q3
 2013.4354344791	2472	Maximum Number of Non-overlapping Palindrome Substrings	不重叠回文子字符串的最大数目	maximum-number-of-non-overlapping-palindrome-substrings	weekly-contest-319	Q4
+2011.9703133514	2477	Minimum Fuel Cost to Report to the Capital	到达首都的最少油耗	minimum-fuel-cost-to-report-to-the-capital	weekly-contest-320	Q3
 2011.3542735398	1102	Path With Maximum Minimum Value	得分最高的路径	path-with-maximum-minimum-value	biweekly-contest-3	Q4
 2011.0496162515	2333	Minimum Sum of Squared Difference	最小差值平方和	minimum-sum-of-squared-difference	biweekly-contest-82	Q3
 2010.5524756946	880	Decoded String at Index	索引处的解码字符串	decoded-string-at-index	weekly-contest-96	Q3
@@ -738,6 +740,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1599.2720584736	1048	Longest String Chain	最长字符串链	longest-string-chain	weekly-contest-137	Q3
 1597.1931473887	1218	Longest Arithmetic Subsequence of Given Difference	最长定差子序列	longest-arithmetic-subsequence-of-given-difference	weekly-contest-157	Q2
 1597.0215918551	1247	Minimum Swaps to Make Strings Equal	交换字符使得字符串相同	minimum-swaps-to-make-strings-equal	weekly-contest-161	Q1
+1596.9852244916	2476	Closest Nodes Queries in a Binary Search Tree	二叉搜索树最近节点查询	closest-nodes-queries-in-a-binary-search-tree	weekly-contest-320	Q2
 1594.2563236049	822	Card Flipping Game	翻转卡片游戏	card-flipping-game	weekly-contest-81	Q2
 1593.8926580448	1577	Number of Ways Where Square of Number Is Equal to Product of Two Numbers	数的平方等于两数乘积的方法数	number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers	weekly-contest-205	Q2
 1591.5492530876	930	Binary Subarrays With Sum	和相同的二元子数组	binary-subarrays-with-sum	weekly-contest-108	Q2
@@ -1229,6 +1232,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1256.4891142083	1085	Sum of Digits in the Minimum Number	最小元素各数位之和	sum-of-digits-in-the-minimum-number	biweekly-contest-2	Q1
 1256.0514740971	2239	Find Closest Number to Zero	找到最接近 0 的数字	find-closest-number-to-zero	biweekly-contest-76	Q1
 1255.9002796024	1037	Valid Boomerang	有效的回旋镖	valid-boomerang	weekly-contest-135	Q1
+1255.5461825223	2475	Number of Unequal Triplets in Array	数组中不等三元组的数目	number-of-unequal-triplets-in-array	weekly-contest-320	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	字符串转化后的各位数字之和	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
 1253.4847783954	2283	Check if Number Has Equal Digit Count and Digit Value	判断一个数的数字计数是否等于数位的值	check-if-number-has-equal-digit-count-and-digit-value	biweekly-contest-79	Q1
 1253.1463945043	2194	Cells in a Range on an Excel Sheet	Excel 表中某个范围内的单元格	cells-in-a-range-on-an-excel-sheet	weekly-contest-283	Q1
