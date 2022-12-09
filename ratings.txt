@@ -70,6 +70,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2422.5309771173	1000	Minimum Cost to Merge Stones	合并石头的最低成本	minimum-cost-to-merge-stones	weekly-contest-126	Q4
 2422.3128048015	1987	Number of Unique Good Subsequences	不同的好子序列数目	number-of-unique-good-subsequences	weekly-contest-256	Q4
 2418.5742747632	1203	Sort Items by Groups Respecting Dependencies	项目管理	sort-items-by-groups-respecting-dependencies	weekly-contest-155	Q4
+2415.2802039252	2493	Divide Nodes Into the Maximum Number of Groups	将节点分成尽可能多的组	divide-nodes-into-the-maximum-number-of-groups	weekly-contest-322	Q4
 2415.0089731911	2003	Smallest Missing Genetic Value in Each Subtree	每棵子树内缺失的最小基因值	smallest-missing-genetic-value-in-each-subtree	weekly-contest-258	Q4
 2413.3969129689	1928	Minimum Cost to Reach Destination in Time	规定时间内到达终点的最小花费	minimum-cost-to-reach-destination-in-time	biweekly-contest-56	Q4
 2409.7580728676	1388	Pizza With 3n Slices	3n 块披萨	pizza-with-3n-slices	biweekly-contest-22	Q4
@@ -643,6 +644,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1680.4852623991	1031	Maximum Sum of Two Non-Overlapping Subarrays	两个非重叠子数组的最大和	maximum-sum-of-two-non-overlapping-subarrays	weekly-contest-133	Q3
 1680.1353258588	2182	Construct String With Repeat Limit	构造限制重复的字符串	construct-string-with-repeat-limit	weekly-contest-281	Q3
 1680.0815931601	2457	Minimum Addition to Make Integer Beautiful	美丽整数的最小增量	minimum-addition-to-make-integer-beautiful	weekly-contest-317	Q3
+1679.5737760149	2492	Minimum Score of a Path Between Two Cities	两个城市间路径的最小分数	minimum-score-of-a-path-between-two-cities	weekly-contest-322	Q3
 1679.2607152001	1402	Reducing Dishes	做菜顺序	reducing-dishes	biweekly-contest-23	Q4
 1678.7231378948	1905	Count Sub Islands	统计子岛屿	count-sub-islands	weekly-contest-246	Q3
 1678.6241816708	2317	Maximum XOR After Operations 	操作后的最大异或和	maximum-xor-after-operations	biweekly-contest-81	Q3
@@ -1112,6 +1114,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1324.3520304377	2095	Delete the Middle Node of a Linked List	删除链表的中间节点	delete-the-middle-node-of-a-linked-list	weekly-contest-270	Q2
 1324.1757200103	1603	Design Parking System	设计停车系统	design-parking-system	biweekly-contest-36	Q1
 1323.8236471852	1925	Count Square Sum Triples	统计平方和三元组的数目	count-square-sum-triples	biweekly-contest-56	Q1
+1323.1893756783	2491	Divide Players Into Teams of Equal Skill	划分技能点相等的团队	divide-players-into-teams-of-equal-skill	weekly-contest-322	Q2
 1322.8302750313	1614	Maximum Nesting Depth of the Parentheses	括号的最大嵌套深度	maximum-nesting-depth-of-the-parentheses	weekly-contest-210	Q1
 1322.5926536743	1936	Add Minimum Number of Rungs	新增的最少台阶数	add-minimum-number-of-rungs	weekly-contest-250	Q2
 1322.3886921778	2446	Determine if Two Events Have Conflict	判断两个事件是否存在冲突	determine-if-two-events-have-conflict	weekly-contest-316	Q1
@@ -1217,6 +1220,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1264.4778916192	2248	Intersection of Multiple Arrays	多个数组求交集	intersection-of-multiple-arrays	weekly-contest-290	Q1
 1264.2868345638	2133	Check if Every Row and Column Contains All Numbers	检查是否每一行每一列都包含全部整数	check-if-every-row-and-column-contains-all-numbers	weekly-contest-275	Q1
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	定长子串中元音的最大数目	maximum-number-of-vowels-in-a-substring-of-given-length	weekly-contest-190	Q2
+1262.9387403640	2490	Circular Sentence	回环句	circular-sentence	weekly-contest-322	Q1
 1262.5890311992	1089	Duplicate Zeros	复写零	duplicate-zeros	weekly-contest-141	Q1
 1260.9112824221	2144	Minimum Cost of Buying Candies With Discount	打折购买糖果的最小开销	minimum-cost-of-buying-candies-with-discount	biweekly-contest-70	Q1
 1260.8702083080	2255	Count Prefixes of a Given String	统计是给定字符串前缀的字符串数目	count-prefixes-of-a-given-string	biweekly-contest-77	Q1
