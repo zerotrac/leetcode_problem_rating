@@ -268,6 +268,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2062.9876807625	2156	Find Substring With Given Hash Value	查找给定哈希值的子串	find-substring-with-given-hash-value	weekly-contest-278	Q3
 2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	摘水果	maximum-fruits-harvested-after-at-most-k-steps	weekly-contest-271	Q4
 2060.3799915170	2366	Minimum Replacements to Sort the Array	将数组排序的最少替换次数	minimum-replacements-to-sort-the-array	biweekly-contest-84	Q4
+2060.0720834082	2508	Add Edges to Make Degrees of All Nodes Even	添加边使所有节点度数都为偶数	add-edges-to-make-degrees-of-all-nodes-even	weekly-contest-324	Q3
 2059.4040623264	1131	Maximum of Absolute Value Expression	绝对值表达式的最大值	maximum-of-absolute-value-expression	weekly-contest-146	Q4
 2057.4788263111	2197	Replace Non-Coprime Numbers in Array	替换数组中的非互质数	replace-non-coprime-numbers-in-array	weekly-contest-283	Q4
 2056.3354942160	1473	Paint House III	粉刷房子 III	paint-house-iii	weekly-contest-192	Q4
@@ -365,6 +366,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1951.3509259668	1259	Handshakes That Don't Cross	不相交的握手	handshakes-that-dont-cross	biweekly-contest-13	Q4
 1951.2096212775	1690	Stone Game VII	石子游戏 VII	stone-game-vii	weekly-contest-219	Q3
 1949.0920823355	1153	String Transforms Into Another String	字符串转化	string-transforms-into-another-string	biweekly-contest-6	Q4
+1948.4895007790	2509	Cycle Length Queries in a Tree	查询树中环的长度	cycle-length-queries-in-a-tree	weekly-contest-324	Q4
 1947.5013967785	1631	Path With Minimum Effort	最小体力消耗路径	path-with-minimum-effort	weekly-contest-212	Q3
 1945.7515607928	1793	Maximum Score of a Good Subarray	好子数组的最大分数	maximum-score-of-a-good-subarray	weekly-contest-232	Q4
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	制作 m 束花所需的最少天数	minimum-number-of-days-to-make-m-bouquets	weekly-contest-193	Q3
@@ -861,6 +863,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1501.1152614679	1090	Largest Values From Labels	受标签影响的最大值	largest-values-from-labels	weekly-contest-141	Q2
 1500.8381829812	915	Partition Array into Disjoint Intervals	分割数组	partition-array-into-disjoint-intervals	weekly-contest-104	Q2
 1499.7136257352	1525	Number of Good Ways to Split a String	字符串的好分割数目	number-of-good-ways-to-split-a-string	biweekly-contest-31	Q3
+1499.5903720292	2507	Smallest Value After Replacing With Sum of Prime Factors	使用质因数之和替换后可以取到的最小值	smallest-value-after-replacing-with-sum-of-prime-factors	weekly-contest-324	Q2
 1499.3290269267	1968	Array With Elements Not Equal to Average of Neighbors	构造元素不等于两相邻元素平均值的数组	array-with-elements-not-equal-to-average-of-neighbors	weekly-contest-254	Q2
 1498.1542511841	1904	The Number of Full Rounds You Have Played	你完成的完整对局数	the-number-of-full-rounds-you-have-played	weekly-contest-246	Q2
 1497.8880991093	998	Maximum Binary Tree II	最大二叉树 II	maximum-binary-tree-ii	weekly-contest-125	Q3
@@ -1096,6 +1099,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1337.6115578703	2161	Partition Array According to Given Pivot	根据给定数字划分数组	partition-array-according-to-given-pivot	biweekly-contest-71	Q2
 1337.3722299775	1260	Shift 2D Grid	二维网格迁移	shift-2d-grid	weekly-contest-163	Q1
 1336.9494482313	1275	Find Winner on a Tic Tac Toe Game	找出井字棋的获胜者	find-winner-on-a-tic-tac-toe-game	weekly-contest-165	Q1
+1335.4613368501	2506	Count Pairs Of Similar Strings	统计相似字符串对的数目	count-pairs-of-similar-strings	weekly-contest-324	Q1
 1335.0295688697	938	Range Sum of BST	二叉搜索树的范围和	range-sum-of-bst	weekly-contest-110	Q2
 1334.5718985411	1409	Queries on a Permutation With Key	查询带键的排列	queries-on-a-permutation-with-key	weekly-contest-184	Q2
 1334.5708444649	2126	Destroying Asteroids	摧毁小行星	destroying-asteroids	weekly-contest-274	Q3
