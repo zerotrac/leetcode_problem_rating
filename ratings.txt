@@ -696,6 +696,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1651.5845871727	750	Number Of Corner Rectangles	角矩形的数量	number-of-corner-rectangles	weekly-contest-63	Q3
 1651.5692678340	2343	Query Kth Smallest Trimmed Number	裁剪数字后查询第 K 小的数字	query-kth-smallest-trimmed-number	weekly-contest-302	Q3
 1649.9728054796	1367	Linked List in Binary Tree	二叉树中的列表	linked-list-in-binary-tree	weekly-contest-178	Q3
+1649.7120733311	2523	Closest Prime Numbers in Range	范围内最接近的两个质数	closest-prime-numbers-in-range	weekly-contest-326	Q4
 1648.3540381514	2423	Remove Letter To Equalize Frequency	删除字符使频率相同	remove-letter-to-equalize-frequency	biweekly-contest-88	Q1
 1648.3417578820	870	Advantage Shuffle	优势洗牌	advantage-shuffle	weekly-contest-93	Q3
 1648.0880791614	1975	Maximum Matrix Sum	最大方阵和	maximum-matrix-sum	biweekly-contest-59	Q2
@@ -748,6 +749,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1606.9895296459	1300	Sum of Mutated Array Closest to Target	转变数组后最接近目标值的数组和	sum-of-mutated-array-closest-to-target	biweekly-contest-16	Q2
 1606.2185826486	1604	Alert Using Same Key-Card Three or More Times in a One Hour Period	警告一小时内使用相同员工卡大于等于三次的人	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period	biweekly-contest-36	Q2
 1604.9737380545	809	Expressive Words	情感丰富的文字	expressive-words	weekly-contest-78	Q2
+1604.5128423093	2522	Partition String Into Substrings With Values at Most K	将字符串分割成值不超过 K 的子字符串	partition-string-into-substrings-with-values-at-most-k	weekly-contest-326	Q3
 1604.1602280047	2424	Longest Uploaded Prefix	最长上传前缀	longest-uploaded-prefix	biweekly-contest-88	Q2
 1604.0695445163	2316	Count Unreachable Pairs of Nodes in an Undirected Graph	统计无向图中无法互相到达点对数	count-unreachable-pairs-of-nodes-in-an-undirected-graph	biweekly-contest-81	Q2
 1602.7742849665	2447	Number of Subarrays With GCD Equal to K	最大公因数等于 K 的子数组数目	number-of-subarrays-with-gcd-equal-to-k	weekly-contest-316	Q2
@@ -986,6 +988,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1414.4918812526	890	Find and Replace Pattern	查找和替换模式	find-and-replace-pattern	weekly-contest-98	Q2
 1414.4351202231	1985	Find the Kth Largest Integer in the Array	找出数组中的第 K 大整数	find-the-kth-largest-integer-in-the-array	weekly-contest-256	Q2
 1413.4238697034	2383	Minimum Hours of Training to Win a Competition	赢得比赛需要的最少训练时长	minimum-hours-of-training-to-win-a-competition	weekly-contest-307	Q1
+1413.0376809608	2521	Distinct Prime Factors of Product of Array	数组乘积中的不同质因数数目	distinct-prime-factors-of-product-of-array	weekly-contest-326	Q2
 1412.3053230205	1823	Find the Winner of the Circular Game	找出游戏的获胜者	find-the-winner-of-the-circular-game	weekly-contest-236	Q2
 1412.2790156634	841	Keys and Rooms	钥匙和房间	keys-and-rooms	weekly-contest-86	Q2
 1410.5239927267	1138	Alphabet Board Path	字母板上的路径	alphabet-board-path	weekly-contest-147	Q2
@@ -1244,6 +1247,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1262.5890311992	1089	Duplicate Zeros	复写零	duplicate-zeros	weekly-contest-141	Q1
 1260.9112824221	2144	Minimum Cost of Buying Candies With Discount	打折购买糖果的最小开销	minimum-cost-of-buying-candies-with-discount	biweekly-contest-70	Q1
 1260.8702083080	2255	Count Prefixes of a Given String	统计是给定字符串前缀的字符串数目	count-prefixes-of-a-given-string	biweekly-contest-77	Q1
+1260.8697515006	2520	Count the Digits That Divide a Number	统计能整除数字的位数	count-the-digits-that-divide-a-number	weekly-contest-326	Q1
 1260.1755576607	1305	All Elements in Two Binary Search Trees	两棵二叉搜索树中的所有元素	all-elements-in-two-binary-search-trees	weekly-contest-169	Q2
 1259.5707438932	1779	Find Nearest Point That Has the Same X or Y Coordinate	找到最近的有相同 X 或 Y 坐标的点	find-nearest-point-that-has-the-same-x-or-y-coordinate	biweekly-contest-47	Q1
 1259.4097261890	884	Uncommon Words from Two Sentences	两句话中的不常见单词	uncommon-words-from-two-sentences	weekly-contest-97	Q1
