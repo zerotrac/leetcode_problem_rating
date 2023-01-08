@@ -5,6 +5,7 @@ export default {
   placeholder: "输入关键词",
   contestNumber: "竞赛编号",
   ratingInterval: "分数区间",
+  topicTags: "題目分類",
   asc: "升序",
   desc: "降序",
   query: "查询",

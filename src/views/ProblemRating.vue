@@ -75,6 +75,15 @@
         @sort-change="sortChange"
       >
         <el-table-column prop="ID" label="ID" width="180" sortable="custom" />
+        <el-table-column prop="topicTags" :label="$t('topicTags')" width="300">
+          <template #default="{ row: { topicTags } }">
+            <template v-for="topicTag in topicTags" :key="topicTag.slug">
+              <label class="topicTag">
+                {{ topicTag.name }}
+              </label>
+            </template>
+          </template>
+        </el-table-column>
         <el-table-column :label="$t('problemName')">
           <template #default="scope">
             <el-link
@@ -129,7 +138,7 @@ import axios, { AxiosResponse } from "axios";
 import { ElMessage } from "element-plus";
 import { useI18n } from "vue-i18n";
 
-const url = "./data.json";
+const url = "./localData.json";
 
 interface Problem {
   ContestID_en: string;
@@ -145,6 +154,7 @@ interface Problem {
   ProblemHrefEN: string | null;
   ContestHrefEN: string | null;
   ContestHrefZH: string | null;
+  topicTags: string[];
 }
 interface SortInfo {
   prop: "Rating" | "ID";
@@ -303,5 +313,12 @@ function reset() {
   width: 100%;
   display: flex;
   justify-content: right;
+}
+
+.topicTag {
+  margin-right: 8px;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: blanchedalmond;
 }
 </style>

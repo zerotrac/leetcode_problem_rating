@@ -5,6 +5,7 @@ export default {
   placeholder: "type a keyword",
   contestNumber: "Contest number",
   ratingInterval: "Rating interval",
+  topicTags: "Topic Tags",
   asc: "Asc",
   desc: "Desc",
   query: "Query",
