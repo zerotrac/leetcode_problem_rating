@@ -15,3 +15,5 @@ Please refer to [ratings.txt](ratings.txt) for the raw data sorted in descending
 ## Related Projects
 
 - [LeetCodeRating](https://github.com/zhang-wangz/LeetCodeRating). A Chrome plugin which displays the problem ratings on offical LeetCode website. Currently, it is only available on LeetCode-China site.
+
+- [refined-leetcode](https://github.com/XYShaoKang/refined-leetcode). A Chrome extension which integrates serveral projects and enchances the user experience. It contains features like timer, blocklist, user ratings prediction and problem ratings display. Currently, it is only available on LeetCode-China site.
