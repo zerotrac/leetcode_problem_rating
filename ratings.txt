@@ -66,6 +66,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2444.6660756903	2421	Number of Good Paths	好路径的数目	number-of-good-paths	weekly-contest-312	Q4
 2439.7337408636	1872	Stone Game VIII	石子游戏 VIII	stone-game-viii	weekly-contest-242	Q4
 2433.3767704629	903	Valid Permutations for DI Sequence	DI 序列的有效排列	valid-permutations-for-di-sequence	weekly-contest-101	Q4
+2432.7133991110	2552	Count Increasing Quadruplets	统计上升四元组	count-increasing-quadruplets	weekly-contest-330	Q4
 2429.6705422448	782	Transform to Chessboard	变为棋盘	transform-to-chessboard	weekly-contest-71	Q4
 2429.0940568399	1998	GCD Sort of an Array	数组的最大公因数排序	gcd-sort-of-an-array	weekly-contest-257	Q4
 2428.7985254341	1044	Longest Duplicate Substring	最长重复子串	longest-duplicate-substring	weekly-contest-136	Q4
@@ -287,6 +288,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2050.7159774570	1224	Maximum Equal Frequency	最大相等频率	maximum-equal-frequency	weekly-contest-158	Q4
 2050.2553211463	1648	Sell Diminishing-Valued Colored Balls	销售价值减少的颜色球	sell-diminishing-valued-colored-balls	weekly-contest-214	Q3
 2048.0976546787	1553	Minimum Number of Days to Eat N Oranges	吃掉 N 个橘子的最少天数	minimum-number-of-days-to-eat-n-oranges	weekly-contest-202	Q4
+2042.4005521254	2551	Put Marbles in Bags	将珠子放入背包中	put-marbles-in-bags	weekly-contest-330	Q3
 2040.5621123027	1751	Maximum Number of Events That Can Be Attended II	最多可以参加的会议数目 II	maximum-number-of-events-that-can-be-attended-ii	biweekly-contest-45	Q4
 2040.5392890370	1371	Find the Longest Substring Containing Vowels in Even Counts	每个元音包含偶数次的最长子字符串	find-the-longest-substring-containing-vowels-in-even-counts	biweekly-contest-21	Q2
 2039.1108746890	1201	Ugly Number III	丑数 III	ugly-number-iii	weekly-contest-155	Q2
@@ -686,6 +688,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1663.3912882908	2063	Vowels of All Substrings	所有子字符串中的元音	vowels-of-all-substrings	weekly-contest-266	Q2
 1663.2612318917	1219	Path with Maximum Gold	黄金矿工	path-with-maximum-gold	weekly-contest-157	Q3
 1663.1853149056	863	All Nodes Distance K in Binary Tree	二叉树中所有距离为 K 的结点	all-nodes-distance-k-in-binary-tree	weekly-contest-91	Q2
+1662.7075394144	2550	Count Collisions of Monkeys on a Polygon	猴子碰撞的方法数	count-collisions-of-monkeys-on-a-polygon	weekly-contest-330	Q2
 1662.6673692545	2170	Minimum Operations to Make the Array Alternating	使数组变成交替数组的最少操作数	minimum-operations-to-make-the-array-alternating	weekly-contest-280	Q2
 1658.9210227330	2195	Append K Integers With Minimal Sum	向数组中追加 K 个整数	append-k-integers-with-minimal-sum	weekly-contest-283	Q2
 1658.7495899767	1254	Number of Closed Islands	统计封闭岛屿的数目	number-of-closed-islands	weekly-contest-162	Q3
@@ -1255,6 +1258,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1266.7001363197	2432	The Employee That Worked on the Longest Task	处理用时最长的那个任务的员工	the-employee-that-worked-on-the-longest-task	weekly-contest-314	Q1
 1266.3414689550	2200	Find All K-Distant Indices in an Array	找出数组中的所有 K 近邻下标	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	字符的最短距离	shortest-distance-to-a-character	weekly-contest-81	Q1
+1265.8320564115	2549	Count Distinct Numbers on Board	统计桌面上的不同数字	count-distinct-numbers-on-board	weekly-contest-330	Q1
 1264.4836883082	1736	Latest Time by Replacing Hidden Digits	替换隐藏数字得到的最晚时间	latest-time-by-replacing-hidden-digits	weekly-contest-225	Q1
 1264.4778916192	2248	Intersection of Multiple Arrays	多个数组求交集	intersection-of-multiple-arrays	weekly-contest-290	Q1
 1264.2868345638	2133	Check if Every Row and Column Contains All Numbers	检查是否每一行每一列都包含全部整数	check-if-every-row-and-column-contains-all-numbers	weekly-contest-275	Q1
