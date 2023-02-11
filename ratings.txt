@@ -95,6 +95,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2377.3895801187	854	K-Similar Strings	相似度为 K 的字符串	k-similar-strings	weekly-contest-89	Q4
 2376.8658923518	887	Super Egg Drop	鸡蛋掉落	super-egg-drop	weekly-contest-97	Q4
 2374.1850487395	1840	Maximum Building Height	最高建筑高度	maximum-building-height	weekly-contest-238	Q4
+2368.6674771307	2556	Disconnect Path in a Binary Matrix by at Most One Flip	二进制矩阵中翻转最多一次使路径不连通	disconnect-path-in-a-binary-matrix-by-at-most-one-flip	biweekly-contest-97	Q4
 2366.7099607655	1183	Maximum Number of Ones	矩阵中 1 的最大数量	maximum-number-of-ones	biweekly-contest-8	Q4
 2364.3930657709	2132	Stamping the Grid	用邮票贴满网格图	stamping-the-grid	biweekly-contest-69	Q4
 2364.3455634374	2203	Minimum Weighted Subgraph With the Required Paths	得到要求路径的最小带权子图	minimum-weighted-subgraph-with-the-required-paths	weekly-contest-284	Q4
@@ -162,6 +163,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	删除元素后和的最小差值	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71	Q4
 2223.1762282199	2484	Count Palindromic Subsequences	统计回文子序列数目	count-palindromic-subsequences	biweekly-contest-92	Q4
 2222.4805422748	2276	Count Integers in Intervals	统计区间中的整数数目	count-integers-in-intervals	weekly-contest-293	Q4
+2221.7931857140	2561	Rearranging Fruits	重排水果	rearranging-fruits	weekly-contest-331	Q4
 2221.7336557442	1542	Find Longest Awesome Substring	找出最长的超赞子字符串	find-longest-awesome-substring	biweekly-contest-32	Q4
 2221.3538766773	1627	Graph Connectivity With Threshold	带阈值的图连通性	graph-connectivity-with-threshold	weekly-contest-211	Q4
 2220.8257124139	2543	Check if Point Is Reachable	判断一个点是否可以到达	check-if-point-is-reachable	biweekly-contest-96	Q4
@@ -254,6 +256,8 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2081.8087755451	1494	Parallel Courses II	并行课程 II	parallel-courses-ii	biweekly-contest-29	Q4
 2081.7518764643	1847	Closest Room	最近的房间	closest-room	biweekly-contest-51	Q4
 2081.6909344021	1639	Number of Ways to Form a Target String Given a Dictionary	通过给定词典构造目标字符串的方案数	number-of-ways-to-form-a-target-string-given-a-dictionary	biweekly-contest-38	Q4
+2081.1880297942	2560	House Robber IV	打家劫舍 IV	house-robber-iv	weekly-contest-331	Q3
+2080.7845644831	2555	Maximize Win From Two Segments	两个线段获得的最多奖品	maximize-win-from-two-segments	biweekly-contest-97	Q3
 2080.0425875741	1718	Construct the Lexicographically Largest Valid Sequence	构建字典序最大的可行序列	construct-the-lexicographically-largest-valid-sequence	biweekly-contest-43	Q3
 2079.9846866239	1643	Kth Smallest Instructions	第 K 条最小指令	kth-smallest-instructions	weekly-contest-213	Q4
 2079.1911227043	975	Odd Even Jump	奇偶跳	odd-even-jump	weekly-contest-119	Q4
@@ -968,6 +972,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1436.1125054038	1433	Check If a String Can Break Another String	检查一个字符串是否可以打破另一个字符串	check-if-a-string-can-break-another-string	biweekly-contest-25	Q3
 1435.9559888935	2001	Number of Pairs of Interchangeable Rectangles	可互换矩形的组数	number-of-pairs-of-interchangeable-rectangles	weekly-contest-258	Q2
 1435.3564963722	1025	Divisor Game	除数博弈	divisor-game	weekly-contest-132	Q1
+1435.0179887342	2559	Count Vowel Strings in Ranges	统计范围内的元音字符串数	count-vowel-strings-in-ranges	weekly-contest-331	Q2
 1433.0795554833	1535	Find the Winner of an Array Game	找出数组游戏的赢家	find-the-winner-of-an-array-game	weekly-contest-200	Q2
 1432.9593207076	967	Numbers With Same Consecutive Differences	连续差相同的数字	numbers-with-same-consecutive-differences	weekly-contest-117	Q2
 1432.9051050881	994	Rotting Oranges	腐烂的橘子	rotting-oranges	weekly-contest-124	Q2
@@ -1134,6 +1139,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1334.0564009231	888	Fair Candy Swap	公平的糖果棒交换	fair-candy-swap	weekly-contest-98	Q1
 1334.0516779626	2270	Number of Ways to Split Array	分割数组的方案数	number-of-ways-to-split-array	biweekly-contest-78	Q2
 1333.3138174157	1805	Number of Different Integers in a String	字符串中不同整数的数目	number-of-different-integers-in-a-string	weekly-contest-234	Q1
+1333.2008827592	2554	Maximum Number of Integers to Choose From a Range I	从一个范围内选择最多整数 I	maximum-number-of-integers-to-choose-from-a-range-i	biweekly-contest-97	Q2
 1333.1920503970	2181	Merge Nodes in Between Zeros	合并零之间的节点	merge-nodes-in-between-zeros	weekly-contest-281	Q2
 1332.6225967630	1128	Number of Equivalent Domino Pairs	等价多米诺骨牌对的数量	number-of-equivalent-domino-pairs	weekly-contest-146	Q1
 1332.6187879411	2274	Maximum Consecutive Floors Without Special Floors	不含特殊楼层的最大连续楼层数	maximum-consecutive-floors-without-special-floors	weekly-contest-293	Q2
@@ -1240,6 +1246,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1279.3383966145	1534	Count Good Triplets	统计好三元组	count-good-triplets	weekly-contest-200	Q1
 1277.9987709491	1742	Maximum Number of Balls in a Box	盒子中小球的最大数量	maximum-number-of-balls-in-a-box	weekly-contest-226	Q1
 1277.8260125315	1317	Convert Integer to the Sum of Two No-Zero Integers	将整数转换为两个无零整数的和	convert-integer-to-the-sum-of-two-no-zero-integers	weekly-contest-171	Q1
+1276.7817742915	2558	Take Gifts From the Richest Pile	从数量最多的堆取走礼物	take-gifts-from-the-richest-pile	weekly-contest-331	Q1
 1275.6108152653	2150	Find All Lonely Numbers in the Array	找出数组中的所有孤独数字	find-all-lonely-numbers-in-the-array	weekly-contest-277	Q3
 1274.8817522170	2129	Capitalize the Title	将标题首字母大写	capitalize-the-title	biweekly-contest-69	Q1
 1274.7596170193	1078	Occurrences After Bigram	Bigram 分词	occurrences-after-bigram	weekly-contest-140	Q1
@@ -1358,6 +1365,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1218.9011436003	2442	Count Number of Distinct Integers After Reverse Operations	反转之后不同整数的数目	count-number-of-distinct-integers-after-reverse-operations	weekly-contest-315	Q2
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	检查两个字符串数组是否相等	check-if-two-string-arrays-are-equivalent	weekly-contest-216	Q1
 1216.6376846517	1848	Minimum Distance to the Target Element	到目标元素的最小距离	minimum-distance-to-the-target-element	weekly-contest-239	Q1
+1216.6129188490	2553	Separate the Digits in an Array	分割数组中数字的数位	separate-the-digits-in-an-array	biweekly-contest-97	Q1
 1215.7827321325	2176	Count Equal and Divisible Pairs in an Array	统计数组中相等且可以被整除的数对	count-equal-and-divisible-pairs-in-an-array	biweekly-contest-72	Q1
 1215.7443346869	2108	Find First Palindromic String in the Array	找出数组中的第一个回文字符串	find-first-palindromic-string-in-the-array	weekly-contest-272	Q1
 1213.8073621345	973	K Closest Points to Origin	最接近原点的 K 个点	k-closest-points-to-origin	weekly-contest-119	Q1
