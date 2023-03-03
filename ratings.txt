@@ -92,6 +92,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2389.9634276167	1681	Minimum Incompatibility	最小不兼容性	minimum-incompatibility	weekly-contest-218	Q4
 2385.8072128533	1349	Maximum Students Taking Exam	参加考试的最大学生数	maximum-students-taking-exam	weekly-contest-175	Q4
 2383.7724811656	1521	Find a Value of a Mysterious Function Closest to Target	找到最接近目标值的函数值	find-a-value-of-a-mysterious-function-closest-to-target	weekly-contest-198	Q4
+2381.6255832890	2577	Minimum Time to Visit a Cell In a Grid	在网格图中访问一个格子的最少时间	minimum-time-to-visit-a-cell-in-a-grid	weekly-contest-334	Q4
 2381.6019709166	2468	Split Message Based on Limit	根据限制分割消息	split-message-based-on-limit	biweekly-contest-91	Q4
 2381.4790248580	956	Tallest Billboard	最高的广告牌	tallest-billboard	weekly-contest-114	Q4
 2381.2160234811	2334	Subarray With Elements Greater Than Varying Threshold	元素值大于变化阈值的子数组	subarray-with-elements-greater-than-varying-threshold	biweekly-contest-82	Q4
@@ -491,6 +492,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1846.3568350016	874	Walking Robot Simulation	模拟行走机器人	walking-robot-simulation	weekly-contest-94	Q2
 1845.0428731248	1504	Count Submatrices With All Ones	统计全 1 子矩形	count-submatrices-with-all-ones	weekly-contest-196	Q3
 1844.6289439644	1411	Number of Ways to Paint N × 3 Grid	给 N x 3 网格图涂色的方案数	number-of-ways-to-paint-n-3-grid	weekly-contest-184	Q4
+1843.2383664194	2576	Find the Maximum Number of Marked Indices	求出最多标记下标	find-the-maximum-number-of-marked-indices	weekly-contest-334	Q3
 1841.4067816266	2013	Detect Squares	检测正方形	detect-squares	weekly-contest-259	Q3
 1840.9122452886	2332	The Latest Time to Catch a Bus	坐上公交的最晚时间	the-latest-time-to-catch-a-bus	biweekly-contest-82	Q2
 1839.9203623221	2311	Longest Binary Subsequence Less Than or Equal to K	小于等于 K 的最长二进制子序列	longest-binary-subsequence-less-than-or-equal-to-k	weekly-contest-298	Q3
@@ -848,6 +850,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1541.6944600975	986	Interval List Intersections	区间列表的交集	interval-list-intersections	weekly-contest-122	Q3
 1541.6176288991	1749	Maximum Absolute Sum of Any Subarray	任意子数组和的绝对值的最大值	maximum-absolute-sum-of-any-subarray	biweekly-contest-45	Q2
 1541.5405749918	1209	Remove All Adjacent Duplicates in String II	删除字符串中的所有相邻重复项 II	remove-all-adjacent-duplicates-in-string-ii	weekly-contest-156	Q3
+1541.3741526845	2575	Find the Divisibility Array of a String	找出字符串的可整除数组	find-the-divisibility-array-of-a-string	weekly-contest-334	Q2
 1541.3484385090	1007	Minimum Domino Rotations For Equal Row	行相等的最少多米诺旋转	minimum-domino-rotations-for-equal-row	weekly-contest-127	Q3
 1541.2260256298	1229	Meeting Scheduler	安排会议日程	meeting-scheduler	biweekly-contest-11	Q2
 1540.5750839091	1382	Balance a Binary Search Tree	将二叉搜索树变平衡	balance-a-binary-search-tree	weekly-contest-180	Q3
@@ -1392,6 +1395,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1207.7224406285	1704	Determine if String Halves Are Alike	判断字符串的两半是否相似	determine-if-string-halves-are-alike	weekly-contest-221	Q1
 1207.3151378208	2485	Find the Pivot Integer	找出中枢整数	find-the-pivot-integer	weekly-contest-321	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	检查二进制字符串字段	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
+1206.0712568518	2574	Left and Right Sum Differences	左右元素和的差值	left-and-right-sum-differences	weekly-contest-334	Q1
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	拼写单词	find-words-that-can-be-formed-by-characters	weekly-contest-150	Q1
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	哪种连续子字符串更长	longer-contiguous-segments-of-ones-than-zeros	weekly-contest-242	Q1
 1203.7504950404	1952	Three Divisors	三除数	three-divisors	weekly-contest-252	Q1
