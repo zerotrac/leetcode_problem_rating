@@ -96,6 +96,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2381.6019709166	2468	Split Message Based on Limit	根据限制分割消息	split-message-based-on-limit	biweekly-contest-91	Q4
 2381.4790248580	956	Tallest Billboard	最高的广告牌	tallest-billboard	weekly-contest-114	Q4
 2381.2160234811	2334	Subarray With Elements Greater Than Varying Threshold	元素值大于变化阈值的子数组	subarray-with-elements-greater-than-varying-threshold	biweekly-contest-82	Q4
+2380.5983169295	2589	Minimum Time to Complete All Tasks	完成所有任务的最少时间	minimum-time-to-complete-all-tasks	weekly-contest-336	Q4
 2378.6234112504	757	Set Intersection Size At Least Two	设置交集大小至少为2	set-intersection-size-at-least-two	weekly-contest-65	Q4
 2377.3895801187	854	K-Similar Strings	相似度为 K 的字符串	k-similar-strings	weekly-contest-89	Q4
 2376.8658923518	887	Super Egg Drop	鸡蛋掉落	super-egg-drop	weekly-contest-97	Q4
@@ -660,6 +661,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1697.2356875149	1289	Minimum Falling Path Sum II	下降路径最小和  II	minimum-falling-path-sum-ii	biweekly-contest-15	Q4
 1697.0187705319	825	Friends Of Appropriate Ages	适龄的朋友	friends-of-appropriate-ages	weekly-contest-82	Q2
 1696.9920075471	1487	Making File Names Unique	保证文件名唯一	making-file-names-unique	weekly-contest-194	Q2
+1696.8895579594	2588	Count the Number of Beautiful Subarrays	统计美丽子数组数目	count-the-number-of-beautiful-subarrays	weekly-contest-336	Q3
 1695.3076664977	792	Number of Matching Subsequences	匹配子序列的单词数	number-of-matching-subsequences	weekly-contest-74	Q2
 1695.2832486322	1942	The Number of the Smallest Unoccupied Chair	最小未被占据椅子的编号	the-number-of-the-smallest-unoccupied-chair	biweekly-contest-57	Q2
 1695.0815222626	2420	Find All Good Indices	找到所有好下标	find-all-good-indices	weekly-contest-312	Q3
@@ -1152,6 +1154,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1337.6115578703	2161	Partition Array According to Given Pivot	根据给定数字划分数组	partition-array-according-to-given-pivot	biweekly-contest-71	Q2
 1337.3722299775	1260	Shift 2D Grid	二维网格迁移	shift-2d-grid	weekly-contest-163	Q1
 1336.9494482313	1275	Find Winner on a Tic Tac Toe Game	找出井字棋的获胜者	find-winner-on-a-tic-tac-toe-game	weekly-contest-165	Q1
+1336.7830451625	2587	Rearrange Array to Maximize Prefix Score	重排数组以得到最大前缀分数	rearrange-array-to-maximize-prefix-score	weekly-contest-336	Q2
 1335.4613368501	2506	Count Pairs Of Similar Strings	统计相似字符串对的数目	count-pairs-of-similar-strings	weekly-contest-324	Q1
 1335.0295688697	938	Range Sum of BST	二叉搜索树的范围和	range-sum-of-bst	weekly-contest-110	Q2
 1334.5718985411	1409	Queries on a Permutation With Key	查询带键的排列	queries-on-a-permutation-with-key	weekly-contest-184	Q2
@@ -1441,6 +1444,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1180.9236239060	1486	XOR Operation in an Array	数组异或操作	xor-operation-in-an-array	weekly-contest-194	Q1
 1180.3543157775	1441	Build an Array With Stack Operations	用栈操作构建数组	build-an-array-with-stack-operations	weekly-contest-188	Q1
 1179.1495967491	1287	Element Appearing More Than 25% In Sorted Array	有序数组中出现次数超过25%的元素	element-appearing-more-than-25-in-sorted-array	biweekly-contest-15	Q1
+1178.6580069402	2586	Count the Number of Vowel Strings in Range	统计范围内的元音字符串数	count-the-number-of-vowel-strings-in-range	weekly-contest-336	Q1
 1178.4942541235	905	Sort Array By Parity	按奇偶排序数组	sort-array-by-parity	weekly-contest-102	Q1
 1177.5660617941	965	Univalued Binary Tree	单值二叉树	univalued-binary-tree	weekly-contest-117	Q1
 1176.4547272896	1431	Kids With the Greatest Number of Candies	拥有最多糖果的孩子	kids-with-the-greatest-number-of-candies	biweekly-contest-25	Q1
