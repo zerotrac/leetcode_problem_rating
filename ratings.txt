@@ -29,6 +29,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2587.8725248485	1883	Minimum Skips to Arrive at Meeting On Time	准时抵达会议现场的最小跳过休息次数	minimum-skips-to-arrive-at-meeting-on-time	weekly-contest-243	Q4
 2583.9006314254	2019	The Score of Students Solving Math Expression	解出数学表达式的学生分数	the-score-of-students-solving-math-expression	weekly-contest-260	Q4
 2583.4069119510	936	Stamping The Sequence	戳印序列	stamping-the-sequence	weekly-contest-109	Q4
+2581.9961985753	2617	Minimum Number of Visited Cells in a Grid	网格图中最少访问的格子数	minimum-number-of-visited-cells-in-a-grid	weekly-contest-340	Q4
 2575.9570281316	1531	String Compression II	压缩字符串 II	string-compression-ii	weekly-contest-199	Q4
 2571.5520281210	1489	Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	找到最小生成树里的关键边和伪关键边	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree	weekly-contest-194	Q4
 2566.5910742837	913	Cat and Mouse	猫和老鼠	cat-and-mouse	weekly-contest-104	Q4
@@ -214,6 +215,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2158.7683843245	2102	Sequentially Ordinal Rank Tracker	序列顺序查询	sequentially-ordinal-rank-tracker	biweekly-contest-67	Q4
 2157.5814371481	2218	Maximum Value of K Coins From Piles	从栈中取出 K 个硬币的最大面值和	maximum-value-of-k-coins-from-piles	weekly-contest-286	Q4
 2156.9515428364	1515	Best Position for a Service Centre	服务中心的最佳位置	best-position-for-a-service-centre	weekly-contest-197	Q4
+2155.3424932408	2616	Minimize the Maximum Difference of Pairs	最小化数对的最大差值	minimize-the-maximum-difference-of-pairs	weekly-contest-340	Q3
 2147.1828941776	1610	Maximum Number of Visible Points	可见点的最大数目	maximum-number-of-visible-points	weekly-contest-209	Q3
 2146.6395819980	1906	Minimum Absolute Difference Queries	查询差绝对值的最小值	minimum-absolute-difference-queries	weekly-contest-246	Q4
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	两个数组最小的异或值之和	minimum-xor-sum-of-two-arrays	biweekly-contest-53	Q4
@@ -557,6 +559,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1794.5827898448	886	Possible Bipartition	可能的二分法	possible-bipartition	weekly-contest-97	Q3
 1793.8027487553	1653	Minimum Deletions to Make String Balanced	使字符串平衡的最少删除次数	minimum-deletions-to-make-string-balanced	biweekly-contest-39	Q2
 1793.3037316825	2381	Shifting Letters II	字母移位 II	shifting-letters-ii	biweekly-contest-85	Q3
+1793.3033536992	2615	Sum of Distances	等值距离和	sum-of-distances	weekly-contest-340	Q2
 1792.0767945370	1245	Tree Diameter	树的直径	tree-diameter	biweekly-contest-12	Q3
 1790.5747006625	2321	Maximum Score Of Spliced Array	拼接数组的最大分数	maximum-score-of-spliced-array	weekly-contest-299	Q3
 1787.8550568757	2192	All Ancestors of a Node in a Directed Acyclic Graph	有向无环图中一个节点的所有祖先	all-ancestors-of-a-node-in-a-directed-acyclic-graph	biweekly-contest-73	Q3
@@ -1103,6 +1106,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1376.4549624575	1018	Binary Prefix Divisible By 5	可被 5 整除的二进制前缀	binary-prefix-divisible-by-5	weekly-contest-130	Q1
 1376.2600892096	807	Max Increase to Keep City Skyline	保持城市天际线	max-increase-to-keep-city-skyline	weekly-contest-77	Q3
 1376.0047008182	2443	Sum of Number and Its Reverse	反转之后的数字和	sum-of-number-and-its-reverse	weekly-contest-315	Q3
+1375.4261931199	2614	Prime In Diagonal	对角线上的质数	prime-in-diagonal	weekly-contest-340	Q1
 1375.0376362104	2336	Smallest Number in Infinite Set	无限集中的最小数字	smallest-number-in-infinite-set	weekly-contest-301	Q2
 1375.0234414965	1288	Remove Covered Intervals	删除被覆盖区间	remove-covered-intervals	biweekly-contest-15	Q2
 1374.6755455786	1038	Binary Search Tree to Greater Sum Tree	把二叉搜索树转换为累加树	binary-search-tree-to-greater-sum-tree	weekly-contest-135	Q2
