@@ -163,6 +163,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2246.8671174565	960	Delete Columns to Make Sorted III	删列造序 III	delete-columns-to-make-sorted-iii	weekly-contest-115	Q4
 2246.0452639352	2183	Count Array Pairs Divisible by K	统计可以被 K 整除的下标对数目	count-array-pairs-divisible-by-k	weekly-contest-281	Q4
 2241.5199974312	1240	Tiling a Rectangle with the Fewest Squares	铺瓷砖	tiling-a-rectangle-with-the-fewest-squares	weekly-contest-160	Q4
+2238.2830745228	2646	Minimize the Total Price of the Trips	最小化旅行的价格总和	minimize-the-total-price-of-the-trips	weekly-contest-341	Q4
 2235.9672341699	850	Rectangle Area II	矩形面积 II	rectangle-area-ii	weekly-contest-88	Q4
 2235.5784618885	2528	Maximize the Minimum Powered City	最大化城市的最小供电站数目	maximize-the-minimum-powered-city	biweekly-contest-95	Q4
 2234.9191877602	1915	Number of Wonderful Substrings	最美子字符串的数目	number-of-wonderful-substrings	weekly-contest-247	Q3
@@ -538,6 +539,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1817.0597073686	795	Number of Subarrays with Bounded Maximum	区间子数组个数	number-of-subarrays-with-bounded-maximum	weekly-contest-74	Q3
 1815.1286459024	773	Sliding Puzzle	滑动谜题	sliding-puzzle	weekly-contest-69	Q3
 1810.7690062079	1284	Minimum Number of Flips to Convert Binary Matrix to Zero Matrix	转化为全零矩阵的最少反转次数	minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix	weekly-contest-166	Q4
+1810.6470004623	2642	Design Graph With Shortest Path Calculator	设计可以求最短路径的图类	design-graph-with-shortest-path-calculator	biweekly-contest-102	Q4
 1809.8192888474	1345	Jump Game IV	跳跃游戏 IV	jump-game-iv	biweekly-contest-19	Q4
 1809.5579156134	776	Split BST	拆分二叉搜索树	split-bst	weekly-contest-70	Q2
 1808.7871088310	1519	Number of Nodes in the Sub-Tree With the Same Label	子树中标签相同的节点数	number-of-nodes-in-the-sub-tree-with-the-same-label	weekly-contest-198	Q2
@@ -703,6 +705,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1678.5871762113	2115	Find All Possible Recipes from Given Supplies	从给定原材料中找到所有可以做出的菜	find-all-possible-recipes-from-given-supplies	biweekly-contest-68	Q2
 1678.3947690537	885	Spiral Matrix III	螺旋矩阵 III	spiral-matrix-iii	weekly-contest-97	Q2
 1678.1133886034	853	Car Fleet	车队	car-fleet	weekly-contest-89	Q2
+1676.5007365375	2641	Cousins in Binary Tree II	二叉树的堂兄弟节点 II	cousins-in-binary-tree-ii	biweekly-contest-102	Q3
 1675.9894075840	974	Subarray Sums Divisible by K	和可被 K 整除的子数组	subarray-sums-divisible-by-k	weekly-contest-119	Q3
 1675.9610355975	987	Vertical Order Traversal of a Binary Tree	二叉树的垂序遍历	vertical-order-traversal-of-a-binary-tree	weekly-contest-122	Q4
 1675.7612347410	1870	Minimum Speed to Arrive on Time	准时到达的列车最小时速	minimum-speed-to-arrive-on-time	weekly-contest-242	Q2
@@ -953,6 +956,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1479.4837595809	1545	Find Kth Bit in Nth Binary String	找出第 N 个二进制字符串中的第 K 位	find-kth-bit-in-nth-binary-string	weekly-contest-201	Q2
 1479.0110934646	1166	Design File System	设计文件系统	design-file-system	biweekly-contest-7	Q2
 1478.3848028264	1390	Four Divisors	四因数	four-divisors	weekly-contest-181	Q2
+1477.7669322402	2645	Minimum Additions to Make Valid String	构造有效字符串的最少插入数	minimum-additions-to-make-valid-string	weekly-contest-341	Q3
 1477.4844514104	951	Flip Equivalent Binary Trees	翻转等价二叉树	flip-equivalent-binary-trees	weekly-contest-113	Q2
 1476.9118898539	2368	Reachable Nodes With Restrictions	受限条件下可到达节点的数目	reachable-nodes-with-restrictions	weekly-contest-305	Q2
 1476.9062320302	2300	Successful Pairs of Spells and Potions	咒语和药水的成功对数	successful-pairs-of-spells-and-potions	biweekly-contest-80	Q2
@@ -1221,6 +1225,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1315.3715333947	1629	Slowest Key	按键持续时间最长的键	slowest-key	weekly-contest-212	Q1
 1315.1890809249	2109	Adding Spaces to a String	向字符串添加空格	adding-spaces-to-a-string	weekly-contest-272	Q2
 1314.8600143277	1827	Minimum Operations to Make the Array Increasing	最少操作使数组递增	minimum-operations-to-make-the-array-increasing	biweekly-contest-50	Q1
+1314.3600610974	2640	Find the Score of All Prefixes of an Array	一个数组所有前缀的分数	find-the-score-of-all-prefixes-of-an-array	biweekly-contest-102	Q2
 1314.2912238536	2160	Minimum Sum of Four Digit Number After Splitting Digits	拆分数位后四位数字的最小和	minimum-sum-of-four-digit-number-after-splitting-digits	biweekly-contest-71	Q1
 1311.3495317884	1021	Remove Outermost Parentheses	删除最外层的括号	remove-outermost-parentheses	weekly-contest-131	Q1
 1310.9129840277	2058	Find the Minimum and Maximum Number of Nodes Between Critical Points	找出临界点之间的最小和最大距离	find-the-minimum-and-maximum-number-of-nodes-between-critical-points	weekly-contest-265	Q2
@@ -1281,6 +1286,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1283.6412252736	2303	Calculate Amount Paid in Taxes	计算应缴税款总额	calculate-amount-paid-in-taxes	weekly-contest-297	Q1
 1283.5102144800	1507	Reformat Date	转变日期格式	reformat-date	biweekly-contest-30	Q1
 1283.4980318021	1252	Cells with Odd Values in a Matrix	奇数值单元格的数目	cells-with-odd-values-in-a-matrix	weekly-contest-162	Q1
+1282.5186784876	2639	Find the Width of Columns of a Grid	查询网格图中每一列的宽度	find-the-width-of-columns-of-a-grid	biweekly-contest-102	Q1
 1282.4111853142	1837	Sum of Digits in Base K	K 进制表示下的各位数字总和	sum-of-digits-in-base-k	weekly-contest-238	Q1
 1282.1502428906	2220	Minimum Bit Flips to Convert Number	转换数字的最少位翻转次数	minimum-bit-flips-to-convert-number	biweekly-contest-75	Q1
 1281.9771427903	1624	Largest Substring Between Two Equal Characters	两个相同字符之间的最长子字符串	largest-substring-between-two-equal-characters	weekly-contest-211	Q1
@@ -1330,6 +1336,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1259.1979660519	1213	Intersection of Three Sorted Arrays	三个有序数组的交集	intersection-of-three-sorted-arrays	biweekly-contest-10	Q1
 1258.8401788462	867	Transpose Matrix	转置矩阵	transpose-matrix	weekly-contest-92	Q1
 1258.6719675401	896	Monotonic Array	单调数列	monotonic-array	weekly-contest-100	Q1
+1257.8344655358	2644	Find the Maximum Divisibility Score	找出可整除性得分最大的整数	find-the-maximum-divisibility-score	weekly-contest-341	Q2
 1257.7670945029	2103	Rings and Rods	环和杆	rings-and-rods	weekly-contest-271	Q1
 1257.7082143289	1356	Sort Integers by The Number of 1 Bits	根据数字二进制下 1 的数目排序	sort-integers-by-the-number-of-1-bits	biweekly-contest-20	Q1
 1257.6796331650	1309	Decrypt String from Alphabet to Integer Mapping	解码字母到整数映射	decrypt-string-from-alphabet-to-integer-mapping	weekly-contest-170	Q1
@@ -1473,6 +1480,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1177.5660617941	965	Univalued Binary Tree	单值二叉树	univalued-binary-tree	weekly-contest-117	Q1
 1176.4547272896	1431	Kids With the Greatest Number of Candies	拥有最多糖果的孩子	kids-with-the-greatest-number-of-candies	biweekly-contest-25	Q1
 1174.8589329736	1773	Count Items Matching a Rule	统计匹配检索规则的物品数量	count-items-matching-a-rule	weekly-contest-230	Q1
+1174.3019990918	2643	Row With Maximum Ones	一最多的行	row-with-maximum-ones	weekly-contest-341	Q1
 1173.5059264820	922	Sort Array By Parity II	按奇偶排序数组 II	sort-array-by-parity-ii	weekly-contest-106	Q1
 1172.6819789183	1046	Last Stone Weight	最后一块石头的重量	last-stone-weight	weekly-contest-137	Q1
 1172.5106645463	760	Find Anagram Mappings	找出变位映射	find-anagram-mappings	weekly-contest-66	Q1
