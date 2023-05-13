@@ -432,6 +432,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1919.1749818083	1130	Minimum Cost Tree From Leaf Values	叶值的最小代价生成树	minimum-cost-tree-from-leaf-values	weekly-contest-146	Q3
 1918.9960035055	2069	Walking Robot Simulation II	模拟行走机器人 II	walking-robot-simulation-ii	biweekly-contest-65	Q2
 1917.2145829853	2398	Maximum Number of Robots Within Budget	预算内的最多机器人数目	maximum-number-of-robots-within-budget	biweekly-contest-86	Q4
+1917.1049672432	2673	Make Costs of Paths Equal in a Binary Tree	使二叉树所有路径值相等的最小代价	make-costs-of-paths-equal-in-a-binary-tree	weekly-contest-344	Q4
 1916.0689858272	1043	Partition Array for Maximum Sum	分隔数组以得到最大和	partition-array-for-maximum-sum	weekly-contest-136	Q3
 1915.2628132733	2594	Minimum Time to Repair Cars	修车的最少时间	minimum-time-to-repair-cars	biweekly-contest-100	Q4
 1914.6717285348	2147	Number of Ways to Divide a Long Corridor	分隔长廊的方案数	number-of-ways-to-divide-a-long-corridor	biweekly-contest-70	Q4
@@ -670,6 +671,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1708.8129236790	826	Most Profit Assigning Work	安排工作以达到最大收益	most-profit-assigning-work	weekly-contest-82	Q3
 1708.7056764058	2257	Count Unguarded Cells in the Grid	统计网格图中没有被保卫的格子数	count-unguarded-cells-in-the-grid	biweekly-contest-77	Q3
 1707.8992927609	816	Ambiguous Coordinates	模糊坐标	ambiguous-coordinates	weekly-contest-80	Q3
+1705.2545641354	2672	Number of Adjacent Elements With the Same Color	有相同颜色的相邻元素数目	number-of-adjacent-elements-with-the-same-color	weekly-contest-344	Q3
 1704.3608916410	1947	Maximum Compatibility Score Sum	最大兼容性评分和	maximum-compatibility-score-sum	weekly-contest-251	Q3
 1702.8035923458	958	Check Completeness of a Binary Tree	二叉树的完全性检验	check-completeness-of-a-binary-tree	weekly-contest-115	Q2
 1702.4962514406	2100	Find Good Days to Rob the Bank	适合打劫银行的日子	find-good-days-to-rob-the-bank	biweekly-contest-67	Q2
@@ -915,6 +917,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1514.8181710611	1855	Maximum Distance Between a Pair of Values	下标对中的最大距离	maximum-distance-between-a-pair-of-values	weekly-contest-240	Q2
 1512.3323577063	1557	Minimum Number of Vertices to Reach All Nodes	可以到达所有点的最少点数目	minimum-number-of-vertices-to-reach-all-nodes	biweekly-contest-33	Q2
 1511.3725353467	1110	Delete Nodes And Return Forest	删点成林	delete-nodes-and-return-forest	weekly-contest-144	Q3
+1509.6237874441	2671	Frequency Tracker	频率跟踪器	frequency-tracker	weekly-contest-344	Q2
 1509.5562928491	2216	Minimum Deletions to Make Array Beautiful	美化数组的最少删除数	minimum-deletions-to-make-array-beautiful	weekly-contest-286	Q2
 1509.5432131875	1647	Minimum Deletions to Make Character Frequencies Unique	字符频次唯一的最小删除次数	minimum-deletions-to-make-character-frequencies-unique	weekly-contest-214	Q2
 1508.1169489285	1151	Minimum Swaps to Group All 1's Together	最少交换次数来组合所有的 1	minimum-swaps-to-group-all-1s-together	biweekly-contest-6	Q2
@@ -1325,6 +1328,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1268.0287696194	2325	Decode the Message	解密消息	decode-the-message	weekly-contest-300	Q1
 1267.2235913660	1282	Group the People Given the Group Size They Belong To	用户分组	group-the-people-given-the-group-size-they-belong-to	weekly-contest-166	Q2
 1266.7001363197	2432	The Employee That Worked on the Longest Task	处理用时最长的那个任务的员工	the-employee-that-worked-on-the-longest-task	weekly-contest-314	Q1
+1266.5231114343	2670	Find the Distinct Difference Array	找出不同元素数目差数组	find-the-distinct-difference-array	weekly-contest-344	Q1
 1266.3414689550	2200	Find All K-Distant Indices in an Array	找出数组中的所有 K 近邻下标	find-all-k-distant-indices-in-an-array	weekly-contest-284	Q1
 1266.3368046515	821	Shortest Distance to a Character	字符的最短距离	shortest-distance-to-a-character	weekly-contest-81	Q1
 1265.8320564115	2549	Count Distinct Numbers on Board	统计桌面上的不同数字	count-distinct-numbers-on-board	weekly-contest-330	Q1
