@@ -297,6 +297,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2062.9876807625	2156	Find Substring With Given Hash Value	查找给定哈希值的子串	find-substring-with-given-hash-value	weekly-contest-278	Q3
 2062.3601158741	2106	Maximum Fruits Harvested After at Most K Steps	摘水果	maximum-fruits-harvested-after-at-most-k-steps	weekly-contest-271	Q4
 2060.3799915170	2366	Minimum Replacements to Sort the Array	将数组排序的最少替换次数	minimum-replacements-to-sort-the-array	biweekly-contest-84	Q4
+2060.0818824378	2681	Power of Heroes	英雄的力量	power-of-heroes	biweekly-contest-104	Q4
 2060.0720834082	2508	Add Edges to Make Degrees of All Nodes Even	添加边使所有节点度数都为偶数	add-edges-to-make-degrees-of-all-nodes-even	weekly-contest-324	Q3
 2059.4040623264	1131	Maximum of Absolute Value Expression	绝对值表达式的最大值	maximum-of-absolute-value-expression	weekly-contest-146	Q4
 2057.4788263111	2197	Replace Non-Coprime Numbers in Array	替换数组中的非互质数	replace-non-coprime-numbers-in-array	weekly-contest-283	Q4
@@ -439,6 +440,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	二叉搜索子树的最大键值和	maximum-sum-bst-in-binary-tree	biweekly-contest-21	Q4
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	得到山形数组的最少删除次数	minimum-number-of-removals-to-make-mountain-array	biweekly-contest-40	Q4
 1912.8440554296	1898	Maximum Number of Removable Characters	可移除字符的最大数目	maximum-number-of-removable-characters	weekly-contest-245	Q2
+1912.1926699881	2680	Maximum OR	最大或值	maximum-or	biweekly-contest-104	Q3
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	段式回文	longest-chunked-palindrome-decomposition	weekly-contest-148	Q4
 1911.8282317986	2296	Design a Text Editor	设计一个文本编辑器	design-a-text-editor	weekly-contest-296	Q4
 1911.7063530593	2049	Count Nodes With the Highest Score	统计最高分的节点数目	count-nodes-with-the-highest-score	weekly-contest-264	Q3
@@ -597,6 +599,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1775.8546066480	2531	Make Number of Distinct Characters Equal	使字符串总不同字符的数目相等	make-number-of-distinct-characters-equal	weekly-contest-327	Q3
 1774.8764591297	1238	Circular Permutation in Binary Representation	循环码排列	circular-permutation-in-binary-representation	weekly-contest-160	Q2
 1770.8924569497	1146	Snapshot Array	快照数组	snapshot-array	weekly-contest-148	Q3
+1769.4344566771	2685	Count the Number of Complete Components	统计完全连通分量的数量	count-the-number-of-complete-components	weekly-contest-345	Q4
 1768.6238968290	1600	Throne Inheritance	皇位继承顺序	throne-inheritance	weekly-contest-208	Q3
 1766.2506177612	1914	Cyclically Rotating a Grid	循环轮转矩阵	cyclically-rotating-a-grid	weekly-contest-247	Q2
 1765.5654059263	875	Koko Eating Bananas	爱吃香蕉的珂珂	koko-eating-bananas	weekly-contest-94	Q3
@@ -781,6 +784,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1628.5072578803	1332	Remove Palindromic Subsequences	删除回文子序列	remove-palindromic-subsequences	weekly-contest-173	Q1
 1626.6740430119	1182	Shortest Distance to Target Color	与目标颜色间的最短距离	shortest-distance-to-target-color	biweekly-contest-8	Q3
 1626.3266982141	1366	Rank Teams by Votes	通过投票对团队排名	rank-teams-by-votes	weekly-contest-178	Q2
+1625.9636825798	2684	Maximum Number of Moves in a Grid	矩阵中移动的最大次数	maximum-number-of-moves-in-a-grid	weekly-contest-345	Q3
 1624.9775945043	785	Is Graph Bipartite?	判断二分图	is-graph-bipartite	weekly-contest-72	Q2
 1624.4737611923	916	Word Subsets	单词子集	word-subsets	weekly-contest-104	Q3
 1623.9443250479	1248	Count Number of Nice Subarrays	统计「优美子数组」	count-number-of-nice-subarrays	weekly-contest-161	Q2
@@ -912,6 +916,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1521.7133617698	1763	Longest Nice Substring	最长的美好子字符串	longest-nice-substring	biweekly-contest-46	Q1
 1521.1768537583	1041	Robot Bounded In Circle	困于环中的机器人	robot-bounded-in-circle	weekly-contest-136	Q1
 1519.1715594347	1641	Count Sorted Vowel Strings	统计字典序元音字符串的数目	count-sorted-vowel-strings	weekly-contest-213	Q2
+1517.8263048447	2683	Neighboring Bitwise XOR	相邻值的按位异或	neighboring-bitwise-xor	weekly-contest-345	Q2
 1516.8229485853	775	Global and Local Inversions	全局倒置与局部倒置	global-and-local-inversions	weekly-contest-69	Q2
 1516.4104902196	904	Fruit Into Baskets	水果成篮	fruit-into-baskets	weekly-contest-102	Q2
 1514.8181710611	1855	Maximum Distance Between a Pair of Values	下标对中的最大距离	maximum-distance-between-a-pair-of-values	weekly-contest-240	Q2
@@ -1107,6 +1112,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1383.4424411643	762	Prime Number of Set Bits in Binary Representation	二进制表示中质数个计算置位	prime-number-of-set-bits-in-binary-representation	weekly-contest-67	Q1
 1382.7606078230	1318	Minimum Flips to Make a OR b Equal to c	或运算的最小翻转次数	minimum-flips-to-make-a-or-b-equal-to-c	weekly-contest-171	Q2
 1382.7178688716	849	Maximize Distance to Closest Person	到最近的人的最大距离	maximize-distance-to-closest-person	weekly-contest-88	Q2
+1382.6941570342	2682	Find the Losers of the Circular Game	找出转圈游戏输家	find-the-losers-of-the-circular-game	weekly-contest-345	Q1
 1382.5129151601	797	All Paths From Source to Target	所有可能的路径	all-paths-from-source-to-target	weekly-contest-75	Q2
 1382.4809893713	1185	Day of the Week	一周中的第几天	day-of-the-week	weekly-contest-153	Q2
 1381.2168789318	1881	Maximum Value after Insertion	插入后的最大值	maximum-value-after-insertion	weekly-contest-243	Q2
@@ -1200,6 +1206,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1333.3138174157	1805	Number of Different Integers in a String	字符串中不同整数的数目	number-of-different-integers-in-a-string	weekly-contest-234	Q1
 1333.2008827592	2554	Maximum Number of Integers to Choose From a Range I	从一个范围内选择最多整数 I	maximum-number-of-integers-to-choose-from-a-range-i	biweekly-contest-97	Q2
 1333.1920503970	2181	Merge Nodes in Between Zeros	合并零之间的节点	merge-nodes-in-between-zeros	weekly-contest-281	Q2
+1333.0179956774	2679	Sum in a Matrix	矩阵中的和	sum-in-a-matrix	biweekly-contest-104	Q2
 1332.6225967630	1128	Number of Equivalent Domino Pairs	等价多米诺骨牌对的数量	number-of-equivalent-domino-pairs	weekly-contest-146	Q1
 1332.6187879411	2274	Maximum Consecutive Floors Without Special Floors	不含特殊楼层的最大连续楼层数	maximum-consecutive-floors-without-special-floors	weekly-contest-293	Q2
 1332.4653491345	1471	The k Strongest Values in an Array	数组中的 k 个最强值	the-k-strongest-values-in-an-array	weekly-contest-192	Q2
@@ -1467,6 +1474,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1199.4427635582	1154	Day of the Year	一年中的第几天	day-of-the-year	weekly-contest-149	Q1
 1199.2892732505	929	Unique Email Addresses	独特的电子邮件地址	unique-email-addresses	weekly-contest-108	Q1
 1199.2392672964	1165	Single-Row Keyboard	单行键盘	single-row-keyboard	biweekly-contest-7	Q1
+1198.8420836551	2678	Number of Senior Citizens	老人的数目	number-of-senior-citizens	biweekly-contest-104	Q1
 1198.5705825982	1200	Minimum Absolute Difference	最小绝对差	minimum-absolute-difference	weekly-contest-155	Q1
 1198.4180401014	985	Sum of Even Numbers After Queries	查询后的偶数和	sum-of-even-numbers-after-queries	weekly-contest-122	Q1
 1195.9731842298	2529	Maximum Count of Positive Integer and Negative Integer	正整数和负整数的最大计数	maximum-count-of-positive-integer-and-negative-integer	weekly-contest-327	Q1
