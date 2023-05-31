@@ -1,5 +1,6 @@
 Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 3018.4940165727	1719	Number Of Ways To Reconstruct A Tree	重构一棵树的方案数	number-of-ways-to-reconstruct-a-tree	biweekly-contest-43	Q4
+2873.9745576413	2699	Modify Graph Edge Weights	修改图中的边权	modify-graph-edge-weights	weekly-contest-346	Q4
 2872.0290327119	1982	Find Array Given Subset Sums	从子集的和还原数组	find-array-given-subset-sums	weekly-contest-255	Q4
 2863.1378294349	770	Basic Calculator IV	基本计算器 IV	basic-calculator-iv	weekly-contest-68	Q5
 2849.4841858619	1728	Cat and Mouse II	猫和老鼠 II	cat-and-mouse-ii	weekly-contest-224	Q4
@@ -711,6 +712,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1679.5737760149	2492	Minimum Score of a Path Between Two Cities	两个城市间路径的最小分数	minimum-score-of-a-path-between-two-cities	weekly-contest-322	Q3
 1679.2607152001	1402	Reducing Dishes	做菜顺序	reducing-dishes	biweekly-contest-23	Q4
 1678.7231378948	1905	Count Sub Islands	统计子岛屿	count-sub-islands	weekly-contest-246	Q3
+1678.6245760413	2698	Find the Punishment Number of an Integer	求一个整数的惩罚数	find-the-punishment-number-of-an-integer	weekly-contest-346	Q3
 1678.6241816708	2317	Maximum XOR After Operations 	操作后的最大异或和	maximum-xor-after-operations	biweekly-contest-81	Q3
 1678.5871762113	2115	Find All Possible Recipes from Given Supplies	从给定原材料中找到所有可以做出的菜	find-all-possible-recipes-from-given-supplies	biweekly-contest-68	Q2
 1678.3947690537	885	Spiral Matrix III	螺旋矩阵 III	spiral-matrix-iii	weekly-contest-97	Q2
@@ -1261,6 +1263,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1307.2991245272	868	Binary Gap	二进制间距	binary-gap	weekly-contest-93	Q1
 1306.2821637677	1984	Minimum Difference Between Highest and Lowest of K Scores	学生分数的最小差值	minimum-difference-between-highest-and-lowest-of-k-scores	weekly-contest-256	Q1
 1304.1180812515	2657	Find the Prefix Common Array of Two Arrays	找到两个数组的前缀公共数组	find-the-prefix-common-array-of-two-arrays	biweekly-contest-103	Q2
+1303.7347742929	2697	Lexicographically Smallest Palindrome	字典序最小回文串	lexicographically-smallest-palindrome	weekly-contest-346	Q2
 1303.5594588137	2331	Evaluate Boolean Binary Tree	计算布尔二叉树的值	evaluate-boolean-binary-tree	biweekly-contest-82	Q1
 1303.3201984827	783	Minimum Distance Between BST Nodes	二叉搜索树节点最小距离	minimum-distance-between-bst-nodes	weekly-contest-71	Q1
 1303.0225704970	1338	Reduce Array Size to The Half	数组大小减半	reduce-array-size-to-the-half	weekly-contest-174	Q2
@@ -1307,6 +1310,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1283.4980318021	1252	Cells with Odd Values in a Matrix	奇数值单元格的数目	cells-with-odd-values-in-a-matrix	weekly-contest-162	Q1
 1282.5186784876	2639	Find the Width of Columns of a Grid	查询网格图中每一列的宽度	find-the-width-of-columns-of-a-grid	biweekly-contest-102	Q1
 1282.4111853142	1837	Sum of Digits in Base K	K 进制表示下的各位数字总和	sum-of-digits-in-base-k	weekly-contest-238	Q1
+1282.3870247003	2696	Minimum String Length After Removing Substrings	删除子串后的字符串最小长度	minimum-string-length-after-removing-substrings	weekly-contest-346	Q1
 1282.1502428906	2220	Minimum Bit Flips to Convert Number	转换数字的最少位翻转次数	minimum-bit-flips-to-convert-number	biweekly-contest-75	Q1
 1281.9771427903	1624	Largest Substring Between Two Equal Characters	两个相同字符之间的最长子字符串	largest-substring-between-two-equal-characters	weekly-contest-211	Q1
 1281.0889272532	2570	Merge Two 2D Arrays by Summing Values	合并两个二维数组 - 求和法	merge-two-2d-arrays-by-summing-values	weekly-contest-333	Q1
