@@ -116,6 +116,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2362.6480880348	1520	Maximum Number of Non-Overlapping Substrings	最多的不重叠子字符串	maximum-number-of-non-overlapping-substrings	weekly-contest-198	Q3
 2358.9669560824	1707	Maximum XOR With an Element From Array	与数组中元素的最大异或值	maximum-xor-with-an-element-from-array	weekly-contest-221	Q4
 2356.5811122453	1467	Probability of a Two Boxes Having The Same Number of Distinct Balls	两个盒子中球的颜色数相同的概率	probability-of-a-two-boxes-having-the-same-number-of-distinct-balls	weekly-contest-191	Q4
+2354.5411153127	2719	Count of Integers	统计整数数目	count-of-integers	weekly-contest-348	Q4
 2350.9694374861	1713	Minimum Operations to Make a Subsequence	得到子序列的最少操作次数	minimum-operations-to-make-a-subsequence	weekly-contest-222	Q4
 2350.0380300939	837	New 21 Game	新21点	new-21-game	weekly-contest-85	Q3
 2348.5159376523	1096	Brace Expansion II	花括号展开 II	brace-expansion-ii	weekly-contest-142	Q4
@@ -604,6 +605,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1774.8764591297	1238	Circular Permutation in Binary Representation	循环码排列	circular-permutation-in-binary-representation	weekly-contest-160	Q2
 1770.8924569497	1146	Snapshot Array	快照数组	snapshot-array	weekly-contest-148	Q3
 1769.4344566771	2685	Count the Number of Complete Components	统计完全连通分量的数量	count-the-number-of-complete-components	weekly-contest-345	Q4
+1768.9138093037	2718	Sum of Matrix After Queries	查询后矩阵的和	sum-of-matrix-after-queries	weekly-contest-348	Q3
 1768.6238968290	1600	Throne Inheritance	皇位继承顺序	throne-inheritance	weekly-contest-208	Q3
 1766.2506177612	1914	Cyclically Rotating a Grid	循环轮转矩阵	cyclically-rotating-a-grid	weekly-contest-247	Q2
 1765.5654059263	875	Koko Eating Bananas	爱吃香蕉的珂珂	koko-eating-bananas	weekly-contest-94	Q3
@@ -1289,6 +1291,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1297.5338328524	819	Most Common Word	最常见的单词	most-common-word	weekly-contest-80	Q1
 1297.3006230632	1598	Crawler Log Folder	文件夹操作日志搜集器	crawler-log-folder	weekly-contest-208	Q1
 1295.8868965907	2224	Minimum Number of Operations to Convert Time	转化时间需要的最少操作数	minimum-number-of-operations-to-convert-time	weekly-contest-287	Q1
+1295.7550469800	2717	Semi-Ordered Permutation	半有序排列	semi-ordered-permutation	weekly-contest-348	Q2
 1295.4970938463	1539	Kth Missing Positive Number	第 k 个缺失的正整数	kth-missing-positive-number	biweekly-contest-32	Q1
 1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	移动所有球到每个盒子所需的最小操作数	minimum-number-of-operations-to-move-all-balls-to-each-box	weekly-contest-229	Q2
 1294.5800368625	2273	Find Resultant Array After Removing Anagrams	移除字母异位词后的结果数组	find-resultant-array-after-removing-anagrams	weekly-contest-293	Q1
@@ -1405,6 +1408,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1244.3173678830	1228	Missing Number In Arithmetic Progression	等差数列中缺失的数字	missing-number-in-arithmetic-progression	biweekly-contest-11	Q1
 1243.6250741657	2399	Check Distances Between Same Letters	检查相同字母间的距离	check-distances-between-same-letters	weekly-contest-309	Q1
 1243.1009943284	832	Flipping an Image	翻转图像	flipping-an-image	weekly-contest-84	Q1
+1242.9383307344	2716	Minimize String Length	最小化字符串长度	minimize-string-length	weekly-contest-348	Q1
 1242.8939284628	2309	Greatest English Letter in Upper and Lower Case	兼具大小写的最好英文字母	greatest-english-letter-in-upper-and-lower-case	weekly-contest-298	Q1
 1242.6172898768	1941	Check if All Characters Have Equal Number of Occurrences	检查是否所有字符出现次数相同	check-if-all-characters-have-equal-number-of-occurrences	biweekly-contest-57	Q1
 1242.4710735813	921	Minimum Add to Make Parentheses Valid	使括号有效的最少添加	minimum-add-to-make-parentheses-valid	weekly-contest-106	Q2
