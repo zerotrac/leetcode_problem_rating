@@ -77,6 +77,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2429.6705422448	782	Transform to Chessboard	变为棋盘	transform-to-chessboard	weekly-contest-71	Q4
 2429.0940568399	1998	GCD Sort of an Array	数组的最大公因数排序	gcd-sort-of-an-array	weekly-contest-257	Q4
 2428.7985254341	1044	Longest Duplicate Substring	最长重复子串	longest-duplicate-substring	weekly-contest-136	Q4
+2424.6761561972	2742	Painting the Walls	给墙壁刷油漆	painting-the-walls	weekly-contest-350	Q4
 2422.5309771173	1000	Minimum Cost to Merge Stones	合并石头的最低成本	minimum-cost-to-merge-stones	weekly-contest-126	Q4
 2422.3128048015	1987	Number of Unique Good Subsequences	不同的好子序列数目	number-of-unique-good-subsequences	weekly-contest-256	Q4
 2419.5791089724	2572	Count the Number of Square-Free Subsets	无平方子集计数	count-the-number-of-square-free-subsets	weekly-contest-333	Q3
@@ -346,6 +347,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2022.4752963768	1210	Minimum Moves to Reach Target with Rotations	穿过迷宫的最少移动次数	minimum-moves-to-reach-target-with-rotations	weekly-contest-156	Q4
 2022.3137128296	2251	Number of Flowers in Full Bloom	花期内花的数目	number-of-flowers-in-full-bloom	weekly-contest-290	Q4
 2021.7790710467	2271	Maximum White Tiles Covered by a Carpet	毯子覆盖的最多白色砖块数	maximum-white-tiles-covered-by-a-carpet	biweekly-contest-78	Q3
+2020.7095306378	2741	Special Permutations	特别的排列	special-permutations	weekly-contest-350	Q3
 2020.6775180586	2517	Maximum Tastiness of Candy Basket	礼盒的最大甜蜜度	maximum-tastiness-of-candy-basket	weekly-contest-325	Q3
 2019.9859462755	2547	Minimum Cost to Split an Array	拆分数组的最小代价	minimum-cost-to-split-an-array	weekly-contest-329	Q4
 2019.5399647546	909	Snakes and Ladders	蛇梯棋	snakes-and-ladders	weekly-contest-103	Q2
@@ -1285,6 +1287,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1302.7005460171	1266	Minimum Time Visiting All Points	访问所有点的最小时间	minimum-time-visiting-all-points	weekly-contest-164	Q1
 1302.6469071738	1991	Find the Middle Index in Array	找到数组的中间位置	find-the-middle-index-in-array	biweekly-contest-60	Q1
 1301.9432665133	2243	Calculate Digit Sum of a String	计算字符串的数字和	calculate-digit-sum-of-a-string	weekly-contest-289	Q1
+1301.9276849391	2740	Find the Value of the Partition	找出分区值	find-the-value-of-the-partition	weekly-contest-350	Q2
 1301.4167433184	2525	Categorize Box According to Criteria	根据规则将箱子分类	categorize-box-according-to-criteria	biweekly-contest-95	Q1
 1301.4117757184	806	Number of Lines To Write String	写字符串需要的行数	number-of-lines-to-write-string	weekly-contest-77	Q1
 1301.4027057843	1646	Get Maximum in Generated Array	获取生成数组中的最大值	get-maximum-in-generated-array	weekly-contest-214	Q1
@@ -1364,6 +1367,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	定长子串中元音的最大数目	maximum-number-of-vowels-in-a-substring-of-given-length	weekly-contest-190	Q2
 1262.9387403640	2490	Circular Sentence	回环句	circular-sentence	weekly-contest-322	Q1
 1262.5890311992	1089	Duplicate Zeros	复写零	duplicate-zeros	weekly-contest-141	Q1
+1262.1006527970	2739	Total Distance Traveled	总行驶距离	total-distance-traveled	weekly-contest-350	Q1
 1260.9112824221	2144	Minimum Cost of Buying Candies With Discount	打折购买糖果的最小开销	minimum-cost-of-buying-candies-with-discount	biweekly-contest-70	Q1
 1260.8702083080	2255	Count Prefixes of a Given String	统计是给定字符串前缀的字符串数目	count-prefixes-of-a-given-string	biweekly-contest-77	Q1
 1260.8697515006	2520	Count the Digits That Divide a Number	统计能整除数字的位数	count-the-digits-that-divide-a-number	weekly-contest-326	Q1
