@@ -153,6 +153,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	完成所有工作的最短时间	find-minimum-time-to-finish-all-jobs	weekly-contest-223	Q4
 2281.8816902545	2659	Make Array Empty	将数组清空	make-array-empty	biweekly-contest-103	Q4
 2280.3143643878	2407	Longest Increasing Subsequence II	最长递增子序列 II	longest-increasing-subsequence-ii	weekly-contest-310	Q4
+2277.7923804151	2763	Sum of Imbalance Numbers of All Subarrays	所有子数组中不平衡数字之和	sum-of-imbalance-numbers-of-all-subarrays	weekly-contest-352	Q4
 2277.3595662538	2029	Stone Game IX	石子游戏 IX	stone-game-ix	weekly-contest-261	Q3
 2277.0238076464	749	Contain Virus	隔离病毒	contain-virus	weekly-contest-63	Q4
 2276.4233585631	1498	Number of Subsequences That Satisfy the Given Sum Condition	满足条件的子序列数目	number-of-subsequences-that-satisfy-the-given-sum-condition	weekly-contest-195	Q3
@@ -422,6 +423,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	制作 m 束花所需的最少天数	minimum-number-of-days-to-make-m-bouquets	weekly-contest-193	Q3
 1944.5673996888	2227	Encrypt and Decrypt Strings	加密解密字符串	encrypt-and-decrypt-strings	weekly-contest-287	Q4
 1940.6002290953	2111	Minimum Operations to Make the Array K-Increasing	使数组 K 递增的最少操作次数	minimum-operations-to-make-the-array-k-increasing	weekly-contest-272	Q4
+1940.2116985812	2762	Continuous Subarrays	不间断子数组	continuous-subarrays	weekly-contest-352	Q3
 1939.9323330472	1760	Minimum Limit of Balls in a Bag	袋子里最少数目的球	minimum-limit-of-balls-in-a-bag	weekly-contest-228	Q3
 1938.6883365596	777	Swap Adjacent in LR String	在LR字符串中交换相邻字符	swap-adjacent-in-lr-string	weekly-contest-70	Q3
 1938.2224916289	866	Prime Palindrome	回文素数	prime-palindrome	weekly-contest-92	Q3
@@ -952,6 +954,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1506.8958220609	1387	Sort Integers by The Power Value	将整数按权重排序	sort-integers-by-the-power-value	biweekly-contest-22	Q3
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	重构 2 行二进制矩阵	reconstruct-a-2-row-binary-matrix	weekly-contest-162	Q2
 1505.8249995300	1780	Check if Number is a Sum of Powers of Three	判断一个数字是否可以表示成三的幂的和	check-if-number-is-a-sum-of-powers-of-three	biweekly-contest-47	Q2
+1504.9263037499	2761	Prime Pairs With Target Sum	和等于目标值的质数对	prime-pairs-with-target-sum	weekly-contest-352	Q2
 1504.8237159326	869	Reordered Power of 2	重新排序得到 2 的幂	reordered-power-of-2	weekly-contest-93	Q2
 1504.2133321504	2104	Sum of Subarray Ranges	子数组范围和	sum-of-subarray-ranges	weekly-contest-271	Q2
 1504.0178888667	1461	Check If a String Contains All Binary Codes of Size K	检查一个字符串是否包含所有长度为 K 的二进制子串	check-if-a-string-contains-all-binary-codes-of-size-k	biweekly-contest-27	Q2
@@ -1078,6 +1081,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1421.7251191403	2326	Spiral Matrix IV	螺旋矩阵 IV	spiral-matrix-iv	weekly-contest-300	Q2
 1421.6541140049	1360	Number of Days Between Two Dates	日期之间隔几天	number-of-days-between-two-dates	weekly-contest-177	Q1
 1421.2624065513	1033	Moving Stones Until Consecutive	移动石子直到连续	moving-stones-until-consecutive	weekly-contest-134	Q1
+1420.3698647434	2760	Longest Even Odd Subarray With Threshold	最长奇偶子数组	longest-even-odd-subarray-with-threshold	weekly-contest-352	Q1
 1418.9758090724	2374	Node With Highest Edge Score	边积分最高的节点	node-with-highest-edge-score	weekly-contest-306	Q2
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
 1418.6847740057	1962	Remove Stones to Minimize the Total	移除石子使总数最小	remove-stones-to-minimize-the-total	weekly-contest-253	Q2
