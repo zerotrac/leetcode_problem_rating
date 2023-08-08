@@ -113,6 +113,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2376.8658923518	887	Super Egg Drop	鸡蛋掉落	super-egg-drop	weekly-contest-97	Q4
 2374.1850487395	1840	Maximum Building Height	最高建筑高度	maximum-building-height	weekly-contest-238	Q4
 2368.6674771307	2556	Disconnect Path in a Binary Matrix by at Most One Flip	二进制矩阵中翻转最多一次使路径不连通	disconnect-path-in-a-binary-matrix-by-at-most-one-flip	biweekly-contest-97	Q4
+2367.4705934718	2801	Count Stepping Numbers in Range	统计范围内的步进数字数目	count-stepping-numbers-in-range	weekly-contest-356	Q4
 2366.7099607655	1183	Maximum Number of Ones	矩阵中 1 的最大数量	maximum-number-of-ones	biweekly-contest-8	Q4
 2364.3930657709	2132	Stamping the Grid	用邮票贴满网格图	stamping-the-grid	biweekly-contest-69	Q4
 2364.3455634374	2203	Minimum Weighted Subgraph With the Required Paths	得到要求路径的最小带权子图	minimum-weighted-subgraph-with-the-required-paths	weekly-contest-284	Q4
@@ -519,6 +520,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1857.6431822094	1584	Min Cost to Connect All Points	连接所有点的最小费用	min-cost-to-connect-all-points	weekly-contest-206	Q3
 1856.8610192187	2266	Count Number of Texts	统计打字方案数	count-number-of-texts	weekly-contest-292	Q3
 1855.5957296285	799	Champagne Tower	香槟塔	champagne-tower	weekly-contest-75	Q3
+1855.5611536940	2800	Shortest String That Contains Three Strings	包含三个字符串的最短字符串	shortest-string-that-contains-three-strings	weekly-contest-356	Q3
 1855.4479039876	1202	Smallest String With Swaps	交换字符串中的元素	smallest-string-with-swaps	weekly-contest-155	Q3
 1855.3770461540	1546	Maximum Number of Non-Overlapping Subarrays With Sum Equals Target	和为目标值的最大数目不重叠非空子数组数目	maximum-number-of-non-overlapping-subarrays-with-sum-equals-target	weekly-contest-201	Q3
 1854.9547783559	1334	Find the City With the Smallest Number of Neighbors at a Threshold Distance	阈值距离内邻居最少的城市	find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance	weekly-contest-173	Q3
@@ -1128,6 +1130,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1402.0863615706	1508	Range Sum of Sorted Subarray Sums	子数组和排序后的区间和	range-sum-of-sorted-subarray-sums	biweekly-contest-30	Q2
 1401.2246983038	1198	Find Smallest Common Element in All Rows	找出所有行中最小公共元素	find-smallest-common-element-in-all-rows	biweekly-contest-9	Q3
 1399.8468905274	2240	Number of Ways to Buy Pens and Pencils	买钢笔和铅笔的方案数	number-of-ways-to-buy-pens-and-pencils	biweekly-contest-76	Q2
+1397.9519549403	2799	Count Complete Subarrays in an Array	统计完全子数组的数目	count-complete-subarrays-in-an-array	weekly-contest-356	Q2
 1397.8875115008	1071	Greatest Common Divisor of Strings	字符串的最大公因子	greatest-common-divisor-of-strings	weekly-contest-139	Q1
 1397.7743198793	1176	Diet Plan Performance	健身计划评估	diet-plan-performance	weekly-contest-152	Q2
 1396.8422030812	788	Rotated Digits	旋转数字	rotated-digits	weekly-contest-73	Q1
@@ -1596,6 +1599,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1144.9508874557	2413	Smallest Even Multiple	最小偶倍数	smallest-even-multiple	weekly-contest-311	Q1
 1144.6237559885	1913	Maximum Product Difference Between Two Pairs	两个数对之间的最大乘积差	maximum-product-difference-between-two-pairs	weekly-contest-247	Q1
 1142.8650731632	1137	N-th Tribonacci Number	第 N 个泰波那契数	n-th-tribonacci-number	weekly-contest-147	Q1
+1142.0341823205	2798	Number of Employees Who Met the Target	满足目标工作时长的员工数目	number-of-employees-who-met-the-target	weekly-contest-356	Q1
 1141.2363999461	1281	Subtract the Product and Sum of Digits of an Integer	整数的各位积和之差	subtract-the-product-and-sum-of-digits-of-an-integer	weekly-contest-166	Q1
 1139.6630206282	1295	Find Numbers with Even Number of Digits	统计位数为偶数的数字	find-numbers-with-even-number-of-digits	weekly-contest-168	Q1
 1139.4248492279	1351	Count Negative Numbers in a Sorted Matrix	统计有序矩阵中的负数	count-negative-numbers-in-a-sorted-matrix	weekly-contest-176	Q1
