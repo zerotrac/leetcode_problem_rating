@@ -96,6 +96,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2399.5729141925	920	Number of Music Playlists	播放列表的数量	number-of-music-playlists	weekly-contest-105	Q4
 2397.9722495587	2538	Difference Between Maximum and Minimum Price Sum	最大价值和与最小价值和的差值	difference-between-maximum-and-minimum-price-sum	weekly-contest-328	Q4
 2397.8728428256	2569	Handling Sum Queries After Update	更新数组后处理求和查询	handling-sum-queries-after-update	biweekly-contest-98	Q4
+2396.6770372863	2818	Apply Operations to Maximize Score	操作使得分最大	apply-operations-to-maximize-score	weekly-contest-358	Q4
 2396.6267778669	808	Soup Servings	分汤	soup-servings	weekly-contest-78	Q3
 2395.8765531206	1825	Finding MK Average	求出 MK 平均值	finding-mk-average	weekly-contest-236	Q4
 2392.0799451298	2172	Maximum AND Sum of Array	数组的最大与和	maximum-and-sum-of-array	weekly-contest-280	Q4
@@ -485,6 +486,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1893.5143805402	2327	Number of People Aware of a Secret	知道秘密的人数	number-of-people-aware-of-a-secret	weekly-contest-300	Q3
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	执行交换操作后的最小汉明距离	minimize-hamming-distance-after-swap-operations	weekly-contest-223	Q3
 1891.8455273506	2537	Count the Number of Good Subarrays	统计好子数组的数目	count-the-number-of-good-subarrays	weekly-contest-328	Q3
+1889.4554322242	2817	Minimum Absolute Difference Between Elements With Constraint	限制条件下元素之间的最小绝对差	minimum-absolute-difference-between-elements-with-constraint	weekly-contest-358	Q3
 1886.7040111218	2305	Fair Distribution of Cookies	公平分发饼干	fair-distribution-of-cookies	weekly-contest-297	Q3
 1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	分配给商店的最多商品的最小值	minimized-maximum-of-products-distributed-to-any-store	weekly-contest-266	Q3
 1885.1051527272	1066	Campus Bikes II	校园自行车分配 II	campus-bikes-ii	biweekly-contest-1	Q3
@@ -1145,6 +1147,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1396.1044458638	2566	Maximum Difference by Remapping a Digit	替换一个数字后的最大差值	maximum-difference-by-remapping-a-digit	biweekly-contest-98	Q1
 1395.5132479177	1668	Maximum Repeating Substring	最大重复子字符串	maximum-repeating-substring	biweekly-contest-40	Q1
 1394.9149882274	2256	Minimum Average Difference	最小平均差	minimum-average-difference	biweekly-contest-77	Q2
+1393.7857353048	2816	Double a Number Represented as a Linked List	翻倍以链表形式表示的数字	double-a-number-represented-as-a-linked-list	weekly-contest-358	Q2
 1393.4123491817	978	Longest Turbulent Subarray	最长湍流子数组	longest-turbulent-subarray	weekly-contest-120	Q2
 1392.6601629182	1529	Bulb Switcher IV	灯泡开关 IV	minimum-suffix-flips	weekly-contest-199	Q2
 1392.0853311911	957	Prison Cells After N Days	N 天后的牢房	prison-cells-after-n-days	weekly-contest-115	Q1
@@ -1338,6 +1341,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1295.8868965907	2224	Minimum Number of Operations to Convert Time	转化时间需要的最少操作数	minimum-number-of-operations-to-convert-time	weekly-contest-287	Q1
 1295.7550469800	2717	Semi-Ordered Permutation	半有序排列	semi-ordered-permutation	weekly-contest-348	Q2
 1295.4970938463	1539	Kth Missing Positive Number	第 k 个缺失的正整数	kth-missing-positive-number	biweekly-contest-32	Q1
+1295.0947625986	2815	Max Pair Sum in an Array	数组中的最大数对和	max-pair-sum-in-an-array	weekly-contest-358	Q1
 1294.7724244077	1769	Minimum Number of Operations to Move All Balls to Each Box	移动所有球到每个盒子所需的最小操作数	minimum-number-of-operations-to-move-all-balls-to-each-box	weekly-contest-229	Q2
 1294.5800368625	2273	Find Resultant Array After Removing Anagrams	移除字母异位词后的结果数组	find-resultant-array-after-removing-anagrams	weekly-contest-293	Q1
 1294.5297034757	1716	Calculate Money in Leetcode Bank	计算力扣银行的钱	calculate-money-in-leetcode-bank	biweekly-contest-43	Q1
