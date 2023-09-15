@@ -53,6 +53,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2529.5251086936	1632	Rank Transform of a Matrix	矩阵转换后的秩	rank-transform-of-a-matrix	weekly-contest-212	Q4
 2517.6829964848	2040	Kth Smallest Product of Two Sorted Arrays	两个有序数组的第 K 小乘积	kth-smallest-product-of-two-sorted-arrays	biweekly-contest-63	Q4
 2515.7520586008	2272	Substring With Largest Variance	最大波动的子字符串	substring-with-largest-variance	biweekly-contest-78	Q4
+2507.9960044659	2846	Minimum Edge Weight Equilibrium Queries in a Tree	边权重均等查询	minimum-edge-weight-equilibrium-queries-in-a-tree	weekly-contest-361	Q4
 2502.5176603922	1938	Maximum Genetic Difference Query	查询最大基因差	maximum-genetic-difference-query	weekly-contest-250	Q4
 2499.5640490579	1735	Count Ways to Make Array With Product	生成乘积数组的方案数	count-ways-to-make-array-with-product	biweekly-contest-44	Q4
 2499.3282271507	2157	Groups of Strings	字符串分组	groups-of-strings	weekly-contest-278	Q4
@@ -282,6 +283,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2092.5366031561	2444	Count Subarrays With Fixed Bounds	统计定界子数组的数目	count-subarrays-with-fixed-bounds	weekly-contest-315	Q4
 2092.4861692502	1049	Last Stone Weight II	最后一块石头的重量 II	last-stone-weight-ii	weekly-contest-137	Q4
 2092.0222850837	2412	Minimum Money Required Before Transactions	完成所有交易的初始最少钱数	minimum-money-required-before-transactions	biweekly-contest-87	Q4
+2091.6580433632	2842	Count K-Subsequences of a String With Maximum Beauty	统计一个字符串的 k 子序列美丽值最大的数目	count-k-subsequences-of-a-string-with-maximum-beauty	biweekly-contest-112	Q4
 2091.6474629767	2751	Robot Collisions	机器人碰撞	robot-collisions	weekly-contest-351	Q4
 2091.3820373571	1383	Maximum Performance of a Team	最大的团队表现值	maximum-performance-of-a-team	weekly-contest-180	Q4
 2090.6800569319	2193	Minimum Number of Moves to Make Palindrome	得到回文串的最少操作次数	minimum-number-of-moves-to-make-palindrome	biweekly-contest-73	Q4
@@ -308,6 +310,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2076.0155978787	2449	Minimum Number of Operations to Make Arrays Similar	使数组相似的最少操作次数	minimum-number-of-operations-to-make-arrays-similar	weekly-contest-316	Q4
 2075.9046975409	2354	Number of Excellent Pairs	优质数对的数目	number-of-excellent-pairs	weekly-contest-303	Q4
 2074.4120526679	871	Minimum Number of Refueling Stops	最低加油次数	minimum-number-of-refueling-stops	weekly-contest-93	Q4
+2073.0480193170	2845	Count of Interesting Subarrays	统计趣味子数组的数目	count-of-interesting-subarrays	weekly-contest-361	Q3
 2073.0124645606	1850	Minimum Adjacent Swaps to Reach the Kth Smallest Number	邻位交换的最小次数	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	weekly-contest-239	Q3
 2072.7264178313	1799	Maximize Score After N Operations	N 次操作后的最大分数和	maximize-score-after-n-operations	biweekly-contest-48	Q4
 2071.3208991938	2607	Make K-Subarray Sums Equal	使子数组元素和相等	make-k-subarray-sums-equal	biweekly-contest-101	Q3
@@ -879,6 +882,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1590.0883962313	893	Groups of Special-Equivalent Strings	特殊等价字符串组	groups-of-special-equivalent-strings	weekly-contest-99	Q2
 1590.0463215721	877	Stone Game	石子游戏	stone-game	weekly-contest-95	Q2
 1588.9690763997	1813	Sentence Similarity III	句子相似性 III	sentence-similarity-iii	biweekly-contest-49	Q2
+1588.4826339516	2844	Minimum Operations to Make a Special Number	生成特殊数字的最少操作	minimum-operations-to-make-a-special-number	weekly-contest-361	Q2
 1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	通过连接另一个数组的子数组得到一个数组	form-array-by-concatenating-subarrays-of-another-array	biweekly-contest-46	Q2
 1585.5793143983	1030	Matrix Cells in Distance Order	距离顺序排列矩阵单元格	matrix-cells-in-distance-order	weekly-contest-133	Q2
 1583.3117784523	2536	Increment Submatrices by One	子矩阵元素加 1	increment-submatrices-by-one	weekly-contest-328	Q2
@@ -926,6 +930,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1548.0854419238	1599	Maximum Profit of Operating a Centennial Wheel	经营摩天轮的最大利润	maximum-profit-of-operating-a-centennial-wheel	weekly-contest-208	Q2
 1547.5714796512	954	Array of Doubled Pairs	二倍数对数组	array-of-doubled-pairs	weekly-contest-114	Q2
 1547.0385279086	758	Bold Words in String	字符串中的加粗单词	bold-words-in-string	weekly-contest-66	Q2
+1545.9654593951	2841	Maximum Sum of Almost Unique Subarray	几乎唯一子数组的最大和	maximum-sum-of-almost-unique-subarray	biweekly-contest-112	Q3
 1544.8391626032	1104	Path In Zigzag Labelled Binary Tree	二叉树寻路	path-in-zigzag-labelled-binary-tree	weekly-contest-143	Q2
 1544.8261365027	1233	Remove Sub-Folders from the Filesystem	删除子文件夹	remove-sub-folders-from-the-filesystem	weekly-contest-159	Q2
 1544.6371526659	794	Valid Tic-Tac-Toe State	有效的井字游戏	valid-tic-tac-toe-state	weekly-contest-74	Q1
@@ -1014,6 +1019,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1487.5826663483	1753	Maximum Score From Removing Stones	移除石子的最大得分	maximum-score-from-removing-stones	weekly-contest-227	Q2
 1486.7649334310	1637	Widest Vertical Area Between Two Points Containing No Points	两点之间不包含任何点的最宽垂直面积	widest-vertical-area-between-two-points-containing-no-points	biweekly-contest-38	Q2
 1486.4687014051	1566	Detect Pattern of Length M Repeated K or More Times	重复至少 K 次且长度为 M 的模式	detect-pattern-of-length-m-repeated-k-or-more-times	weekly-contest-204	Q1
+1486.2147876747	2840	Check if Strings Can be Made Equal With Operations II	判断通过操作能否让字符串相等 II	check-if-strings-can-be-made-equal-with-operations-ii	biweekly-contest-112	Q2
 1485.6550472186	1190	Reverse Substrings Between Each Pair of Parentheses	反转每对括号间的子串	reverse-substrings-between-each-pair-of-parentheses	weekly-contest-154	Q2
 1485.1354012690	1418	Display Table of Food Orders in a Restaurant	点菜展示表	display-table-of-food-orders-in-a-restaurant	weekly-contest-185	Q2
 1484.8385256564	2789	Largest Element in an Array after Merge Operations	合并后数组中的最大元素	largest-element-in-an-array-after-merge-operations	weekly-contest-355	Q2
@@ -1371,6 +1377,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1286.3167937403	1047	Remove All Adjacent Duplicates In String	删除字符串中的所有相邻重复项	remove-all-adjacent-duplicates-in-string	weekly-contest-137	Q2
 1285.9726675488	1381	Design a Stack With Increment Operation	设计一个支持增量操作的栈	design-a-stack-with-increment-operation	weekly-contest-180	Q2
 1285.7282180721	860	Lemonade Change	柠檬水找零	lemonade-change	weekly-contest-91	Q1
+1285.1547123119	2839	Check if Strings Can be Made Equal With Operations I	判断通过操作能否让字符串相等 I	check-if-strings-can-be-made-equal-with-operations-i	biweekly-contest-112	Q1
 1284.4514662456	1720	Decode XORed Array	解码异或后的数组	decode-xored-array	weekly-contest-223	Q1
 1284.3625733813	1481	Least Number of Unique Integers after K Removals	不同整数的最少数目	least-number-of-unique-integers-after-k-removals	weekly-contest-193	Q2
 1283.6412252736	2303	Calculate Amount Paid in Taxes	计算应缴税款总额	calculate-amount-paid-in-taxes	weekly-contest-297	Q1
@@ -1403,6 +1410,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1271.3776510163	1556	Thousand Separator	千位分隔数	thousand-separator	biweekly-contest-33	Q1
 1271.3313760514	925	Long Pressed Name	长按键入	long-pressed-name	weekly-contest-107	Q1
 1270.6712381632	2363	Merge Similar Items	合并相似的物品	merge-similar-items	biweekly-contest-84	Q1
+1269.8118442786	2843	  Count Symmetric Integers	统计对称整数的数目	count-symmetric-integers	weekly-contest-361	Q1
 1269.7567553523	2032	Two Out of Three	至少在两个数组中出现的值	two-out-of-three	weekly-contest-262	Q1
 1268.5768566953	1447	Simplified Fractions	最简分数	simplified-fractions	biweekly-contest-26	Q2
 1268.0287696194	2325	Decode the Message	解密消息	decode-the-message	weekly-contest-300	Q1
