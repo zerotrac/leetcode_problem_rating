@@ -207,6 +207,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2214.4798747386	1889	Minimum Space Wasted From Packaging	装包裹的最小浪费空间	minimum-space-wasted-from-packaging	weekly-contest-244	Q4
 2210.3503183571	992	Subarrays with K Different Integers	K 个不同整数的子数组	subarrays-with-k-different-integers	weekly-contest-123	Q4
 2209.8815936961	2081	Sum of k-Mirror Numbers	k 镜像数字的和	sum-of-k-mirror-numbers	weekly-contest-268	Q4
+2209.8785430371	2876	Count Visited Nodes in a Directed Graph	有向图访问计数	count-visited-nodes-in-a-directed-graph	weekly-contest-365	Q4
 2208.5532172086	1568	Minimum Number of Days to Disconnect Island	使陆地分离的最少天数	minimum-number-of-days-to-disconnect-island	weekly-contest-204	Q3
 2207.8565809952	1649	Create Sorted Array through Instructions	通过指令创建有序数组	create-sorted-array-through-instructions	weekly-contest-214	Q4
 2207.4917475411	2835	Minimum Operations to Form Subsequence With Target Sum	使子序列的和等于目标的最少操作次数	minimum-operations-to-form-subsequence-with-target-sum	weekly-contest-360	Q3
@@ -478,6 +479,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1916.0689858272	1043	Partition Array for Maximum Sum	分隔数组以得到最大和	partition-array-for-maximum-sum	weekly-contest-136	Q3
 1915.2628132733	2594	Minimum Time to Repair Cars	修车的最少时间	minimum-time-to-repair-cars	biweekly-contest-100	Q4
 1914.6717285348	2147	Number of Ways to Divide a Long Corridor	分隔长廊的方案数	number-of-ways-to-divide-a-long-corridor	biweekly-contest-70	Q4
+1913.9308694730	2875	Minimum Size Subarray in Infinite Array	无限数组的最短子数组	minimum-size-subarray-in-infinite-array	weekly-contest-365	Q3
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	二叉搜索子树的最大键值和	maximum-sum-bst-in-binary-tree	biweekly-contest-21	Q4
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	得到山形数组的最少删除次数	minimum-number-of-removals-to-make-mountain-array	biweekly-contest-40	Q4
 1912.8440554296	1898	Maximum Number of Removable Characters	可移除字符的最大数目	maximum-number-of-removable-characters	weekly-contest-245	Q2
@@ -896,6 +898,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1588.3835994255	1764	Form Array by Concatenating Subarrays of Another Array	通过连接另一个数组的子数组得到一个数组	form-array-by-concatenating-subarrays-of-another-array	biweekly-contest-46	Q2
 1585.5793143983	1030	Matrix Cells in Distance Order	距离顺序排列矩阵单元格	matrix-cells-in-distance-order	weekly-contest-133	Q2
 1583.3117784523	2536	Increment Submatrices by One	子矩阵元素加 1	increment-submatrices-by-one	weekly-contest-328	Q2
+1583.2129662240	2874	Maximum Value of an Ordered Triplet II	有序三元组中的最大值 II	maximum-value-of-an-ordered-triplet-ii	weekly-contest-365	Q2
 1581.4963716166	2211	Count Collisions on a Road	统计道路上的碰撞次数	count-collisions-on-a-road	weekly-contest-285	Q2
 1580.9748095835	2765	Longest Alternating Subarray	最长交替子序列	longest-alternating-subarray	biweekly-contest-108	Q1
 1580.3620959714	1839	Longest Substring Of All Vowels in Order	所有元音按顺序排布的最长子字符串	longest-substring-of-all-vowels-in-order	weekly-contest-238	Q3
@@ -1423,6 +1426,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1271.3776510163	1556	Thousand Separator	千位分隔数	thousand-separator	biweekly-contest-33	Q1
 1271.3313760514	925	Long Pressed Name	长按键入	long-pressed-name	weekly-contest-107	Q1
 1270.6712381632	2363	Merge Similar Items	合并相似的物品	merge-similar-items	biweekly-contest-84	Q1
+1270.0775640451	2873	Maximum Value of an Ordered Triplet I	有序三元组中的最大值 I	maximum-value-of-an-ordered-triplet-i	weekly-contest-365	Q1
 1269.8118442786	2843	  Count Symmetric Integers	统计对称整数的数目	count-symmetric-integers	weekly-contest-361	Q1
 1269.7567553523	2032	Two Out of Three	至少在两个数组中出现的值	two-out-of-three	weekly-contest-262	Q1
 1268.5768566953	1447	Simplified Fractions	最简分数	simplified-fractions	biweekly-contest-26	Q2
