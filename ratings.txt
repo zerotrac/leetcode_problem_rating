@@ -84,6 +84,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2429.6705422448	782	Transform to Chessboard	变为棋盘	transform-to-chessboard	weekly-contest-71	Q4
 2429.0940568399	1998	GCD Sort of an Array	数组的最大公因数排序	gcd-sort-of-an-array	weekly-contest-257	Q4
 2428.7985254341	1044	Longest Duplicate Substring	最长重复子串	longest-duplicate-substring	weekly-contest-136	Q4
+2428.3242593838	2867	Count Valid Paths in a Tree	统计树中的合法路径数目	count-valid-paths-in-a-tree	weekly-contest-364	Q4
 2424.6761561972	2742	Painting the Walls	给墙壁刷油漆	painting-the-walls	weekly-contest-350	Q4
 2422.5309771173	1000	Minimum Cost to Merge Stones	合并石头的最低成本	minimum-cost-to-merge-stones	weekly-contest-126	Q4
 2422.3128048015	1987	Number of Unique Good Subsequences	不同的好子序列数目	number-of-unique-good-subsequences	weekly-contest-256	Q4
@@ -317,6 +318,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2073.0480193170	2845	Count of Interesting Subarrays	统计趣味子数组的数目	count-of-interesting-subarrays	weekly-contest-361	Q3
 2073.0124645606	1850	Minimum Adjacent Swaps to Reach the Kth Smallest Number	邻位交换的最小次数	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	weekly-contest-239	Q3
 2072.7264178313	1799	Maximize Score After N Operations	N 次操作后的最大分数和	maximize-score-after-n-operations	biweekly-contest-48	Q4
+2071.6322841217	2866	Beautiful Towers II	美丽塔 II	beautiful-towers-ii	weekly-contest-364	Q3
 2071.3208991938	2607	Make K-Subarray Sums Equal	使子数组元素和相等	make-k-subarray-sums-equal	biweekly-contest-101	Q3
 2070.2102619334	1808	Maximize Number of Nice Divisors	好因子的最大数目	maximize-number-of-nice-divisors	weekly-contest-234	Q4
 2069.7848729824	2514	Count Anagrams	统计同位异构字符串数目	count-anagrams	biweekly-contest-94	Q4
@@ -979,6 +981,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1521.9977490324	1615	Maximal Network Rank	最大网络秩	maximal-network-rank	weekly-contest-210	Q2
 1521.7133617698	1763	Longest Nice Substring	最长的美好子字符串	longest-nice-substring	biweekly-contest-46	Q1
 1521.1768537583	1041	Robot Bounded In Circle	困于环中的机器人	robot-bounded-in-circle	weekly-contest-136	Q1
+1519.2070276362	2865	Beautiful Towers I	美丽塔 I	beautiful-towers-i	weekly-contest-364	Q2
 1519.1715594347	1641	Count Sorted Vowel Strings	统计字典序元音字符串的数目	count-sorted-vowel-strings	weekly-contest-213	Q2
 1517.8263048447	2683	Neighboring Bitwise XOR	相邻值的按位异或	neighboring-bitwise-xor	weekly-contest-345	Q2
 1516.8229485853	775	Global and Local Inversions	全局倒置与局部倒置	global-and-local-inversions	weekly-contest-69	Q2
@@ -1500,6 +1503,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1240.8297581760	2078	Two Furthest Houses With Different Colors	两栋颜色不同且距离最远的房子	two-furthest-houses-with-different-colors	weekly-contest-268	Q1
 1239.1621762681	2788	Split Strings by Separator	按分隔符拆分字符串	split-strings-by-separator	weekly-contest-355	Q1
 1237.7565585875	1422	Maximum Score After Splitting a String	分割字符串的最大得分	maximum-score-after-splitting-a-string	weekly-contest-186	Q1
+1237.6934646090	2864	Maximum Odd Binary Number	最大二进制奇数	maximum-odd-binary-number	weekly-contest-364	Q1
 1235.9216009709	2149	Rearrange Array Elements by Sign	按符号重排数组	rearrange-array-elements-by-sign	weekly-contest-277	Q2
 1235.8413685224	2154	Keep Multiplying Found Values by Two	将找到的值乘以 2	keep-multiplying-found-values-by-two	weekly-contest-278	Q1
 1235.6114196155	1816	Truncate Sentence	截断句子	truncate-sentence	weekly-contest-235	Q1
