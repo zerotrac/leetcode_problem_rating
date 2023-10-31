@@ -31,6 +31,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2615.1468269481	2338	Count the Number of Ideal Arrays	统计理想数组的数目	count-the-number-of-ideal-arrays	weekly-contest-301	Q4
 2610.9906730644	2056	Number of Valid Move Combinations On Chessboard	棋盘上有效移动组合的数目	number-of-valid-move-combinations-on-chessboard	biweekly-contest-64	Q4
 2610.0826855063	1687	Delivering Boxes from Storage to Ports	从仓库到码头运输箱子	delivering-boxes-from-storage-to-ports	biweekly-contest-41	Q4
+2607.9418744903	2911	Minimum Changes to Make K Semi-palindromes	得到 K 个半回文串的最少修改次数	minimum-changes-to-make-k-semi-palindromes	weekly-contest-368	Q4
 2594.1356734520	964	Least Operators to Express Number	表示数字的最少运算符	least-operators-to-express-number	weekly-contest-116	Q4
 2588.8752130913	2532	Time to Cross a Bridge	过桥的时间	time-to-cross-a-bridge	weekly-contest-327	Q4
 2587.8725248485	1883	Minimum Skips to Arrive at Meeting On Time	准时抵达会议现场的最小跳过休息次数	minimum-skips-to-arrive-at-meeting-on-time	weekly-contest-243	Q4
@@ -260,6 +261,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2134.5448970405	910	Smallest Range II	最小差值 II	smallest-range-ii	weekly-contest-103	Q3
 2133.9592509012	1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows	有序矩阵中的第 k 个最小数组和	find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows	weekly-contest-187	Q4
 2133.1003195919	898	Bitwise ORs of Subarrays	子数组按位或操作	bitwise-ors-of-subarrays	weekly-contest-100	Q3
+2132.1944636902	2910	Minimum Number of Groups to Create a Valid Assignment	合法分组的最少组数	minimum-number-of-groups-to-create-a-valid-assignment	weekly-contest-368	Q3
 2132.0623345900	2749	Minimum Operations to Make the Integer Zero	得到整数零需要执行的最少操作数	minimum-operations-to-make-the-integer-zero	weekly-contest-351	Q2
 2131.7917160422	1579	Remove Max Number of Edges to Keep Graph Fully Traversable	保证图可完全遍历	remove-max-number-of-edges-to-keep-graph-fully-traversable	weekly-contest-205	Q4
 2130.9348604091	2076	Process Restricted Friend Requests	处理含限制条件的好友请求	process-restricted-friend-requests	weekly-contest-267	Q4
@@ -1055,6 +1057,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1479.9828219111	2501	Longest Square Streak in an Array	数组中最长的方波	longest-square-streak-in-an-array	weekly-contest-323	Q2
 1479.4837595809	1545	Find Kth Bit in Nth Binary String	找出第 N 个二进制字符串中的第 K 位	find-kth-bit-in-nth-binary-string	weekly-contest-201	Q2
 1479.0110934646	1166	Design File System	设计文件系统	design-file-system	biweekly-contest-7	Q2
+1478.8676835951	2909	Minimum Sum of Mountain Triplets II	元素和最小的山形三元组 II	minimum-sum-of-mountain-triplets-ii	weekly-contest-368	Q2
 1478.3848028264	1390	Four Divisors	四因数	four-divisors	weekly-contest-181	Q2
 1477.7669322402	2645	Minimum Additions to Make Valid String	构造有效字符串的最少插入数	minimum-additions-to-make-valid-string	weekly-contest-341	Q3
 1477.4844514104	951	Flip Equivalent Binary Trees	翻转等价二叉树	flip-equivalent-binary-trees	weekly-contest-113	Q2
@@ -1484,6 +1487,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1255.9002796024	1037	Valid Boomerang	有效的回旋镖	valid-boomerang	weekly-contest-135	Q1
 1255.5461825223	2475	Number of Unequal Triplets in Array	数组中不等三元组的数目	number-of-unequal-triplets-in-array	weekly-contest-320	Q1
 1254.8626139269	1945	Sum of Digits of String After Convert	字符串转化后的各位数字之和	sum-of-digits-of-string-after-convert	weekly-contest-251	Q1
+1253.5161450678	2908	Minimum Sum of Mountain Triplets I	元素和最小的山形三元组 I	minimum-sum-of-mountain-triplets-i	weekly-contest-368	Q1
 1253.4847783954	2283	Check if Number Has Equal Digit Count and Digit Value	判断一个数的数字计数是否等于数位的值	check-if-number-has-equal-digit-count-and-digit-value	biweekly-contest-79	Q1
 1253.1463945043	2194	Cells in a Range on an Excel Sheet	Excel 表中某个范围内的单元格	cells-in-a-range-on-an-excel-sheet	weekly-contest-283	Q1
 1253.1107481745	2186	Minimum Number of Steps to Make Two Strings Anagram II	使两字符串互为字母异位词的最少步骤数	minimum-number-of-steps-to-make-two-strings-anagram-ii	weekly-contest-282	Q2
