@@ -79,6 +79,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2454.7653333657	1900	The Earliest and Latest Rounds Where Players Compete	最佳运动员的比拼回合	the-earliest-and-latest-rounds-where-players-compete	weekly-contest-245	Q4
 2453.9054896968	2463	Minimum Total Distance Traveled	最小移动总距离	minimum-total-distance-traveled	weekly-contest-318	Q4
 2449.1323757838	2127	Maximum Employees to Be Invited to a Meeting	参加会议的最多员工数	maximum-employees-to-be-invited-to-a-meeting	weekly-contest-274	Q4
+2448.4455464535	2926	Maximum Balanced Subsequence Sum	平衡子序列的最大和	maximum-balanced-subsequence-sum	weekly-contest-370	Q4
 2444.6660756903	2421	Number of Good Paths	好路径的数目	number-of-good-paths	weekly-contest-312	Q4
 2439.7337408636	1872	Stone Game VIII	石子游戏 VIII	stone-game-viii	weekly-contest-242	Q4
 2433.3767704629	903	Valid Permutations for DI Sequence	DI 序列的有效排列	valid-permutations-for-di-sequence	weekly-contest-101	Q4
@@ -461,6 +462,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1940.6002290953	2111	Minimum Operations to Make the Array K-Increasing	使数组 K 递增的最少操作次数	minimum-operations-to-make-the-array-k-increasing	weekly-contest-272	Q4
 1940.2116985812	2762	Continuous Subarrays	不间断子数组	continuous-subarrays	weekly-contest-352	Q3
 1939.9323330472	1760	Minimum Limit of Balls in a Bag	袋子里最少数目的球	minimum-limit-of-balls-in-a-bag	weekly-contest-228	Q3
+1939.5601655260	2925	Maximum Score After Applying Operations on a Tree	在树上执行操作以后得到的最大分数	maximum-score-after-applying-operations-on-a-tree	weekly-contest-370	Q3
 1938.6883365596	777	Swap Adjacent in LR String	在LR字符串中交换相邻字符	swap-adjacent-in-lr-string	weekly-contest-70	Q3
 1938.2224916289	866	Prime Palindrome	回文素数	prime-palindrome	weekly-contest-92	Q3
 1938.0586460002	2411	Smallest Subarrays With Maximum Bitwise OR	按位或最大的最小子数组长度	smallest-subarrays-with-maximum-bitwise-or	biweekly-contest-87	Q3
@@ -1130,6 +1132,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1431.6864980883	1170	Compare Strings by Frequency of the Smallest Character	比较字符串最小字母出现频次	compare-strings-by-frequency-of-the-smallest-character	weekly-contest-151	Q2
 1431.0523656241	2415	Reverse Odd Levels of Binary Tree	反转二叉树的奇数层	reverse-odd-levels-of-binary-tree	weekly-contest-311	Q3
 1430.3429533629	1636	Sort Array by Increasing Frequency	按照频率将数组升序排序	sort-array-by-increasing-frequency	biweekly-contest-38	Q1
+1430.3094955812	2924	Find Champion II	找到冠军 II	find-champion-ii	weekly-contest-370	Q2
 1429.6349292399	1357	Apply Discount Every n Orders	每隔 n 个顾客打折	apply-discount-every-n-orders	biweekly-contest-20	Q2
 1429.1878389249	988	Smallest String Starting From Leaf	从叶结点开始的最小字符串	smallest-string-starting-from-leaf	weekly-contest-122	Q2
 1428.7246677159	2711	Difference of Number of Distinct Values on Diagonals	对角线上不同值的数量差	difference-of-number-of-distinct-values-on-diagonals	weekly-contest-347	Q2
@@ -1536,6 +1539,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1237.6934646090	2864	Maximum Odd Binary Number	最大二进制奇数	maximum-odd-binary-number	weekly-contest-364	Q1
 1235.9216009709	2149	Rearrange Array Elements by Sign	按符号重排数组	rearrange-array-elements-by-sign	weekly-contest-277	Q2
 1235.8413685224	2154	Keep Multiplying Found Values by Two	将找到的值乘以 2	keep-multiplying-found-values-by-two	weekly-contest-278	Q1
+1235.6484230513	2923	Find Champion I	找到冠军 I	find-champion-i	weekly-contest-370	Q1
 1235.6114196155	1816	Truncate Sentence	截断句子	truncate-sentence	weekly-contest-235	Q1
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	两个数组间的距离值	find-the-distance-value-between-two-arrays	biweekly-contest-22	Q1
 1234.7692637513	989	Add to Array-Form of Integer	数组形式的整数加法	add-to-array-form-of-integer	weekly-contest-123	Q1
