@@ -197,6 +197,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	访问完所有房间的第一天	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257	Q3
 2259.6572191969	857	Minimum Cost to Hire K Workers	雇佣 K 名工人的最低成本	minimum-cost-to-hire-k-workers	weekly-contest-90	Q4
 2258.6371797452	864	Shortest Path to Get All Keys	获取所有钥匙的最短路径	shortest-path-to-get-all-keys	weekly-contest-92	Q4
+2258.0069047781	3007	Maximum Number That Sum of the Prices Is Less Than or Equal to K	价值和小于等于 K 的最大数字	maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k	weekly-contest-380	Q3
 2250.9318291559	1125	Smallest Sufficient Team	最小的必要团队	smallest-sufficient-team	weekly-contest-145	Q4
 2250.2578740769	1199	Minimum Time to Build Blocks	建造街区的最短时间	minimum-time-to-build-blocks	biweekly-contest-9	Q4
 2250.0454791316	1307	Verbal Arithmetic Puzzle	口算难题	verbal-arithmetic-puzzle	weekly-contest-169	Q4
@@ -407,6 +408,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2020.6775180586	2517	Maximum Tastiness of Candy Basket	礼盒的最大甜蜜度	maximum-tastiness-of-candy-basket	weekly-contest-325	Q3
 2019.9859462755	2547	Minimum Cost to Split an Array	拆分数组的最小代价	minimum-cost-to-split-an-array	weekly-contest-329	Q4
 2019.5399647546	909	Snakes and Ladders	蛇梯棋	snakes-and-ladders	weekly-contest-103	Q2
+2016.2085876254	3008	Find Beautiful Indices in the Given Array II	找出数组中的美丽下标 II	find-beautiful-indices-in-the-given-array-ii	weekly-contest-380	Q4
 2015.7291888336	1353	Maximum Number of Events That Can Be Attended	最多可以参加的会议数目	maximum-number-of-events-that-can-be-attended	weekly-contest-176	Q3
 2014.7655493665	1354	Construct Target Array With Multiple Sums	多次求和构造目标数组	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
 2014.2979320644	1105	Filling Bookcase Shelves	填充书架	filling-bookcase-shelves	weekly-contest-143	Q3
@@ -1098,6 +1100,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1481.9608077860	1807	Evaluate the Bracket Pairs of a String	替换字符串中的括号内容	evaluate-the-bracket-pairs-of-a-string	weekly-contest-234	Q3
 1481.5701319876	1167	Minimum Cost to Connect Sticks	连接棒材的最低费用	minimum-cost-to-connect-sticks	biweekly-contest-7	Q3
 1481.1046340847	2380	Time Needed to Rearrange a Binary String	二进制字符串重新安排顺序需要的时间	time-needed-to-rearrange-a-binary-string	biweekly-contest-85	Q2
+1480.1120711991	3006	Find Beautiful Indices in the Given Array I	找出数组中的美丽下标 I	find-beautiful-indices-in-the-given-array-i	weekly-contest-380	Q2
 1480.1116248664	1087	Brace Expansion	花括号展开	brace-expansion	biweekly-contest-2	Q3
 1479.9828219111	2501	Longest Square Streak in an Array	数组中最长的方波	longest-square-streak-in-an-array	weekly-contest-323	Q2
 1479.6908339113	2914	Minimum Number of Changes to Make Binary String Beautiful	使二进制字符串变美丽的最少修改次数	minimum-number-of-changes-to-make-binary-string-beautiful	biweekly-contest-116	Q2
@@ -1627,6 +1630,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1218.9011436003	2442	Count Number of Distinct Integers After Reverse Operations	反转之后不同整数的数目	count-number-of-distinct-integers-after-reverse-operations	weekly-contest-315	Q2
 1218.1083231462	2859	Sum of Values at Indices With K Set Bits	计算 K 置位下标对应元素的和	sum-of-values-at-indices-with-k-set-bits	weekly-contest-363	Q1
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	检查两个字符串数组是否相等	check-if-two-string-arrays-are-equivalent	weekly-contest-216	Q1
+1216.9550221615	3005	Count Elements With Maximum Frequency	最大频率元素计数	count-elements-with-maximum-frequency	weekly-contest-380	Q1
 1216.6376846517	1848	Minimum Distance to the Target Element	到目标元素的最小距离	minimum-distance-to-the-target-element	weekly-contest-239	Q1
 1216.6129188490	2553	Separate the Digits in an Array	分割数组中数字的数位	separate-the-digits-in-an-array	biweekly-contest-97	Q1
 1215.7827321325	2176	Count Equal and Divisible Pairs in an Array	统计数组中相等且可以被整除的数对	count-equal-and-divisible-pairs-in-an-array	biweekly-contest-72	Q1
