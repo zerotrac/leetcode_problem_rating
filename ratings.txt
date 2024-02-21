@@ -541,6 +541,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1896.7975214446	878	Nth Magical Number	第 N 个神奇数字	nth-magical-number	weekly-contest-95	Q3
 1896.4053993495	3030	Find the Grid of Region Average	找出网格的区域平均强度	find-the-grid-of-region-average	weekly-contest-383	Q3
 1896.1411567598	1871	Jump Game VII	跳跃游戏 VII	jump-game-vii	weekly-contest-242	Q3
+1894.5496928891	3036	Number of Subarrays That Match a Pattern II	匹配模式数组的子数组数目 II	number-of-subarrays-that-match-a-pattern-ii	weekly-contest-384	Q4
 1893.5143805402	2327	Number of People Aware of a Secret	知道秘密的人数	number-of-people-aware-of-a-secret	weekly-contest-300	Q3
 1892.1600619469	1722	Minimize Hamming Distance After Swap Operations	执行交换操作后的最小汉明距离	minimize-hamming-distance-after-swap-operations	weekly-contest-223	Q3
 1891.8455273506	2537	Count the Number of Good Subarrays	统计好子数组的数目	count-the-number-of-good-subarrays	weekly-contest-328	Q3
@@ -585,6 +586,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	你能在你最喜欢的那天吃到你最喜欢的糖果吗？	can-you-eat-your-favorite-candy-on-your-favorite-day	weekly-contest-226	Q3
 1857.6431822094	1584	Min Cost to Connect All Points	连接所有点的最小费用	min-cost-to-connect-all-points	weekly-contest-206	Q3
 1856.8610192187	2266	Count Number of Texts	统计打字方案数	count-number-of-texts	weekly-contest-292	Q3
+1856.6336926997	3035	Maximum Palindromes After Operations	回文字符串的最大数量	maximum-palindromes-after-operations	weekly-contest-384	Q3
 1855.5957296285	799	Champagne Tower	香槟塔	champagne-tower	weekly-contest-75	Q3
 1855.5611536940	2800	Shortest String That Contains Three Strings	包含三个字符串的最短字符串	shortest-string-that-contains-three-strings	weekly-contest-356	Q3
 1855.4479039876	1202	Smallest String With Swaps	交换字符串中的元素	smallest-string-with-swaps	weekly-contest-155	Q3
@@ -1281,6 +1283,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1386.1200017827	2530	Maximal Score After Applying K Operations	执行 K 次操作后的最大分数	maximal-score-after-applying-k-operations	weekly-contest-327	Q2
 1384.4078082338	1271	Hexspeak	十六进制魔术数字	hexspeak	biweekly-contest-14	Q1
 1384.0226911434	2091	Removing Minimum and Maximum From Array	从数组中移除最大值和最小值	removing-minimum-and-maximum-from-array	weekly-contest-269	Q3
+1383.7751035280	3034	Number of Subarrays That Match a Pattern I	匹配模式数组的子数组数目 I	number-of-subarrays-that-match-a-pattern-i	weekly-contest-384	Q2
 1383.4424411643	762	Prime Number of Set Bits in Binary Representation	二进制表示中质数个计算置位	prime-number-of-set-bits-in-binary-representation	weekly-contest-67	Q1
 1382.7606078230	1318	Minimum Flips to Make a OR b Equal to c	或运算的最小翻转次数	minimum-flips-to-make-a-or-b-equal-to-c	weekly-contest-171	Q2
 1382.7178688716	849	Maximize Distance to Closest Person	到最近的人的最大距离	maximize-distance-to-closest-person	weekly-contest-88	Q2
@@ -1712,6 +1715,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1181.9716216714	1189	Maximum Number of Balloons	“气球” 的最大数量	maximum-number-of-balloons	weekly-contest-154	Q1
 1181.5839867359	852	Peak Index in a Mountain Array	山脉数组的峰顶索引	peak-index-in-a-mountain-array	weekly-contest-89	Q1
 1180.9236239060	1486	XOR Operation in an Array	数组异或操作	xor-operation-in-an-array	weekly-contest-194	Q1
+1180.5927490268	3033	Modify the Matrix	修改矩阵	modify-the-matrix	weekly-contest-384	Q1
 1180.3543157775	1441	Build an Array With Stack Operations	用栈操作构建数组	build-an-array-with-stack-operations	weekly-contest-188	Q1
 1179.1495967491	1287	Element Appearing More Than 25% In Sorted Array	有序数组中出现次数超过25%的元素	element-appearing-more-than-25-in-sorted-array	biweekly-contest-15	Q1
 1178.6580069402	2586	Count the Number of Vowel Strings in Range	统计范围内的元音字符串数	count-the-number-of-vowel-strings-in-range	weekly-contest-336	Q1

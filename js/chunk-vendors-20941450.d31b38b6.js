@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkrating"]=self["webpackChunkrating"]||[]).push([[672],{1e3:function(n,c,e){e.d(c,{c:function(){return a}});var t=e(8744),u=e(4776),r=e(1584),a=(0,t.I)([...u.c,...r.c])}}]);
