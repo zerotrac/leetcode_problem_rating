@@ -1781,7 +1781,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1140.0534541481	2894	Divisible and Non-divisible Sums Difference	分类求和并作差	divisible-and-non-divisible-sums-difference	weekly-contest-366	Q1
 1139.6630206282	1295	Find Numbers with Even Number of Digits	统计位数为偶数的数字	find-numbers-with-even-number-of-digits	weekly-contest-168	Q1
 1139.4248492279	1351	Count Negative Numbers in a Sorted Matrix	统计有序矩阵中的负数	count-negative-numbers-in-a-sorted-matrix	weekly-contest-176	Q1
-1134.7862697576	3024	Type of Triangle II	三角形类型 II	type-of-triangle	biweekly-contest-123	Q1
+1134.7862697576	3024	Type of Triangle	三角形类型	type-of-triangle	biweekly-contest-123	Q1
 1132.6812943289	1929	Concatenation of Array	数组串联	concatenation-of-array	weekly-contest-249	Q1
 1129.9490902320	977	Squares of a Sorted Array	有序数组的平方	squares-of-a-sorted-array	weekly-contest-120	Q1
 1129.3432988996	1450	Number of Students Doing Homework at a Given Time	在既定时间做作业的学生人数	number-of-students-doing-homework-at-a-given-time	weekly-contest-189	Q1
