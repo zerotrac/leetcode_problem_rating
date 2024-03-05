@@ -1,4 +1,5 @@
 Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
+3111.1274320356	3049	Earliest Second to Mark Indices II	标记所有下标的最早秒数 II	earliest-second-to-mark-indices-ii	weekly-contest-386	Q4
 3039.3003256659	3003	Maximize the Number of Partitions After Operations	执行操作后的最大分割数量	maximize-the-number-of-partitions-after-operations	weekly-contest-379	Q4
 3018.4940165727	1719	Number Of Ways To Reconstruct A Tree	重构一棵树的方案数	number-of-ways-to-reconstruct-a-tree	biweekly-contest-43	Q4
 2978.7961959355	2809	Minimum Time to Make Array Sum At Most x	使数组和小于等于 x 的最少时间	minimum-time-to-make-array-sum-at-most-x	biweekly-contest-110	Q4
@@ -199,6 +200,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2272.4412003208	2179	Count Good Triplets in an Array	统计数组中好三元组数目	count-good-triplets-in-an-array	biweekly-contest-72	Q4
 2272.1122260637	952	Largest Component Size by Common Factor	按公因数计算最大组件大小	largest-component-size-by-common-factor	weekly-contest-113	Q4
 2265.2118886972	2141	Maximum Running Time of N Computers	同时运行 N 台电脑的最长时间	maximum-running-time-of-n-computers	weekly-contest-276	Q4
+2262.5641910108	3048	Earliest Second to Mark Indices I	标记所有下标的最早秒数 I	earliest-second-to-mark-indices-i	weekly-contest-386	Q3
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	访问完所有房间的第一天	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257	Q3
 2259.6572191969	857	Minimum Cost to Hire K Workers	雇佣 K 名工人的最低成本	minimum-cost-to-hire-k-workers	weekly-contest-90	Q4
 2258.6371797452	864	Shortest Path to Get All Keys	获取所有钥匙的最短路径	shortest-path-to-get-all-keys	weekly-contest-92	Q4
@@ -946,6 +948,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1604.0695445163	2316	Count Unreachable Pairs of Nodes in an Undirected Graph	统计无向图中无法互相到达点对数	count-unreachable-pairs-of-nodes-in-an-undirected-graph	biweekly-contest-81	Q2
 1602.7742849665	2447	Number of Subarrays With GCD Equal to K	最大公因数等于 K 的子数组数目	number-of-subarrays-with-gcd-equal-to-k	weekly-contest-316	Q2
 1602.7242171967	2249	Count Lattice Points Inside a Circle	统计圆内格点数目	count-lattice-points-inside-a-circle	weekly-contest-290	Q2
+1601.7402292728	3047	Find the Largest Area of Square Inside Two Rectangles	求交集区域内的最大正方形面积	find-the-largest-area-of-square-inside-two-rectangles	weekly-contest-386	Q2
 1601.5117605320	926	Flip String to Monotone Increasing	将字符串翻转到单调递增	flip-string-to-monotone-increasing	weekly-contest-107	Q2
 1600.5573262373	1864	Minimum Number of Swaps to Make the Binary String Alternating	构成交替字符串需要的最小交换次数	minimum-number-of-swaps-to-make-the-binary-string-alternating	weekly-contest-241	Q2
 1599.2720584736	1048	Longest String Chain	最长字符串链	longest-string-chain	weekly-contest-137	Q3
@@ -1668,6 +1671,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1213.4070467355	2656	Maximum Sum With Exactly K Elements 	K 个元素的最大和	maximum-sum-with-exactly-k-elements	biweekly-contest-103	Q1
 1212.2606422181	1475	Final Prices With a Special Discount in a Shop	商品折扣后的最终价格	final-prices-with-a-special-discount-in-a-shop	biweekly-contest-28	Q1
 1212.2309421538	1413	Minimum Value to Get Positive Step by Step Sum	逐步求和得到正数的最小值	minimum-value-to-get-positive-step-by-step-sum	biweekly-contest-24	Q1
+1212.2079075334	3046	Split the Array	分割数组	split-the-array	weekly-contest-386	Q1
 1209.6571020247	1822	Sign of the Product of an Array	数组元素积的符号	sign-of-the-product-of-an-array	weekly-contest-236	Q1
 1209.3722198224	1523	Count Odd Numbers in an Interval Range	在区间范围内统计奇数数目	count-odd-numbers-in-an-interval-range	biweekly-contest-31	Q1
 1208.0417047337	1389	Create Target Array in the Given Order	按既定顺序创建目标数组	create-target-array-in-the-given-order	weekly-contest-181	Q1
@@ -1777,7 +1781,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1140.0534541481	2894	Divisible and Non-divisible Sums Difference	分类求和并作差	divisible-and-non-divisible-sums-difference	weekly-contest-366	Q1
 1139.6630206282	1295	Find Numbers with Even Number of Digits	统计位数为偶数的数字	find-numbers-with-even-number-of-digits	weekly-contest-168	Q1
 1139.4248492279	1351	Count Negative Numbers in a Sorted Matrix	统计有序矩阵中的负数	count-negative-numbers-in-a-sorted-matrix	weekly-contest-176	Q1
-1134.7862697576	3024	Type of Triangle II	三角形类型 II	type-of-triangle-ii	biweekly-contest-123	Q1
+1134.7862697576	3024	Type of Triangle II	三角形类型 II	type-of-triangle	biweekly-contest-123	Q1
 1132.6812943289	1929	Concatenation of Array	数组串联	concatenation-of-array	weekly-contest-249	Q1
 1129.9490902320	977	Squares of a Sorted Array	有序数组的平方	squares-of-a-sorted-array	weekly-contest-120	Q1
 1129.3432988996	1450	Number of Students Doing Homework at a Given Time	在既定时间做作业的学生人数	number-of-students-doing-homework-at-a-given-time	weekly-contest-189	Q1
