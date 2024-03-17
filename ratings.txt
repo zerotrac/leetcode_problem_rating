@@ -55,6 +55,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2561.5081492160	2234	Maximum Total Beauty of the Gardens	花园的最大总美丽值	maximum-total-beauty-of-the-gardens	weekly-contest-288	Q4
 2559.4351004238	1815	Maximum Number of Groups Getting Fresh Donuts	得到新鲜甜甜圈的最多组数	maximum-number-of-groups-getting-fresh-donuts	biweekly-contest-49	Q4
 2558.3297484354	2014	Longest Subsequence Repeated k Times	重复 K 次的最长子序列	longest-subsequence-repeated-k-times	weekly-contest-259	Q4
+2556.5072256577	3077	Maximum Strength of K Disjoint Subarrays	K 个不相交子数组的最大能量值	maximum-strength-of-k-disjoint-subarrays	weekly-contest-388	Q4
 2540.4381507360	3013	Divide an Array Into Subarrays With Minimum Cost II	将数组分成最小总代价的子数组 II	divide-an-array-into-subarrays-with-minimum-cost-ii	biweekly-contest-122	Q4
 2539.8637263970	1819	Number of Different Subsequences GCDs	序列中不同最大公约数的数目	number-of-different-subsequences-gcds	weekly-contest-235	Q4
 2537.7965575726	1595	Minimum Cost to Connect Two Groups of Points	连通两组点的最小成本	minimum-cost-to-connect-two-groups-of-points	weekly-contest-207	Q4
@@ -906,6 +907,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1636.6877598712	1386	Cinema Seat Allocation	安排电影院座位	cinema-seat-allocation	biweekly-contest-22	Q2
 1636.4732262700	2384	Largest Palindromic Number	最大回文数字	largest-palindromic-number	weekly-contest-307	Q2
 1635.6879273926	1899	Merge Triplets to Form Target Triplet	合并若干三元组以形成目标三元组	merge-triplets-to-form-target-triplet	weekly-contest-245	Q3
+1635.1802054842	3076	Shortest Uncommon Substring in an Array	数组中的最短非公共子字符串	shortest-uncommon-substring-in-an-array	weekly-contest-388	Q3
 1635.1520858279	2471	Minimum Number of Operations to Sort a Binary Tree by Level	逐层排序二叉树所需的最少操作数目	minimum-number-of-operations-to-sort-a-binary-tree-by-level	weekly-contest-319	Q3
 1633.6202302555	1466	Reorder Routes to Make All Paths Lead to the City Zero	重新规划路线	reorder-routes-to-make-all-paths-lead-to-the-city-zero	weekly-contest-191	Q3
 1633.1789521619	1053	Previous Permutation With One Swap	交换一次的先前排列	previous-permutation-with-one-swap	weekly-contest-138	Q3
@@ -1414,6 +1416,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1328.5131477260	1812	Determine Color of a Chessboard Square	判断国际象棋棋盘中一个格子的颜色	determine-color-of-a-chessboard-square	biweekly-contest-49	Q1
 1327.0282989915	1086	High Five	前五科的均分	high-five	biweekly-contest-2	Q2
 1326.4047670018	1476	Subrectangle Queries	子矩形查询	subrectangle-queries	biweekly-contest-28	Q2
+1325.8053802920	3075	Maximize Happiness of Selected Children	幸福值最大化的选择方案	maximize-happiness-of-selected-children	weekly-contest-388	Q2
 1325.3607218257	2073	Time Needed to Buy Tickets	买票需要的时间	time-needed-to-buy-tickets	weekly-contest-267	Q1
 1324.5696223867	1344	Angle Between Hands of a Clock	时钟指针的夹角	angle-between-hands-of-a-clock	biweekly-contest-19	Q3
 1324.5320836804	1752	Check if Array Is Sorted and Rotated	检查数组是否经排序和轮转得到	check-if-array-is-sorted-and-rotated	weekly-contest-227	Q1
@@ -1710,6 +1713,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1198.8420836551	2678	Number of Senior Citizens	老人的数目	number-of-senior-citizens	biweekly-contest-104	Q1
 1198.5705825982	1200	Minimum Absolute Difference	最小绝对差	minimum-absolute-difference	weekly-contest-155	Q1
 1198.4180401014	985	Sum of Even Numbers After Queries	查询后的偶数和	sum-of-even-numbers-after-queries	weekly-contest-122	Q1
+1197.5462481787	3074	Apple Redistribution into Boxes	重新分装苹果	apple-redistribution-into-boxes	weekly-contest-388	Q1
 1195.9731842298	2529	Maximum Count of Positive Integer and Negative Integer	正整数和负整数的最大计数	maximum-count-of-positive-integer-and-negative-integer	weekly-contest-327	Q1
 1195.7512695571	1207	Unique Number of Occurrences	独一无二的出现次数	unique-number-of-occurrences	weekly-contest-156	Q1
 1193.9819783429	1323	Maximum 69 Number	6 和 9 组成的最大数字	maximum-69-number	weekly-contest-172	Q1
