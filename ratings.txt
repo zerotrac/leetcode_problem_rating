@@ -237,6 +237,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2220.0903365738	2223	Sum of Scores of Built Strings	构造字符串的总得分和	sum-of-scores-of-built-strings	biweekly-contest-75	Q4
 2219.3465296423	2167	Minimum Time to Remove All Cars Containing Illegal Goods	移除所有载有违禁货物车厢所需的最少时间	minimum-time-to-remove-all-cars-containing-illegal-goods	weekly-contest-279	Q4
 2217.8090802563	2025	Maximum Number of Ways to Partition an Array	分割数组的最多方案数	maximum-number-of-ways-to-partition-an-array	biweekly-contest-62	Q4
+2215.7283064325	3102	Minimize Manhattan Distances	最小化曼哈顿距离	minimize-manhattan-distances	weekly-contest-391	Q4
 2214.4798747386	1889	Minimum Space Wasted From Packaging	装包裹的最小浪费空间	minimum-space-wasted-from-packaging	weekly-contest-244	Q4
 2210.3503183571	992	Subarrays with K Different Integers	K 个不同整数的子数组	subarrays-with-k-different-integers	weekly-contest-123	Q4
 2209.8815936961	2081	Sum of k-Mirror Numbers	k 镜像数字的和	sum-of-k-mirror-numbers	weekly-contest-268	Q4
@@ -1274,6 +1275,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1405.4005354401	1410	HTML Entity Parser	HTML 实体解析器	html-entity-parser	weekly-contest-184	Q3
 1405.1231882640	2734	Lexicographically Smallest String After Substring Operation	执行子串操作后的字典序最小字符串	lexicographically-smallest-string-after-substring-operation	weekly-contest-349	Q2
 1405.0021415178	1457	Pseudo-Palindromic Paths in a Binary Tree	二叉树中的伪回文路径	pseudo-palindromic-paths-in-a-binary-tree	weekly-contest-190	Q3
+1404.9707095328	3101	Count Alternating Subarrays	交替子数组计数	count-alternating-subarrays	weekly-contest-391	Q3
 1404.7016862187	1237	Find Positive Integer Solution for a Given Equation	找出给定方程的正整数解	find-positive-integer-solution-for-a-given-equation	weekly-contest-160	Q1
 1404.1839222000	1700	Number of Students Unable to Eat Lunch	无法吃午餐的学生数量	number-of-students-unable-to-eat-lunch	biweekly-contest-42	Q1
 1402.0863615706	1508	Range Sum of Sorted Subarray Sums	子数组和排序后的区间和	range-sum-of-sorted-subarray-sums	biweekly-contest-30	Q2
@@ -1353,6 +1355,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1368.0043517215	1576	Replace All ?'s to Avoid Consecutive Repeating Characters	替换所有的问号	replace-all-s-to-avoid-consecutive-repeating-characters	weekly-contest-205	Q1
 1367.0197235097	2515	Shortest Distance to Target String in a Circular Array	到目标字符串的最短距离	shortest-distance-to-target-string-in-a-circular-array	weekly-contest-325	Q1
 1366.6789652398	2433	Find The Original Array of Prefix Xor	找出前缀异或的原始数组	find-the-original-array-of-prefix-xor	weekly-contest-314	Q2
+1366.2964979576	3100	Water Bottles II	换水问题 II	water-bottles-ii	weekly-contest-391	Q2
 1365.2269076492	2231	Largest Number After Digit Swaps by Parity	按奇偶性交换后的最大数字	largest-number-after-digit-swaps-by-parity	weekly-contest-288	Q1
 1364.6787168645	2260	Minimum Consecutive Cards to Pick Up	必须拿起的最小连续卡牌数	minimum-consecutive-cards-to-pick-up	weekly-contest-291	Q2
 1364.1548599180	1974	Minimum Time to Type Word Using Special Typewriter	使用特殊打字机键入单词的最少时间	minimum-time-to-type-word-using-special-typewriter	biweekly-contest-59	Q1
@@ -1819,4 +1822,5 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1118.1080334618	1394	Find Lucky Integer in an Array	找出数组中的幸运数	find-lucky-integer-in-an-array	weekly-contest-182	Q1
 1115.8258444602	3028	Ant on the Boundary	边界上的蚂蚁	ant-on-the-boundary	weekly-contest-383	Q1
 1104.7359028407	1480	Running Sum of 1d Array	一维数组的动态和	running-sum-of-1d-array	weekly-contest-193	Q1
+1100.5332505219	3099	Harshad Number	哈沙德数	harshad-number	weekly-contest-391	Q1
 1084.1319467318	1108	Defanging an IP Address	IP 地址无效化	defanging-an-ip-address	weekly-contest-144	Q1
