@@ -327,6 +327,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2096.6201393558	778	Swim in Rising Water	水位上升的泳池中游泳	swim-in-rising-water	weekly-contest-70	Q4
 2096.6098086765	899	Orderly Queue	有序队列	orderly-queue	weekly-contest-100	Q4
 2094.5924265370	1976	Number of Ways to Arrive at Destination	到达目的地的方案数	number-of-ways-to-arrive-at-destination	biweekly-contest-59	Q3
+2093.0316157073	3123	Find Edges in Shortest Paths	最短路径中的边	find-edges-in-shortest-paths	weekly-contest-394	Q4
 2092.8943149547	2402	Meeting Rooms III	会议室 III	meeting-rooms-iii	weekly-contest-309	Q4
 2092.5366031561	2444	Count Subarrays With Fixed Bounds	统计定界子数组的数目	count-subarrays-with-fixed-bounds	weekly-contest-315	Q4
 2092.4861692502	1049	Last Stone Weight II	最后一块石头的重量 II	last-stone-weight-ii	weekly-contest-137	Q4
@@ -548,6 +549,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1908.9411092109	3067	Count Pairs of Connectable Servers in a Weighted Tree Network	在带权树网络中统计可连接服务器对数目	count-pairs-of-connectable-servers-in-a-weighted-tree-network	biweekly-contest-125	Q3
 1908.3866125757	1124	Longest Well-Performing Interval	表现良好的最长时间段	longest-well-performing-interval	weekly-contest-145	Q3
 1904.6714229335	3081	Replace Question Marks in String to Minimize Its Value	替换字符串中的问号使分数最小	replace-question-marks-in-string-to-minimize-its-value	biweekly-contest-126	Q3
+1904.5020747926	3122	Minimum Number of Operations to Satisfy Conditions	使矩阵满足条件的最少操作次数	minimum-number-of-operations-to-satisfy-conditions	weekly-contest-394	Q3
 1904.2279434479	2608	Shortest Cycle in a Graph	图中的最短环	shortest-cycle-in-a-graph	biweekly-contest-101	Q4
 1903.1973989877	2602	Minimum Operations to Make All Array Elements Equal	使数组元素全部相等的最少操作次数	minimum-operations-to-make-all-array-elements-equal	weekly-contest-338	Q3
 1900.8434122725	1665	Minimum Initial Energy to Finish Tasks	完成所有任务的最少初始能量	minimum-initial-energy-to-finish-tasks	weekly-contest-216	Q4
@@ -1266,6 +1268,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1413.0376809608	2521	Distinct Prime Factors of Product of Array	数组乘积中的不同质因数数目	distinct-prime-factors-of-product-of-array	weekly-contest-326	Q2
 1412.3053230205	1823	Find the Winner of the Circular Game	找出游戏的获胜者	find-the-winner-of-the-circular-game	weekly-contest-236	Q2
 1412.2790156634	841	Keys and Rooms	钥匙和房间	keys-and-rooms	weekly-contest-86	Q2
+1411.6120545314	3121	Count the Number of Special Characters II	统计特殊字母的数量 II	count-the-number-of-special-characters-ii	weekly-contest-394	Q2
 1410.5239927267	1138	Alphabet Board Path	字母板上的路径	alphabet-board-path	weekly-contest-147	Q2
 1409.2288385791	2834	Find the Minimum Possible Sum of a Beautiful Array	找出美丽数组的最小和	find-the-minimum-possible-sum-of-a-beautiful-array	weekly-contest-360	Q2
 1408.7923640745	1588	Sum of All Odd Length Subarrays	所有奇数长度子数组的和	sum-of-all-odd-length-subarrays	biweekly-contest-35	Q1
@@ -1721,6 +1724,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1206.5675296817	2595	Number of Even and Odd Bits	奇偶位数	number-of-even-and-odd-bits	weekly-contest-337	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	检查二进制字符串字段	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
 1206.0712568518	2574	Left and Right Sum Differences	左右元素和的差值	left-and-right-sum-differences	weekly-contest-334	Q1
+1205.8589709613	3120	Count the Number of Special Characters I	统计特殊字母的数量 I	count-the-number-of-special-characters-i	weekly-contest-394	Q1
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	拼写单词	find-words-that-can-be-formed-by-characters	weekly-contest-150	Q1
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	哪种连续子字符串更长	longer-contiguous-segments-of-ones-than-zeros	weekly-contest-242	Q1
 1203.7972421795	3069	Distribute Elements Into Two Arrays I	将元素分配到两个数组中 I	distribute-elements-into-two-arrays-i	weekly-contest-387	Q1
