@@ -75,6 +75,16 @@
         @sort-change="sortChange"
       >
         <el-table-column prop="ID" label="ID" width="180" sortable="custom" />
+        <el-table-column :label="$t('Solved')">
+          <template #default="scope">
+            <el-checkbox
+              v-model="solvedStatus[scope.row.ID]"
+              @change="toggleSolved()"
+            >
+              🚀
+            </el-checkbox>
+          </template>
+        </el-table-column>
         <el-table-column :label="$t('problemName')">
           <template #default="scope">
             <el-link
@@ -151,6 +161,8 @@ interface SortInfo {
   order: string;
 }
 
+let solvedStatus = reactive({});
+
 let i18n = useI18n();
 let locale = i18n.locale;
 let left = ref(null);
@@ -168,6 +180,12 @@ const filterProblemSet: Array<Problem> = reactive([]);
 let keyword = ref("");
 let currentPage = ref(1);
 onMounted(() => {
+  const savedStatus = localStorage.getItem("solvedStatus");
+  if (savedStatus) {
+    solvedStatus = reactive(JSON.parse(savedStatus));
+    console.log("Loaded solvedStatus:", JSON.stringify(solvedStatus, null, 2));
+  }
+
   axios.get(url).then((res: AxiosResponse<Array<Problem>>) => {
     const problems = res.data;
     problems.forEach((item) => {
@@ -175,12 +193,19 @@ onMounted(() => {
       item.ProblemHrefEN = "https://leetcode.com/problems/" + item.TitleSlug;
       item.ContestHrefZH = "https://leetcode.cn/contest/" + item.ContestSlug;
       item.ContestHrefEN = "https://leetcode.com/contest/" + item.ContestSlug;
+      if (!(item.ID in solvedStatus)) {
+        solvedStatus[item.ID] = false;
+      }
       problemSetAll.push(item);
       filterProblemSet.push(item);
     });
     currentChange();
   });
 });
+
+function toggleSolved() {
+  localStorage.setItem("solvedStatus", JSON.stringify(solvedStatus));
+}
 
 function sortChange(s: SortInfo) {
   if (s.prop == null) {
