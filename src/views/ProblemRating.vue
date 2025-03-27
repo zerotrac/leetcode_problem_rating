@@ -183,7 +183,6 @@ onMounted(() => {
   const savedStatus = localStorage.getItem("solvedStatus");
   if (savedStatus) {
     solvedStatus = reactive(JSON.parse(savedStatus));
-    console.log("Loaded solvedStatus:", JSON.stringify(solvedStatus, null, 2));
   }
 
   axios.get(url).then((res: AxiosResponse<Array<Problem>>) => {
