@@ -1,8 +1,8 @@
 # Leetcode Problem Rating Project
 
-![img](http://fc.dianhsu.top/lc?user=zerotrac2&loc=cn&req=rating)
+[![LeetCode user zerotrac2](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzerotrac2%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/zerotrac2/)
 
-![LeetCode user zerotrac2](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fzerotrac2%2Fcn%2F&logo=leetcode&logoColor=yellow)
+[![LeetCode user zerotrac2](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzerotrac2%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/zerotrac2/)
 
 ## Introduction
 
