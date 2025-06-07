@@ -23,7 +23,7 @@
             <el-input
               :placeholder="$t('placeholder')"
               v-model="keyword"
-              @keyup.enter="query"
+              @change="query"
             />
           </el-form-item>
           <el-form-item :label="$t('contestNumber')">
@@ -33,7 +33,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
-              @keyup.enter="query"
+              @change="query"
             />
           </el-form-item>
           <el-form-item :label="$t('ratingInterval')">
@@ -43,7 +43,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
-              @keyup.enter="query"
+              @change="query"
             />
           </el-form-item>
           <el-form-item> - </el-form-item>
@@ -54,7 +54,7 @@
               :max="9999"
               :controls="false"
               style="width: 80px"
-              @keyup.enter="query"
+              @change="query"
             />
           </el-form-item>
           <el-form-item>
