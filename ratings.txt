@@ -43,6 +43,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2709.4067070911	3017	Count the Number of Houses at a Certain Distance II	按距离统计房屋对数目 II	count-the-number-of-houses-at-a-certain-distance-ii	weekly-contest-381	Q4
 2702.6772838353	3509	Maximum Product of Subsequences With an Alternating Sum Equal to K	最大化交错和为 K 的子序列乘积	maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k	weekly-contest-444	Q3
 2697.6486586982	3165	Maximum Sum of Subsequence With Non-adjacent Elements	不包含相邻元素的子序列的最大和	maximum-sum-of-subsequence-with-non-adjacent-elements	weekly-contest-399	Q4
+2697.3781237830	3569	Maximize Count of Distinct Primes After Split	分割数组后不同质数的最大数目	maximize-count-of-distinct-primes-after-split	weekly-contest-452	Q4
 2695.8096670460	2977	Minimum Cost to Convert String II	转换字符串的最小成本 II	minimum-cost-to-convert-string-ii	weekly-contest-377	Q4
 2693.8309245934	3539	Find Sum of Array Product of Magical Sequences	魔法序列的数组乘积之和	find-sum-of-array-product-of-magical-sequences	weekly-contest-448	Q4
 2693.5604276923	3445	Maximum Difference Between Even and Odd Frequency II	奇偶频次间的最大差值 II	maximum-difference-between-even-and-odd-frequency-ii	weekly-contest-435	Q4
@@ -409,6 +410,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2146.6395819980	1906	Minimum Absolute Difference Queries	查询差绝对值的最小值	minimum-absolute-difference-queries	weekly-contest-246	Q4
 2146.2256599416	3559	Number of Ways to Assign Edge Weights II	给边赋权值的方案数 II	number-of-ways-to-assign-edge-weights-ii	biweekly-contest-157	Q4
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	两个数组最小的异或值之和	minimum-xor-sum-of-two-arrays	biweekly-contest-53	Q4
+2143.0289944710	3568	Minimum Moves to Clean the Classroom	清理教室的最少移动	minimum-moves-to-clean-the-classroom	weekly-contest-452	Q3
 2140.0220703954	906	Super Palindromes	超级回文数	super-palindromes	weekly-contest-102	Q4
 2137.5633267453	2290	Minimum Obstacle Removal to Reach Corner	到达角落需要移除障碍物的最小数目	minimum-obstacle-removal-to-reach-corner	weekly-contest-295	Q4
 2136.3013259524	2382	Maximum Segment Sum After Removals	删除操作后的最大子段和	maximum-segment-sum-after-removals	biweekly-contest-85	Q4
@@ -1228,6 +1230,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1570.8347522104	1019	Next Greater Node In Linked List	链表中的下一个更大节点	next-greater-node-in-linked-list	weekly-contest-130	Q3
 1569.7528744586	1109	Corporate Flight Bookings	航班预订统计	corporate-flight-bookings	weekly-contest-144	Q2
 1569.1579260438	2592	Maximize Greatness of an Array	最大化数组的伟大值	maximize-greatness-of-an-array	biweekly-contest-100	Q2
+1568.2500590119	3567	Minimum Absolute Difference in Sliding Submatrix	子矩阵的最小绝对差	minimum-absolute-difference-in-sliding-submatrix	weekly-contest-452	Q2
 1567.8396535313	3243	Shortest Distance After Road Addition Queries I	新增道路查询后的最短距离 I	shortest-distance-after-road-addition-queries-i	weekly-contest-409	Q2
 1567.6884942977	2044	Count Number of Maximum Bitwise-OR Subsets	统计按位或能得到最大值的子集数目	count-number-of-maximum-bitwise-or-subsets	weekly-contest-263	Q3
 1566.2526716951	769	Max Chunks To Make Sorted	最多能完成排序的块	max-chunks-to-make-sorted	weekly-contest-68	Q3
@@ -1426,6 +1429,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1460.3224820858	3147	Taking Maximum Energy From the Mystic Dungeon	从魔法师身上吸取的最大能量	taking-maximum-energy-from-the-mystic-dungeon	weekly-contest-397	Q2
 1459.8208951847	1310	XOR Queries of a Subarray	子数组异或查询	xor-queries-of-a-subarray	weekly-contest-170	Q2
 1459.7513584849	2452	Words Within Two Edits of Dictionary	距离字典两次编辑以内的单词	words-within-two-edits-of-dictionary	biweekly-contest-90	Q2
+1459.1307655664	3566	Partition Array into Two Equal Product Subsets	等积子集的划分方案	partition-array-into-two-equal-product-subsets	weekly-contest-452	Q1
 1458.3564930390	2062	Count Vowel Substrings of a String	统计字符串中的元音子字符串	count-vowel-substrings-of-a-string	weekly-contest-266	Q1
 1457.5078616972	3318	Find X-Sum of All K-Long Subarrays I	计算子数组的 x-sum I	find-x-sum-of-all-k-long-subarrays-i	weekly-contest-419	Q1
 1455.8516200241	2391	Minimum Amount of Time to Collect Garbage	收集垃圾的最少总时间	minimum-amount-of-time-to-collect-garbage	weekly-contest-308	Q3
