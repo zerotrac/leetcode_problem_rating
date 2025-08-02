@@ -36,6 +36,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2763.6510278508	3480	Maximize Subarrays After Removing One Conflicting Pair	删除一个冲突对后最大子数组数目	maximize-subarrays-after-removing-one-conflicting-pair	weekly-contest-440	Q4
 2758.9704056427	2902	Count of Sub-Multisets With Bounded Sum	和带限制的子多重集合的数目	count-of-sub-multisets-with-bounded-sum	biweekly-contest-115	Q4
 2748.1250429610	3449	Maximize the Minimum Game Score	最大化游戏分数的最小值	maximize-the-minimum-game-score	weekly-contest-436	Q4
+2743.9313067671	3630	Partition Array for Maximum XOR and AND	划分数组得到最大异或运算和与运算之和	partition-array-for-maximum-xor-and-and	weekly-contest-460	Q4
 2735.0909781144	3117	Minimum Sum of Values by Dividing Array	划分数组得到最小的值之和	minimum-sum-of-values-by-dividing-array	weekly-contest-393	Q4
 2723.2974277194	3414	Maximum Score of Non-overlapping Intervals	不重叠区间的最大得分	maximum-score-of-non-overlapping-intervals	weekly-contest-431	Q4
 2722.8634460016	3382	Maximum Area Rectangle With Point Constraints II	用点构造面积最大的矩形 II	maximum-area-rectangle-with-point-constraints-ii	weekly-contest-427	Q4
@@ -425,6 +426,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	两个数组最小的异或值之和	minimum-xor-sum-of-two-arrays	biweekly-contest-53	Q4
 2143.0289944710	3568	Minimum Moves to Clean the Classroom	清理教室的最少移动	minimum-moves-to-clean-the-classroom	weekly-contest-452	Q3
 2140.0220703954	906	Super Palindromes	超级回文数	super-palindromes	weekly-contest-102	Q4
+2139.3079901181	3629	Minimum Jumps to Reach End via Prime Teleportation	通过质数传送到达终点的最少跳跃次数	minimum-jumps-to-reach-end-via-prime-teleportation	weekly-contest-460	Q3
 2137.5633267453	2290	Minimum Obstacle Removal to Reach Corner	到达角落需要移除障碍物的最小数目	minimum-obstacle-removal-to-reach-corner	weekly-contest-295	Q4
 2136.3013259524	2382	Maximum Segment Sum After Removals	删除操作后的最大子段和	maximum-segment-sum-after-removals	biweekly-contest-85	Q4
 2135.5738659086	959	Regions Cut By Slashes	由斜杠划分区域	regions-cut-by-slashes	weekly-contest-115	Q3
@@ -951,6 +953,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1756.9635539930	3112	Minimum Time to Visit Disappearing Nodes	访问消失节点的最少时间	minimum-time-to-visit-disappearing-nodes	biweekly-contest-128	Q3
 1754.1710323358	2568	Minimum Impossible OR	最小无法得到的或值	minimum-impossible-or	biweekly-contest-98	Q3
 1753.9062487685	1216	Valid Palindrome III	验证回文字符串 III	valid-palindrome-iii	biweekly-contest-10	Q4
+1753.6218466339	3628	Maximum Number of Subsequences After One Inserting	插入一个字母的最大子序列数	maximum-number-of-subsequences-after-one-inserting	weekly-contest-460	Q2
 1753.4775753993	764	Largest Plus Sign	最大加号标志	largest-plus-sign	weekly-contest-67	Q3
 1753.2782054250	3478	Choose K Elements With Maximum Sum	选出和最大的 K 个元素	choose-k-elements-with-maximum-sum	weekly-contest-440	Q2
 1752.9555725796	1135	Connecting Cities With Minimum Cost	最低成本联通所有城市	connecting-cities-with-minimum-cost	biweekly-contest-5	Q3
@@ -1925,6 +1928,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1262.9387403640	2490	Circular Sentence	回环句	circular-sentence	weekly-contest-322	Q1
 1262.9248376352	3159	Find Occurrences of an Element in an Array	查询数组中元素的出现位置	find-occurrences-of-an-element-in-an-array	biweekly-contest-131	Q2
 1262.5890311992	1089	Duplicate Zeros	复写零	duplicate-zeros	weekly-contest-141	Q1
+1262.1554079997	3627	Maximum Median Sum of Subsequences of Size 3	中位数之和的最大值	maximum-median-sum-of-subsequences-of-size-3	weekly-contest-460	Q1
 1262.1006527970	2739	Total Distance Traveled	总行驶距离	total-distance-traveled	weekly-contest-350	Q1
 1260.9112824221	2144	Minimum Cost of Buying Candies With Discount	打折购买糖果的最小开销	minimum-cost-of-buying-candies-with-discount	biweekly-contest-70	Q1
 1260.8702083080	2255	Count Prefixes of a Given String	统计是给定字符串前缀的字符串数目	count-prefixes-of-a-given-string	biweekly-contest-77	Q1
