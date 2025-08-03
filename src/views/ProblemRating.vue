@@ -199,7 +199,7 @@ function switchLocale(locale: string) {
 }
 
 function formatNumber(rating: number) {
-  return Math.floor(rating);
+  return Math.round(rating);
 }
 
 function currentChange() {
