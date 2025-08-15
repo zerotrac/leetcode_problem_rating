@@ -171,6 +171,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2449.1323757838	2127	Maximum Employees to Be Invited to a Meeting	参加会议的最多员工数	maximum-employees-to-be-invited-to-a-meeting	weekly-contest-274	Q4
 2448.4455464535	2926	Maximum Balanced Subsequence Sum	平衡子序列的最大和	maximum-balanced-subsequence-sum	weekly-contest-370	Q4
 2445.3859371333	3404	Count Special Subsequences	统计特殊子序列的数目	count-special-subsequences	weekly-contest-430	Q3
+2445.0201515301	3646	Next Special Palindrome Number	下一个特殊回文数	next-special-palindrome-number	weekly-contest-462	Q4
 2444.7192647604	2949	Count Beautiful Substrings II	统计美丽子字符串 II	count-beautiful-substrings-ii	weekly-contest-373	Q4
 2444.6660756903	2421	Number of Good Paths	好路径的数目	number-of-good-paths	weekly-contest-312	Q4
 2444.2791027022	2968	Apply Operations to Maximize Frequency Score	执行操作使频率分数最大	apply-operations-to-maximize-frequency-score	weekly-contest-376	Q4
@@ -589,6 +590,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2020.1846215023	3027	Find the Number of Ways to Place People II	人员站位的方案数 II	find-the-number-of-ways-to-place-people-ii	biweekly-contest-123	Q4
 2019.9859462755	2547	Minimum Cost to Split an Array	拆分数组的最小代价	minimum-cost-to-split-an-array	weekly-contest-329	Q4
 2019.5399647546	909	Snakes and Ladders	蛇梯棋	snakes-and-ladders	weekly-contest-103	Q2
+2018.8785710598	3645	Maximum Total from Optimal Activation Order	最优激活顺序得到的最大总和	maximum-total-from-optimal-activation-order	weekly-contest-462	Q3
 2016.2085876254	3008	Find Beautiful Indices in the Given Array II	找出数组中的美丽下标 II	find-beautiful-indices-in-the-given-array-ii	weekly-contest-380	Q4
 2015.7291888336	1353	Maximum Number of Events That Can Be Attended	最多可以参加的会议数目	maximum-number-of-events-that-can-be-attended	weekly-contest-176	Q3
 2014.7655493665	1354	Construct Target Array With Multiple Sums	多次求和构造目标数组	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
@@ -928,6 +930,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1777.2275836051	3164	Find the Number of Good Pairs II	优质数对的总数 II	find-the-number-of-good-pairs-ii	weekly-contest-399	Q3
 1777.1347057233	3573	Best Time to Buy and Sell Stock V	买卖股票的最佳时机 V	best-time-to-buy-and-sell-stock-v	biweekly-contest-158	Q2
 1775.8546066480	2531	Make Number of Distinct Characters Equal	使字符串总不同字符的数目相等	make-number-of-distinct-characters-equal	weekly-contest-327	Q3
+1775.4474231706	3644	Maximum K to Sort a Permutation	排序排列	maximum-k-to-sort-a-permutation	weekly-contest-462	Q2
 1774.8764591297	1238	Circular Permutation in Binary Representation	循环码排列	circular-permutation-in-binary-representation	weekly-contest-160	Q2
 1772.9528456848	2982	Find Longest Special Substring That Occurs Thrice II	找出出现至少三次的最长特殊子字符串 II	find-longest-special-substring-that-occurs-thrice-ii	weekly-contest-378	Q3
 1772.4702293335	3170	Lexicographically Minimum String After Removing Stars	删除星号以后字典序最小的字符串	lexicographically-minimum-string-after-removing-stars	weekly-contest-400	Q3
@@ -2023,6 +2026,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1235.6484230513	2923	Find Champion I	找到冠军 I	find-champion-i	weekly-contest-370	Q1
 1235.6114196155	1816	Truncate Sentence	截断句子	truncate-sentence	weekly-contest-235	Q1
 1235.1249313742	3345	Smallest Divisible Digit Product I	最小可整除数位乘积 I	smallest-divisible-digit-product-i	biweekly-contest-143	Q1
+1234.9818183966	3643	Flip Square Submatrix Vertically	垂直翻转子矩阵	flip-square-submatrix-vertically	weekly-contest-462	Q1
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	两个数组间的距离值	find-the-distance-value-between-two-arrays	biweekly-contest-22	Q1
 1234.7692637513	989	Add to Array-Form of Integer	数组形式的整数加法	add-to-array-form-of-integer	weekly-contest-123	Q1
 1234.7084656358	1009	Complement of Base 10 Integer	十进制整数的反码	complement-of-base-10-integer	weekly-contest-128	Q1
