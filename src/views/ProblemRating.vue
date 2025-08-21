@@ -156,7 +156,7 @@ let locale = i18n.locale;
 let left = ref(null);
 let right = ref(null);
 let sortInfo = reactive({
-  prop: "Rating",
+  prop: "ID",
   order: "descending",
 } as SortInfo);
 const pageSizeCache = localStorage.getItem("pageSize");
@@ -185,7 +185,7 @@ onMounted(() => {
 function sortChange(s: SortInfo) {
   if (s.prop == null) {
     sortInfo.order = "descending";
-    sortInfo.prop = "Rating";
+    sortInfo.prop = "ID";
   } else {
     sortInfo.order = s.order;
     sortInfo.prop = s.prop;
@@ -269,7 +269,7 @@ function reset() {
   left.value = null;
   right.value = null;
   sortInfo.order = "descending";
-  sortInfo.prop = "Rating";
+  sortInfo.prop = "ID";
   query();
 }
 </script>
