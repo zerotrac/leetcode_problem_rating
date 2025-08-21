@@ -73,6 +73,7 @@
         style="width: 90%"
         :table-layout="'auto'"
         @sort-change="sortChange"
+        :default-sort="{ prop: 'ID', order: 'descending' }"
       >
         <el-table-column prop="ID" label="ID" width="180" sortable="custom" />
         <el-table-column :label="$t('problemName')">
@@ -178,7 +179,7 @@ onMounted(() => {
       problemSetAll.push(item);
       filterProblemSet.push(item);
     });
-    currentChange();
+    query();
   });
 });
 
