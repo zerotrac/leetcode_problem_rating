@@ -362,6 +362,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2227.3896051956	2930	Number of Strings Which Can Be Rearranged to Contain Substring	重新排列后包含指定子字符串的字符串数目	number-of-strings-which-can-be-rearranged-to-contain-substring	biweekly-contest-117	Q3
 2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	删除元素后和的最小差值	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71	Q4
 2223.1762282199	2484	Count Palindromic Subsequences	统计回文子序列数目	count-palindromic-subsequences	biweekly-contest-92	Q4
+2222.8219267536	3677	Count Binary Palindromic Numbers	统计二进制回文数字的数目	count-binary-palindromic-numbers	weekly-contest-466	Q4
 2222.4805422748	2276	Count Integers in Intervals	统计区间中的整数数目	count-integers-in-intervals	weekly-contest-293	Q4
 2221.7931857140	2561	Rearranging Fruits	重排水果	rearranging-fruits	weekly-contest-331	Q4
 2221.7336557442	1542	Find Longest Awesome Substring	找出最长的超赞子字符串	find-longest-awesome-substring	biweekly-contest-32	Q4
@@ -826,6 +827,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1849.0388401196	3176	Find the Maximum Length of a Good Subsequence I	求出最长好子序列 I	find-the-maximum-length-of-a-good-subsequence-i	biweekly-contest-132	Q3
 1848.5480405143	3180	Maximum Total Reward Using Operations I	执行操作可获得的最大总奖励 I	maximum-total-reward-using-operations-i	weekly-contest-401	Q3
 1848.0912848518	1177	Can Make Palindrome from Substring	构建回文串检测	can-make-palindrome-from-substring	weekly-contest-152	Q3
+1847.5451577224	3676	Count Bowl Subarrays	碗子数组的数目	count-bowl-subarrays	weekly-contest-466	Q3
 1847.3433772442	3297	Count Substrings That Can Be Rearranged to Contain a String I	统计重新排列后包含另一个字符串的子字符串数目 I	count-substrings-that-can-be-rearranged-to-contain-a-string-i	weekly-contest-416	Q3
 1847.2077654978	1258	Synonymous Sentences	近义词句子	synonymous-sentences	biweekly-contest-13	Q3
 1846.7401375892	3196	Maximize Total Cost of Alternating Subarrays	最大化子数组的总成本	maximize-total-cost-of-alternating-subarrays	weekly-contest-403	Q3
@@ -1583,6 +1585,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1414.6100987673	2825	Make String a Subsequence Using Cyclic Increments	循环增长使字符串子序列等于另一个字符串	make-string-a-subsequence-using-cyclic-increments	biweekly-contest-111	Q2
 1414.4918812526	890	Find and Replace Pattern	查找和替换模式	find-and-replace-pattern	weekly-contest-98	Q2
 1414.4351202231	1985	Find the Kth Largest Integer in the Array	找出数组中的第 K 大整数	find-the-kth-largest-integer-in-the-array	weekly-contest-256	Q2
+1414.0229382338	3675	Minimum Operations to Transform String	转换字符串的最小操作次数	minimum-operations-to-transform-string	weekly-contest-466	Q2
 1413.4238697034	2383	Minimum Hours of Training to Win a Competition	赢得比赛需要的最少训练时长	minimum-hours-of-training-to-win-a-competition	weekly-contest-307	Q1
 1413.0376809608	2521	Distinct Prime Factors of Product of Array	数组乘积中的不同质因数数目	distinct-prime-factors-of-product-of-array	weekly-contest-326	Q2
 1412.3053230205	1823	Find the Winner of the Circular Game	找出游戏的获胜者	find-the-winner-of-the-circular-game	weekly-contest-236	Q2
@@ -1690,6 +1693,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1370.6144908238	914	X of a Kind in a Deck of Cards	卡牌分组	x-of-a-kind-in-a-deck-of-cards	weekly-contest-104	Q1
 1370.4186698287	1854	Maximum Population Year	人口最多的年份	maximum-population-year	weekly-contest-240	Q1
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	特殊数组的特征值	special-array-with-x-elements-greater-than-or-equal-x	weekly-contest-209	Q1
+1369.0831115500	3674	Minimum Operations to Equalize Array	数组元素相等的最小操作次数	minimum-operations-to-equalize-array	weekly-contest-466	Q1
 1369.0113807552	3179	Find the N-th Value After K Seconds	K 秒后第 N 个元素的值	find-the-n-th-value-after-k-seconds	weekly-contest-401	Q2
 1369.0053354603	1370	Increasing Decreasing String	上升下降字符串	increasing-decreasing-string	biweekly-contest-21	Q1
 1368.6653311461	3095	Shortest Subarray With OR at Least K I	或值至少 K 的最短子数组 I	shortest-subarray-with-or-at-least-k-i	biweekly-contest-127	Q1
