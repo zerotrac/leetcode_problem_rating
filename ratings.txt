@@ -154,6 +154,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2473.6778280303	3302	Find the Lexicographically Smallest Valid Sequence	字典序最小的合法序列	find-the-lexicographically-smallest-valid-sequence	biweekly-contest-140	Q3
 2473.2589317118	3283	Maximum Number of Moves to Kill All Pawns	吃掉所有兵需要的最多移动次数	maximum-number-of-moves-to-kill-all-pawns	weekly-contest-414	Q4
 2470.2118194809	2286	Booking Concert Tickets in Groups	以组为单位订音乐会的门票	booking-concert-tickets-in-groups	biweekly-contest-79	Q4
+2469.0138882670	3691	Maximum Total Subarray Value II	最大子数组总值 II	maximum-total-subarray-value-ii	weekly-contest-468	Q4
 2466.8891773908	1703	Minimum Adjacent Swaps for K Consecutive Ones	得到连续 K 个 1 的最少相邻交换次数	minimum-adjacent-swaps-for-k-consecutive-ones	biweekly-contest-42	Q4
 2464.5077611012	1994	The Number of Good Subsets	好子集的数目	the-number-of-good-subsets	biweekly-contest-60	Q4
 2463.3702712563	3615	Longest Palindromic Path in Graph	图中的最长回文路径	longest-palindromic-path-in-graph	weekly-contest-458	Q4
@@ -646,6 +647,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1983.7044070600	1733	Minimum Number of People to Teach	需要教语言的最少人数	minimum-number-of-people-to-teach	biweekly-contest-44	Q2
 1983.2319731313	1250	Check If It Is a Good Array	检查「好数组」	check-if-it-is-a-good-array	weekly-contest-161	Q4
 1982.5085994817	805	Split Array With Same Average	数组的均值分割	split-array-with-same-average	weekly-contest-77	Q4
+1982.4524895112	3690	Split and Merge Array Transformation	拆分合并数组	split-and-merge-array-transformation	weekly-contest-468	Q3
 1981.3072959787	2861	Maximum Number of Alloys	最大合金数	maximum-number-of-alloys	weekly-contest-363	Q3
 1979.9454101467	2151	Maximum Good People Based on Statements	基于陈述统计最多好人数	maximum-good-people-based-on-statements	weekly-contest-277	Q4
 1979.4930406060	3138	Minimum Length of Anagram Concatenation	同位字符串连接的最小长度	minimum-length-of-anagram-concatenation	weekly-contest-396	Q3
@@ -1695,6 +1697,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1372.4759842416	2899	Last Visited Integers	上一个遍历的整数	last-visited-integers	biweekly-contest-115	Q1
 1372.1152262488	1863	Sum of All Subset XOR Totals	找出所有子集的异或总和再求和	sum-of-all-subset-xor-totals	weekly-contest-241	Q1
 1371.8092952004	2244	Minimum Rounds to Complete All Tasks	完成所有任务需要的最少轮数	minimum-rounds-to-complete-all-tasks	weekly-contest-289	Q2
+1370.6850302415	3689	Maximum Total Subarray Value I	最大子数组总值 I	maximum-total-subarray-value-i	weekly-contest-468	Q2
 1370.6144908238	914	X of a Kind in a Deck of Cards	卡牌分组	x-of-a-kind-in-a-deck-of-cards	weekly-contest-104	Q1
 1370.4186698287	1854	Maximum Population Year	人口最多的年份	maximum-population-year	weekly-contest-240	Q1
 1369.6144401520	1608	Special Array With X Elements Greater Than or Equal X	特殊数组的特征值	special-array-with-x-elements-greater-than-or-equal-x	weekly-contest-209	Q1
@@ -2134,6 +2137,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1205.6588098967	3280	Convert Date to Binary	将日期转换为二进制表示	convert-date-to-binary	weekly-contest-414	Q1
 1205.2027537720	3270	Find the Key of the Numbers	求出数字答案	find-the-key-of-the-numbers	biweekly-contest-138	Q1
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	哪种连续子字符串更长	longer-contiguous-segments-of-ones-than-zeros	weekly-contest-242	Q1
+1204.8779687384	3688	Bitwise OR of Even Numbers in an Array	偶数的按位或运算	bitwise-or-of-even-numbers-in-an-array	weekly-contest-468	Q1
 1203.7972421795	3069	Distribute Elements Into Two Arrays I	将元素分配到两个数组中 I	distribute-elements-into-two-arrays-i	weekly-contest-387	Q1
 1203.7504950404	1952	Three Divisors	三除数	three-divisors	weekly-contest-252	Q1
 1203.1408035909	1688	Count of Matches in Tournament	比赛中的配对次数	count-of-matches-in-tournament	weekly-contest-219	Q1
