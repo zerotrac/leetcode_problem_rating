@@ -197,6 +197,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2422.5309771173	1000	Minimum Cost to Merge Stones	合并石头的最低成本	minimum-cost-to-merge-stones	weekly-contest-126	Q4
 2422.3128048015	1987	Number of Unique Good Subsequences	不同的好子序列数目	number-of-unique-good-subsequences	weekly-contest-256	Q4
 2419.5791089724	2572	Count the Number of Square-Free Subsets	无平方子集计数	count-the-number-of-square-free-subsets	weekly-contest-333	Q3
+2419.2873599122	3704	Count No-Zero Pairs That Sum to N	统计和为 N 的无零数对	count-no-zero-pairs-that-sum-to-n	weekly-contest-470	Q4
 2419.2738036027	3609	Minimum Moves to Reach Target in Grid	到达目标点的最小移动次数	minimum-moves-to-reach-target-in-grid	weekly-contest-457	Q4
 2418.5742747632	1203	Sort Items by Groups Respecting Dependencies	项目管理	sort-items-by-groups-respecting-dependencies	weekly-contest-155	Q4
 2415.7434855724	2663	Lexicographically Smallest Beautiful String	字典序最小的美丽字符串	lexicographically-smallest-beautiful-string	weekly-contest-343	Q4
@@ -903,6 +904,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1803.7518552874	1953	Maximum Number of Weeks for Which You Can Work	你可以工作的最大周数	maximum-number-of-weeks-for-which-you-can-work	weekly-contest-252	Q2
 1802.7875657754	2934	Minimum Operations to Maximize Last Elements in Arrays	最大化数组末位元素的最少操作次数	minimum-operations-to-maximize-last-elements-in-arrays	weekly-contest-371	Q3
 1802.2256875356	1673	Find the Most Competitive Subsequence	找出最具竞争力的子序列	find-the-most-competitive-subsequence	weekly-contest-217	Q2
+1802.0481850881	3703	Remove K-Balanced Substrings	移除K-平衡子字符串	remove-k-balanced-substrings	weekly-contest-470	Q3
 1799.4635458535	1186	Maximum Subarray Sum with One Deletion	删除一次得到子数组最大和	maximum-subarray-sum-with-one-deletion	weekly-contest-153	Q3
 1798.2282534931	3418	Maximum Amount of Money Robot Can Earn	机器人可以获得的最大金币数	maximum-amount-of-money-robot-can-earn	weekly-contest-432	Q2
 1797.8728515982	1711	Count Good Meals	大餐计数	count-good-meals	weekly-contest-222	Q2
@@ -1451,6 +1453,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1490.8990184504	1759	Count Number of Homogenous Substrings	统计同构子字符串的数目	count-number-of-homogenous-substrings	weekly-contest-228	Q2
 1490.2370387981	1296	Divide Array in Sets of K Consecutive Numbers	划分数组为连续数字的集合	divide-array-in-sets-of-k-consecutive-numbers	weekly-contest-168	Q2
 1489.7210915287	2658	Maximum Number of Fish in a Grid	网格图中鱼的最大数目	maximum-number-of-fish-in-a-grid	biweekly-contest-103	Q3
+1489.4925546669	3702	Longest Subsequence With Non-Zero Bitwise XOR	按位异或非零的最长子序列	longest-subsequence-with-non-zero-bitwise-xor	weekly-contest-470	Q2
 1489.2529299032	3576	Transform Array to All Equal Elements	数组元素相等转换	transform-array-to-all-equal-elements	weekly-contest-453	Q1
 1489.0102202162	1175	Prime Arrangements	质数排列	prime-arrangements	weekly-contest-152	Q1
 1488.4453801606	3175	Find The First Player to win K Games in a Row	找到连续赢 K 场比赛的第一位玩家	find-the-first-player-to-win-k-games-in-a-row	biweekly-contest-132	Q2
@@ -2086,6 +2089,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1228.6309936480	917	Reverse Only Letters	仅仅反转字母	reverse-only-letters	weekly-contest-105	Q1
 1228.4824438011	1748	Sum of Unique Elements	唯一元素的和	sum-of-unique-elements	biweekly-contest-45	Q1
 1228.3497954240	3512	Minimum Operations to Make Array Sum Divisible by K	使数组和能被 K 整除的最少操作次数	minimum-operations-to-make-array-sum-divisible-by-k	biweekly-contest-154	Q1
+1228.2540685683	3701	Compute Alternating Sum	计算交替和	compute-alternating-sum	weekly-contest-470	Q1
 1227.9103734800	2729	Check if The Number is Fascinating	判断一个数是否迷人	check-if-the-number-is-fascinating	biweekly-contest-106	Q1
 1227.7906887239	844	Backspace String Compare	比较含退格的字符串	backspace-string-compare	weekly-contest-87	Q1
 1227.3485530532	1118	Number of Days in a Month	一月有多少天	number-of-days-in-a-month	biweekly-contest-4	Q1
