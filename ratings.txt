@@ -40,6 +40,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2735.0909781144	3117	Minimum Sum of Values by Dividing Array	划分数组得到最小的值之和	minimum-sum-of-values-by-dividing-array	weekly-contest-393	Q4
 2723.2974277194	3414	Maximum Score of Non-overlapping Intervals	不重叠区间的最大得分	maximum-score-of-non-overlapping-intervals	weekly-contest-431	Q4
 2722.8634460016	3382	Maximum Area Rectangle With Point Constraints II	用点构造面积最大的矩形 II	maximum-area-rectangle-with-point-constraints-ii	weekly-contest-427	Q4
+2719.5708628451	3721	Longest Balanced Subarray II	最长平衡子数组 II	longest-balanced-subarray-ii	weekly-contest-472	Q4
 2711.8717381409	2603	Collect Coins in a Tree	收集树中金币	collect-coins-in-a-tree	weekly-contest-338	Q4
 2709.4067070911	3017	Count the Number of Houses at a Certain Distance II	按距离统计房屋对数目 II	count-the-number-of-houses-at-a-certain-distance-ii	weekly-contest-381	Q4
 2702.6772838353	3509	Maximum Product of Subsequences With an Alternating Sum Equal to K	最大化交错和为 K 的子序列乘积	maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k	weekly-contest-444	Q3
@@ -685,6 +686,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1954.5247525411	3599	Partition Array to Minimize XOR	划分数组得到最小 XOR	partition-array-to-minimize-xor	weekly-contest-456	Q3
 1954.2533254344	1696	Jump Game VI	跳跃游戏 VI	jump-game-vi	weekly-contest-220	Q3
 1953.1377267440	2434	Using a Robot to Print the Lexicographically Smallest String	使用机器人打印字典序最小的字符串	using-a-robot-to-print-the-lexicographically-smallest-string	weekly-contest-314	Q3
+1952.8654631276	3720	Lexicographically Smallest Permutation Greater Than Target	大于目标字符串的最小字典序排列	lexicographically-smallest-permutation-greater-than-target	weekly-contest-472	Q3
 1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	满足三条件之一需改变的最少字符数	change-minimum-characters-to-satisfy-one-of-three-conditions	weekly-contest-225	Q2
 1951.5918682146	2435	Paths in Matrix Whose Sum Is Divisible by K	矩阵中和能被 K 整除的路径	paths-in-matrix-whose-sum-is-divisible-by-k	weekly-contest-314	Q4
 1951.3509259668	1259	Handshakes That Don't Cross	不相交的握手	handshakes-that-dont-cross	biweekly-contest-13	Q4
@@ -1502,6 +1504,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1465.7023558248	1414	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	和为 K 的最少斐波那契数字数目	find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k	biweekly-contest-24	Q2
 1464.6895034875	1361	Validate Binary Tree Nodes	验证二叉树	validate-binary-tree-nodes	weekly-contest-177	Q2
 1464.5254961488	1396	Design Underground System	设计地铁系统	design-underground-system	weekly-contest-182	Q3
+1464.1993668092	3719	Longest Balanced Subarray I	最长平衡子数组 I	longest-balanced-subarray-i	weekly-contest-472	Q2
 1463.2825992167	3638	Maximum Balanced Shipments	平衡装运的最大数量	maximum-balanced-shipments	weekly-contest-461	Q2
 1462.4423844498	1022	Sum of Root To Leaf Binary Numbers	从根到叶的二进制数之和	sum-of-root-to-leaf-binary-numbers	weekly-contest-131	Q2
 1461.9157715206	946	Validate Stack Sequences	验证栈序列	validate-stack-sequences	weekly-contest-112	Q2
@@ -2111,6 +2114,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1223.7257942998	3206	Alternating Groups I	交替组 I	alternating-groups-i	biweekly-contest-134	Q1
 1223.4065703960	2206	Divide Array Into Equal Pairs	将数组划分成相等数对	divide-array-into-equal-pairs	biweekly-contest-74	Q1
 1223.3861903833	1408	String Matching in an Array	数组中的字符串匹配	string-matching-in-an-array	weekly-contest-184	Q1
+1223.1316465704	3718	Smallest Missing Multiple of K	缺失的最小倍数	smallest-missing-multiple-of-k	weekly-contest-472	Q1
 1222.2354919459	2535	Difference Between Element Sum and Digit Sum of an Array	数组元素和与数字和的绝对差	difference-between-element-sum-and-digit-sum-of-an-array	weekly-contest-328	Q1
 1221.9872943569	1678	Goal Parser Interpretation	设计 Goal 解析器	goal-parser-interpretation	weekly-contest-218	Q1
 1221.8477681772	2414	Length of the Longest Alphabetical Continuous Substring	最长的字母序连续子字符串的长度	length-of-the-longest-alphabetical-continuous-substring	weekly-contest-311	Q2
