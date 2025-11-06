@@ -279,6 +279,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2333.0621537307	1866	Number of Ways to Rearrange Sticks With K Sticks Visible	恰有 K 根木棍可以看到的排列数目	number-of-ways-to-rearrange-sticks-with-k-sticks-visible	weekly-contest-241	Q4
 2333.0078041754	1585	Check If String Is Transformable With Substring Sort Operations	检查字符串是否可以通过排序子字符串得到另一个字符串	check-if-string-is-transformable-with-substring-sort-operations	weekly-contest-206	Q4
 2330.6377193585	3621	Number of Integers With Popcount-Depth Equal to K I	位计数深度为 K 的整数数目 I	number-of-integers-with-popcount-depth-equal-to-k-i	biweekly-contest-161	Q4
+2330.0340161395	3734	Lexicographically Smallest Palindromic Permutation Greater Than Target	大于目标字符串的最小字典序回文排列	lexicographically-smallest-palindromic-permutation-greater-than-target	weekly-contest-474	Q4
 2328.4294689238	882	Reachable Nodes In Subdivided Graph	细分图中的可到达结点	reachable-nodes-in-subdivided-graph	weekly-contest-96	Q4
 2327.5726642605	3045	Count Prefix and Suffix Pairs II	统计前后缀下标对 II	count-prefix-and-suffix-pairs-ii	weekly-contest-385	Q4
 2327.4743300299	2940	Find Building Where Alice and Bob Can Meet	找到 Alice 和 Bob 可以相遇的建筑	find-building-where-alice-and-bob-can-meet	weekly-contest-372	Q4
@@ -668,6 +669,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1975.5726300727	907	Sum of Subarray Minimums	子数组的最小值之和	sum-of-subarray-minimums	weekly-contest-102	Q3
 1973.9543553342	3202	Find the Maximum Length of Valid Subsequence II	找出有效子序列的最大长度 II	find-the-maximum-length-of-valid-subsequence-ii	weekly-contest-404	Q3
 1973.7407637067	1488	Avoid Flood in The City	避免洪水泛滥	avoid-flood-in-the-city	weekly-contest-194	Q3
+1972.7630060106	3733	Minimum Time to Complete All Deliveries	完成所有送货任务的最少时间	minimum-time-to-complete-all-deliveries	weekly-contest-474	Q3
 1970.4608098164	1032	Stream of Characters	字符流	stream-of-characters	weekly-contest-133	Q4
 1969.9845549158	835	Image Overlap	图像重叠	image-overlap	weekly-contest-84	Q3
 1969.2668024554	3686	Number of Stable Subsequences	稳定子序列的数量	number-of-stable-subsequences	weekly-contest-467	Q4
@@ -1388,6 +1390,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1530.4652027753	1657	Determine if Two Strings Are Close	确定两个字符串是否接近	determine-if-two-strings-are-close	weekly-contest-215	Q2
 1530.0343519239	1726	Tuple with Same Product	同积元组	tuple-with-same-product	weekly-contest-224	Q2
 1529.7617243868	881	Boats to Save People	救生艇	boats-to-save-people	weekly-contest-96	Q2
+1529.0580421470	3732	Maximum Product of Three Elements After One Replacement	一次替换后的三元素最大乘积	maximum-product-of-three-elements-after-one-replacement	weekly-contest-474	Q2
 1528.7183829005	1695	Maximum Erasure Value	删除子数组的最大得分	maximum-erasure-value	weekly-contest-220	Q2
 1527.6868660176	1921	Eliminate Maximum Number of Monsters	消灭怪物的最大数量	eliminate-maximum-number-of-monsters	weekly-contest-248	Q2
 1526.2429110307	2918	Minimum Equal Sum of Two Arrays After Replacing Zeros	数组的最小相等和	minimum-equal-sum-of-two-arrays-after-replacing-zeros	weekly-contest-369	Q2
@@ -2133,6 +2136,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1218.9011436003	2442	Count Number of Distinct Integers After Reverse Operations	反转之后不同整数的数目	count-number-of-distinct-integers-after-reverse-operations	weekly-contest-315	Q2
 1218.1083231462	2859	Sum of Values at Indices With K Set Bits	计算 K 置位下标对应元素的和	sum-of-values-at-indices-with-k-set-bits	weekly-contest-363	Q1
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	检查两个字符串数组是否相等	check-if-two-string-arrays-are-equivalent	weekly-contest-216	Q1
+1217.1140041501	3731	Find Missing Elements	找出缺失的元素	find-missing-elements	weekly-contest-474	Q1
 1217.0003384199	3105	Longest Strictly Increasing or Strictly Decreasing Subarray	最长的严格递增或递减子数组	longest-strictly-increasing-or-strictly-decreasing-subarray	weekly-contest-392	Q1
 1216.9550221615	3005	Count Elements With Maximum Frequency	最大频率元素计数	count-elements-with-maximum-frequency	weekly-contest-380	Q1
 1216.6376846517	1848	Minimum Distance to the Target Element	到目标元素的最小距离	minimum-distance-to-the-target-element	weekly-contest-239	Q1
