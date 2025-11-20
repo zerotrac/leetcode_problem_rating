@@ -386,6 +386,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2210.3503183571	992	Subarrays with K Different Integers	K 个不同整数的子数组	subarrays-with-k-different-integers	weekly-contest-123	Q4
 2209.8815936961	2081	Sum of k-Mirror Numbers	k 镜像数字的和	sum-of-k-mirror-numbers	weekly-contest-268	Q4
 2209.8785430371	2876	Count Visited Nodes in a Directed Graph	有向图访问计数	count-visited-nodes-in-a-directed-graph	weekly-contest-365	Q4
+2209.0960361447	3748	Count Stable Subarrays	统计稳定子数组的数目	count-stable-subarrays	weekly-contest-476	Q4
 2208.5532172086	1568	Minimum Number of Days to Disconnect Island	使陆地分离的最少天数	minimum-number-of-days-to-disconnect-island	weekly-contest-204	Q3
 2207.8565809952	1649	Create Sorted Array through Instructions	通过指令创建有序数组	create-sorted-array-through-instructions	weekly-contest-214	Q4
 2207.4917475411	2835	Minimum Operations to Form Subsequence With Target Sum	使子序列的和等于目标的最少操作次数	minimum-operations-to-form-subsequence-with-target-sum	weekly-contest-360	Q3
@@ -848,6 +849,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1849.8122180044	2059	Minimum Operations to Convert Number	转化数字的最小运算数	minimum-operations-to-convert-number	weekly-contest-265	Q3
 1849.0388401196	3176	Find the Maximum Length of a Good Subsequence I	求出最长好子序列 I	find-the-maximum-length-of-a-good-subsequence-i	biweekly-contest-132	Q3
 1848.5480405143	3180	Maximum Total Reward Using Operations I	执行操作可获得的最大总奖励 I	maximum-total-reward-using-operations-i	weekly-contest-401	Q3
+1848.1765176884	3747	Count Distinct Integers After Removing Zeros	统计移除零后不同整数的数目	count-distinct-integers-after-removing-zeros	weekly-contest-476	Q3
 1848.0912848518	1177	Can Make Palindrome from Substring	构建回文串检测	can-make-palindrome-from-substring	weekly-contest-152	Q3
 1847.5451577224	3676	Count Bowl Subarrays	碗子数组的数目	count-bowl-subarrays	weekly-contest-466	Q3
 1847.3433772442	3297	Count Substrings That Can Be Rearranged to Contain a String I	统计重新排列后包含另一个字符串的子字符串数目 I	count-substrings-that-can-be-rearranged-to-contain-a-string-i	weekly-contest-416	Q3
@@ -1831,6 +1833,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1328.5499677186	2396	Strictly Palindromic Number	严格回文的数字	strictly-palindromic-number	biweekly-contest-86	Q2
 1328.5131477260	1812	Determine Color of a Chessboard Square	判断国际象棋棋盘中一个格子的颜色	determine-color-of-a-chessboard-square	biweekly-contest-49	Q1
 1327.0282989915	1086	High Five	前五科的均分	high-five	biweekly-contest-2	Q2
+1326.8902674772	3746	Minimum String Length After Balanced Removals	等量移除后的字符串最小长度	minimum-string-length-after-balanced-removals	weekly-contest-476	Q2
 1326.4047670018	1476	Subrectangle Queries	子矩形查询	subrectangle-queries	biweekly-contest-28	Q2
 1325.8053802920	3075	Maximize Happiness of Selected Children	幸福值最大化的选择方案	maximize-happiness-of-selected-children	weekly-contest-388	Q2
 1325.3607218257	2073	Time Needed to Buy Tickets	买票需要的时间	time-needed-to-buy-tickets	weekly-contest-267	Q1
@@ -2142,6 +2145,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1219.5284561367	1221	Split a String in Balanced Strings	分割平衡字符串	split-a-string-in-balanced-strings	weekly-contest-158	Q1
 1219.4252907184	1299	Replace Elements with Greatest Element on Right Side	将每个元素替换为右侧最大元素	replace-elements-with-greatest-element-on-right-side	biweekly-contest-16	Q1
 1218.9011436003	2442	Count Number of Distinct Integers After Reverse Operations	反转之后不同整数的数目	count-number-of-distinct-integers-after-reverse-operations	weekly-contest-315	Q2
+1218.4251009130	3745	Maximize Expression of Three Elements	三元素表达式的最大值	maximize-expression-of-three-elements	weekly-contest-476	Q1
 1218.1083231462	2859	Sum of Values at Indices With K Set Bits	计算 K 置位下标对应元素的和	sum-of-values-at-indices-with-k-set-bits	weekly-contest-363	Q1
 1217.1184374247	1662	Check If Two String Arrays are Equivalent	检查两个字符串数组是否相等	check-if-two-string-arrays-are-equivalent	weekly-contest-216	Q1
 1217.1140041501	3731	Find Missing Elements	找出缺失的元素	find-missing-elements	weekly-contest-474	Q1
