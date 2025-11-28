@@ -246,10 +246,10 @@ function query() {
         return;
       }
     }
-    if (left.value != null && item.Rating < left.value) {
+    if (left.value != null && Math.round(item.Rating) < left.value) {
       return;
     }
-    if (right.value != null && item.Rating > right.value) {
+    if (right.value != null && Math.round(item.Rating) > right.value) {
       return;
     }
     filterProblemSet.push(item);
