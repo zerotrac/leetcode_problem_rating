@@ -143,6 +143,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2500.1329352544	3409	Longest Subsequence With Decreasing Adjacent Difference	最长相邻绝对差递减子序列	longest-subsequence-with-decreasing-adjacent-difference	biweekly-contest-147	Q3
 2499.5640490579	1735	Count Ways to Make Array With Product	生成乘积数组的方案数	count-ways-to-make-array-with-product	biweekly-contest-44	Q4
 2499.3282271507	2157	Groups of Strings	字符串分组	groups-of-strings	weekly-contest-278	Q4
+2497.2253203914	3762	Minimum Operations to Equalize Subarrays	使数组元素相等的最小操作次数	minimum-operations-to-equalize-subarrays	weekly-contest-478	Q4
 2492.7039894164	3579	Minimum Steps to Convert String with Operations	字符串转换需要的最小操作数	minimum-steps-to-convert-string-with-operations	weekly-contest-453	Q4
 2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	将数组分成两个数组并最小化数组和的差	partition-array-into-two-arrays-to-minimize-sum-difference	weekly-contest-262	Q4
 2486.2339675701	1916	Count Ways to Build Rooms in an Ant Colony	统计为蚁群构筑房间的不同顺序	count-ways-to-build-rooms-in-an-ant-colony	weekly-contest-247	Q4
@@ -1156,6 +1157,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	绝对差不超过限制的最长连续子数组	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit	weekly-contest-187	Q3
 1671.9261598000	2033	Minimum Operations to Make a Uni-Value Grid	获取单值网格的最小操作数	minimum-operations-to-make-a-uni-value-grid	weekly-contest-262	Q2
 1671.4657554194	1738	Find Kth Largest XOR Coordinate Value	找出第 K 大的异或坐标值	find-kth-largest-xor-coordinate-value	weekly-contest-225	Q3
+1668.9941164204	3761	Minimum Absolute Distance Between Mirror Pairs	镜像对之间最小绝对距离	minimum-absolute-distance-between-mirror-pairs	weekly-contest-478	Q3
 1666.3469909790	1162	As Far from Land as Possible	地图分析	as-far-from-land-as-possible	weekly-contest-150	Q3
 1665.2490724700	1620	Coordinate With Maximum Network Quality	网络信号最好的坐标	coordinate-with-maximum-network-quality	biweekly-contest-37	Q2
 1665.1885910815	2593	Find Score of an Array After Marking All Elements	标记所有元素后数组的分数	find-score-of-an-array-after-marking-all-elements	biweekly-contest-100	Q3
@@ -1735,6 +1737,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1373.8916796083	2610	Convert an Array Into a 2D Array With Conditions	转换二维数组	convert-an-array-into-a-2d-array-with-conditions	weekly-contest-339	Q2
 1373.8113453501	1291	Sequential Digits	顺次数	sequential-digits	weekly-contest-167	Q2
 1372.8281350959	3446	Sort Matrix by Diagonals	按对角线进行矩阵排序	sort-matrix-by-diagonals	weekly-contest-436	Q1
+1372.7471551838	3759	Count Elements With at Least K Greater Values	统计合格元素的数目	count-elements-with-at-least-k-greater-values	weekly-contest-478	Q1
 1372.7398808669	748	Shortest Completing Word	最短补全词	shortest-completing-word	weekly-contest-63	Q2
 1372.5139179378	2482	Difference Between Ones and Zeros in Row and Column	行和列中一和零的差值	difference-between-ones-and-zeros-in-row-and-column	biweekly-contest-92	Q2
 1372.4759842416	2899	Last Visited Integers	上一个遍历的整数	last-visited-integers	biweekly-contest-115	Q1
@@ -1755,6 +1758,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1365.2269076492	2231	Largest Number After Digit Swaps by Parity	按奇偶性交换后的最大数字	largest-number-after-digit-swaps-by-parity	weekly-contest-288	Q1
 1364.6787168645	2260	Minimum Consecutive Cards to Pick Up	必须拿起的最小连续卡牌数	minimum-consecutive-cards-to-pick-up	weekly-contest-291	Q2
 1364.1548599180	1974	Minimum Time to Type Word Using Special Typewriter	使用特殊打字机键入单词的最少时间	minimum-time-to-type-word-using-special-typewriter	biweekly-contest-59	Q1
+1364.0551746266	3760	Maximum Substrings With Distinct Start	不同首字母的子字符串数目	maximum-substrings-with-distinct-start	weekly-contest-478	Q2
 1363.7443380057	3309	Maximum Possible Number by Binary Concatenation	连接二进制表示可形成的最大数值	maximum-possible-number-by-binary-concatenation	weekly-contest-418	Q1
 1362.7144100401	2486	Append Characters to String to Make Subsequence	追加字符以获得子序列	append-characters-to-string-to-make-subsequence	weekly-contest-321	Q2
 1362.6613797387	1592	Rearrange Spaces Between Words	重新排列单词间的空格	rearrange-spaces-between-words	weekly-contest-207	Q1
