@@ -401,6 +401,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2203.1738850937	1246	Palindrome Removal	删除回文子数组	palindrome-removal	biweekly-contest-12	Q4
 2201.8256032743	3714	Longest Balanced Substring II	最长的平衡子串 II	longest-balanced-substring-ii	weekly-contest-471	Q3
 2201.8209584221	1453	Maximum Number of Darts Inside of a Circular Dartboard	圆形靶内的最大飞镖数量	maximum-number-of-darts-inside-of-a-circular-dartboard	weekly-contest-189	Q4
+2201.6686585330	3777	Minimum Deletions to Make Alternating Substring	使子字符串变交替的最少删除次数	minimum-deletions-to-make-alternating-substring	weekly-contest-480	Q4
 2201.6219336792	2045	Second Minimum Time to Reach Destination	到达目的地的第二短时间	second-minimum-time-to-reach-destination	weekly-contest-263	Q4
 2200.6623666057	847	Shortest Path Visiting All Nodes	访问所有节点的最短路径	shortest-path-visiting-all-nodes	weekly-contest-87	Q4
 2200.2757106638	3306	Count of Substrings Containing Every Vowel and K Consonants II	元音辅音字符串计数 II	count-of-substrings-containing-every-vowel-and-k-consonants-ii	weekly-contest-417	Q3
@@ -1039,6 +1040,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1741.4527995252	1145	Binary Tree Coloring Game	二叉树着色游戏	binary-tree-coloring-game	weekly-contest-148	Q2
 1741.3694833067	3020	Find the Maximum Number of Elements in Subset	子集中元素的最大数量	find-the-maximum-number-of-elements-in-subset	weekly-contest-382	Q2
 1740.5014205942	1079	Letter Tile Possibilities	活字印刷	letter-tile-possibilities	weekly-contest-140	Q2
+1739.7696741336	3776	Minimum Moves to Balance Circular Array	使循环数组余额非负的最少移动次数	minimum-moves-to-balance-circular-array	weekly-contest-480	Q3
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	拆分字符串使唯一子字符串的数目最大	split-a-string-into-the-max-number-of-unique-substrings	weekly-contest-207	Q2
 1739.3005043887	3694	Distinct Points Reachable After Substring Removal	删除子字符串后不同的终点	distinct-points-reachable-after-substring-removal	biweekly-contest-166	Q3
 1737.8431142688	1814	Count Nice Pairs in an Array	统计一个数组中好对子的数目	count-nice-pairs-in-an-array	biweekly-contest-49	Q3
@@ -1693,6 +1695,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1392.6601629182	1529	Bulb Switcher IV	灯泡开关 IV	minimum-suffix-flips	weekly-contest-199	Q2
 1392.3629194433	2870	Minimum Number of Operations to Make Array Empty	使数组为空的最少操作次数	minimum-number-of-operations-to-make-array-empty	biweekly-contest-114	Q2
 1392.0853311911	957	Prison Cells After N Days	N 天后的牢房	prison-cells-after-n-days	weekly-contest-115	Q1
+1391.9600023546	3775	Reverse Words With Same Vowel Count	反转元音数相同的单词	reverse-words-with-same-vowel-count	weekly-contest-480	Q2
 1391.7243180131	1222	Queens That Can Attack the King	可以攻击国王的皇后	queens-that-can-attack-the-king	weekly-contest-158	Q2
 1390.5023027273	2155	All Divisions With the Highest Score of a Binary Array	分组得分最高的所有下标	all-divisions-with-the-highest-score-of-a-binary-array	weekly-contest-278	Q2
 1389.3311694710	1065	Index Pairs of a String	字符串的索引对	index-pairs-of-a-string	biweekly-contest-1	Q2
@@ -2196,6 +2199,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1207.7224406285	1704	Determine if String Halves Are Alike	判断字符串的两半是否相似	determine-if-string-halves-are-alike	weekly-contest-221	Q1
 1207.3151378208	2485	Find the Pivot Integer	找出中枢整数	find-the-pivot-integer	weekly-contest-321	Q1
 1206.5675296817	2595	Number of Even and Odd Bits	奇偶位数	number-of-even-and-odd-bits	weekly-contest-337	Q1
+1206.1666740510	3774	Absolute Difference Between Maximum and Minimum K Elements	最大和最小 K 个元素的绝对差	absolute-difference-between-maximum-and-minimum-k-elements	weekly-contest-480	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	检查二进制字符串字段	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
 1206.0712568518	2574	Left and Right Sum Differences	左右元素和的差值	left-and-right-sum-differences	weekly-contest-334	Q1
 1205.8589709613	3120	Count the Number of Special Characters I	统计特殊字母的数量 I	count-the-number-of-special-characters-i	weekly-contest-394	Q1
