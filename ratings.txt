@@ -464,6 +464,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2134.5448970405	910	Smallest Range II	最小差值 II	smallest-range-ii	weekly-contest-103	Q3
 2133.9592509012	1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows	有序矩阵中的第 k 个最小数组和	find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows	weekly-contest-187	Q4
 2133.1003195919	898	Bitwise ORs of Subarrays	子数组按位或操作	bitwise-ors-of-subarrays	weekly-contest-100	Q3
+2132.2407826356	3791	Number of Balanced Integers in a Range	给定范围内平衡整数的数目	number-of-balanced-integers-in-a-range	weekly-contest-482	Q4
 2132.1944636902	2910	Minimum Number of Groups to Create a Valid Assignment	合法分组的最少组数	minimum-number-of-groups-to-create-a-valid-assignment	weekly-contest-368	Q3
 2132.0623345900	2749	Minimum Operations to Make the Integer Zero	得到整数零需要执行的最少操作数	minimum-operations-to-make-the-integer-zero	weekly-contest-351	Q2
 2131.7917160422	1579	Remove Max Number of Edges to Keep Graph Fully Traversable	保证图可完全遍历	remove-max-number-of-edges-to-keep-graph-fully-traversable	weekly-contest-205	Q4
@@ -1300,6 +1301,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1594.2563236049	822	Card Flipping Game	翻转卡片游戏	card-flipping-game	weekly-contest-81	Q2
 1593.8926580448	1577	Number of Ways Where Square of Number Is Equal to Product of Two Numbers	数的平方等于两数乘积的方法数	number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers	weekly-contest-205	Q2
 1593.3015734790	3228	Maximum Number of Operations to Move Ones to the End	将 1 移动到末尾的最大操作次数	maximum-number-of-operations-to-move-ones-to-the-end	weekly-contest-407	Q3
+1593.2313178073	3790	Smallest All-Ones Multiple	最小全 1 倍数	smallest-all-ones-multiple	weekly-contest-482	Q3
 1591.5492530876	930	Binary Subarrays With Sum	和相同的二元子数组	binary-subarrays-with-sum	weekly-contest-108	Q2
 1591.4725328821	1286	Iterator for Combination	字母组合迭代器	iterator-for-combination	biweekly-contest-15	Q3
 1591.4456775890	3355	Zero Array Transformation I	零数组变换 I	zero-array-transformation-i	weekly-contest-424	Q2
@@ -1322,6 +1324,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1580.3620959714	1839	Longest Substring Of All Vowels in Order	所有元音按顺序排布的最长子字符串	longest-substring-of-all-vowels-in-order	weekly-contest-238	Q3
 1579.8019590229	3528	Unit Conversion I	单位转换 I	unit-conversion-i	biweekly-contest-155	Q2
 1579.7630863981	3623	Count Number of Trapezoids I	统计梯形的数目 I	count-number-of-trapezoids-i	weekly-contest-459	Q2
+1579.7469658937	3789	Minimum Cost to Acquire Required Items	采购的最小花费	minimum-cost-to-acquire-required-items	weekly-contest-482	Q2
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	从相邻元素对还原数组	restore-the-array-from-adjacent-pairs	weekly-contest-226	Q2
 1578.8503818621	1034	Coloring A Border	边框着色	coloring-a-border	weekly-contest-134	Q2
 1578.4458037997	3412	Find Mirror Score of a String	计算字符串的镜像分数	find-mirror-score-of-a-string	weekly-contest-431	Q2
@@ -1914,6 +1917,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1307.3797385769	1893	Check if All the Integers in a Range Are Covered	检查是否区域内所有整数都被覆盖	check-if-all-the-integers-in-a-range-are-covered	biweekly-contest-54	Q1
 1307.3265298181	2022	Convert 1D Array Into 2D Array	将一维数组转变成二维数组	convert-1d-array-into-2d-array	biweekly-contest-62	Q1
 1307.2991245272	868	Binary Gap	二进制间距	binary-gap	weekly-contest-93	Q1
+1306.3856807921	3788	Maximum Score of a Split	分割的最大得分	maximum-score-of-a-split	weekly-contest-482	Q1
 1306.2821637677	1984	Minimum Difference Between Highest and Lowest of K Scores	学生分数的最小差值	minimum-difference-between-highest-and-lowest-of-k-scores	weekly-contest-256	Q1
 1306.0704191448	3678	Smallest Absent Positive Greater Than Average	大于平均值的最小未出现正整数	smallest-absent-positive-greater-than-average	biweekly-contest-165	Q1
 1305.3350602668	3602	Hexadecimal and Hexatrigesimal Conversion	十六进制和三十六进制转化	hexadecimal-and-hexatrigesimal-conversion	biweekly-contest-160	Q1
