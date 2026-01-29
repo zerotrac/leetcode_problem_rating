@@ -558,6 +558,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2070.2102619334	1808	Maximize Number of Nice Divisors	好因子的最大数目	maximize-number-of-nice-divisors	weekly-contest-234	Q4
 2069.7848729824	2514	Count Anagrams	统计同位异构字符串数目	count-anagrams	biweekly-contest-94	Q4
 2069.4030284676	1168	Optimize Water Distribution in a Village	水资源分配优化	optimize-water-distribution-in-a-village	biweekly-contest-7	Q4
+2069.1534510743	3821	Find Nth Smallest Integer With K One Bits	二进制中恰好K个1的第N小整数	find-nth-smallest-integer-with-k-one-bits	weekly-contest-486	Q4
 2068.8066375660	1368	Minimum Cost to Make at Least One Valid Path in a Grid	使网格图至少有一条有效路径的最小代价	minimum-cost-to-make-at-least-one-valid-path-in-a-grid	weekly-contest-178	Q4
 2068.1417201040	3489	Zero Array Transformation IV	零数组变换 IV	zero-array-transformation-iv	weekly-contest-441	Q3
 2068.0043466118	1770	Maximum Score from Performing Multiplication Operations	执行乘法运算的最大分数	maximum-score-from-performing-multiplication-operations	weekly-contest-229	Q3
@@ -1073,6 +1074,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1729.1782719522	3499	Maximize Active Section with Trade I	操作后最大活跃区段数 I	maximize-active-section-with-trade-i	biweekly-contest-153	Q2
 1728.8495630128	3439	Reschedule Meetings for Maximum Free Time I	重新安排会议得到最多空余时间 I	reschedule-meetings-for-maximum-free-time-i	biweekly-contest-149	Q2
 1725.4481937307	1011	Capacity To Ship Packages Within D Days	在 D 天内送达包裹的能力	capacity-to-ship-packages-within-d-days	weekly-contest-128	Q3
+1725.2721958375	3820	Pythagorean Distance Nodes in a Tree	树上的勾股距离节点	pythagorean-distance-nodes-in-a-tree	weekly-contest-486	Q3
 1725.1995150882	2416	Sum of Prefix Scores of Strings	字符串的前缀分数和	sum-of-prefix-scores-of-strings	weekly-contest-311	Q4
 1724.3941649340	2261	K Divisible Elements Subarrays	含最多 K 个可整除元素的子数组	k-divisible-elements-subarrays	weekly-contest-291	Q3
 1724.1545485476	2070	Most Beautiful Item for Each Query	每一个查询的最大美丽值	most-beautiful-item-for-each-query	biweekly-contest-65	Q3
@@ -1746,6 +1748,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1382.6941570342	2682	Find the Losers of the Circular Game	找出转圈游戏输家	find-the-losers-of-the-circular-game	weekly-contest-345	Q1
 1382.5129151601	797	All Paths From Source to Target	所有可能的路径	all-paths-from-source-to-target	weekly-contest-75	Q2
 1382.4809893713	1185	Day of the Week	一周中的第几天	day-of-the-week	weekly-contest-153	Q2
+1381.4199385224	3819	Rotate Non Negative Elements	非负元素轮替	rotate-non-negative-elements	weekly-contest-486	Q2
 1381.2168789318	1881	Maximum Value after Insertion	插入后的最大值	maximum-value-after-insertion	weekly-contest-243	Q2
 1381.0888968455	2410	Maximum Matching of Players With Trainers	运动员和训练师的最大匹配数	maximum-matching-of-players-with-trainers	biweekly-contest-87	Q2
 1380.8676024710	3708	Longest Fibonacci Subarray	最长斐波那契子数组	longest-fibonacci-subarray	biweekly-contest-167	Q2
@@ -2231,6 +2234,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1207.3151378208	2485	Find the Pivot Integer	找出中枢整数	find-the-pivot-integer	weekly-contest-321	Q1
 1206.5675296817	2595	Number of Even and Odd Bits	奇偶位数	number-of-even-and-odd-bits	weekly-contest-337	Q1
 1206.1666740510	3774	Absolute Difference Between Maximum and Minimum K Elements	最大和最小 K 个元素的绝对差	absolute-difference-between-maximum-and-minimum-k-elements	weekly-contest-480	Q1
+1206.1460383757	3818	Minimum Prefix Removal to Make Array Strictly Increasing	移除前缀使数组严格递增	minimum-prefix-removal-to-make-array-strictly-increasing	weekly-contest-486	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	检查二进制字符串字段	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
 1206.0712568518	2574	Left and Right Sum Differences	左右元素和的差值	left-and-right-sum-differences	weekly-contest-334	Q1
 1205.8589709613	3120	Count the Number of Special Characters I	统计特殊字母的数量 I	count-the-number-of-special-characters-i	weekly-contest-394	Q1
