@@ -672,6 +672,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1990.7738526153	963	Minimum Area Rectangle II	最小面积矩形 II	minimum-area-rectangle-ii	weekly-contest-116	Q3
 1990.2800994214	756	Pyramid Transition Matrix	金字塔转换矩阵	pyramid-transition-matrix	weekly-contest-65	Q3
 1989.5369509422	902	Numbers At Most N Given Digit Set	最大为 N 的数字组合	numbers-at-most-n-given-digit-set	weekly-contest-101	Q3
+1987.9947081035	3836	Maximum Score Using Exactly K Pairs	恰好 K 个下标对的最大得分	maximum-score-using-exactly-k-pairs	weekly-contest-488	Q4
 1985.2504512337	928	Minimize Malware Spread II	尽量减少恶意软件的传播 II	minimize-malware-spread-ii	weekly-contest-107	Q4
 1985.2417520906	940	Distinct Subsequences II	不同的子序列 II	distinct-subsequences-ii	weekly-contest-110	Q4
 1984.9685663849	2963	Count the Number of Good Partitions	统计好分割方案的数目	count-the-number-of-good-partitions	weekly-contest-375	Q4
@@ -1023,6 +1024,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1761.8759092138	3403	Find the Lexicographically Largest String From the Box I	从盒子中找出字典序最大的字符串 I	find-the-lexicographically-largest-string-from-the-box-i	weekly-contest-430	Q2
 1760.9131492436	2121	Intervals Between Identical Elements	相同元素的间隔之和	intervals-between-identical-elements	weekly-contest-273	Q3
 1759.2287478055	2075	Decode the Slanted Ciphertext	解码斜向换位密码	decode-the-slanted-ciphertext	weekly-contest-267	Q3
+1759.0629543156	3835	Count Subarrays With Cost Less Than or Equal to K	开销小于等于 K 的子数组数目	count-subarrays-with-cost-less-than-or-equal-to-k	weekly-contest-488	Q3
 1759.0470795449	2498	Frog Jump II	青蛙过河 II	frog-jump-ii	biweekly-contest-93	Q3
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	平衡括号字符串的最少插入次数	minimum-insertions-to-balance-a-parentheses-string	biweekly-contest-32	Q3
 1758.7525514100	1027	Longest Arithmetic Subsequence	最长等差数列	longest-arithmetic-subsequence	weekly-contest-132	Q3
@@ -1640,6 +1642,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1428.7246677159	2711	Difference of Number of Distinct Values on Diagonals	对角线上不同值的数量差	difference-of-number-of-distinct-values-on-diagonals	weekly-contest-347	Q2
 1428.7129059030	817	Linked List Components	链表组件	linked-list-components	weekly-contest-80	Q2
 1428.6729861424	1845	Seat Reservation Manager	座位预约管理系统	seat-reservation-manager	biweekly-contest-51	Q2
+1428.6483320166	3834	Merge Adjacent Equal Elements	合并相邻且相等的元素	merge-adjacent-equal-elements	weekly-contest-488	Q2
 1428.1443796872	1669	Merge In Between Linked Lists	合并两个链表	merge-in-between-linked-lists	biweekly-contest-40	Q2
 1427.7906804882	1887	Reduction Operations to Make the Array Elements Equal	使数组元素相等的减少操作次数	reduction-operations-to-make-the-array-elements-equal	weekly-contest-244	Q2
 1426.9800910361	2437	Number of Valid Clock Times	有效时间的数目	number-of-valid-clock-times	biweekly-contest-89	Q1
@@ -2331,6 +2334,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1172.0548998046	2427	Number of Common Factors	公因子的数目	number-of-common-factors	weekly-contest-313	Q1
 1172.0410939015	3158	Find the XOR of Numbers Which Appear Twice	求出出现两次数字的 XOR 值	find-the-xor-of-numbers-which-appear-twice	biweekly-contest-131	Q1
 1171.7635387886	3248	Snake in Matrix	矩阵中的蛇	snake-in-matrix	weekly-contest-410	Q1
+1171.7374328673	3833	Count Dominant Indices	统计主导元素下标数	count-dominant-indices	weekly-contest-488	Q1
 1170.7936743933	3783	Mirror Distance of an Integer	整数的镜像距离	mirror-distance-of-an-integer	weekly-contest-481	Q1
 1169.4209117977	2960	Count Tested Devices After Test Operations	统计已测试设备	count-tested-devices-after-test-operations	weekly-contest-375	Q1
 1168.7462888240	3162	Find the Number of Good Pairs I	优质数对的总数 I	find-the-number-of-good-pairs-i	weekly-contest-399	Q1
