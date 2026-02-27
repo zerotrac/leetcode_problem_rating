@@ -706,6 +706,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1967.3284576938	1293	Shortest Path in a Grid with Obstacles Elimination	网格中的最短路径	shortest-path-in-a-grid-with-obstacles-elimination	weekly-contest-167	Q4
 1966.7067914206	1969	Minimum Non-Zero Product of the Array Elements	数组元素的最小非零乘积	minimum-non-zero-product-of-the-array-elements	weekly-contest-254	Q3
 1965.1266122355	2439	Minimize Maximum of Array	最小化数组中的最大值	minimize-maximum-of-array	biweekly-contest-89	Q3
+1964.6174369373	3850	Count Sequences to K	统计结果等于 K 的序列数目	count-sequences-to-k	weekly-contest-490	Q4
 1964.3793590858	815	Bus Routes	公交路线	bus-routes	weekly-contest-79	Q4
 1962.3314335449	802	Find Eventual Safe States	找到最终的安全状态	find-eventual-safe-states	weekly-contest-76	Q3
 1962.2005269503	1642	Furthest Building You Can Reach	可以到达的最远建筑	furthest-building-you-can-reach	weekly-contest-213	Q3
@@ -1391,6 +1392,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1557.0170555820	2007	Find Original Array From Doubled Array	从双倍数组中还原原数组	find-original-array-from-doubled-array	biweekly-contest-61	Q2
 1556.8824239708	2131	Longest Palindrome by Concatenating Two Letter Words	连接两字母单词得到的最长回文串	longest-palindrome-by-concatenating-two-letter-words	biweekly-contest-69	Q3
 1556.7777620299	3652	Best Time to Buy and Sell Stock using Strategy	按策略买卖股票的最佳时机	best-time-to-buy-and-sell-stock-using-strategy	weekly-contest-463	Q1
+1556.4396462723	3849	Maximum Bitwise XOR After Rearrangement	重新排列后的最大按位异或值	maximum-bitwise-xor-after-rearrangement	weekly-contest-490	Q3
 1556.3092642778	3653	XOR After Range Multiplication Queries I	区间乘法查询后的异或 I	xor-after-range-multiplication-queries-i	weekly-contest-463	Q2
 1553.2232121523	3361	Shift Distance Between Two Strings	两个字符串的切换距离	shift-distance-between-two-strings	biweekly-contest-144	Q2
 1552.8935571247	2461	Maximum Sum of Distinct Subarrays With Length K	长度为 K 子数组中的最大和	maximum-sum-of-distinct-subarrays-with-length-k	weekly-contest-318	Q2
@@ -1667,6 +1669,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1421.6541140049	1360	Number of Days Between Two Dates	日期之间隔几天	number-of-days-between-two-dates	weekly-contest-177	Q1
 1421.2624065513	1033	Moving Stones Until Consecutive	移动石子直到连续	moving-stones-until-consecutive	weekly-contest-134	Q1
 1420.3698647434	2760	Longest Even Odd Subarray With Threshold	最长奇偶子数组	longest-even-odd-subarray-with-threshold	weekly-contest-352	Q1
+1420.0008738262	3848	Check Digitorial Permutation	阶数数字排列	check-digitorial-permutation	weekly-contest-490	Q2
 1419.6326908404	3275	K-th Nearest Obstacle Queries	第 K 近障碍物查询	k-th-nearest-obstacle-queries	weekly-contest-413	Q2
 1418.9758090724	2374	Node With Highest Edge Score	边积分最高的节点	node-with-highest-edge-score	weekly-contest-306	Q2
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
@@ -2207,6 +2210,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1224.7606792444	1337	The K Weakest Rows in a Matrix	矩阵中战斗力最弱的 K 行	the-k-weakest-rows-in-a-matrix	weekly-contest-174	Q1
 1223.9335618833	2460	Apply Operations to an Array	对数组执行操作	apply-operations-to-an-array	weekly-contest-318	Q1
 1223.7257942998	3206	Alternating Groups I	交替组 I	alternating-groups-i	biweekly-contest-134	Q1
+1223.4978877568	3847	Find the Score Difference in a Game	计算比赛分数差	find-the-score-difference-in-a-game	weekly-contest-490	Q1
 1223.4065703960	2206	Divide Array Into Equal Pairs	将数组划分成相等数对	divide-array-into-equal-pairs	biweekly-contest-74	Q1
 1223.3861903833	1408	String Matching in an Array	数组中的字符串匹配	string-matching-in-an-array	weekly-contest-184	Q1
 1222.2354919459	2535	Difference Between Element Sum and Digit Sum of an Array	数组元素和与数字和的绝对差	difference-between-element-sum-and-digit-sum-of-an-array	weekly-contest-328	Q1
