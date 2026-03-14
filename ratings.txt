@@ -616,6 +616,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2033.1699277531	2262	Total Appeal of A String	字符串的总引力	total-appeal-of-a-string	weekly-contest-291	Q4
 2032.7973825260	3578	Count Partitions With Max-Min Difference at Most K	统计极差最大为 K 的分割方式数	count-partitions-with-max-min-difference-at-most-k	weekly-contest-453	Q3
 2032.4773038683	1425	Constrained Subsequence Sum	带限制的子序列和	constrained-subsequence-sum	weekly-contest-186	Q4
+2032.4612250461	3864	Minimum Cost to Partition a Binary String	划分二进制字符串的最小费用	minimum-cost-to-partition-a-binary-string	weekly-contest-492	Q4
 2030.9227703010	2919	Minimum Increment Operations to Make Array Beautiful	使数组变美的最小增量运算数	minimum-increment-operations-to-make-array-beautiful	weekly-contest-369	Q3
 2030.1021023033	2426	Number of Pairs Satisfying Inequality	满足不等式的数对数目	number-of-pairs-satisfying-inequality	biweekly-contest-88	Q4
 2029.4024513478	2772	Apply Operations to Make All Array Elements Equal to Zero	使数组中的所有元素都等于零	apply-operations-to-make-all-array-elements-equal-to-zero	weekly-contest-353	Q4
@@ -856,6 +857,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1861.4906863586	1993	Operations on Tree	树上的操作	operations-on-tree	biweekly-contest-60	Q3
 1860.7429342910	1996	The Number of Weak Characters in the Game	游戏中弱角色的数量	the-number-of-weak-characters-in-the-game	weekly-contest-257	Q2
 1860.5166780235	2301	Match Substring After Replacement	替换字符后匹配	match-substring-after-replacement	biweekly-contest-80	Q3
+1859.9958119266	3863	Minimum Operations to Sort a String	将一个字符串排序的最小操作次数	minimum-operations-to-sort-a-string	weekly-contest-492	Q3
 1858.9581916885	1744	Can You Eat Your Favorite Candy on Your Favorite Day?	你能在你最喜欢的那天吃到你最喜欢的糖果吗？	can-you-eat-your-favorite-candy-on-your-favorite-day	weekly-contest-226	Q3
 1857.6431822094	1584	Min Cost to Connect All Points	连接所有点的最小费用	min-cost-to-connect-all-points	weekly-contest-206	Q3
 1856.8610192187	2266	Count Number of Texts	统计打字方案数	count-number-of-texts	weekly-contest-292	Q3
@@ -1141,6 +1143,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1699.6848167364	3607	Power Grid Maintenance	电网维护	power-grid-maintenance	weekly-contest-457	Q2
 1699.1071481616	3488	Closest Equal Element Queries	距离最小相等元素查询	closest-equal-element-queries	weekly-contest-441	Q2
 1697.8500495479	1017	Convert to Base -2	负二进制转换	convert-to-base-2	weekly-contest-130	Q2
+1697.4726349681	3862	Find the Smallest Balanced Index	找出最小平衡下标	find-the-smallest-balanced-index	weekly-contest-492	Q2
 1697.2356875149	1289	Minimum Falling Path Sum II	下降路径最小和  II	minimum-falling-path-sum-ii	biweekly-contest-15	Q4
 1697.0187705319	825	Friends Of Appropriate Ages	适龄的朋友	friends-of-appropriate-ages	weekly-contest-82	Q2
 1696.9920075471	1487	Making File Names Unique	保证文件名唯一	making-file-names-unique	weekly-contest-194	Q2
@@ -2386,6 +2389,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1157.6407631819	2903	Find Indices With Index and Value Difference I	找出满足差值条件的下标 I	find-indices-with-index-and-value-difference-i	weekly-contest-367	Q1
 1155.4545579447	2351	First Letter to Appear Twice	第一个出现两次的字母	first-letter-to-appear-twice	weekly-contest-303	Q1
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	判断能否形成等差数列	can-make-arithmetic-progression-from-sequence	weekly-contest-196	Q1
+1154.1609831093	3861	Minimum Capacity Box	容量最小的箱子	minimum-capacity-box	weekly-contest-492	Q1
 1153.4272559620	2469	Convert the Temperature	温度转换	convert-the-temperature	weekly-contest-319	Q1
 1152.9389808366	3151	Special Array I	特殊数组 I	special-array-i	weekly-contest-398	Q1
 1152.4483983485	3146	Permutation Difference between Two Strings	两个字符串的排列差	permutation-difference-between-two-strings	weekly-contest-397	Q1
