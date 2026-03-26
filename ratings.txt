@@ -380,6 +380,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2231.8099102949	1766	Tree of Coprimes	互质树	tree-of-coprimes	biweekly-contest-46	Q4
 2231.1942136357	3041	Maximize Consecutive Elements in an Array After Modification	修改数组后最大化数组中的连续元素数目	maximize-consecutive-elements-in-an-array-after-modification	biweekly-contest-124	Q4
 2230.1673059455	1012	Numbers With Repeated Digits	至少有 1 位重复的数字	numbers-with-repeated-digits	weekly-contest-128	Q4
+2230.1400164479	3878	Count Good Subarrays	统计好子数组	count-good-subarrays	weekly-contest-494	Q4
 2228.3454693625	2581	Count Number of Possible Root Nodes	统计可能的树根数目	count-number-of-possible-root-nodes	biweekly-contest-99	Q4
 2227.3896051956	2930	Number of Strings Which Can Be Rearranged to Contain Substring	重新排列后包含指定子字符串的字符串数目	number-of-strings-which-can-be-rearranged-to-contain-substring	biweekly-contest-117	Q3
 2225.3877535768	2163	Minimum Difference in Sums After Removal of Elements	删除元素后和的最小差值	minimum-difference-in-sums-after-removal-of-elements	biweekly-contest-71	Q4
@@ -1066,6 +1067,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1745.6580748712	1530	Number of Good Leaf Nodes Pairs	好叶子节点对的数量	number-of-good-leaf-nodes-pairs	weekly-contest-199	Q3
 1745.6490739887	1391	Check if There is a Valid Path in a Grid	检查网格中是否存在有效路径	check-if-there-is-a-valid-path-in-a-grid	weekly-contest-181	Q3
 1745.5352025872	2502	Design Memory Allocator	设计内存分配器	design-memory-allocator	weekly-contest-323	Q3
+1745.1254709049	3877	Minimum Removals to Achieve Target XOR	达到目标异或值的最少删除次数	minimum-removals-to-achieve-target-xor	weekly-contest-494	Q3
 1745.0735728380	3433	Count Mentions Per User	统计用户被提及情况	count-mentions-per-user	weekly-contest-434	Q2
 1744.7611048301	1638	Count Substrings That Differ by One Character	统计只差一个字符的子串数目	count-substrings-that-differ-by-one-character	biweekly-contest-38	Q3
 1744.0388789755	1139	Largest 1-Bordered Square	最大的以 1 为边界的正方形	largest-1-bordered-square	weekly-contest-147	Q3
@@ -1627,6 +1629,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1444.3218903725	2526	Find Consecutive Integers from a Data Stream	找到数据流中的连续整数	find-consecutive-integers-from-a-data-stream	biweekly-contest-95	Q2
 1444.2068009303	942	DI String Match	增减字符串匹配	di-string-match	weekly-contest-111	Q3
 1444.1650334711	3779	Minimum Number of Operations to Have Distinct Elements	得到互不相同元素的最少操作次数	minimum-number-of-operations-to-have-distinct-elements	biweekly-contest-172	Q1
+1443.8082904044	3876	Construct Uniform Parity Array II	构造奇偶一致的数组 II	construct-uniform-parity-array-ii	weekly-contest-494	Q2
 1443.2353621969	1560	Most Visited Sector in  a Circular Track	圆形赛道上经过次数最多的扇区	most-visited-sector-in-a-circular-track	weekly-contest-203	Q1
 1443.1854302220	3411	Maximum Subarray With Equal Products	最长乘积等价子数组	maximum-subarray-with-equal-products	weekly-contest-431	Q1
 1443.0697629277	763	Partition Labels	划分字母区间	partition-labels	weekly-contest-67	Q2
@@ -2297,6 +2300,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1199.8733520841	3452	Sum of Good Numbers	好数字之和	sum-of-good-numbers	biweekly-contest-150	Q1
 1199.8592887103	2169	Count Operations to Obtain Zero	得到 0 的操作数	count-operations-to-obtain-zero	weekly-contest-280	Q1
 1199.8475039745	3432	Count Partitions with Even Sum Difference	统计元素和差值为偶数的分区方案	count-partitions-with-even-sum-difference	weekly-contest-434	Q1
+1199.6286181975	3875	Construct Uniform Parity Array I	构造奇偶一致的数组 I	construct-uniform-parity-array-i	weekly-contest-494	Q1
 1199.4477805501	2000	Reverse Prefix of Word	反转单词前缀	reverse-prefix-of-word	weekly-contest-258	Q1
 1199.4427635582	1154	Day of the Year	一年中的第几天	day-of-the-year	weekly-contest-149	Q1
 1199.2892732505	929	Unique Email Addresses	独特的电子邮件地址	unique-email-addresses	weekly-contest-108	Q1
