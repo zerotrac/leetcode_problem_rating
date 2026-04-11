@@ -326,6 +326,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2286.1378742318	1851	Minimum Interval to Include Each Query	包含每个查询的最小区间	minimum-interval-to-include-each-query	weekly-contest-239	Q4
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	完成所有工作的最短时间	find-minimum-time-to-finish-all-jobs	weekly-contest-223	Q4
 2281.8816902545	2659	Make Array Empty	将数组清空	make-array-empty	biweekly-contest-103	Q4
+2280.3553600661	3892	Minimum Operations to Achieve At Least K Peaks	产生至少 K 个峰值的最少操作次数	minimum-operations-to-achieve-at-least-k-peaks	weekly-contest-496	Q4
 2280.3143643878	2407	Longest Increasing Subsequence II	最长递增子序列 II	longest-increasing-subsequence-ii	weekly-contest-310	Q4
 2277.9557248587	3031	Minimum Time to Revert Word to Initial State II	将单词恢复初始状态所需的最短时间 II	minimum-time-to-revert-word-to-initial-state-ii	weekly-contest-383	Q4
 2277.7923804151	2763	Sum of Imbalance Numbers of All Subarrays	所有子数组中不平衡数字之和	sum-of-imbalance-numbers-of-all-subarrays	weekly-contest-352	Q4
@@ -731,6 +732,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1954.5247525411	3599	Partition Array to Minimize XOR	划分数组得到最小 XOR	partition-array-to-minimize-xor	weekly-contest-456	Q3
 1954.2533254344	1696	Jump Game VI	跳跃游戏 VI	jump-game-vi	weekly-contest-220	Q3
 1953.1377267440	2434	Using a Robot to Print the Lexicographically Smallest String	使用机器人打印字典序最小的字符串	using-a-robot-to-print-the-lexicographically-smallest-string	weekly-contest-314	Q3
+1952.7914119963	3891	Minimum Increase to Maximize Special Indices	最大化特殊下标数目的最少增加次数	minimum-increase-to-maximize-special-indices	weekly-contest-496	Q3
 1952.7073399331	1737	Change Minimum Characters to Satisfy One of Three Conditions	满足三条件之一需改变的最少字符数	change-minimum-characters-to-satisfy-one-of-three-conditions	weekly-contest-225	Q2
 1951.5918682146	2435	Paths in Matrix Whose Sum Is Divisible by K	矩阵中和能被 K 整除的路径	paths-in-matrix-whose-sum-is-divisible-by-k	weekly-contest-314	Q4
 1951.3509259668	1259	Handshakes That Don't Cross	不相交的握手	handshakes-that-dont-cross	biweekly-contest-13	Q4
@@ -1452,6 +1454,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1536.5893223179	2933	High-Access Employees	高访问员工	high-access-employees	weekly-contest-371	Q2
 1536.5526318546	3723	Maximize Sum of Squares of Digits	数位平方和的最大值	maximize-sum-of-squares-of-digits	biweekly-contest-168	Q2
 1535.3680469616	2958	Length of Longest Subarray With at Most K Frequency	最多 K 个重复元素的最长子数组	length-of-longest-subarray-with-at-most-k-frequency	biweekly-contest-119	Q3
+1534.4194646850	3890	Integers With Multiple Sum of Two Cubes	可由多种立方和构造的整数	integers-with-multiple-sum-of-two-cubes	weekly-contest-496	Q2
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	具有所有最深节点的最小子树	smallest-subtree-with-all-the-deepest-nodes	weekly-contest-92	Q2
 1534.0648719302	1797	Design Authentication Manager	设计一个验证系统	design-authentication-manager	biweekly-contest-48	Q2
 1533.9285875234	1362	Closest Divisors	最接近的因数	closest-divisors	weekly-contest-177	Q3
@@ -1962,6 +1965,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1314.3600610974	2640	Find the Score of All Prefixes of an Array	一个数组所有前缀的分数	find-the-score-of-all-prefixes-of-an-array	biweekly-contest-102	Q2
 1314.2912238536	2160	Minimum Sum of Four Digit Number After Splitting Digits	拆分数位后四位数字的最小和	minimum-sum-of-four-digit-number-after-splitting-digits	biweekly-contest-71	Q1
 1312.3577370916	3606	Coupon Code Validator	优惠券校验器	coupon-code-validator	weekly-contest-457	Q1
+1312.2328052186	3889	Mirror Frequency Distance	镜像频次距离	mirror-frequency-distance	weekly-contest-496	Q1
 1311.9797172430	3191	Minimum Operations to Make Binary Array Elements Equal to One I	使二进制数组全部等于 1 的最少操作次数 I	minimum-operations-to-make-binary-array-elements-equal-to-one-i	biweekly-contest-133	Q2
 1311.9656823665	3163	String Compression III	压缩字符串 III	string-compression-iii	weekly-contest-399	Q2
 1311.3495317884	1021	Remove Outermost Parentheses	删除最外层的括号	remove-outermost-parentheses	weekly-contest-131	Q1
