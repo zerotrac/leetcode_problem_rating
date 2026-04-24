@@ -451,6 +451,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2162.6859814587	3171	Find Subarray With Bitwise AND Closest to K	找到按位与最接近 K 的子数组	find-subarray-with-bitwise-or-closest-to-k	weekly-contest-400	Q4
 2162.0729079623	3830	Longest Alternating Subarray After Removing At Most One Element	移除至多一个元素后的最长交替子数组	longest-alternating-subarray-after-removing-at-most-one-element	weekly-contest-487	Q4
 2161.6248796745	3373	Maximize the Number of Target Nodes After Connecting Trees II	连接两棵树后最大目标节点数目 II	maximize-the-number-of-target-nodes-after-connecting-trees-ii	weekly-contest-426	Q4
+2160.2886328928	3906	Count Good Integers on a Grid Path	统计网格路径中好整数的数目	count-good-integers-on-a-grid-path	weekly-contest-498	Q4
 2159.4844281244	2584	Split the Array to Make Coprime Products	分割数组使乘积互质	split-the-array-to-make-coprime-products	weekly-contest-335	Q3
 2158.8988728254	2122	Recover the Original Array	还原原数组	recover-the-original-array	weekly-contest-273	Q4
 2158.7683843245	2102	Sequentially Ordinal Rank Tracker	序列顺序查询	sequentially-ordinal-rank-tracker	biweekly-contest-67	Q4
@@ -1211,6 +1212,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1672.1678031263	1438	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	绝对差不超过限制的最长连续子数组	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit	weekly-contest-187	Q3
 1671.9261598000	2033	Minimum Operations to Make a Uni-Value Grid	获取单值网格的最小操作数	minimum-operations-to-make-a-uni-value-grid	weekly-contest-262	Q2
 1671.4657554194	1738	Find Kth Largest XOR Coordinate Value	找出第 K 大的异或坐标值	find-kth-largest-xor-coordinate-value	weekly-contest-225	Q3
+1671.4061227694	3905	Multi Source Flood Fill	多源图像渲染	multi-source-flood-fill	weekly-contest-498	Q3
 1668.9941164204	3761	Minimum Absolute Distance Between Mirror Pairs	镜像对之间最小绝对距离	minimum-absolute-distance-between-mirror-pairs	weekly-contest-478	Q3
 1666.3469909790	1162	As Far from Land as Possible	地图分析	as-far-from-land-as-possible	weekly-contest-150	Q3
 1665.2490724700	1620	Coordinate With Maximum Network Quality	网络信号最好的坐标	coordinate-with-maximum-network-quality	biweekly-contest-37	Q2
@@ -1875,6 +1877,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1352.7250049956	848	Shifting Letters	字母移位	shifting-letters	weekly-contest-88	Q1
 1352.5455214631	3211	Generate Binary Strings Without Adjacent Zeros	生成不含相邻零的二进制字符串	generate-binary-strings-without-adjacent-zeros	weekly-contest-405	Q2
 1352.1791099256	1995	Count Special Quadruplets	统计特殊四元组	count-special-quadruplets	weekly-contest-257	Q1
+1351.7298298830	3904	Smallest Stable Index II	最小稳定下标 II	smallest-stable-index-ii	weekly-contest-498	Q2
 1351.6909336495	2895	Minimum Processing Time	最小处理时间	minimum-processing-time	weekly-contest-366	Q2
 1351.4184681108	1513	Number of Substrings With Only 1s	仅含 1 的子串数	number-of-substrings-with-only-1s	weekly-contest-197	Q2
 1350.6048768377	2053	Kth Distinct String in an Array	数组中第 K 个独一无二的字符串	kth-distinct-string-in-an-array	biweekly-contest-64	Q1
@@ -2215,6 +2218,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1234.9818183966	3643	Flip Square Submatrix Vertically	垂直翻转子矩阵	flip-square-submatrix-vertically	weekly-contest-462	Q1
 1234.8049089605	1385	Find the Distance Value Between Two Arrays	两个数组间的距离值	find-the-distance-value-between-two-arrays	biweekly-contest-22	Q1
 1234.7692637513	989	Add to Array-Form of Integer	数组形式的整数加法	add-to-array-form-of-integer	weekly-contest-123	Q1
+1234.7518772931	3903	Smallest Stable Index I	最小稳定下标 I	smallest-stable-index-i	weekly-contest-498	Q1
 1234.7084656358	1009	Complement of Base 10 Integer	十进制整数的反码	complement-of-base-10-integer	weekly-contest-128	Q1
 1234.5443176819	3591	Check if Any Element Has Prime Frequency	检查元素频次是否为质数	check-if-any-element-has-prime-frequency	weekly-contest-455	Q1
 1234.4144116814	1184	Distance Between Bus Stops	公交站间的距离	distance-between-bus-stops	weekly-contest-153	Q1
