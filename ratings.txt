@@ -348,6 +348,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2266.3248398876	3193	Count the Number of Inversions	统计逆序对的数目	count-the-number-of-inversions	biweekly-contest-133	Q4
 2266.0997671519	3203	Find Minimum Diameter After Merging Two Trees	合并两棵树后的最小直径	find-minimum-diameter-after-merging-two-trees	weekly-contest-404	Q4
 2265.2118886972	2141	Maximum Running Time of N Computers	同时运行 N 台电脑的最长时间	maximum-running-time-of-n-computers	weekly-contest-276	Q4
+2263.6224926573	3920	Maximize Fixed Points After Deletions	删除元素后最大固定点数目	maximize-fixed-points-after-deletions	weekly-contest-500	Q4
 2262.5641910108	3048	Earliest Second to Mark Indices I	标记所有下标的最早秒数 I	earliest-second-to-mark-indices-i	weekly-contest-386	Q3
 2262.2295067249	3256	Maximum Value Sum by Placing Three Rooks I	放三个车的价值之和最大 I	maximum-value-sum-by-placing-three-rooks-i	biweekly-contest-137	Q3
 2260.2799775623	1997	First Day Where You Have Been in All the Rooms	访问完所有房间的第一天	first-day-where-you-have-been-in-all-the-rooms	weekly-contest-257	Q3
@@ -1026,6 +1027,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1777.3786570233	918	Maximum Sum Circular Subarray	环形子数组的最大和	maximum-sum-circular-subarray	weekly-contest-105	Q2
 1777.2275836051	3164	Find the Number of Good Pairs II	优质数对的总数 II	find-the-number-of-good-pairs-ii	weekly-contest-399	Q3
 1777.1347057233	3573	Best Time to Buy and Sell Stock V	买卖股票的最佳时机 V	best-time-to-buy-and-sell-stock-v	biweekly-contest-158	Q2
+1776.8353975880	3919	Minimum Cost to Move Between Indices	在下标间移动的最小代价	minimum-cost-to-move-between-indices	weekly-contest-500	Q3
 1775.8546066480	2531	Make Number of Distinct Characters Equal	使字符串总不同字符的数目相等	make-number-of-distinct-characters-equal	weekly-contest-327	Q3
 1775.4474231706	3644	Maximum K to Sort a Permutation	排序排列	maximum-k-to-sort-a-permutation	weekly-contest-462	Q2
 1774.8764591297	1238	Circular Permutation in Binary Representation	循环码排列	circular-permutation-in-binary-representation	weekly-contest-160	Q2
@@ -2017,6 +2019,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1301.4117757184	806	Number of Lines To Write String	写字符串需要的行数	number-of-lines-to-write-string	weekly-contest-77	Q1
 1301.4027057843	1646	Get Maximum in Generated Array	获取生成数组中的最大值	get-maximum-in-generated-array	weekly-contest-214	Q1
 1301.3817574010	1877	Minimize Maximum Pair Sum in Array	数组中最大数对和的最小值	minimize-maximum-pair-sum-in-array	biweekly-contest-53	Q2
+1301.1804118587	3918	Sum of Primes Between Number and Its Reverse	区间内的质数和	sum-of-primes-between-number-and-its-reverse	weekly-contest-500	Q2
 1301.1576743638	2748	Number of Beautiful Pairs	美丽下标对的数目	number-of-beautiful-pairs	weekly-contest-351	Q1
 1300.9041426403	1844	Replace All Digits with Characters	将所有数字用字符替换	replace-all-digits-with-characters	biweekly-contest-51	Q1
 1300.8009461582	1790	Check if One String Swap Can Make Strings Equal	仅执行一次字符串交换能否使两个字符串相等	check-if-one-string-swap-can-make-strings-equal	weekly-contest-232	Q1
@@ -2338,6 +2341,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1199.2392672964	1165	Single-Row Keyboard	单行键盘	single-row-keyboard	biweekly-contest-7	Q1
 1199.2274387994	3536	Maximum Product of Two Digits	两个数字的最大乘积	maximum-product-of-two-digits	weekly-contest-448	Q1
 1198.9144299059	3295	Report Spam Message	举报垃圾信息	report-spam-message	weekly-contest-416	Q1
+1198.8640761901	3917	Count Indices With Opposite Parity	统计下标的相反奇偶性得分	count-indices-with-opposite-parity	weekly-contest-500	Q1
 1198.8420836551	2678	Number of Senior Citizens	老人的数目	number-of-senior-citizens	biweekly-contest-104	Q1
 1198.7859616956	3683	Earliest Time to Finish One Task	完成一个任务的最早时间	earliest-time-to-finish-one-task	weekly-contest-467	Q1
 1198.7127779903	3712	Sum of Elements With Frequency Divisible by K	出现次数能被 K 整除的元素总和	sum-of-elements-with-frequency-divisible-by-k	weekly-contest-471	Q1
