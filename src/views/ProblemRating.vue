@@ -1,21 +1,38 @@
 <template>
   <div>
     <div class="head">
-      <div class="language">
-        <el-dropdown style="margin-right: 5%" @command="switchLocale">
-          <span class="el-dropdown-link">
-            {{ $t("lang") }}
-            <el-icon class="el-icon--right">
-              <arrow-down />
-            </el-icon>
+      <div class="options">
+        <div class="dark-light-mode">
+          <span @click="toggleDark()">
+            <icon-moon
+              v-if="!isDark"
+              icon-name="Dark"
+              height="14"
+              ,
+              width="14"
+            />
+            <icon-sun v-else icon-name="Light" height="14" , width="14" />
+            <span class="ml-2" style="font-size: 14px; margin-left: 5px"
+              >{{ isDark ? "Light" : "Dark" }}
+            </span>
           </span>
-          <template #dropdown>
-            <el-dropdown-menu>
-              <el-dropdown-item :command="'en'">English</el-dropdown-item>
-              <el-dropdown-item :command="'zh'">简体中文</el-dropdown-item>
-            </el-dropdown-menu>
-          </template>
-        </el-dropdown>
+        </div>
+        <div class="language">
+          <el-dropdown style="margin-right: 5%" @command="switchLocale">
+            <span class="el-dropdown-link">
+              {{ $t("lang") }}
+              <el-icon class="el-icon--right">
+                <arrow-down />
+              </el-icon>
+            </span>
+            <template #dropdown>
+              <el-dropdown-menu>
+                <el-dropdown-item :command="'en'">English</el-dropdown-item>
+                <el-dropdown-item :command="'zh'">简体中文</el-dropdown-item>
+              </el-dropdown-menu>
+            </template>
+          </el-dropdown>
+        </div>
       </div>
       <div class="filter">
         <el-form :inline="true">
@@ -128,7 +145,14 @@
 import { reactive, onMounted, ref } from "vue";
 import axios, { AxiosResponse } from "axios";
 import { ElMessage } from "element-plus";
+import "element-plus/theme-chalk/dark/css-vars.css";
 import { useI18n } from "vue-i18n";
+import { useDark, useToggle } from "@vueuse/core";
+import IconMoon from "@/icons/IconMoon.vue";
+import IconSun from "@/icons/IconSun.vue";
+
+const isDark = useDark();
+const toggleDark = useToggle(isDark);
 
 const url = "./data.json";
 
@@ -300,9 +324,21 @@ function reset() {
   flex-direction: column;
 }
 
-.language {
+.options {
   width: 100%;
   display: flex;
   justify-content: right;
+  margin-right: 20px;
+}
+
+.dark-light-mode {
+  padding-right: 20px;
+  cursor: pointer;
+  color: var(--el-text-color-regular);
+}
+
+.language {
+  display: contents;
+  justify-content: flex-start;
 }
 </style>
