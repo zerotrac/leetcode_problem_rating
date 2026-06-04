@@ -403,6 +403,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2219.3465296423	2167	Minimum Time to Remove All Cars Containing Illegal Goods	移除所有载有违禁货物车厢所需的最少时间	minimum-time-to-remove-all-cars-containing-illegal-goods	weekly-contest-279	Q4
 2217.8090802563	2025	Maximum Number of Ways to Partition an Array	分割数组的最多方案数	maximum-number-of-ways-to-partition-an-array	biweekly-contest-62	Q4
 2215.7283064325	3102	Minimize Manhattan Distances	最小化曼哈顿距离	minimize-manhattan-distances	weekly-contest-391	Q4
+2215.4516632445	3947	Maximum Number of Items From Sale II	购买最多物品数目 II	maximum-number-of-items-from-sale-ii	weekly-contest-504	Q3
 2214.4798747386	1889	Minimum Space Wasted From Packaging	装包裹的最小浪费空间	minimum-space-wasted-from-packaging	weekly-contest-244	Q4
 2210.3503183571	992	Subarrays with K Different Integers	K 个不同整数的子数组	subarrays-with-k-different-integers	weekly-contest-123	Q4
 2209.8815936961	2081	Sum of k-Mirror Numbers	k 镜像数字的和	sum-of-k-mirror-numbers	weekly-contest-268	Q4
@@ -507,6 +508,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
 2123.5708982185	1970	Last Day Where You Can Still Cross	你能穿过矩阵的最后一天	last-day-where-you-can-still-cross	weekly-contest-254	Q4
 2123.1049463895	3699	Number of ZigZag Arrays I	锯齿形数组的总数 I	number-of-zigzag-arrays-i	weekly-contest-469	Q3
+2122.2230904777	3948	Lexicographically Maximum MEX Array	字典序最大的 MEX 数组	lexicographically-maximum-mex-array	weekly-contest-504	Q4
 2121.3147151648	972	Equal Rational Numbers	相等的有理数	equal-rational-numbers	weekly-contest-118	Q4
 2120.4466386371	2376	Count Special Integers	统计特殊整数	count-special-integers	weekly-contest-306	Q4
 2118.7923652824	1601	Maximum Number of Achievable Transfer Requests	最多可达成的换楼请求数目	maximum-number-of-achievable-transfer-requests	weekly-contest-208	Q4
@@ -1119,6 +1121,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1729.6074000215	1220	Count Vowels Permutation	统计元音字母序列的数目	count-vowels-permutation	weekly-contest-157	Q4
 1729.1782719522	3499	Maximize Active Section with Trade I	操作后最大活跃区段数 I	maximize-active-section-with-trade-i	biweekly-contest-153	Q2
 1728.8495630128	3439	Reschedule Meetings for Maximum Free Time I	重新安排会议得到最多空余时间 I	reschedule-meetings-for-maximum-free-time-i	biweekly-contest-149	Q2
+1728.0374911688	3946	Maximum Number of Items From Sale I	购买最多物品数目 I	maximum-number-of-items-from-sale-i	weekly-contest-504	Q2
 1725.4481937307	1011	Capacity To Ship Packages Within D Days	在 D 天内送达包裹的能力	capacity-to-ship-packages-within-d-days	weekly-contest-128	Q3
 1725.2721958375	3820	Pythagorean Distance Nodes in a Tree	树上的勾股距离节点	pythagorean-distance-nodes-in-a-tree	weekly-contest-486	Q3
 1725.1995150882	2416	Sum of Prefix Scores of Strings	字符串的前缀分数和	sum-of-prefix-scores-of-strings	weekly-contest-311	Q4
@@ -2346,6 +2349,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1201.6117337798	997	Find the Town Judge	找到小镇的法官	find-the-town-judge	weekly-contest-125	Q1
 1201.3497763919	1491	Average Salary Excluding the Minimum and Maximum Salary	去掉最低工资和最高工资后的工资平均值	average-salary-excluding-the-minimum-and-maximum-salary	biweekly-contest-29	Q1
 1201.2843019238	3498	Reverse Degree of a String	字符串的反转度	reverse-degree-of-a-string	biweekly-contest-153	Q1
+1201.2169110885	3945	Digit Frequency Score	计算数字频率得分	digit-frequency-score	weekly-contest-504	Q1
 1200.9464053417	2319	Check if Matrix Is X-Matrix	判断矩阵是否是一个 X 矩阵	check-if-matrix-is-x-matrix	weekly-contest-299	Q1
 1200.6837984436	3392	Count Subarrays of Length Three With a Condition	统计符合条件长度为 3 的子数组数目	count-subarrays-of-length-three-with-a-condition	biweekly-contest-146	Q1
 1200.1921874908	3550	Smallest Index With Digit Sum Equal to Index	数位和等于下标的最小下标	smallest-index-with-digit-sum-equal-to-index	weekly-contest-450	Q1
