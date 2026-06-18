@@ -56,6 +56,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2681.7054310332	2573	Find the String with LCP	找出对应 LCP 矩阵的字符串	find-the-string-with-lcp	weekly-contest-333	Q4
 2677.1682592316	2791	Count Paths That Can Form a Palindrome in a Tree	树中可以形成回文的路径数	count-paths-that-can-form-a-palindrome-in-a-tree	weekly-contest-355	Q4
 2672.7613091907	3086	Minimum Moves to Pick K Ones	拾起 K 个 1 需要的最少行动次数	minimum-moves-to-pick-k-ones	weekly-contest-389	Q4
+2672.4231450980	3962	Maximum Subarray Sum After at Most K Swaps	至多 K 次交换后最大子数组和	maximum-subarray-sum-after-at-most-k-swaps	weekly-contest-506	Q4
 2671.1046123182	3454	Separate Squares II	分割正方形 II	separate-squares-ii	biweekly-contest-150	Q3
 2666.6681508450	1397	Find All Good Strings	找到所有好字符串	find-all-good-strings	weekly-contest-182	Q4
 2666.1303987257	3139	Minimum Cost to Equalize Array	使数组中所有元素相等的最小开销	minimum-cost-to-equalize-array	weekly-contest-396	Q4
@@ -857,6 +858,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1880.4226853663	1106	Parsing A Boolean Expression	解析布尔表达式	parsing-a-boolean-expression	weekly-contest-143	Q4
 1880.3261182293	754	Reach a Number	到达终点数字	reach-a-number	weekly-contest-65	Q1
 1880.0511044074	2101	Detonate the Maximum Bombs	引爆最多的炸弹	detonate-the-maximum-bombs	biweekly-contest-67	Q3
+1879.7915834684	3961	Maximize Sum of Device Ratings	设备评分的最大和	maximize-sum-of-device-ratings	weekly-contest-506	Q3
 1877.8983358307	1234	Replace the Substring for Balanced String	替换子串得到平衡字符串	replace-the-substring-for-balanced-string	weekly-contest-159	Q3
 1877.5624603804	752	Open the Lock	打开转盘锁	open-the-lock	weekly-contest-64	Q3
 1876.3854625677	955	Delete Columns to Make Sorted II	删列造序 II	delete-columns-to-make-sorted-ii	weekly-contest-114	Q3
@@ -1112,6 +1114,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	拆分字符串使唯一子字符串的数目最大	split-a-string-into-the-max-number-of-unique-substrings	weekly-contest-207	Q2
 1739.3005043887	3694	Distinct Points Reachable After Substring Removal	删除子字符串后不同的终点	distinct-points-reachable-after-substring-removal	biweekly-contest-166	Q3
 1737.8431142688	1814	Count Nice Pairs in an Array	统计一个数组中好对子的数目	count-nice-pairs-in-an-array	biweekly-contest-49	Q3
+1737.2296628819	3960	Frequency Balance Subarray	频率平衡子数组	frequency-balance-subarray	weekly-contest-506	Q2
 1737.2065180671	3044	Most Frequent Prime	出现频率最高的质数	most-frequent-prime	weekly-contest-385	Q3
 1735.8505509901	2707	Extra Characters in a String	字符串中的额外字符	extra-characters-in-a-string	biweekly-contest-105	Q2
 1735.4106121238	3453	Separate Squares I	分割正方形 I	separate-squares-i	biweekly-contest-150	Q2
@@ -2404,6 +2407,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1184.5732854617	3423	Maximum Difference Between Adjacent Elements in a Circular Array	循环数组中相邻元素的最大差值	maximum-difference-between-adjacent-elements-in-a-circular-array	biweekly-contest-148	Q1
 1184.4264833435	1979	Find Greatest Common Divisor of Array	找出数组的最大公约数	find-greatest-common-divisor-of-array	weekly-contest-255	Q1
 1184.3385083575	2544	Alternating Digit Sum	交替数字和	alternating-digit-sum	weekly-contest-329	Q1
+1182.9877925220	3959	Check Good Integer	判定好整数	check-good-integer	weekly-contest-506	Q1
 1182.6489068544	1672	Richest Customer Wealth	最富有客户的资产总量	richest-customer-wealth	weekly-contest-217	Q1
 1182.3093772964	2652	Sum Multiples	倍数求和	sum-multiples	weekly-contest-342	Q2
 1182.2102562446	2942	Find Words Containing Character	查找包含给定字符的单词	find-words-containing-character	biweekly-contest-118	Q1
