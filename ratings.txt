@@ -529,6 +529,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2105.0143242092	3529	Count Cells in Overlapping Horizontal and Vertical Substrings	统计水平子串和垂直子串重叠格子的数目	count-cells-in-overlapping-horizontal-and-vertical-substrings	biweekly-contest-155	Q3
 2104.9526046945	1944	Number of Visible People in a Queue	队列中可以看到的人数	number-of-visible-people-in-a-queue	biweekly-contest-57	Q4
 2104.7441214305	2088	Count Fertile Pyramids in a Land	统计农场中肥沃金字塔的数目	count-fertile-pyramids-in-a-land	biweekly-contest-66	Q4
+2102.9932435222	3977	Minimum Time to Reach Target With Limited Power	有限电量到达目标节点的最少时间	minimum-time-to-reach-target-with-limited-power	weekly-contest-508	Q4
 2101.8673420040	2430	Maximum Deletions on a String	对字母串可执行的最大删除数	maximum-deletions-on-a-string	weekly-contest-313	Q4
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	阶乘函数后 K 个零	preimage-size-of-factorial-zeroes-function	weekly-contest-74	Q4
 2096.6201393558	778	Swim in Rising Water	水位上升的泳池中游泳	swim-in-rising-water	weekly-contest-70	Q4
@@ -721,6 +722,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1981.8184570058	3725	Count Ways to Choose Coprime Integers from Rows	统计每一行选择互质整数的方案数	count-ways-to-choose-coprime-integers-from-rows	biweekly-contest-168	Q4
 1981.4460440375	3771	Total Score of Dungeon Runs	探索地牢的得分	total-score-of-dungeon-runs	weekly-contest-479	Q3
 1981.3072959787	2861	Maximum Number of Alloys	最大合金数	maximum-number-of-alloys	weekly-contest-363	Q3
+1981.0453403379	3976	Maximum Subarray Sum After Multiplier	乘以系数后最大子数组和	maximum-subarray-sum-after-multiplier	weekly-contest-508	Q3
 1979.9454101467	2151	Maximum Good People Based on Statements	基于陈述统计最多好人数	maximum-good-people-based-on-statements	weekly-contest-277	Q4
 1979.4930406060	3138	Minimum Length of Anagram Concatenation	同位字符串连接的最小长度	minimum-length-of-anagram-concatenation	weekly-contest-396	Q3
 1979.1323403633	1278	Palindrome Partitioning III	分割回文串 III	palindrome-partitioning-iii	weekly-contest-165	Q4
@@ -1501,6 +1503,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1533.5722750742	3016	Minimum Number of Pushes to Type Word II	输入单词需要的最少按键次数 II	minimum-number-of-pushes-to-type-word-ii	weekly-contest-381	Q3
 1533.4738366200	2770	Maximum Number of Jumps to Reach the Last Index	达到末尾下标所需的最大跳跃次数	maximum-number-of-jumps-to-reach-the-last-index	weekly-contest-353	Q2
 1533.3376144199	1930	Unique Length-3 Palindromic Subsequences	长度为 3 的不同回文子序列	unique-length-3-palindromic-subsequences	weekly-contest-249	Q2
+1533.1878282832	3975	Filter Occupied Intervals	筛选忙碌区间	filter-occupied-intervals	weekly-contest-508	Q2
 1532.3349133769	2429	Minimize XOR	最小 XOR	minimize-xor	weekly-contest-313	Q3
 1532.2539947529	900	RLE Iterator	RLE 迭代器	rle-iterator	weekly-contest-101	Q1
 1531.0213602106	3824	Minimum K to Reduce Array Within Limit	减小数组使其满足条件的最小 K 值	minimum-k-to-reduce-array-within-limit	biweekly-contest-175	Q2
@@ -2166,6 +2169,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1263.2728668041	1456	Maximum Number of Vowels in a Substring of Given Length	定长子串中元音的最大数目	maximum-number-of-vowels-in-a-substring-of-given-length	weekly-contest-190	Q2
 1262.9387403640	2490	Circular Sentence	回环句	circular-sentence	weekly-contest-322	Q1
 1262.9248376352	3159	Find Occurrences of an Element in an Array	查询数组中元素的出现位置	find-occurrences-of-an-element-in-an-array	biweekly-contest-131	Q2
+1262.8839092977	3974	Maximum Total Sum of K Selected Elements	K 个元素的最大总和	maximum-total-sum-of-k-selected-elements	weekly-contest-508	Q1
 1262.6558200509	3921	Score Validator	分数验证器	score-validator	biweekly-contest-182	Q1
 1262.5890311992	1089	Duplicate Zeros	复写零	duplicate-zeros	weekly-contest-141	Q1
 1262.4367018598	3707	Equal Score Substrings	相等子字符串分数	equal-score-substrings	biweekly-contest-167	Q1
