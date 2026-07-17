@@ -611,6 +611,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2056.3354942160	1473	Paint House III	粉刷房子 III	paint-house-iii	weekly-contest-192	Q4
 2056.2598215101	2542	Maximum Subsequence Score	最大子序列的分数	maximum-subsequence-score	biweekly-contest-96	Q3
 2055.0970201875	1575	Count All Possible Routes	统计所有可行路径	count-all-possible-routes	biweekly-contest-34	Q4
+2054.6741405769	3988	Create Grid With Exactly K Paths I	创建一个恰好有 K 条路径的网格图 I	create-grid-with-exactly-k-paths-i	weekly-contest-510	Q3
 2053.7468090497	839	Similar String Groups	相似字符串组	similar-string-groups	weekly-contest-85	Q4
 2053.3546092920	2467	Most Profitable Path in a Tree	树上最大得分和路径	most-profitable-path-in-a-tree	biweekly-contest-91	Q3
 2052.8622720512	3072	Distribute Elements Into Two Arrays II	将元素分配到两个数组中 II	distribute-elements-into-two-arrays-ii	weekly-contest-387	Q4
@@ -675,6 +676,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2015.7291888336	1353	Maximum Number of Events That Can Be Attended	最多可以参加的会议数目	maximum-number-of-events-that-can-be-attended	weekly-contest-176	Q3
 2014.7655493665	1354	Construct Target Array With Multiple Sums	多次求和构造目标数组	construct-target-array-with-multiple-sums	weekly-contest-176	Q4
 2014.2979320644	1105	Filling Bookcase Shelves	填充书架	filling-bookcase-shelves	weekly-contest-143	Q3
+2013.6413901055	3989	Maximum Consistent Columns in a Grid	网格中保持一致的最大列数	maximum-consistent-columns-in-a-grid	weekly-contest-510	Q4
 2013.4354344791	2472	Maximum Number of Non-overlapping Palindrome Substrings	不重叠回文子字符串的最大数目	maximum-number-of-non-overlapping-palindrome-substrings	weekly-contest-319	Q4
 2012.8694334235	3273	Minimum Amount of Damage Dealt to Bob	对 Bob 造成的最少伤害	minimum-amount-of-damage-dealt-to-bob	biweekly-contest-138	Q4
 2011.9703133514	2477	Minimum Fuel Cost to Report to the Capital	到达首都的最少油耗	minimum-fuel-cost-to-report-to-the-capital	weekly-contest-320	Q3
@@ -1466,6 +1468,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1550.0978082682	2208	Minimum Operations to Halve Array Sum	将数组和减半的最少操作次数	minimum-operations-to-halve-array-sum	biweekly-contest-74	Q3
 1549.9747683007	2780	Minimum Index of a Valid Split	合法分割的最小下标	minimum-index-of-a-valid-split	weekly-contest-354	Q3
 1549.9450401840	2527	Find Xor-Beauty of Array	查询数组 Xor 美丽值	find-xor-beauty-of-array	biweekly-contest-95	Q3
+1549.6115401529	3987	Minimum Total Cost to Process All Elements	处理所有元素的成本	minimum-total-cost-to-process-all-elements	weekly-contest-510	Q2
 1548.8661885602	3932	Count K-th Roots in a Range	统计区间内的完全 K 次幂数量	count-k-th-roots-in-a-range	weekly-contest-502	Q2
 1548.4678056182	1329	Sort the Matrix Diagonally	将矩阵按对角线排序	sort-the-matrix-diagonally	biweekly-contest-18	Q3
 1548.3921113773	3587	Minimum Adjacent Swaps to Alternate Parity	最小相邻交换至奇偶交替	minimum-adjacent-swaps-to-alternate-parity	biweekly-contest-159	Q1
@@ -2363,6 +2366,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1205.8589709613	3120	Count the Number of Special Characters I	统计特殊字母的数量 I	count-the-number-of-special-characters-i	weekly-contest-394	Q1
 1205.6698455508	1160	Find Words That Can Be Formed by Characters	拼写单词	find-words-that-can-be-formed-by-characters	weekly-contest-150	Q1
 1205.6588098967	3280	Convert Date to Binary	将日期转换为二进制表示	convert-date-to-binary	weekly-contest-414	Q1
+1205.3197977948	3986	Number of Elapsed Seconds Between Two Times	统计起止时间经过的秒数	number-of-elapsed-seconds-between-two-times	weekly-contest-510	Q1
 1205.2027537720	3270	Find the Key of the Numbers	求出数字答案	find-the-key-of-the-numbers	biweekly-contest-138	Q1
 1204.9864820183	1869	Longer Contiguous Segments of Ones than Zeros	哪种连续子字符串更长	longer-contiguous-segments-of-ones-than-zeros	weekly-contest-242	Q1
 1204.8779687384	3688	Bitwise OR of Even Numbers in an Array	偶数的按位或运算	bitwise-or-of-even-numbers-in-an-array	weekly-contest-468	Q1
