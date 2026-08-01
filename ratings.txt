@@ -515,6 +515,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
 2123.5708982185	1970	Last Day Where You Can Still Cross	你能穿过矩阵的最后一天	last-day-where-you-can-still-cross	weekly-contest-254	Q4
 2123.1049463895	3699	Number of ZigZag Arrays I	锯齿形数组的总数 I	number-of-zigzag-arrays-i	weekly-contest-469	Q3
+2122.8602053579	4003	Minimum Cost Path with Alternating Directions III	交替方向的最小路径代价 III	minimum-cost-path-with-alternating-directions-iii	weekly-contest-512	Q4
 2122.2230904777	3948	Lexicographically Maximum MEX Array	字典序最大的 MEX 数组	lexicographically-maximum-mex-array	weekly-contest-504	Q4
 2121.3147151648	972	Equal Rational Numbers	相等的有理数	equal-rational-numbers	weekly-contest-118	Q4
 2120.4466386371	2376	Count Special Integers	统计特殊整数	count-special-integers	weekly-contest-306	Q4
@@ -820,6 +821,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1913.4834168162	3356	Zero Array Transformation II	零数组变换 II	zero-array-transformation-ii	weekly-contest-424	Q3
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	得到山形数组的最少删除次数	minimum-number-of-removals-to-make-mountain-array	biweekly-contest-40	Q4
 1912.8440554296	1898	Maximum Number of Removable Characters	可移除字符的最大数目	maximum-number-of-removable-characters	weekly-contest-245	Q2
+1912.3257370029	4002	Count Valid Sequences	统计有效序列数目	count-valid-sequences	weekly-contest-512	Q3
 1912.1926699881	2680	Maximum OR	最大或值	maximum-or	biweekly-contest-104	Q3
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	段式回文	longest-chunked-palindrome-decomposition	weekly-contest-148	Q4
 1911.8282317986	2296	Design a Text Editor	设计一个文本编辑器	design-a-text-editor	weekly-contest-296	Q4
@@ -1568,6 +1570,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1507.1617507911	2105	Watering Plants II	给植物浇水 II	watering-plants-ii	weekly-contest-271	Q3
 1506.8958220609	1387	Sort Integers by The Power Value	将整数按权重排序	sort-integers-by-the-power-value	biweekly-contest-22	Q3
 1506.7234154594	3551	Minimum Swaps to Sort by Digit Sum	数位和排序需要的最小交换次数	minimum-swaps-to-sort-by-digit-sum	weekly-contest-450	Q2
+1506.3168035867	4001	Aggregate Two Time Series	聚合两个时间序列	aggregate-two-time-series	weekly-contest-512	Q2
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	重构 2 行二进制矩阵	reconstruct-a-2-row-binary-matrix	weekly-contest-162	Q2
 1505.8249995300	1780	Check if Number is a Sum of Powers of Three	判断一个数字是否可以表示成三的幂的和	check-if-number-is-a-sum-of-powers-of-three	biweekly-contest-47	Q2
 1505.3120825678	2981	Find Longest Special Substring That Occurs Thrice I	找出出现至少三次的最长特殊子字符串 I	find-longest-special-substring-that-occurs-thrice-i	weekly-contest-378	Q2
@@ -2399,6 +2402,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1199.8592887103	2169	Count Operations to Obtain Zero	得到 0 的操作数	count-operations-to-obtain-zero	weekly-contest-280	Q1
 1199.8475039745	3432	Count Partitions with Even Sum Difference	统计元素和差值为偶数的分区方案	count-partitions-with-even-sum-difference	weekly-contest-434	Q1
 1199.6286181975	3875	Construct Uniform Parity Array I	构造奇偶一致的数组 I	construct-uniform-parity-array-i	weekly-contest-494	Q1
+1199.6227912377	4000	Largest Integer With Given Digit Sum	给定数位和的最大整数	largest-integer-with-given-digit-sum	weekly-contest-512	Q1
 1199.4477805501	2000	Reverse Prefix of Word	反转单词前缀	reverse-prefix-of-word	weekly-contest-258	Q1
 1199.4427635582	1154	Day of the Year	一年中的第几天	day-of-the-year	weekly-contest-149	Q1
 1199.2892732505	929	Unique Email Addresses	独特的电子邮件地址	unique-email-addresses	weekly-contest-108	Q1
