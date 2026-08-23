@@ -1,5 +1,4 @@
 Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
-3773.7596150919	3235	Check if the Rectangle Corner Is Reachable	判断矩形的两个角落是否可达	check-if-the-rectangle-corner-is-reachable	weekly-contest-408	Q4
 3124.5016688063	3743	Maximize Cyclic Partition Score	循环划分的最大得分	maximize-cyclic-partition-score	weekly-contest-475	Q4
 3112.0402038423	3245	Alternating Groups III	交替组 III	alternating-groups-iii	weekly-contest-409	Q4
 3111.1274320356	3049	Earliest Second to Mark Indices II	标记所有下标的最早秒数 II	earliest-second-to-mark-indices-ii	weekly-contest-386	Q4
