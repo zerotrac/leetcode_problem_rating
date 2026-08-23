@@ -8,22 +8,22 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: "22.9.0"
-        
-    - name: Install and Build
-      run: |
-        npm install --no-audit
-        npm run build --verbose
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22.9.0"
 
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        folder: dist
-        token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
+      - name: Install and Build
+        run: |
+          npm install --no-audit
+          npm run build --verbose
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
