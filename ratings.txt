@@ -35,7 +35,6 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2764.5966131386	3441	Minimum Cost Good Caption	变成好标题的最少代价	minimum-cost-good-caption	biweekly-contest-149	Q4
 2763.6510278508	3480	Maximize Subarrays After Removing One Conflicting Pair	删除一个冲突对后最大子数组数目	maximize-subarrays-after-removing-one-conflicting-pair	weekly-contest-440	Q4
 2758.9704056427	2902	Count of Sub-Multisets With Bounded Sum	和带限制的子多重集合的数目	count-of-sub-multisets-with-bounded-sum	biweekly-contest-115	Q4
-2751.8442292721	4033	Valid K-Unique Subarrays I	有效 K 个不同元素子数组 I	valid-k-unique-subarrays-i	weekly-contest-516	Q4
 2748.1250429610	3449	Maximize the Minimum Game Score	最大化游戏分数的最小值	maximize-the-minimum-game-score	weekly-contest-436	Q4
 2743.9313067671	3630	Partition Array for Maximum XOR and AND	划分数组得到最大异或运算和与运算之和	partition-array-for-maximum-xor-and-and	weekly-contest-460	Q4
 2735.0909781144	3117	Minimum Sum of Values by Dividing Array	划分数组得到最小的值之和	minimum-sum-of-values-by-dividing-array	weekly-contest-393	Q4
@@ -1123,7 +1122,6 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1748.1339100823	2171	Removing Minimum Number of Magic Beans	拿出最少数目的魔法豆	removing-minimum-number-of-magic-beans	weekly-contest-280	Q3
 1747.6755111029	1191	K-Concatenation Maximum Sum	K 次串联后最大子数组之和	k-concatenation-maximum-sum	weekly-contest-154	Q3
 1746.8757919578	1849	Splitting a String Into Descending Consecutive Values	将字符串拆分为递减的连续值	splitting-a-string-into-descending-consecutive-values	weekly-contest-239	Q2
-1746.7980339479	4032	Longest Subarray With at Most K Distinct Prime Factors	至多 K 个不同质因数集合的最长子数组	longest-subarray-with-at-most-k-distinct-prime-factors	weekly-contest-516	Q3
 1746.1359179770	1024	Video Stitching	视频拼接	video-stitching	weekly-contest-131	Q4
 1745.6580748712	1530	Number of Good Leaf Nodes Pairs	好叶子节点对的数量	number-of-good-leaf-nodes-pairs	weekly-contest-199	Q3
 1745.6490739887	1391	Check if There is a Valid Path in a Grid	检查网格中是否存在有效路径	check-if-there-is-a-valid-path-in-a-grid	weekly-contest-181	Q3
@@ -1780,7 +1778,6 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	得到目标值的最少行动次数	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
 1416.8961009909	1652	Defuse the Bomb	拆炸弹	defuse-the-bomb	biweekly-contest-39	Q1
-1416.7630580605	4031	Find All Numbers Disappeared in an Array II	找到所有数组中消失的数字 II	find-all-numbers-disappeared-in-an-array-ii	weekly-contest-516	Q2
 1416.4124723866	2294	Partition Array Such That Maximum Difference Is K	划分数组使最大差为 K	partition-array-such-that-maximum-difference-is-k	weekly-contest-296	Q2
 1416.0720873451	3462	Maximum Sum With at Most K Elements	提取至多 K 个元素的最大总和	maximum-sum-with-at-most-k-elements	weekly-contest-438	Q2
 1414.6100987673	2825	Make String a Subsequence Using Cyclic Increments	循环增长使字符串子序列等于另一个字符串	make-string-a-subsequence-using-cyclic-increments	biweekly-contest-111	Q2
@@ -2446,7 +2443,6 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1192.9770230345	2810	Faulty Keyboard	故障键盘	faulty-keyboard	weekly-contest-357	Q1
 1192.3167969426	1436	Destination City	旅行终点站	destination-city	weekly-contest-187	Q1
 1192.1392606464	4014	Minimum Total Price After Applying Discounts	应用折扣后的最低总价	minimum-total-price-after-applying-discounts	weekly-contest-514	Q1
-1191.9975062465	4030	Check ASCII Palindromic	判断 ASCII 值回文	check-ascii-palindromic	weekly-contest-516	Q1
 1191.3681720998	2769	Find the Maximum Achievable Number	找出最大的可达成数字	find-the-maximum-achievable-number	weekly-contest-353	Q1
 1190.8529051552	3827	Count Monobit Integers	统计单比特整数	count-monobit-integers	weekly-contest-487	Q1
 1190.6856174464	3340	Check Balanced String	检查平衡字符串	check-balanced-string	weekly-contest-422	Q1
