@@ -303,6 +303,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2323.1267940801	3251	Find the Count of Monotonic Pairs II	单调数组对的数目 II	find-the-count-of-monotonic-pairs-ii	weekly-contest-410	Q4
 2315.6037017989	1187	Make Array Strictly Increasing	使数组严格递增	make-array-strictly-increasing	weekly-contest-153	Q4
 2315.0547336936	2188	Minimum Time to Finish the Race	完成比赛的最少时间	minimum-time-to-finish-the-race	weekly-contest-282	Q4
+2314.4014635600	4033	Valid K-Unique Subarrays I	有效 K 个不同元素子数组 I	valid-k-unique-subarrays-i	weekly-contest-516	Q4
 2312.9919953644	1857	Largest Color Value in a Directed Graph	有向图中最大颜色值	largest-color-value-in-a-directed-graph	weekly-contest-240	Q4
 2312.2207190263	3515	Shortest Path in a Weighted Tree	带权树中的最短路径	shortest-path-in-a-weighted-tree	biweekly-contest-154	Q4
 2310.3824631335	1959	Minimum Total Space Wasted With K Resizing Operations	K 次调整数组大小浪费的最小总空间	minimum-total-space-wasted-with-k-resizing-operations	biweekly-contest-58	Q3
@@ -1100,6 +1101,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1759.0470795449	2498	Frog Jump II	青蛙过河 II	frog-jump-ii	biweekly-contest-93	Q3
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	平衡括号字符串的最少插入次数	minimum-insertions-to-balance-a-parentheses-string	biweekly-contest-32	Q3
 1758.7525514100	1027	Longest Arithmetic Subsequence	最长等差数列	longest-arithmetic-subsequence	weekly-contest-132	Q3
+1758.6975692611	4032	Longest Subarray With at Most K Distinct Prime Factors	至多 K 个不同质因数集合的最长子数组	longest-subarray-with-at-most-k-distinct-prime-factors	weekly-contest-516	Q3
 1758.5135073787	1954	Minimum Garden Perimeter to Collect Enough Apples	收集足够苹果的最小花园周长	minimum-garden-perimeter-to-collect-enough-apples	weekly-contest-252	Q3
 1756.9635539930	3112	Minimum Time to Visit Disappearing Nodes	访问消失节点的最少时间	minimum-time-to-visit-disappearing-nodes	biweekly-contest-128	Q3
 1754.7431866815	3983	Subsequence After One Replacement	一次替换后的子序列	subsequence-after-one-replacement	weekly-contest-509	Q2
@@ -1778,6 +1780,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	得到目标值的最少行动次数	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
 1416.8961009909	1652	Defuse the Bomb	拆炸弹	defuse-the-bomb	biweekly-contest-39	Q1
+1416.6112007260	4031	Find All Numbers Disappeared in an Array II	找到所有数组中消失的数字 II	find-all-numbers-disappeared-in-an-array-ii	weekly-contest-516	Q2
 1416.4124723866	2294	Partition Array Such That Maximum Difference Is K	划分数组使最大差为 K	partition-array-such-that-maximum-difference-is-k	weekly-contest-296	Q2
 1416.0720873451	3462	Maximum Sum With at Most K Elements	提取至多 K 个元素的最大总和	maximum-sum-with-at-most-k-elements	weekly-contest-438	Q2
 1414.6100987673	2825	Make String a Subsequence Using Cyclic Increments	循环增长使字符串子序列等于另一个字符串	make-string-a-subsequence-using-cyclic-increments	biweekly-contest-111	Q2
@@ -2509,6 +2512,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1165.8314068327	3467	Transform Array by Parity	将数组按照奇偶性转化	transform-array-by-parity	biweekly-contest-151	Q1
 1165.4768151611	1446	Consecutive Characters	连续字符	consecutive-characters	biweekly-contest-26	Q1
 1165.2135167215	2011	Final Value of Variable After Performing Operations	执行操作后的变量值	final-value-of-variable-after-performing-operations	weekly-contest-259	Q1
+1165.1454798121	4030	Check ASCII Palindromic	判断 ASCII 值回文	check-ascii-palindromic	weekly-contest-516	Q1
 1164.8182315157	771	Jewels and Stones	宝石与石头	jewels-and-stones	weekly-contest-69	Q1
 1164.5575871589	2710	Remove Trailing Zeros From a String	移除字符串中的尾随零	remove-trailing-zeros-from-a-string	weekly-contest-347	Q1
 1164.1515670153	3516	Find Closest Person	找到最近的人	find-closest-person	weekly-contest-445	Q1
