@@ -635,6 +635,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2047.3919190727	2948	Make Lexicographically Smallest Array by Swapping Elements	交换得到字典序最小的数组	make-lexicographically-smallest-array-by-swapping-elements	weekly-contest-373	Q3
 2046.2618466463	3113	Find the Number of Subarrays Where Boundary Elements Are Maximum	边界元素是最大值的子数组数目	find-the-number-of-subarrays-where-boundary-elements-are-maximum	biweekly-contest-128	Q4
 2045.9921455749	3331	Find Subtree Sizes After Changes	修改后子树的大小	find-subtree-sizes-after-changes	biweekly-contest-142	Q2
+2044.9670931230	4046	Minimum Cost Path With At Most K Turns	至多 K 次转向的最小路径代价	minimum-cost-path-with-at-most-k-turns	weekly-contest-518	Q4
 2043.1015779104	2735	Collecting Chocolates	收集巧克力	collecting-chocolates	weekly-contest-349	Q3
 2042.4005521254	2551	Put Marbles in Bags	将珠子放入背包中	put-marbles-in-bags	weekly-contest-330	Q3
 2042.1113250604	3494	Find the Minimum Amount of Time to Brew Potions	酿造药水需要的最少总时间	find-the-minimum-amount-of-time-to-brew-potions	weekly-contest-442	Q3
@@ -865,6 +866,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1891.4136735248	3097	Shortest Subarray With OR at Least K II	或值至少为 K 的最短子数组 II	shortest-subarray-with-or-at-least-k-ii	biweekly-contest-127	Q3
 1889.8158281754	3542	Minimum Operations to Convert All Elements to Zero	将所有元素变为 0 的最少操作次数	minimum-operations-to-convert-all-elements-to-zero	biweekly-contest-156	Q2
 1889.4554322242	2817	Minimum Absolute Difference Between Elements With Constraint	限制条件下元素之间的最小绝对差	minimum-absolute-difference-between-elements-with-constraint	weekly-contest-358	Q3
+1888.1186243771	4045	Count Robot Groups	统计机器人组数	count-robot-groups	weekly-contest-518	Q3
 1886.7040111218	2305	Fair Distribution of Cookies	公平分发饼干	fair-distribution-of-cookies	weekly-contest-297	Q3
 1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	分配给商店的最多商品的最小值	minimized-maximum-of-products-distributed-to-any-store	weekly-contest-266	Q3
 1885.1051527272	1066	Campus Bikes II	校园自行车分配 II	campus-bikes-ii	biweekly-contest-1	Q3
@@ -1784,6 +1786,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
 1418.6847740057	1962	Remove Stones to Minimize the Total	移除石子使总数最小	remove-stones-to-minimize-the-total	weekly-contest-253	Q2
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
+1417.7383858951	4044	Count Good Cyclic Rotations	统计好循环移位的数量	count-good-cyclic-rotations	weekly-contest-518	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	得到目标值的最少行动次数	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
 1416.8961009909	1652	Defuse the Bomb	拆炸弹	defuse-the-bomb	biweekly-contest-39	Q1
 1416.6112007260	4031	Find All Numbers Disappeared in an Array II	找到所有数组中消失的数字 II	find-all-numbers-disappeared-in-an-array-ii	weekly-contest-516	Q2
@@ -2387,6 +2390,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1210.3149469758	3954	Sum of Compatible Numbers in Range I	区间内的兼容数字之和 I	sum-of-compatible-numbers-in-range-i	weekly-contest-505	Q1
 1209.6571020247	1822	Sign of the Product of an Array	数组元素积的符号	sign-of-the-product-of-an-array	weekly-contest-236	Q1
 1209.4414891571	3866	First Unique Even Element	找到第一个唯一偶数	first-unique-even-element	biweekly-contest-178	Q1
+1209.3985835891	4043	Count Rotations With Exactly K Equal Adjacent Pairs	恰好有 K 对相等相邻字符的循环移位数量	count-rotations-with-exactly-k-equal-adjacent-pairs	weekly-contest-518	Q1
 1209.3722198224	1523	Count Odd Numbers in an Interval Range	在区间范围内统计奇数数目	count-odd-numbers-in-an-interval-range	biweekly-contest-31	Q1
 1208.0417047337	1389	Create Target Array in the Given Order	按既定顺序创建目标数组	create-target-array-in-the-given-order	weekly-contest-181	Q1
 1208.0130656905	941	Valid Mountain Array	有效的山脉数组	valid-mountain-array	weekly-contest-111	Q1
