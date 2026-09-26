@@ -303,6 +303,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2327.4743300299	2940	Find Building Where Alice and Bob Can Meet	找到 Alice 和 Bob 可以相遇的建筑	find-building-where-alice-and-bob-can-meet	weekly-contest-372	Q4
 2324.1192580053	2827	Number of Beautiful Integers in the Range	范围中美丽整数的数目	number-of-beautiful-integers-in-the-range	biweekly-contest-111	Q4
 2323.1267940801	3251	Find the Count of Monotonic Pairs II	单调数组对的数目 II	find-the-count-of-monotonic-pairs-ii	weekly-contest-410	Q4
+2321.5425562767	4059	Lexicographically Largest Power Array	字典序最大的答案数组	lexicographically-largest-power-array	weekly-contest-520	Q4
 2315.6037017989	1187	Make Array Strictly Increasing	使数组严格递增	make-array-strictly-increasing	weekly-contest-153	Q4
 2315.0547336936	2188	Minimum Time to Finish the Race	完成比赛的最少时间	minimum-time-to-finish-the-race	weekly-contest-282	Q4
 2314.4014635600	4033	Valid K-Unique Subarrays I	有效 K 个不同元素子数组 I	valid-k-unique-subarrays-i	weekly-contest-516	Q4
@@ -853,6 +854,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1903.1973989877	2602	Minimum Operations to Make All Array Elements Equal	使数组元素全部相等的最少操作次数	minimum-operations-to-make-all-array-elements-equal	weekly-contest-338	Q3
 1900.8434122725	1665	Minimum Initial Energy to Finish Tasks	完成所有任务的最少初始能量	minimum-initial-energy-to-finish-tasks	weekly-contest-216	Q4
 1899.6213866649	823	Binary Trees With Factors	带因子的二叉树	binary-trees-with-factors	weekly-contest-81	Q4
+1899.2757795359	4058	Maximum Pulse Value After One Subarray Rotation	一个子数组循环移动后的最大脉冲值	maximum-pulse-value-after-one-subarray-rotation	weekly-contest-520	Q3
 1898.8339532179	2901	Longest Unequal Adjacent Groups Subsequence II	最长相邻不相等子序列 II	longest-unequal-adjacent-groups-subsequence-ii	biweekly-contest-115	Q3
 1897.7992384398	3250	Find the Count of Monotonic Pairs I	单调数组对的数目 I	find-the-count-of-monotonic-pairs-i	weekly-contest-410	Q3
 1897.5516652727	1878	Get Biggest Three Rhombus Sums in a Grid	矩阵中最大的三个菱形和	get-biggest-three-rhombus-sums-in-a-grid	biweekly-contest-53	Q3
@@ -1649,6 +1651,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1483.8137189709	1314	Matrix Block Sum	矩阵区域和	matrix-block-sum	biweekly-contest-17	Q2
 1483.5445027420	3259	Maximum Energy Boost From Two Drinks	超级饮料的最大强化能量	maximum-energy-boost-from-two-drinks	weekly-contest-411	Q2
 1483.4886780300	3169	Count Days Without Meetings	无需开会的工作日	count-days-without-meetings	weekly-contest-400	Q2
+1483.3412665048	4057	Number of Intersecting Interval Pairs II	统计相交区间对 II	number-of-intersecting-interval-pairs-ii	weekly-contest-520	Q2
 1483.3041242255	2904	Shortest and Lexicographically Smallest Beautiful String	最短且字典序最小的美丽子字符串	shortest-and-lexicographically-smallest-beautiful-string	weekly-contest-367	Q2
 1481.9608077860	1807	Evaluate the Bracket Pairs of a String	替换字符串中的括号内容	evaluate-the-bracket-pairs-of-a-string	weekly-contest-234	Q3
 1481.5701319876	1167	Minimum Cost to Connect Sticks	连接棒材的最低费用	minimum-cost-to-connect-sticks	biweekly-contest-7	Q3
@@ -2543,6 +2546,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1162.3856045908	3274	Check if Two Chessboard Squares Have the Same Color	检查棋盘方格颜色是否相同	check-if-two-chessboard-squares-have-the-same-color	weekly-contest-413	Q1
 1161.8236318927	2278	Percentage of Letter in String	字母在字符串中的百分比	percentage-of-letter-in-string	weekly-contest-294	Q1
 1161.6227767245	961	N-Repeated Element in Size 2N Array	重复 N 次的元素	n-repeated-element-in-size-2n-array	weekly-contest-116	Q1
+1161.4303080860	4056	Number of Intersecting Interval Pairs I	统计相交区间对 I	number-of-intersecting-interval-pairs-i	weekly-contest-520	Q1
 1161.1147504109	3884	First Matching Character From Both Ends	双端字符匹配	first-matching-character-from-both-ends	weekly-contest-495	Q1
 1160.9529516199	3842	Toggle Light Bulbs	切换灯泡开关	toggle-light-bulbs	weekly-contest-489	Q1
 1160.8899403409	1512	Number of Good Pairs	好数对的数目	number-of-good-pairs	weekly-contest-197	Q1
