@@ -521,6 +521,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2126.6864346508	1444	Number of Ways of Cutting a Pizza	切披萨的方案数	number-of-ways-of-cutting-a-pizza	weekly-contest-188	Q4
 2126.3922279277	2246	Longest Path With Different Adjacent Characters	相邻字符不同的最长路径	longest-path-with-different-adjacent-characters	weekly-contest-289	Q4
 2126.1931814161	2746	Decremental String Concatenation	字符串连接删减字母	decremental-string-concatenation	biweekly-contest-107	Q3
+2125.7676162641	4073	Count Good Strings	统计好字符串数目	count-good-strings	weekly-contest-522	Q4
 2125.3125624762	1955	Count Number of Special Subsequences	统计特殊子序列的数目	count-number-of-special-subsequences	weekly-contest-252	Q4
 2124.1329592058	968	Binary Tree Cameras	监控二叉树	binary-tree-cameras	weekly-contest-117	Q4
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
@@ -788,6 +789,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1947.8832856412	2516	Take K of Each Character From Left and Right	每种字符至少取 K 个	take-k-of-each-character-from-left-and-right	weekly-contest-325	Q2
 1947.5013967785	1631	Path With Minimum Effort	最小体力消耗路径	path-with-minimum-effort	weekly-contest-212	Q3
 1947.3554555170	3858	Minimum Bitwise OR From Grid	按位或的最小值	minimum-bitwise-or-from-grid	weekly-contest-491	Q3
+1946.0565825420	4072	Maximum Alternating Subarray Sum With One Deletion	一次删除后的最大交替子数组和	maximum-alternating-subarray-sum-with-one-deletion	weekly-contest-522	Q3
 1945.7515607928	1793	Maximum Score of a Good Subarray	好子数组的最大分数	maximum-score-of-a-good-subarray	weekly-contest-232	Q4
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	制作 m 束花所需的最少天数	minimum-number-of-days-to-make-m-bouquets	weekly-contest-193	Q3
 1944.5673996888	2227	Encrypt and Decrypt Strings	加密解密字符串	encrypt-and-decrypt-strings	weekly-contest-287	Q4
@@ -1453,6 +1455,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1579.8019590229	3528	Unit Conversion I	单位转换 I	unit-conversion-i	biweekly-contest-155	Q2
 1579.7630863981	3623	Count Number of Trapezoids I	统计梯形的数目 I	count-number-of-trapezoids-i	weekly-contest-459	Q2
 1579.7469658937	3789	Minimum Cost to Acquire Required Items	采购的最小花费	minimum-cost-to-acquire-required-items	weekly-contest-482	Q2
+1579.3267956797	4071	Minimum Rotations to Dial a Number II	拨号的最少旋转次数 II	minimum-rotations-to-dial-a-number-ii	weekly-contest-522	Q2
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	从相邻元素对还原数组	restore-the-array-from-adjacent-pairs	weekly-contest-226	Q2
 1578.9554353833	3868	Minimum Cost to Equalize Arrays Using Swaps	通过交换使数组相等的最小花费	minimum-cost-to-equalize-arrays-using-swaps	biweekly-contest-178	Q3
 1578.8503818621	1034	Coloring A Border	边框着色	coloring-a-border	weekly-contest-134	Q2
@@ -2561,6 +2564,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1160.5949372306	3131	Find the Integer Added to Array I	找出与数组相加的整数 I	find-the-integer-added-to-array-i	weekly-contest-395	Q1
 1160.4439395369	1920	Build Array from Permutation	基于排列构建数组	build-array-from-permutation	weekly-contest-248	Q1
 1157.6407631819	2903	Find Indices With Index and Value Difference I	找出满足差值条件的下标 I	find-indices-with-index-and-value-difference-i	weekly-contest-367	Q1
+1156.9408950745	4070	Minimum Rotations to Dial a Number I	拨号的最少旋转次数 I	minimum-rotations-to-dial-a-number-i	weekly-contest-522	Q1
 1155.4545579447	2351	First Letter to Appear Twice	第一个出现两次的字母	first-letter-to-appear-twice	weekly-contest-303	Q1
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	判断能否形成等差数列	can-make-arithmetic-progression-from-sequence	weekly-contest-196	Q1
 1154.1609831093	3861	Minimum Capacity Box	容量最小的箱子	minimum-capacity-box	weekly-contest-492	Q1
