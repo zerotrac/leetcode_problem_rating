@@ -1,5 +1,4 @@
 Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
-3773.7596150919	3235	Check if the Rectangle Corner Is Reachable	判断矩形的两个角落是否可达	check-if-the-rectangle-corner-is-reachable	weekly-contest-408	Q4
 3124.5016688063	3743	Maximize Cyclic Partition Score	循环划分的最大得分	maximize-cyclic-partition-score	weekly-contest-475	Q4
 3112.0402038423	3245	Alternating Groups III	交替组 III	alternating-groups-iii	weekly-contest-409	Q4
 3111.1274320356	3049	Earliest Second to Mark Indices II	标记所有下标的最早秒数 II	earliest-second-to-mark-indices-ii	weekly-contest-386	Q4
@@ -77,6 +76,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2641.6067035188	3149	Find the Minimum Cost Array Permutation	找出分数最低的排列	find-the-minimum-cost-array-permutation	weekly-contest-397	Q4
 2640.3824813624	1787	Make the XOR of All Segments Equal to Zero	使所有区间的异或结果为零	make-the-xor-of-all-segments-equal-to-zero	weekly-contest-231	Q4
 2633.0144045478	2499	Minimum Total Cost to Make Arrays Unequal	让数组不相等的最小总代价	minimum-total-cost-to-make-arrays-unequal	biweekly-contest-93	Q4
+2630.7343277776	4055	Count Shadow Pairs II	统计影子数对 II	count-shadow-pairs-ii	weekly-contest-519	Q4
 2628.7957821141	2213	Longest Substring of One Repeating Character	由单个字符重复的最长子字符串	longest-substring-of-one-repeating-character	weekly-contest-285	Q4
 2628.6330409039	3333	Find the Original Typed String II	找到初始输入字符串 II	find-the-original-typed-string-ii	biweekly-contest-142	Q4
 2621.1208072273	2281	Sum of Total Strength of Wizards	巫师的总力量和	sum-of-total-strength-of-wizards	weekly-contest-294	Q4
@@ -135,6 +135,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2521.5876597895	3241	Time Taken to Mark All Nodes	标记所有节点需要的时间	time-taken-to-mark-all-nodes	biweekly-contest-136	Q4
 2519.4999324240	3757	Number of Effective Subsequences	有效子序列的数量	number-of-effective-subsequences	weekly-contest-477	Q4
 2517.6829964848	2040	Kth Smallest Product of Two Sorted Arrays	两个有序数组的第 K 小乘积	kth-smallest-product-of-two-sorted-arrays	biweekly-contest-63	Q4
+2515.7733755050	4017	Peaks in Array II	数组中的峰值 II	peaks-in-array-ii	weekly-contest-514	Q4
 2515.7520586008	2272	Substring With Largest Variance	最大波动的子字符串	substring-with-largest-variance	biweekly-contest-78	Q4
 2513.0284514744	3161	Block Placement Queries	物块放置查询	block-placement-queries	biweekly-contest-131	Q4
 2509.3686325754	3303	Find the Occurrence of First Almost Equal Substring	第一个几乎相等子字符串的下标	find-the-occurrence-of-first-almost-equal-substring	biweekly-contest-140	Q4
@@ -146,6 +147,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2500.1329352544	3409	Longest Subsequence With Decreasing Adjacent Difference	最长相邻绝对差递减子序列	longest-subsequence-with-decreasing-adjacent-difference	biweekly-contest-147	Q3
 2499.5640490579	1735	Count Ways to Make Array With Product	生成乘积数组的方案数	count-ways-to-make-array-with-product	biweekly-contest-44	Q4
 2499.3282271507	2157	Groups of Strings	字符串分组	groups-of-strings	weekly-contest-278	Q4
+2498.8824273287	4009	Minimum Possible Maximum Waiting Time	最小化最大可能等待时间	minimum-possible-maximum-waiting-time	biweekly-contest-188	Q4
 2497.2253203914	3762	Minimum Operations to Equalize Subarrays	使数组元素相等的最小操作次数	minimum-operations-to-equalize-subarrays	weekly-contest-478	Q4
 2492.7039894164	3579	Minimum Steps to Convert String with Operations	字符串转换需要的最小操作数	minimum-steps-to-convert-string-with-operations	weekly-contest-453	Q4
 2489.6652421066	2035	Partition Array Into Two Arrays to Minimize Sum Difference	将数组分成两个数组并最小化数组和的差	partition-array-into-two-arrays-to-minimize-sum-difference	weekly-contest-262	Q4
@@ -258,6 +260,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2375.0917527641	3518	Smallest Palindromic Rearrangement II	最小回文排列 II	smallest-palindromic-rearrangement-ii	weekly-contest-445	Q3
 2374.1850487395	1840	Maximum Building Height	最高建筑高度	maximum-building-height	weekly-contest-238	Q4
 2373.8124052261	3413	Maximum Coins From K Consecutive Bags	收集连续 K 个袋子可以获得的最多硬币数量	maximum-coins-from-k-consecutive-bags	weekly-contest-431	Q3
+2372.3911352536	4037	Maximum Valid Split Positions II	最多有效分割位置 II	maximum-valid-split-positions-ii	biweekly-contest-190	Q4
 2370.3848537389	3260	Find the Largest Palindrome Divisible by K	找出最大的 N 位 K 回文数	find-the-largest-palindrome-divisible-by-k	weekly-contest-411	Q3
 2368.6674771307	2556	Disconnect Path in a Binary Matrix by at Most One Flip	二进制矩阵中翻转最多一次使路径不连通	disconnect-path-in-a-binary-matrix-by-at-most-one-flip	biweekly-contest-97	Q4
 2367.4705934718	2801	Count Stepping Numbers in Range	统计范围内的步进数字数目	count-stepping-numbers-in-range	weekly-contest-356	Q4
@@ -300,8 +303,10 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2327.4743300299	2940	Find Building Where Alice and Bob Can Meet	找到 Alice 和 Bob 可以相遇的建筑	find-building-where-alice-and-bob-can-meet	weekly-contest-372	Q4
 2324.1192580053	2827	Number of Beautiful Integers in the Range	范围中美丽整数的数目	number-of-beautiful-integers-in-the-range	biweekly-contest-111	Q4
 2323.1267940801	3251	Find the Count of Monotonic Pairs II	单调数组对的数目 II	find-the-count-of-monotonic-pairs-ii	weekly-contest-410	Q4
+2321.5425562767	4059	Lexicographically Largest Power Array	字典序最大的答案数组	lexicographically-largest-power-array	weekly-contest-520	Q4
 2315.6037017989	1187	Make Array Strictly Increasing	使数组严格递增	make-array-strictly-increasing	weekly-contest-153	Q4
 2315.0547336936	2188	Minimum Time to Finish the Race	完成比赛的最少时间	minimum-time-to-finish-the-race	weekly-contest-282	Q4
+2314.4014635600	4033	Valid K-Unique Subarrays I	有效 K 个不同元素子数组 I	valid-k-unique-subarrays-i	weekly-contest-516	Q4
 2312.9919953644	1857	Largest Color Value in a Directed Graph	有向图中最大颜色值	largest-color-value-in-a-directed-graph	weekly-contest-240	Q4
 2312.2207190263	3515	Shortest Path in a Weighted Tree	带权树中的最短路径	shortest-path-in-a-weighted-tree	biweekly-contest-154	Q4
 2310.3824631335	1959	Minimum Total Space Wasted With K Resizing Operations	K 次调整数组大小浪费的最小总空间	minimum-total-space-wasted-with-k-resizing-operations	biweekly-contest-58	Q3
@@ -332,9 +337,11 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2286.2394574531	3463	Check If Digits Are Equal in String After Operations II	判断操作后字符串中的数字是否相等 II	check-if-digits-are-equal-in-string-after-operations-ii	weekly-contest-438	Q3
 2286.1378742318	1851	Minimum Interval to Include Each Query	包含每个查询的最小区间	minimum-interval-to-include-each-query	weekly-contest-239	Q4
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	完成所有工作的最短时间	find-minimum-time-to-finish-all-jobs	weekly-contest-223	Q4
+2284.2623044608	4064	Longest Subarray Divisible by K with At Most One Negation II	至多一次取反能被 K 整除的最长子数组 II	longest-subarray-divisible-by-k-with-at-most-one-negation-ii	biweekly-contest-192	Q4
 2281.8816902545	2659	Make Array Empty	将数组清空	make-array-empty	biweekly-contest-103	Q4
 2280.3553600661	3892	Minimum Operations to Achieve At Least K Peaks	产生至少 K 个峰值的最少操作次数	minimum-operations-to-achieve-at-least-k-peaks	weekly-contest-496	Q4
 2280.3143643878	2407	Longest Increasing Subsequence II	最长递增子序列 II	longest-increasing-subsequence-ii	weekly-contest-310	Q4
+2279.9033313977	4023	Elevator Requests II	电梯请求 II	elevator-requests-ii	biweekly-contest-189	Q4
 2277.9557248587	3031	Minimum Time to Revert Word to Initial State II	将单词恢复初始状态所需的最短时间 II	minimum-time-to-revert-word-to-initial-state-ii	weekly-contest-383	Q4
 2277.7923804151	2763	Sum of Imbalance Numbers of All Subarrays	所有子数组中不平衡数字之和	sum-of-imbalance-numbers-of-all-subarrays	weekly-contest-352	Q4
 2277.5664098681	3640	Trionic Array II	三段式数组 II	trionic-array-ii	weekly-contest-461	Q4
@@ -425,6 +432,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2201.8209584221	1453	Maximum Number of Darts Inside of a Circular Dartboard	圆形靶内的最大飞镖数量	maximum-number-of-darts-inside-of-a-circular-dartboard	weekly-contest-189	Q4
 2201.6686585330	3777	Minimum Deletions to Make Alternating Substring	使子字符串变交替的最少删除次数	minimum-deletions-to-make-alternating-substring	weekly-contest-480	Q4
 2201.6219336792	2045	Second Minimum Time to Reach Destination	到达目的地的第二短时间	second-minimum-time-to-reach-destination	weekly-contest-263	Q4
+2200.8632483994	4027	Elevator Requests III	电梯请求 III	elevator-requests-iii	weekly-contest-515	Q4
 2200.6623666057	847	Shortest Path Visiting All Nodes	访问所有节点的最短路径	shortest-path-visiting-all-nodes	weekly-contest-87	Q4
 2200.2757106638	3306	Count of Substrings Containing Every Vowel and K Consonants II	元音辅音字符串计数 II	count-of-substrings-containing-every-vowel-and-k-consonants-ii	weekly-contest-417	Q3
 2200.1171591946	3129	Find All Possible Stable Binary Arrays I	找出所有稳定的二进制数组 I	find-all-possible-stable-binary-arrays-i	biweekly-contest-129	Q3
@@ -435,6 +443,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2195.6540241654	2503	Maximum Number of Points From Grid Queries	矩阵查询可获得的最大分数	maximum-number-of-points-from-grid-queries	weekly-contest-323	Q4
 2194.7888816521	3971	Maximum Total Value	最大总价值	maximum-total-value	weekly-contest-507	Q4
 2190.1757477854	1478	Allocate Mailboxes	安排邮筒	allocate-mailboxes	biweekly-contest-28	Q4
+2189.9602300437	4068	Maximize Meeting Earnings with Idle Gaps	考虑空闲时间的会议最大收益	maximize-meeting-earnings-with-idle-gaps	weekly-contest-521	Q4
 2189.3802630548	1074	Number of Submatrices That Sum to Target	元素和为目标值的子矩阵数量	number-of-submatrices-that-sum-to-target	weekly-contest-139	Q4
 2187.3539422195	3660	Jump Game IX	跳跃游戏 IX	jump-game-ix	weekly-contest-464	Q3
 2186.6174607749	3928	Minimum Cost to Buy Apples II	购买苹果的最低成本 II	minimum-cost-to-buy-apples-ii	weekly-contest-501	Q4
@@ -473,6 +482,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2157.7545069067	3768	Minimum Inversion Count in Subarrays of Fixed Length	固定长度子数组中的最小逆序对数目	minimum-inversion-count-in-subarrays-of-fixed-length	biweekly-contest-171	Q4
 2157.5814371481	2218	Maximum Value of K Coins From Piles	从栈中取出 K 个硬币的最大面值和	maximum-value-of-k-coins-from-piles	weekly-contest-286	Q4
 2156.9515428364	1515	Best Position for a Service Centre	服务中心的最佳位置	best-position-for-a-service-centre	weekly-contest-197	Q4
+2155.6436834044	4013	Count Subarrays With Even Odd Ratio II	按奇偶比统计子数组 II	count-subarrays-with-even-odd-ratio-ii	weekly-contest-513	Q4
 2155.5992415160	3347	Maximum Frequency of an Element After Performing Operations II	执行操作后元素的最高频率 II	maximum-frequency-of-an-element-after-performing-operations-ii	biweekly-contest-143	Q3
 2155.5770176064	3911	K-th Smallest Remaining Even Integer in Subarray Queries	移除子数组元素后第 K 小偶数	k-th-smallest-remaining-even-integer-in-subarray-queries	biweekly-contest-181	Q4
 2155.3424932408	2616	Minimize the Maximum Difference of Pairs	最小化数对的最大差值	minimize-the-maximum-difference-of-pairs	weekly-contest-340	Q3
@@ -487,6 +497,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2145.1839952670	1879	Minimum XOR Sum of Two Arrays	两个数组最小的异或值之和	minimum-xor-sum-of-two-arrays	biweekly-contest-53	Q4
 2143.0289944710	3568	Minimum Moves to Clean the Classroom	清理教室的最少移动	minimum-moves-to-clean-the-classroom	weekly-contest-452	Q3
 2140.0220703954	906	Super Palindromes	超级回文数	super-palindromes	weekly-contest-102	Q4
+2139.5915663634	4051	Count Subarrays with Distant Sums	统计遥远子数组的数目	count-subarrays-with-distant-sums	biweekly-contest-191	Q4
 2139.3332541502	3786	Total Sum of Interaction Cost in Tree Groups	树组的交互代价总和	total-sum-of-interaction-cost-in-tree-groups	weekly-contest-481	Q4
 2139.3079901181	3629	Minimum Jumps to Reach End via Prime Teleportation	通过质数传送到达终点的最少跳跃次数	minimum-jumps-to-reach-end-via-prime-teleportation	weekly-contest-460	Q3
 2137.5633267453	2290	Minimum Obstacle Removal to Reach Corner	到达角落需要移除障碍物的最小数目	minimum-obstacle-removal-to-reach-corner	weekly-contest-295	Q4
@@ -510,11 +521,13 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2126.6864346508	1444	Number of Ways of Cutting a Pizza	切披萨的方案数	number-of-ways-of-cutting-a-pizza	weekly-contest-188	Q4
 2126.3922279277	2246	Longest Path With Different Adjacent Characters	相邻字符不同的最长路径	longest-path-with-different-adjacent-characters	weekly-contest-289	Q4
 2126.1931814161	2746	Decremental String Concatenation	字符串连接删减字母	decremental-string-concatenation	biweekly-contest-107	Q3
+2125.7676162641	4073	Count Good Strings	统计好字符串数目	count-good-strings	weekly-contest-522	Q4
 2125.3125624762	1955	Count Number of Special Subsequences	统计特殊子序列的数目	count-number-of-special-subsequences	weekly-contest-252	Q4
 2124.1329592058	968	Binary Tree Cameras	监控二叉树	binary-tree-cameras	weekly-contest-117	Q4
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
 2123.5708982185	1970	Last Day Where You Can Still Cross	你能穿过矩阵的最后一天	last-day-where-you-can-still-cross	weekly-contest-254	Q4
 2123.1049463895	3699	Number of ZigZag Arrays I	锯齿形数组的总数 I	number-of-zigzag-arrays-i	weekly-contest-469	Q3
+2122.8602053579	4003	Minimum Cost Path with Alternating Directions III	交替方向的最小路径代价 III	minimum-cost-path-with-alternating-directions-iii	weekly-contest-512	Q4
 2122.2230904777	3948	Lexicographically Maximum MEX Array	字典序最大的 MEX 数组	lexicographically-maximum-mex-array	weekly-contest-504	Q4
 2121.3147151648	972	Equal Rational Numbers	相等的有理数	equal-rational-numbers	weekly-contest-118	Q4
 2120.4466386371	2376	Count Special Integers	统计特殊整数	count-special-integers	weekly-contest-306	Q4
@@ -523,6 +536,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2116.4935282950	1547	Minimum Cost to Cut a Stick	切棍子的最小成本	minimum-cost-to-cut-a-stick	weekly-contest-201	Q4
 2116.3244842355	2967	Minimum Cost to Make Array Equalindromic	使数组成为等数数组的最小代价	minimum-cost-to-make-array-equalindromic	weekly-contest-376	Q3
 2115.0911494487	1483	Kth Ancestor of a Tree Node	树节点的第 K 个祖先	kth-ancestor-of-a-tree-node	weekly-contest-193	Q4
+2113.9606221604	4053	Minimum Operations to Make Every Element Palindromic	使每个元素变为回文数的最少操作次数	minimum-operations-to-make-every-element-palindromic	weekly-contest-519	Q2
 2111.9501657249	3469	Find Minimum Cost to Remove Array Elements	移除所有数组元素的最小代价	find-minimum-cost-to-remove-array-elements	biweekly-contest-151	Q3
 2110.1503337723	3543	Maximum Weighted K-Edge Path	K 条边路径的最大边权和	maximum-weighted-k-edge-path	biweekly-contest-156	Q3
 2109.9830154953	1172	Dinner Plate Stacks	餐盘栈	dinner-plate-stacks	weekly-contest-151	Q4
@@ -536,6 +550,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2101.8673420040	2430	Maximum Deletions on a String	对字母串可执行的最大删除数	maximum-deletions-on-a-string	weekly-contest-313	Q4
 2100.7367066386	3995	Minimum Cost to Convert String III	转换字符串的最小成本 III	minimum-cost-to-convert-string-iii	biweekly-contest-187	Q4
 2100.3248877105	793	Preimage Size of Factorial Zeroes Function	阶乘函数后 K 个零	preimage-size-of-factorial-zeroes-function	weekly-contest-74	Q4
+2099.5449851425	4041	Minimum Operations to Form Subset Sum II	构造子集和的最少操作次数 II	minimum-operations-to-form-subset-sum-ii	weekly-contest-517	Q4
 2096.6201393558	778	Swim in Rising Water	水位上升的泳池中游泳	swim-in-rising-water	weekly-contest-70	Q4
 2096.6098086765	899	Orderly Queue	有序队列	orderly-queue	weekly-contest-100	Q4
 2095.4590096035	3854	Minimum Operations to Make Array Parity Alternating	使数组奇偶交替的最少操作	minimum-operations-to-make-array-parity-alternating	biweekly-contest-177	Q3
@@ -627,6 +642,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2047.3919190727	2948	Make Lexicographically Smallest Array by Swapping Elements	交换得到字典序最小的数组	make-lexicographically-smallest-array-by-swapping-elements	weekly-contest-373	Q3
 2046.2618466463	3113	Find the Number of Subarrays Where Boundary Elements Are Maximum	边界元素是最大值的子数组数目	find-the-number-of-subarrays-where-boundary-elements-are-maximum	biweekly-contest-128	Q4
 2045.9921455749	3331	Find Subtree Sizes After Changes	修改后子树的大小	find-subtree-sizes-after-changes	biweekly-contest-142	Q2
+2044.9670931230	4046	Minimum Cost Path With At Most K Turns	至多 K 次转向的最小路径代价	minimum-cost-path-with-at-most-k-turns	weekly-contest-518	Q4
 2043.1015779104	2735	Collecting Chocolates	收集巧克力	collecting-chocolates	weekly-contest-349	Q3
 2042.4005521254	2551	Put Marbles in Bags	将珠子放入背包中	put-marbles-in-bags	weekly-contest-330	Q3
 2042.1113250604	3494	Find the Minimum Amount of Time to Brew Potions	酿造药水需要的最少总时间	find-the-minimum-amount-of-time-to-brew-potions	weekly-contest-442	Q3
@@ -757,6 +773,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1960.5517123728	2392	Build a Matrix With Conditions	给定条件下构造矩阵	build-a-matrix-with-conditions	weekly-contest-308	Q4
 1959.2696201953	2564	Substring XOR Queries	子字符串异或查询	substring-xor-queries	weekly-contest-332	Q3
 1959.1438732568	3593	Minimum Increments to Equalize Leaf Paths	使叶子路径成本相等的最小增量	minimum-increments-to-equalize-leaf-paths	weekly-contest-455	Q3
+1958.6578981998	4016	Maximum Area of Two Non-Overlapping Square Submatrices	两个不重叠子正方形的最大面积	maximum-area-of-two-non-overlapping-square-submatrices	weekly-contest-514	Q3
 1958.1499109036	3720	Lexicographically Smallest Permutation Greater Than Target	大于目标字符串的最小字典序排列	lexicographically-smallest-permutation-greater-than-target	weekly-contest-472	Q3
 1956.7059585934	1463	Cherry Pickup II	摘樱桃 II	cherry-pickup-ii	biweekly-contest-27	Q4
 1954.5247525411	3599	Partition Array to Minimize XOR	划分数组得到最小 XOR	partition-array-to-minimize-xor	weekly-contest-456	Q3
@@ -772,6 +789,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1947.8832856412	2516	Take K of Each Character From Left and Right	每种字符至少取 K 个	take-k-of-each-character-from-left-and-right	weekly-contest-325	Q2
 1947.5013967785	1631	Path With Minimum Effort	最小体力消耗路径	path-with-minimum-effort	weekly-contest-212	Q3
 1947.3554555170	3858	Minimum Bitwise OR From Grid	按位或的最小值	minimum-bitwise-or-from-grid	weekly-contest-491	Q3
+1946.0565825420	4072	Maximum Alternating Subarray Sum With One Deletion	一次删除后的最大交替子数组和	maximum-alternating-subarray-sum-with-one-deletion	weekly-contest-522	Q3
 1945.7515607928	1793	Maximum Score of a Good Subarray	好子数组的最大分数	maximum-score-of-a-good-subarray	weekly-contest-232	Q4
 1945.5095833982	1482	Minimum Number of Days to Make m Bouquets	制作 m 束花所需的最少天数	minimum-number-of-days-to-make-m-bouquets	weekly-contest-193	Q3
 1944.5673996888	2227	Encrypt and Decrypt Strings	加密解密字符串	encrypt-and-decrypt-strings	weekly-contest-287	Q4
@@ -806,6 +824,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1919.6391896894	1416	Restore The Array	恢复数组	restore-the-array	biweekly-contest-24	Q4
 1919.1749818083	1130	Minimum Cost Tree From Leaf Values	叶值的最小代价生成树	minimum-cost-tree-from-leaf-values	weekly-contest-146	Q3
 1918.9960035055	2069	Walking Robot Simulation II	模拟行走机器人 II	walking-robot-simulation-ii	biweekly-contest-65	Q2
+1917.8693140375	4067	Longest Subarray With Restricted Pair Sums	数对和受限的最长子数组	longest-subarray-with-restricted-pair-sums	weekly-contest-521	Q3
 1917.4314822412	3002	Maximum Size of a Set After Removals	移除后集合的最多元素数	maximum-size-of-a-set-after-removals	weekly-contest-379	Q3
 1917.2145829853	2398	Maximum Number of Robots Within Budget	预算内的最多机器人数目	maximum-number-of-robots-within-budget	biweekly-contest-86	Q4
 1917.2052894619	3144	Minimum Substring Partition of Equal Character Frequency	分割字符频率相等的最少子字符串	minimum-substring-partition-of-equal-character-frequency	biweekly-contest-130	Q3
@@ -814,12 +833,14 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1916.1432350156	3394	Check if Grid can be Cut into Sections	判断网格图能否被切割成块	check-if-grid-can-be-cut-into-sections	biweekly-contest-146	Q3
 1916.0689858272	1043	Partition Array for Maximum Sum	分隔数组以得到最大和	partition-array-for-maximum-sum	weekly-contest-136	Q3
 1915.2628132733	2594	Minimum Time to Repair Cars	修车的最少时间	minimum-time-to-repair-cars	biweekly-contest-100	Q4
+1914.9718522367	4022	K-th Digit in Infinite String	无限字符串里第 K 个数字	k-th-digit-in-infinite-string	biweekly-contest-189	Q3
 1914.6717285348	2147	Number of Ways to Divide a Long Corridor	分隔长廊的方案数	number-of-ways-to-divide-a-long-corridor	biweekly-contest-70	Q4
 1913.9308694730	2875	Minimum Size Subarray in Infinite Array	无限数组的最短子数组	minimum-size-subarray-in-infinite-array	weekly-contest-365	Q3
 1913.6704728453	1373	Maximum Sum BST in Binary Tree	二叉搜索子树的最大键值和	maximum-sum-bst-in-binary-tree	biweekly-contest-21	Q4
 1913.4834168162	3356	Zero Array Transformation II	零数组变换 II	zero-array-transformation-ii	weekly-contest-424	Q3
 1912.8455659711	1671	Minimum Number of Removals to Make Mountain Array	得到山形数组的最少删除次数	minimum-number-of-removals-to-make-mountain-array	biweekly-contest-40	Q4
 1912.8440554296	1898	Maximum Number of Removable Characters	可移除字符的最大数目	maximum-number-of-removable-characters	weekly-contest-245	Q2
+1912.3257370029	4002	Count Valid Sequences	统计有效序列数目	count-valid-sequences	weekly-contest-512	Q3
 1912.1926699881	2680	Maximum OR	最大或值	maximum-or	biweekly-contest-104	Q3
 1912.0829958001	1147	Longest Chunked Palindrome Decomposition	段式回文	longest-chunked-palindrome-decomposition	weekly-contest-148	Q4
 1911.8282317986	2296	Design a Text Editor	设计一个文本编辑器	design-a-text-editor	weekly-contest-296	Q4
@@ -830,6 +851,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1909.4189035523	991	Broken Calculator	坏了的计算器	broken-calculator	weekly-contest-123	Q3
 1908.9411092109	3067	Count Pairs of Connectable Servers in a Weighted Tree Network	在带权树网络中统计可连接服务器对数目	count-pairs-of-connectable-servers-in-a-weighted-tree-network	biweekly-contest-125	Q3
 1908.8920524591	3728	Stable Subarrays With Equal Boundary and Interior Sum	边界与内部和相等的稳定子数组	stable-subarrays-with-equal-boundary-and-interior-sum	weekly-contest-473	Q3
+1908.4326375714	4007	Widest Possible Fence	栅栏的最宽宽度	widest-possible-fence	biweekly-contest-188	Q2
 1908.3866125757	1124	Longest Well-Performing Interval	表现良好的最长时间段	longest-well-performing-interval	weekly-contest-145	Q3
 1904.6714229335	3081	Replace Question Marks in String to Minimize Its Value	替换字符串中的问号使分数最小	replace-question-marks-in-string-to-minimize-its-value	biweekly-contest-126	Q3
 1904.5020747926	3122	Minimum Number of Operations to Satisfy Conditions	使矩阵满足条件的最少操作次数	minimum-number-of-operations-to-satisfy-conditions	weekly-contest-394	Q3
@@ -837,6 +859,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1903.1973989877	2602	Minimum Operations to Make All Array Elements Equal	使数组元素全部相等的最少操作次数	minimum-operations-to-make-all-array-elements-equal	weekly-contest-338	Q3
 1900.8434122725	1665	Minimum Initial Energy to Finish Tasks	完成所有任务的最少初始能量	minimum-initial-energy-to-finish-tasks	weekly-contest-216	Q4
 1899.6213866649	823	Binary Trees With Factors	带因子的二叉树	binary-trees-with-factors	weekly-contest-81	Q4
+1899.2757795359	4058	Maximum Pulse Value After One Subarray Rotation	一个子数组循环移动后的最大脉冲值	maximum-pulse-value-after-one-subarray-rotation	weekly-contest-520	Q3
 1898.8339532179	2901	Longest Unequal Adjacent Groups Subsequence II	最长相邻不相等子序列 II	longest-unequal-adjacent-groups-subsequence-ii	biweekly-contest-115	Q3
 1897.7992384398	3250	Find the Count of Monotonic Pairs I	单调数组对的数目 I	find-the-count-of-monotonic-pairs-i	weekly-contest-410	Q3
 1897.5516652727	1878	Get Biggest Three Rhombus Sums in a Grid	矩阵中最大的三个菱形和	get-biggest-three-rhombus-sums-in-a-grid	biweekly-contest-53	Q3
@@ -853,6 +876,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1891.4136735248	3097	Shortest Subarray With OR at Least K II	或值至少为 K 的最短子数组 II	shortest-subarray-with-or-at-least-k-ii	biweekly-contest-127	Q3
 1889.8158281754	3542	Minimum Operations to Convert All Elements to Zero	将所有元素变为 0 的最少操作次数	minimum-operations-to-convert-all-elements-to-zero	biweekly-contest-156	Q2
 1889.4554322242	2817	Minimum Absolute Difference Between Elements With Constraint	限制条件下元素之间的最小绝对差	minimum-absolute-difference-between-elements-with-constraint	weekly-contest-358	Q3
+1888.1186243771	4045	Count Robot Groups	统计机器人组数	count-robot-groups	weekly-contest-518	Q3
 1886.7040111218	2305	Fair Distribution of Cookies	公平分发饼干	fair-distribution-of-cookies	weekly-contest-297	Q3
 1885.9015646531	2064	Minimized Maximum of Products Distributed to Any Store	分配给商店的最多商品的最小值	minimized-maximum-of-products-distributed-to-any-store	weekly-contest-266	Q3
 1885.1051527272	1066	Campus Bikes II	校园自行车分配 II	campus-bikes-ii	biweekly-contest-1	Q3
@@ -882,6 +906,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1872.0350138774	1526	Minimum Number of Increments on Subarrays to Form a Target Array	形成目标数组的子数组最少增加次数	minimum-number-of-increments-on-subarrays-to-form-a-target-array	biweekly-contest-31	Q4
 1871.8245218615	2008	Maximum Earnings From Taxi	出租车的最大盈利	maximum-earnings-from-taxi	biweekly-contest-61	Q3
 1871.3112059413	1589	Maximum Sum Obtained of Any Permutation	所有排列中的最大和	maximum-sum-obtained-of-any-permutation	biweekly-contest-35	Q2
+1869.6681915726	4040	Minimum Operations to Form Subset Sum I	构造子集和的最少操作次数 I	minimum-operations-to-form-subset-sum-i	weekly-contest-517	Q3
 1869.6387617474	3635	Earliest Finish Time for Land and Water Rides II	最早完成陆地和水上游乐设施的时间 II	earliest-finish-time-for-land-and-water-rides-ii	biweekly-contest-162	Q3
 1869.4024391280	2002	Maximum Product of the Length of Two Palindromic Subsequences	两个回文子序列长度的最大乘积	maximum-product-of-the-length-of-two-palindromic-subsequences	weekly-contest-258	Q3
 1868.9864493463	2212	Maximum Points in an Archery Competition	射箭比赛中的最大得分	maximum-points-in-an-archery-competition	weekly-contest-285	Q3
@@ -976,6 +1001,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1822.3170524016	2931	Maximum Spending After Buying Items	购买物品的最大开销	maximum-spending-after-buying-items	biweekly-contest-117	Q4
 1822.1301265412	2217	Find Palindrome With Fixed Length	找到指定长度的回文数	find-palindrome-with-fixed-length	weekly-contest-286	Q3
 1820.5855764400	1405	Longest Happy String	最长快乐字符串	longest-happy-string	weekly-contest-183	Q3
+1820.4115327599	4054	Count Shadow Pairs I	统计影子数对 I	count-shadow-pairs-i	weekly-contest-519	Q3
 1819.6800324413	3148	Maximum Difference Score in a Grid	矩阵中的最大得分	maximum-difference-score-in-a-grid	weekly-contest-397	Q3
 1819.3068421506	2055	Plates Between Candles	蜡烛之间的盘子	plates-between-candles	biweekly-contest-64	Q3
 1818.9996951505	3588	Find Maximum Area of a Triangle	找到最大三角形面积	find-maximum-area-of-a-triangle	biweekly-contest-159	Q2
@@ -1058,6 +1084,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1777.2275836051	3164	Find the Number of Good Pairs II	优质数对的总数 II	find-the-number-of-good-pairs-ii	weekly-contest-399	Q3
 1777.1347057233	3573	Best Time to Buy and Sell Stock V	买卖股票的最佳时机 V	best-time-to-buy-and-sell-stock-v	biweekly-contest-158	Q2
 1776.8353975880	3919	Minimum Cost to Move Between Indices	在下标间移动的最小代价	minimum-cost-to-move-between-indices	weekly-contest-500	Q3
+1776.4913592991	4008	Minimum Initial Strength to Defeat All Monsters	击败所有怪物的最小初始强度	minimum-initial-strength-to-defeat-all-monsters	biweekly-contest-188	Q3
 1775.8546066480	2531	Make Number of Distinct Characters Equal	使字符串总不同字符的数目相等	make-number-of-distinct-characters-equal	weekly-contest-327	Q3
 1775.4474231706	3644	Maximum K to Sort a Permutation	排序排列	maximum-k-to-sort-a-permutation	weekly-contest-462	Q2
 1774.8764591297	1238	Circular Permutation in Binary Representation	循环码排列	circular-permutation-in-binary-representation	weekly-contest-160	Q2
@@ -1090,6 +1117,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1759.0470795449	2498	Frog Jump II	青蛙过河 II	frog-jump-ii	biweekly-contest-93	Q3
 1759.0197295594	1541	Minimum Insertions to Balance a Parentheses String	平衡括号字符串的最少插入次数	minimum-insertions-to-balance-a-parentheses-string	biweekly-contest-32	Q3
 1758.7525514100	1027	Longest Arithmetic Subsequence	最长等差数列	longest-arithmetic-subsequence	weekly-contest-132	Q3
+1758.6975692611	4032	Longest Subarray With at Most K Distinct Prime Factors	至多 K 个不同质因数集合的最长子数组	longest-subarray-with-at-most-k-distinct-prime-factors	weekly-contest-516	Q3
 1758.5135073787	1954	Minimum Garden Perimeter to Collect Enough Apples	收集足够苹果的最小花园周长	minimum-garden-perimeter-to-collect-enough-apples	weekly-contest-252	Q3
 1756.9635539930	3112	Minimum Time to Visit Disappearing Nodes	访问消失节点的最少时间	minimum-time-to-visit-disappearing-nodes	biweekly-contest-128	Q3
 1754.7431866815	3983	Subsequence After One Replacement	一次替换后的子序列	subsequence-after-one-replacement	weekly-contest-509	Q2
@@ -1125,6 +1153,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1741.4527995252	1145	Binary Tree Coloring Game	二叉树着色游戏	binary-tree-coloring-game	weekly-contest-148	Q2
 1741.3694833067	3020	Find the Maximum Number of Elements in Subset	子集中元素的最大数量	find-the-maximum-number-of-elements-in-subset	weekly-contest-382	Q2
 1740.5014205942	1079	Letter Tile Possibilities	活字印刷	letter-tile-possibilities	weekly-contest-140	Q2
+1740.1499597527	4063	Longest Subarray Divisible by K with At Most One Negation I	至多一次取反能被 K 整除的最长子数组 I	longest-subarray-divisible-by-k-with-at-most-one-negation-i	biweekly-contest-192	Q3
 1739.7696741336	3776	Minimum Moves to Balance Circular Array	使循环数组余额非负的最少移动次数	minimum-moves-to-balance-circular-array	weekly-contest-480	Q3
 1739.5831401172	1593	Split a String Into the Max Number of Unique Substrings	拆分字符串使唯一子字符串的数目最大	split-a-string-into-the-max-number-of-unique-substrings	weekly-contest-207	Q2
 1739.3005043887	3694	Distinct Points Reachable After Substring Removal	删除子字符串后不同的终点	distinct-points-reachable-after-substring-removal	biweekly-contest-166	Q3
@@ -1132,6 +1161,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1737.2296628819	3960	Frequency Balance Subarray	频率平衡子数组	frequency-balance-subarray	weekly-contest-506	Q2
 1737.2065180671	3044	Most Frequent Prime	出现频率最高的质数	most-frequent-prime	weekly-contest-385	Q3
 1735.8505509901	2707	Extra Characters in a String	字符串中的额外字符	extra-characters-in-a-string	biweekly-contest-105	Q2
+1735.6591922244	4012	Count of Unfinished Tasks After Each Shift	统计每个班次结束后的未完成任务数	count-of-unfinished-tasks-after-each-shift	weekly-contest-513	Q3
 1735.4106121238	3453	Separate Squares I	分割正方形 I	separate-squares-i	biweekly-contest-150	Q2
 1734.8208369949	1292	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	元素和小于等于阈值的正方形的最大边长	maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	weekly-contest-167	Q3
 1734.0550202798	2048	Next Greater Numerically Balanced Number	下一个更大的数值平衡数	next-greater-numerically-balanced-number	weekly-contest-264	Q2
@@ -1187,6 +1217,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1705.2545641354	2672	Number of Adjacent Elements With the Same Color	有相同颜色的相邻元素数目	number-of-adjacent-elements-with-the-same-color	weekly-contest-344	Q3
 1704.9360057053	3994	Minimum Adjacent Swaps to Partition Array	划分数组的最少相邻交换次数	minimum-adjacent-swaps-to-partition-array	biweekly-contest-187	Q3
 1704.3608916410	1947	Maximum Compatibility Score Sum	最大兼容性评分和	maximum-compatibility-score-sum	weekly-contest-251	Q3
+1704.2500585576	4036	Lexicographically Largest String After Pair Transformations	字符对转换后字典序最大的字符串	lexicographically-largest-string-after-pair-transformations	biweekly-contest-190	Q3
 1704.1007546159	3457	Eat Pizzas!	吃披萨	eat-pizzas	weekly-contest-437	Q2
 1703.8928183911	3767	Maximize Points After Choosing K Tasks	选择 K 个任务的最大总分数	maximize-points-after-choosing-k-tasks	biweekly-contest-171	Q3
 1702.8035923458	958	Check Completeness of a Binary Tree	二叉树的完全性检验	check-completeness-of-a-binary-tree	weekly-contest-115	Q2
@@ -1207,6 +1238,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1696.9920075471	1487	Making File Names Unique	保证文件名唯一	making-file-names-unique	weekly-contest-194	Q2
 1696.9464414997	3143	Maximum Points Inside the Square	正方形中的最多点数	maximum-points-inside-the-square	biweekly-contest-130	Q2
 1696.8895579594	2588	Count the Number of Beautiful Subarrays	统计美丽子数组数目	count-the-number-of-beautiful-subarrays	weekly-contest-336	Q3
+1696.2511531619	4050	Minimum Days to Score Exactly N Points	得到恰好 N 分的最少天数	minimum-days-to-score-exactly-n-points	biweekly-contest-191	Q3
 1695.3076664977	792	Number of Matching Subsequences	匹配子序列的单词数	number-of-matching-subsequences	weekly-contest-74	Q2
 1695.2832486322	1942	The Number of the Smallest Unoccupied Chair	最小未被占据椅子的编号	the-number-of-the-smallest-unoccupied-chair	biweekly-contest-57	Q2
 1695.0815222626	2420	Find All Good Indices	找到所有好下标	find-all-good-indices	weekly-contest-312	Q3
@@ -1247,6 +1279,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1675.9894075840	974	Subarray Sums Divisible by K	和可被 K 整除的子数组	subarray-sums-divisible-by-k	weekly-contest-119	Q3
 1675.9610355975	987	Vertical Order Traversal of a Binary Tree	二叉树的垂序遍历	vertical-order-traversal-of-a-binary-tree	weekly-contest-122	Q4
 1675.7612347410	1870	Minimum Speed to Arrive on Time	准时到达的列车最小时速	minimum-speed-to-arrive-on-time	weekly-contest-242	Q2
+1675.2196170446	4026	Maximum Gap Between Stations	工位的最大间隔	maximum-gap-between-stations	weekly-contest-515	Q3
 1674.9985842835	1339	Maximum Product of Splitted Binary Tree	分裂二叉树的最大乘积	maximum-product-of-splitted-binary-tree	weekly-contest-174	Q3
 1674.7986939472	1922	Count Good Numbers	统计好数字的数目	count-good-numbers	weekly-contest-248	Q3
 1674.5365205597	1215	Stepping Numbers	步进数	stepping-numbers	biweekly-contest-10	Q3
@@ -1260,6 +1293,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1665.2490724700	1620	Coordinate With Maximum Network Quality	网络信号最好的坐标	coordinate-with-maximum-network-quality	biweekly-contest-37	Q2
 1665.1885910815	2593	Find Score of an Array After Marking All Elements	标记所有元素后数组的分数	find-score-of-an-array-after-marking-all-elements	biweekly-contest-100	Q3
 1664.7703749741	1121	Divide Array Into Increasing Sequences	将数组分成几个递增序列	divide-array-into-increasing-sequences	biweekly-contest-4	Q4
+1663.8618362886	4035	Maximum Valid Split Positions I	最多有效分割位置 I	maximum-valid-split-positions-i	biweekly-contest-190	Q2
 1663.7602365518	3201	Find the Maximum Length of Valid Subsequence I	找出有效子序列的最大长度 I	find-the-maximum-length-of-valid-subsequence-i	weekly-contest-404	Q2
 1663.4565919330	2611	Mice and Cheese	老鼠和奶酪	mice-and-cheese	weekly-contest-339	Q3
 1663.4036530340	3513	Number of Unique XOR Triplets I	不同 XOR 三元组的数目 I	number-of-unique-xor-triplets-i	biweekly-contest-154	Q2
@@ -1421,6 +1455,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1579.8019590229	3528	Unit Conversion I	单位转换 I	unit-conversion-i	biweekly-contest-155	Q2
 1579.7630863981	3623	Count Number of Trapezoids I	统计梯形的数目 I	count-number-of-trapezoids-i	weekly-contest-459	Q2
 1579.7469658937	3789	Minimum Cost to Acquire Required Items	采购的最小花费	minimum-cost-to-acquire-required-items	weekly-contest-482	Q2
+1579.3267956797	4071	Minimum Rotations to Dial a Number II	拨号的最少旋转次数 II	minimum-rotations-to-dial-a-number-ii	weekly-contest-522	Q2
 1579.2309881035	1743	Restore the Array From Adjacent Pairs	从相邻元素对还原数组	restore-the-array-from-adjacent-pairs	weekly-contest-226	Q2
 1578.9554353833	3868	Minimum Cost to Equalize Arrays Using Swaps	通过交换使数组相等的最小花费	minimum-cost-to-equalize-arrays-using-swaps	biweekly-contest-178	Q3
 1578.8503818621	1034	Coloring A Border	边框着色	coloring-a-border	weekly-contest-134	Q2
@@ -1435,6 +1470,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1573.0069130568	3393	Count Paths With the Given XOR Value	统计异或值为给定值的路径数目	count-paths-with-the-given-xor-value	biweekly-contest-146	Q2
 1572.3649510919	3964	Minimum Lights to Illuminate a Road	照亮道路的最少灯泡数	minimum-lights-to-illuminate-a-road	biweekly-contest-185	Q2
 1571.1721048101	779	K-th Symbol in Grammar	第K个语法符号	k-th-symbol-in-grammar	weekly-contest-70	Q1
+1570.9606853679	4066	Maximum Equal Adjacent Pairs After at Most One Replacement	至多一次替换后的最大相邻相等元素对数	maximum-equal-adjacent-pairs-after-at-most-one-replacement	weekly-contest-521	Q2
 1570.8347522104	1019	Next Greater Node In Linked List	链表中的下一个更大节点	next-greater-node-in-linked-list	weekly-contest-130	Q3
 1569.7528744586	1109	Corporate Flight Bookings	航班预订统计	corporate-flight-bookings	weekly-contest-144	Q2
 1569.1579260438	2592	Maximize Greatness of an Array	最大化数组的伟大值	maximize-greatness-of-an-array	biweekly-contest-100	Q2
@@ -1510,6 +1546,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1535.3680469616	2958	Length of Longest Subarray With at Most K Frequency	最多 K 个重复元素的最长子数组	length-of-longest-subarray-with-at-most-k-frequency	biweekly-contest-119	Q3
 1534.4194646850	3890	Integers With Multiple Sum of Two Cubes	可由多种立方和构造的整数	integers-with-multiple-sum-of-two-cubes	weekly-contest-496	Q2
 1534.3250051510	865	Smallest Subtree with all the Deepest Nodes	具有所有最深节点的最小子树	smallest-subtree-with-all-the-deepest-nodes	weekly-contest-92	Q2
+1534.1987521915	4015	Weighted Sum of a Tree	树的加权和	weighted-sum-of-a-tree	weekly-contest-514	Q2
 1534.0648719302	1797	Design Authentication Manager	设计一个验证系统	design-authentication-manager	biweekly-contest-48	Q2
 1533.9285875234	1362	Closest Divisors	最接近的因数	closest-divisors	weekly-contest-177	Q3
 1533.5722750742	3016	Minimum Number of Pushes to Type Word II	输入单词需要的最少按键次数 II	minimum-number-of-pushes-to-type-word-ii	weekly-contest-381	Q3
@@ -1548,6 +1585,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1518.7783368146	3334	Find the Maximum Factor Score of Array	数组的最大因子得分	find-the-maximum-factor-score-of-array	weekly-contest-421	Q1
 1518.6200759535	3531	Count Covered Buildings	统计被覆盖的建筑	count-covered-buildings	weekly-contest-447	Q1
 1517.8263048447	2683	Neighboring Bitwise XOR	相邻值的按位异或	neighboring-bitwise-xor	weekly-contest-345	Q2
+1517.7749996146	4021	Minimum Operations to Make a Rotated Palindrome I	得到旋转回文字符串的最少操作次数 I	minimum-operations-to-make-a-rotated-palindrome-i	biweekly-contest-189	Q2
 1517.2596490920	3160	Find the Number of Distinct Colors Among the Balls	所有球里面不同颜色的数目	find-the-number-of-distinct-colors-among-the-balls	biweekly-contest-131	Q3
 1516.8229485853	775	Global and Local Inversions	全局倒置与局部倒置	global-and-local-inversions	weekly-contest-69	Q2
 1516.4104902196	904	Fruit Into Baskets	水果成篮	fruit-into-baskets	weekly-contest-102	Q2
@@ -1568,6 +1606,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1507.1617507911	2105	Watering Plants II	给植物浇水 II	watering-plants-ii	weekly-contest-271	Q3
 1506.8958220609	1387	Sort Integers by The Power Value	将整数按权重排序	sort-integers-by-the-power-value	biweekly-contest-22	Q3
 1506.7234154594	3551	Minimum Swaps to Sort by Digit Sum	数位和排序需要的最小交换次数	minimum-swaps-to-sort-by-digit-sum	weekly-contest-450	Q2
+1506.3168035867	4001	Aggregate Two Time Series	聚合两个时间序列	aggregate-two-time-series	weekly-contest-512	Q2
 1505.8669082864	1253	Reconstruct a 2-Row Binary Matrix	重构 2 行二进制矩阵	reconstruct-a-2-row-binary-matrix	weekly-contest-162	Q2
 1505.8249995300	1780	Check if Number is a Sum of Powers of Three	判断一个数字是否可以表示成三的幂的和	check-if-number-is-a-sum-of-powers-of-three	biweekly-contest-47	Q2
 1505.3120825678	2981	Find Longest Special Substring That Occurs Thrice I	找出出现至少三次的最长特殊子字符串 I	find-longest-special-substring-that-occurs-thrice-i	weekly-contest-378	Q2
@@ -1620,6 +1659,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1483.8137189709	1314	Matrix Block Sum	矩阵区域和	matrix-block-sum	biweekly-contest-17	Q2
 1483.5445027420	3259	Maximum Energy Boost From Two Drinks	超级饮料的最大强化能量	maximum-energy-boost-from-two-drinks	weekly-contest-411	Q2
 1483.4886780300	3169	Count Days Without Meetings	无需开会的工作日	count-days-without-meetings	weekly-contest-400	Q2
+1483.3412665048	4057	Number of Intersecting Interval Pairs II	统计相交区间对 II	number-of-intersecting-interval-pairs-ii	weekly-contest-520	Q2
 1483.3041242255	2904	Shortest and Lexicographically Smallest Beautiful String	最短且字典序最小的美丽子字符串	shortest-and-lexicographically-smallest-beautiful-string	weekly-contest-367	Q2
 1481.9608077860	1807	Evaluate the Bracket Pairs of a String	替换字符串中的括号内容	evaluate-the-bracket-pairs-of-a-string	weekly-contest-234	Q3
 1481.5701319876	1167	Minimum Cost to Connect Sticks	连接棒材的最低费用	minimum-cost-to-connect-sticks	biweekly-contest-7	Q3
@@ -1652,6 +1692,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1465.7023558248	1414	Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	和为 K 的最少斐波那契数字数目	find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k	biweekly-contest-24	Q2
 1464.6895034875	1361	Validate Binary Tree Nodes	验证二叉树	validate-binary-tree-nodes	weekly-contest-177	Q2
 1464.5254961488	1396	Design Underground System	设计地铁系统	design-underground-system	weekly-contest-182	Q3
+1463.4278500234	4039	Sum of Decoded Numbers	解码值之和	sum-of-decoded-numbers	weekly-contest-517	Q2
 1463.2825992167	3638	Maximum Balanced Shipments	平衡装运的最大数量	maximum-balanced-shipments	weekly-contest-461	Q2
 1462.4423844498	1022	Sum of Root To Leaf Binary Numbers	从根到叶的二进制数之和	sum-of-root-to-leaf-binary-numbers	weekly-contest-131	Q2
 1461.9157715206	946	Validate Stack Sequences	验证栈序列	validate-stack-sequences	weekly-contest-112	Q2
@@ -1666,6 +1707,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1459.1307655664	3566	Partition Array into Two Equal Product Subsets	等积子集的划分方案	partition-array-into-two-equal-product-subsets	weekly-contest-452	Q1
 1458.3564930390	2062	Count Vowel Substrings of a String	统计字符串中的元音子字符串	count-vowel-substrings-of-a-string	weekly-contest-266	Q1
 1457.5078616972	3318	Find X-Sum of All K-Long Subarrays I	计算子数组的 x-sum I	find-x-sum-of-all-k-long-subarrays-i	weekly-contest-419	Q1
+1456.6506642486	4025	Minimize the Maximum Waiting Time at Synchronized Traffic Lights	交通灯的最大等待时间	minimize-the-maximum-waiting-time-at-synchronized-traffic-lights	weekly-contest-515	Q2
 1455.8516200241	2391	Minimum Amount of Time to Collect Garbage	收集垃圾的最少总时间	minimum-amount-of-time-to-collect-garbage	weekly-contest-308	Q3
 1454.9306123736	3727	Maximum Alternating Sum of Squares	最大交替平方和	maximum-alternating-sum-of-squares	weekly-contest-473	Q2
 1454.7459647138	2094	Finding 3-Digit Even Numbers	找出 3 位偶数	finding-3-digit-even-numbers	weekly-contest-270	Q1
@@ -1707,6 +1749,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1439.5495237432	3556	Sum of Largest Prime Substrings	最大质数子字符串之和	sum-of-largest-prime-substrings	biweekly-contest-157	Q1
 1438.8988489545	1375	Number of Times Binary String Is Prefix-Aligned	二进制字符串前缀一致的次数	number-of-times-binary-string-is-prefix-aligned	weekly-contest-179	Q2
 1438.2231359050	1609	Even Odd Tree	奇偶树	even-odd-tree	weekly-contest-209	Q2
+1437.5491452529	4062	Transform Array Using Pair Operations	成对操作转化数组	transform-array-using-pair-operations	biweekly-contest-192	Q2
 1436.5343999134	845	Longest Mountain in Array	数组中的最长山脉	longest-mountain-in-array	weekly-contest-87	Q2
 1436.3892315914	1701	Average Waiting Time	平均等待时间	average-waiting-time	biweekly-contest-42	Q2
 1436.1125054038	1433	Check If a String Can Break Another String	检查一个字符串是否可以打破另一个字符串	check-if-a-string-can-break-another-string	biweekly-contest-25	Q3
@@ -1760,8 +1803,10 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1418.8205349928	1656	Design an Ordered Stream	设计有序流	design-an-ordered-stream	weekly-contest-215	Q1
 1418.6847740057	1962	Remove Stones to Minimize the Total	移除石子使总数最小	remove-stones-to-minimize-the-total	weekly-contest-253	Q2
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
+1417.7383858951	4044	Count Good Cyclic Rotations	统计好循环移位的数量	count-good-cyclic-rotations	weekly-contest-518	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	得到目标值的最少行动次数	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
 1416.8961009909	1652	Defuse the Bomb	拆炸弹	defuse-the-bomb	biweekly-contest-39	Q1
+1416.6112007260	4031	Find All Numbers Disappeared in an Array II	找到所有数组中消失的数字 II	find-all-numbers-disappeared-in-an-array-ii	weekly-contest-516	Q2
 1416.4124723866	2294	Partition Array Such That Maximum Difference Is K	划分数组使最大差为 K	partition-array-such-that-maximum-difference-is-k	weekly-contest-296	Q2
 1416.0720873451	3462	Maximum Sum With at Most K Elements	提取至多 K 个元素的最大总和	maximum-sum-with-at-most-k-elements	weekly-contest-438	Q2
 1414.6100987673	2825	Make String a Subsequence Using Cyclic Increments	循环增长使字符串子序列等于另一个字符串	make-string-a-subsequence-using-cyclic-increments	biweekly-contest-111	Q2
@@ -1793,6 +1838,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1405.5786892723	1561	Maximum Number of Coins You Can Get	你可以获得的最大硬币数目	maximum-number-of-coins-you-can-get	weekly-contest-203	Q2
 1405.4005354401	1410	HTML Entity Parser	HTML 实体解析器	html-entity-parser	weekly-contest-184	Q3
 1405.1231882640	2734	Lexicographically Smallest String After Substring Operation	执行子串操作后的字典序最小字符串	lexicographically-smallest-string-after-substring-operation	weekly-contest-349	Q2
+1405.0413522973	4049	Count Values With Equally Spaced Occurrences II	统计等间距出现整数数目 II	count-values-with-equally-spaced-occurrences-ii	biweekly-contest-191	Q2
 1405.0021415178	1457	Pseudo-Palindromic Paths in a Binary Tree	二叉树中的伪回文路径	pseudo-palindromic-paths-in-a-binary-tree	weekly-contest-190	Q3
 1404.9707095328	3101	Count Alternating Subarrays	交替子数组计数	count-alternating-subarrays	weekly-contest-391	Q3
 1404.7016862187	1237	Find Positive Integer Solution for a Given Equation	找出给定方程的正整数解	find-positive-integer-solution-for-a-given-equation	weekly-contest-160	Q1
@@ -1828,6 +1874,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1392.3629194433	2870	Minimum Number of Operations to Make Array Empty	使数组为空的最少操作次数	minimum-number-of-operations-to-make-array-empty	biweekly-contest-114	Q2
 1392.0853311911	957	Prison Cells After N Days	N 天后的牢房	prison-cells-after-n-days	weekly-contest-115	Q1
 1391.9600023546	3775	Reverse Words With Same Vowel Count	反转元音数相同的单词	reverse-words-with-same-vowel-count	weekly-contest-480	Q2
+1391.7523336531	4011	Count Subarrays With Even Odd Ratio I	按奇偶比统计子数组 I	count-subarrays-with-even-odd-ratio-i	weekly-contest-513	Q2
 1391.7243180131	1222	Queens That Can Attack the King	可以攻击国王的皇后	queens-that-can-attack-the-king	weekly-contest-158	Q2
 1390.5023027273	2155	All Divisions With the Highest Score of a Binary Array	分组得分最高的所有下标	all-divisions-with-the-highest-score-of-a-binary-array	weekly-contest-278	Q2
 1389.3311694710	1065	Index Pairs of a String	字符串的索引对	index-pairs-of-a-string	biweekly-contest-1	Q2
@@ -2251,6 +2298,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1247.9346797909	3754	Concatenate Non-Zero Digits and Multiply by Sum I	连接非零数字并乘以其数字和 I	concatenate-non-zero-digits-and-multiply-by-sum-i	weekly-contest-477	Q1
 1247.3575940876	3226	Number of Bit Changes to Make Two Integers Equal	使两个整数相等的位更改次数	number-of-bit-changes-to-make-two-integers-equal	weekly-contest-407	Q1
 1247.3198836387	1232	Check If It Is a Straight Line	缀点成线	check-if-it-is-a-straight-line	weekly-contest-159	Q1
+1246.4670040627	4052	Cyclically Shift Rows and Columns	行列循环移位	cyclically-shift-rows-and-columns	weekly-contest-519	Q1
 1246.3593898992	2932	Maximum Strong Pair XOR I	找出强数对的最大异或值 I	maximum-strong-pair-xor-i	weekly-contest-371	Q1
 1246.0341186297	2481	Minimum Cuts to Divide a Circle	分割圆的最少切割次数	minimum-cuts-to-divide-a-circle	biweekly-contest-92	Q1
 1246.0141927368	2016	Maximum Difference Between Increasing Elements	增量元素之间的最大差值	maximum-difference-between-increasing-elements	weekly-contest-260	Q1
@@ -2259,10 +2307,12 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1245.2741257148	1099	Two Sum Less Than K	小于 K 的两数之和	two-sum-less-than-k	biweekly-contest-3	Q1
 1244.8064626533	2965	Find Missing and Repeated Values	找出缺失和重复的数字	find-missing-and-repeated-values	weekly-contest-376	Q1
 1244.4251084580	3456	Find Special Substring of Length K	找出长度为 K 的特殊子字符串	find-special-substring-of-length-k	weekly-contest-437	Q1
+1244.3415447142	4034	Minimum Bishop Moves to Reach Target	象到达目标格子的最少移动步数	minimum-bishop-moves-to-reach-target	biweekly-contest-190	Q1
 1244.3173678830	1228	Missing Number In Arithmetic Progression	等差数列中缺失的数字	missing-number-in-arithmetic-progression	biweekly-contest-11	Q1
 1243.8954197441	3502	Minimum Cost to Reach Every Position	到达每个位置的最小费用	minimum-cost-to-reach-every-position	weekly-contest-443	Q1
 1243.6250741657	2399	Check Distances Between Same Letters	检查相同字母间的距离	check-distances-between-same-letters	weekly-contest-309	Q1
 1243.1009943284	832	Flipping an Image	翻转图像	flipping-an-image	weekly-contest-84	Q1
+1242.9626486655	4006	Count Valid Prefixes	统计有效前缀数目	count-valid-prefixes	biweekly-contest-188	Q1
 1242.9383307344	2716	Minimize String Length	最小化字符串长度	minimize-string-length	weekly-contest-348	Q1
 1242.8939284628	2309	Greatest English Letter in Upper and Lower Case	兼具大小写的最好英文字母	greatest-english-letter-in-upper-and-lower-case	weekly-contest-298	Q1
 1242.8232032062	3216	Lexicographically Smallest String After a Swap	交换后字典序最小的字符串	lexicographically-smallest-string-after-a-swap	weekly-contest-406	Q1
@@ -2342,6 +2392,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1216.6376846517	1848	Minimum Distance to the Target Element	到目标元素的最小距离	minimum-distance-to-the-target-element	weekly-contest-239	Q1
 1216.6129188490	2553	Separate the Digits in an Array	分割数组中数字的数位	separate-the-digits-in-an-array	biweekly-contest-97	Q1
 1216.4439953203	3813	Vowel-Consonant Score	元音辅音得分	vowel-consonant-score	weekly-contest-485	Q1
+1216.3803209060	4010	Maximize Pair Strength Using GCD	数对的最大强度	maximize-pair-strength-using-gcd	weekly-contest-513	Q1
 1215.7827321325	2176	Count Equal and Divisible Pairs in an Array	统计数组中相等且可以被整除的数对	count-equal-and-divisible-pairs-in-an-array	biweekly-contest-72	Q1
 1215.7443346869	2108	Find First Palindromic String in the Array	找出数组中的第一个回文字符串	find-first-palindromic-string-in-the-array	weekly-contest-272	Q1
 1215.6806967423	3427	Sum of Variable Length Subarrays	变长子数组求和	sum-of-variable-length-subarrays	weekly-contest-433	Q1
@@ -2358,6 +2409,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1210.3149469758	3954	Sum of Compatible Numbers in Range I	区间内的兼容数字之和 I	sum-of-compatible-numbers-in-range-i	weekly-contest-505	Q1
 1209.6571020247	1822	Sign of the Product of an Array	数组元素积的符号	sign-of-the-product-of-an-array	weekly-contest-236	Q1
 1209.4414891571	3866	First Unique Even Element	找到第一个唯一偶数	first-unique-even-element	biweekly-contest-178	Q1
+1209.3985835891	4043	Count Rotations With Exactly K Equal Adjacent Pairs	恰好有 K 对相等相邻字符的循环移位数量	count-rotations-with-exactly-k-equal-adjacent-pairs	weekly-contest-518	Q1
 1209.3722198224	1523	Count Odd Numbers in an Interval Range	在区间范围内统计奇数数目	count-odd-numbers-in-an-interval-range	biweekly-contest-31	Q1
 1208.0417047337	1389	Create Target Array in the Given Order	按既定顺序创建目标数组	create-target-array-in-the-given-order	weekly-contest-181	Q1
 1208.0130656905	941	Valid Mountain Array	有效的山脉数组	valid-mountain-array	weekly-contest-111	Q1
@@ -2367,6 +2419,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1207.7224406285	1704	Determine if String Halves Are Alike	判断字符串的两半是否相似	determine-if-string-halves-are-alike	weekly-contest-221	Q1
 1207.3151378208	2485	Find the Pivot Integer	找出中枢整数	find-the-pivot-integer	weekly-contest-321	Q1
 1206.5675296817	2595	Number of Even and Odd Bits	奇偶位数	number-of-even-and-odd-bits	weekly-contest-337	Q1
+1206.4148584286	4061	Minimum Queen Moves to Reach Target	皇后到达目标格子的最少移动步数	minimum-queen-moves-to-reach-target	biweekly-contest-192	Q1
 1206.1666740510	3774	Absolute Difference Between Maximum and Minimum K Elements	最大和最小 K 个元素的绝对差	absolute-difference-between-maximum-and-minimum-k-elements	weekly-contest-480	Q1
 1206.1460383757	3818	Minimum Prefix Removal to Make Array Strictly Increasing	移除前缀使数组严格递增	minimum-prefix-removal-to-make-array-strictly-increasing	weekly-contest-486	Q1
 1206.1240971343	1784	Check if Binary String Has at Most One Segment of Ones	检查二进制字符串字段	check-if-binary-string-has-at-most-one-segment-of-ones	weekly-contest-231	Q1
@@ -2399,6 +2452,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1199.8592887103	2169	Count Operations to Obtain Zero	得到 0 的操作数	count-operations-to-obtain-zero	weekly-contest-280	Q1
 1199.8475039745	3432	Count Partitions with Even Sum Difference	统计元素和差值为偶数的分区方案	count-partitions-with-even-sum-difference	weekly-contest-434	Q1
 1199.6286181975	3875	Construct Uniform Parity Array I	构造奇偶一致的数组 I	construct-uniform-parity-array-i	weekly-contest-494	Q1
+1199.6227912377	4000	Largest Integer With Given Digit Sum	给定数位和的最大整数	largest-integer-with-given-digit-sum	weekly-contest-512	Q1
 1199.4477805501	2000	Reverse Prefix of Word	反转单词前缀	reverse-prefix-of-word	weekly-contest-258	Q1
 1199.4427635582	1154	Day of the Year	一年中的第几天	day-of-the-year	weekly-contest-149	Q1
 1199.2892732505	929	Unique Email Addresses	独特的电子邮件地址	unique-email-addresses	weekly-contest-108	Q1
@@ -2422,7 +2476,9 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1193.0585534828	2418	Sort the People	按身高排序	sort-the-people	weekly-contest-312	Q1
 1192.9770230345	2810	Faulty Keyboard	故障键盘	faulty-keyboard	weekly-contest-357	Q1
 1192.3167969426	1436	Destination City	旅行终点站	destination-city	weekly-contest-187	Q1
+1192.1392606464	4014	Minimum Total Price After Applying Discounts	应用折扣后的最低总价	minimum-total-price-after-applying-discounts	weekly-contest-514	Q1
 1191.3681720998	2769	Find the Maximum Achievable Number	找出最大的可达成数字	find-the-maximum-achievable-number	weekly-contest-353	Q1
+1191.3520491344	4048	Count Values With Equally Spaced Occurrences I	统计等间距出现整数数目 I	count-values-with-equally-spaced-occurrences-i	biweekly-contest-191	Q1
 1190.8529051552	3827	Count Monobit Integers	统计单比特整数	count-monobit-integers	weekly-contest-487	Q1
 1190.6856174464	3340	Check Balanced String	检查平衡字符串	check-balanced-string	weekly-contest-422	Q1
 1190.6265204580	3079	Find the Sum of Encrypted Integers	求出加密整数的和	find-the-sum-of-encrypted-integers	biweekly-contest-126	Q1
@@ -2430,12 +2486,14 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1189.3715646147	3461	Check If Digits Are Equal in String After Operations I	判断操作后字符串中的数字是否相等 I	check-if-digits-are-equal-in-string-after-operations-i	weekly-contest-438	Q1
 1188.6470369782	747	Largest Number At Least Twice of Others	至少是其他数字两倍的最大数	largest-number-at-least-twice-of-others	weekly-contest-64	Q1
 1188.6311093158	1122	Relative Sort Array	数组的相对排序	relative-sort-array	weekly-contest-145	Q1
+1187.4205094136	4020	Elevator Requests I	电梯请求 I	elevator-requests-i	biweekly-contest-189	Q1
 1187.1641565458	1880	Check if Word Equals Summation of Two Words	检查某单词是否等于两单词之和	check-if-word-equals-summation-of-two-words	weekly-contest-243	Q1
 1187.1344261572	2119	A Number After a Double Reversal	反转两次的数字	a-number-after-a-double-reversal	weekly-contest-273	Q1
 1185.9709727214	3612	Process String with Special Operations I	用特殊操作处理字符串 I	process-string-with-special-operations-i	weekly-contest-458	Q1
 1184.8359383057	2974	Minimum Number Game	最小数字游戏	minimum-number-game	weekly-contest-377	Q1
 1184.7957212840	2341	Maximum Number of Pairs in Array	数组能形成多少数对	maximum-number-of-pairs-in-array	weekly-contest-302	Q1
 1184.5732854617	3423	Maximum Difference Between Adjacent Elements in a Circular Array	循环数组中相邻元素的最大差值	maximum-difference-between-adjacent-elements-in-a-circular-array	biweekly-contest-148	Q1
+1184.4599217229	4024	Nearest Available Drone	最近的可用无人机	nearest-available-drone	weekly-contest-515	Q1
 1184.4264833435	1979	Find Greatest Common Divisor of Array	找出数组的最大公约数	find-greatest-common-divisor-of-array	weekly-contest-255	Q1
 1184.3385083575	2544	Alternating Digit Sum	交替数字和	alternating-digit-sum	weekly-contest-329	Q1
 1182.9877925220	3959	Check Good Integer	判定好整数	check-good-integer	weekly-contest-506	Q1
@@ -2465,6 +2523,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1173.0485559374	3083	Existence of a Substring in a String and Its Reverse	字符串及其反转中是否存在同一子字符串	existence-of-a-substring-in-a-string-and-its-reverse	weekly-contest-389	Q1
 1172.6819789183	1046	Last Stone Weight	最后一块石头的重量	last-stone-weight	weekly-contest-137	Q1
 1172.5106645463	760	Find Anagram Mappings	找出变位映射	find-anagram-mappings	weekly-contest-66	Q1
+1172.1535615397	4065	Rearrange Array by Removing Distinct Values	移除不同值重排数组	rearrange-array-by-removing-distinct-values	weekly-contest-521	Q1
 1172.0548998046	2427	Number of Common Factors	公因子的数目	number-of-common-factors	weekly-contest-313	Q1
 1172.0410939015	3158	Find the XOR of Numbers Which Appear Twice	求出出现两次数字的 XOR 值	find-the-xor-of-numbers-which-appear-twice	biweekly-contest-131	Q1
 1171.7635387886	3248	Snake in Matrix	矩阵中的蛇	snake-in-matrix	weekly-contest-410	Q1
@@ -2483,9 +2542,11 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1166.1536951597	3285	Find Indices of Stable Mountains	找到稳定山的下标	find-indices-of-stable-mountains	biweekly-contest-139	Q1
 1165.8838207286	2824	Count Pairs Whose Sum is Less than Target	统计和小于目标的下标对数目	count-pairs-whose-sum-is-less-than-target	biweekly-contest-111	Q1
 1165.8762341513	3931	Check Adjacent Digit Differences	检查相邻数字差	check-adjacent-digit-differences	weekly-contest-502	Q1
+1165.8323613401	4038	Count Integers Appearing in a Single Block	计算单个区间中出现的整数数量	count-integers-appearing-in-a-single-block	weekly-contest-517	Q1
 1165.8314068327	3467	Transform Array by Parity	将数组按照奇偶性转化	transform-array-by-parity	biweekly-contest-151	Q1
 1165.4768151611	1446	Consecutive Characters	连续字符	consecutive-characters	biweekly-contest-26	Q1
 1165.2135167215	2011	Final Value of Variable After Performing Operations	执行操作后的变量值	final-value-of-variable-after-performing-operations	weekly-contest-259	Q1
+1165.1454798121	4030	Check ASCII Palindromic	判断 ASCII 值回文	check-ascii-palindromic	weekly-contest-516	Q1
 1164.8182315157	771	Jewels and Stones	宝石与石头	jewels-and-stones	weekly-contest-69	Q1
 1164.5575871589	2710	Remove Trailing Zeros From a String	移除字符串中的尾随零	remove-trailing-zeros-from-a-string	weekly-contest-347	Q1
 1164.1515670153	3516	Find Closest Person	找到最近的人	find-closest-person	weekly-contest-445	Q1
@@ -2496,12 +2557,14 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1162.3856045908	3274	Check if Two Chessboard Squares Have the Same Color	检查棋盘方格颜色是否相同	check-if-two-chessboard-squares-have-the-same-color	weekly-contest-413	Q1
 1161.8236318927	2278	Percentage of Letter in String	字母在字符串中的百分比	percentage-of-letter-in-string	weekly-contest-294	Q1
 1161.6227767245	961	N-Repeated Element in Size 2N Array	重复 N 次的元素	n-repeated-element-in-size-2n-array	weekly-contest-116	Q1
+1161.4303080860	4056	Number of Intersecting Interval Pairs I	统计相交区间对 I	number-of-intersecting-interval-pairs-i	weekly-contest-520	Q1
 1161.1147504109	3884	First Matching Character From Both Ends	双端字符匹配	first-matching-character-from-both-ends	weekly-contest-495	Q1
 1160.9529516199	3842	Toggle Light Bulbs	切换灯泡开关	toggle-light-bulbs	weekly-contest-489	Q1
 1160.8899403409	1512	Number of Good Pairs	好数对的数目	number-of-good-pairs	weekly-contest-197	Q1
 1160.5949372306	3131	Find the Integer Added to Array I	找出与数组相加的整数 I	find-the-integer-added-to-array-i	weekly-contest-395	Q1
 1160.4439395369	1920	Build Array from Permutation	基于排列构建数组	build-array-from-permutation	weekly-contest-248	Q1
 1157.6407631819	2903	Find Indices With Index and Value Difference I	找出满足差值条件的下标 I	find-indices-with-index-and-value-difference-i	weekly-contest-367	Q1
+1156.9408950745	4070	Minimum Rotations to Dial a Number I	拨号的最少旋转次数 I	minimum-rotations-to-dial-a-number-i	weekly-contest-522	Q1
 1155.4545579447	2351	First Letter to Appear Twice	第一个出现两次的字母	first-letter-to-appear-twice	weekly-contest-303	Q1
 1154.8280679790	1502	Can Make Arithmetic Progression From Sequence	判断能否形成等差数列	can-make-arithmetic-progression-from-sequence	weekly-contest-196	Q1
 1154.1609831093	3861	Minimum Capacity Box	容量最小的箱子	minimum-capacity-box	weekly-contest-492	Q1
