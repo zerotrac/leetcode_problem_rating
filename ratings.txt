@@ -341,6 +341,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2284.4463940346	1723	Find Minimum Time to Finish All Jobs	完成所有工作的最短时间	find-minimum-time-to-finish-all-jobs	weekly-contest-223	Q4
 2284.2623044608	4064	Longest Subarray Divisible by K with At Most One Negation II	至多一次取反能被 K 整除的最长子数组 II	longest-subarray-divisible-by-k-with-at-most-one-negation-ii	biweekly-contest-192	Q4
 2281.8816902545	2659	Make Array Empty	将数组清空	make-array-empty	biweekly-contest-103	Q4
+2281.8211240346	4100	Minimum Cost Path With Even XOR Parity	平衡异或路径的最小开销	minimum-cost-path-with-even-xor-parity	weekly-contest-526	Q4
 2280.3553600661	3892	Minimum Operations to Achieve At Least K Peaks	产生至少 K 个峰值的最少操作次数	minimum-operations-to-achieve-at-least-k-peaks	weekly-contest-496	Q4
 2280.3143643878	2407	Longest Increasing Subsequence II	最长递增子序列 II	longest-increasing-subsequence-ii	weekly-contest-310	Q4
 2279.9033313977	4023	Elevator Requests II	电梯请求 II	elevator-requests-ii	biweekly-contest-189	Q4
@@ -991,6 +992,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1830.3165569278	980	Unique Paths III	不同路径 III	unique-paths-iii	weekly-contest-120	Q4
 1830.1493771696	790	Domino and Tromino Tiling	多米诺和托米诺平铺	domino-and-tromino-tiling	weekly-contest-73	Q4
 1828.6438563573	1754	Largest Merge Of Two Strings	构造字典序最大的合并字符串	largest-merge-of-two-strings	weekly-contest-227	Q3
+1828.4000757940	4099	Minimum Operations to Sort With Locked Indices	将锁定数组排序的最少操作次数	minimum-operations-to-sort-with-locked-indices	weekly-contest-526	Q3
 1828.2700238306	2135	Count Words Obtained After Adding a Letter	统计追加字母可以获得的单词数	count-words-obtained-after-adding-a-letter	weekly-contest-275	Q3
 1827.6996661361	3332	Maximum Points Tourist Can Earn	旅客可以得到的最多点数	maximum-points-tourist-can-earn	biweekly-contest-142	Q3
 1827.3300819992	3752	Lexicographically Smallest Negated Permutation that Sums to Target	字典序最小和为目标值且绝对值是排列的数组	lexicographically-smallest-negated-permutation-that-sums-to-target	biweekly-contest-170	Q3
@@ -1180,6 +1182,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1730.9216686999	3447	Assign Elements to Groups with Constraints	将元素分配给有约束条件的组	assign-elements-to-groups-with-constraints	weekly-contest-436	Q2
 1730.3052054913	1014	Best Sightseeing Pair	最佳观光组合	best-sightseeing-pair	weekly-contest-129	Q3
 1729.6074000215	1220	Count Vowels Permutation	统计元音字母序列的数目	count-vowels-permutation	weekly-contest-157	Q4
+1729.4376339596	4098	Minimize the Maximum Value of GCD-Connected Array	最小化 GCD 连通数组的最大值	minimize-the-maximum-value-of-gcd-connected-array	weekly-contest-526	Q2
 1729.1782719522	3499	Maximize Active Section with Trade I	操作后最大活跃区段数 I	maximize-active-section-with-trade-i	biweekly-contest-153	Q2
 1728.8495630128	3439	Reschedule Meetings for Maximum Free Time I	重新安排会议得到最多空余时间 I	reschedule-meetings-for-maximum-free-time-i	biweekly-contest-149	Q2
 1728.0374911688	3946	Maximum Number of Items From Sale I	购买最多物品数目 I	maximum-number-of-items-from-sale-i	weekly-contest-504	Q2
@@ -2546,6 +2549,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1171.7635387886	3248	Snake in Matrix	矩阵中的蛇	snake-in-matrix	weekly-contest-410	Q1
 1171.7374328673	3833	Count Dominant Indices	统计主导元素下标数	count-dominant-indices	weekly-contest-488	Q1
 1170.7936743933	3783	Mirror Distance of an Integer	整数的镜像距离	mirror-distance-of-an-integer	weekly-contest-481	Q1
+1169.6793598112	4097	Minimum Value of Merged Integers	合并整数后的最小值	minimum-value-of-merged-integers	weekly-contest-526	Q1
 1169.4209117977	2960	Count Tested Devices After Test Operations	统计已测试设备	count-tested-devices-after-test-operations	weekly-contest-375	Q1
 1168.7462888240	3162	Find the Number of Good Pairs I	优质数对的总数 I	find-the-number-of-good-pairs-i	weekly-contest-399	Q1
 1168.6157473032	2651	Calculate Delayed Arrival Time	计算列车到站时间	calculate-delayed-arrival-time	weekly-contest-342	Q1
