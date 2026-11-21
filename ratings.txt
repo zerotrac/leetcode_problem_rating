@@ -528,6 +528,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 2126.3922279277	2246	Longest Path With Different Adjacent Characters	相邻字符不同的最长路径	longest-path-with-different-adjacent-characters	weekly-contest-289	Q4
 2125.7676162641	4073	Count Good Strings	统计好字符串数目	count-good-strings	weekly-contest-522	Q4
 2125.3125624762	1955	Count Number of Special Subsequences	统计特殊子序列的数目	count-number-of-special-subsequences	weekly-contest-252	Q4
+2124.4101229231	4114	Count Consistent Subarrays II	统计一致子数组数目 II	count-consistent-subarrays-ii	weekly-contest-528	Q4
 2124.1329592058	968	Binary Tree Cameras	监控二叉树	binary-tree-cameras	weekly-contest-117	Q4
 2124.0317207867	1654	Minimum Jumps to Reach Home	到家的最少跳跃次数	minimum-jumps-to-reach-home	biweekly-contest-39	Q3
 2123.5708982185	1970	Last Day Where You Can Still Cross	你能穿过矩阵的最后一天	last-day-where-you-can-still-cross	weekly-contest-254	Q4
@@ -1060,6 +1061,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1793.1160019698	3092	Most Frequent IDs	最高频率的 ID	most-frequent-ids	weekly-contest-390	Q3
 1792.0767945370	1245	Tree Diameter	树的直径	tree-diameter	biweekly-contest-12	Q3
 1791.5102962397	2771	Longest Non-decreasing Subarray From Two Arrays	构造最长非递减子数组	longest-non-decreasing-subarray-from-two-arrays	weekly-contest-353	Q3
+1791.1713865706	4113	Game of Divisible Sums	整除和博弈	game-of-divisible-sums	weekly-contest-528	Q3
 1791.0336923305	2712	Minimum Cost to Make All Characters Equal	使所有字符相等的最小成本	minimum-cost-to-make-all-characters-equal	weekly-contest-347	Q3
 1790.5747006625	2321	Maximum Score Of Spliced Array	拼接数组的最大分数	maximum-score-of-spliced-array	weekly-contest-299	Q3
 1789.9076553122	3724	Minimum Operations to Transform Array	转换数组的最少操作次数	minimum-operations-to-transform-array	biweekly-contest-168	Q3
@@ -1232,6 +1234,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1708.7056764058	2257	Count Unguarded Cells in the Grid	统计网格图中没有被保卫的格子数	count-unguarded-cells-in-the-grid	biweekly-contest-77	Q3
 1707.8992927609	816	Ambiguous Coordinates	模糊坐标	ambiguous-coordinates	weekly-contest-80	Q3
 1707.4309979043	3025	Find the Number of Ways to Place People I	人员站位的方案数 I	find-the-number-of-ways-to-place-people-i	biweekly-contest-123	Q2
+1707.1187439860	4112	Maximize Score After Zeroing Subtrees	将子树置零后的最大得分	maximize-score-after-zeroing-subtrees	weekly-contest-528	Q2
 1705.2545641354	2672	Number of Adjacent Elements With the Same Color	有相同颜色的相邻元素数目	number-of-adjacent-elements-with-the-same-color	weekly-contest-344	Q3
 1704.9360057053	3994	Minimum Adjacent Swaps to Partition Array	划分数组的最少相邻交换次数	minimum-adjacent-swaps-to-partition-array	biweekly-contest-187	Q3
 1704.3608916410	1947	Maximum Compatibility Score Sum	最大兼容性评分和	maximum-compatibility-score-sum	weekly-contest-251	Q3
@@ -1829,6 +1832,7 @@ Rating	ID	Title	Title ZH	Title Slug	Contest Slug	Problem Index
 1418.1401949854	1052	Grumpy Bookstore Owner	爱生气的书店老板	grumpy-bookstore-owner	weekly-contest-138	Q2
 1417.7383858951	4044	Count Good Cyclic Rotations	统计好循环移位的数量	count-good-cyclic-rotations	weekly-contest-518	Q2
 1417.3934930077	2139	Minimum Moves to Reach Target Score	得到目标值的最少行动次数	minimum-moves-to-reach-target-score	weekly-contest-276	Q2
+1417.2366133971	4111	Count Consistent Subarrays I	统计一致子数组数目 I	count-consistent-subarrays-i	weekly-contest-528	Q1
 1416.8961009909	1652	Defuse the Bomb	拆炸弹	defuse-the-bomb	biweekly-contest-39	Q1
 1416.6112007260	4031	Find All Numbers Disappeared in an Array II	找到所有数组中消失的数字 II	find-all-numbers-disappeared-in-an-array-ii	weekly-contest-516	Q2
 1416.4124723866	2294	Partition Array Such That Maximum Difference Is K	划分数组使最大差为 K	partition-array-such-that-maximum-difference-is-k	weekly-contest-296	Q2
