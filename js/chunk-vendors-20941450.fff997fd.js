@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(self["webpackChunkrating"])?self["webpackChunkrating"]:self["webpackChunkrating"]=[]).push([[888],{91608:function(r,n,a){a.d(n,{A:function(){return i}});var e=a(61387),t=a(44851),u=a(8759),i=(0,t.r)([...e.A,...u.A])}}]);

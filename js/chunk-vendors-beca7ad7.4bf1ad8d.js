@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(self["webpackChunkrating"])?self["webpackChunkrating"]:self["webpackChunkrating"]=[]).push([[973],{93572:function(n,r,t){t.d(r,{A:function(){return c}});var c=(n,r)=>{const t=n.__vccOpts||n;for(const[c,s]of r)t[c]=s;return t}}}]);
