@@ -2,6 +2,10 @@
   <div>
     <div class="head">
       <div class="language">
+        <el-button @click="toggleDark" circle style="margin-right: 20px">
+          <el-icon v-if="isDark"><Moon /></el-icon>
+          <el-icon v-else><Sunny /></el-icon>
+        </el-button>
         <el-dropdown style="margin-right: 5%" @command="switchLocale">
           <span class="el-dropdown-link">
             {{ $t("lang") }}
@@ -58,6 +62,9 @@
             />
           </el-form-item>
           <el-form-item>
+            <el-button type="success" @click="goRandom">Random</el-button>
+          </el-form-item>
+          <el-form-item>
             <el-button type="danger" @click="reset"
               >{{ $t("reset") }}
             </el-button>
@@ -105,7 +112,14 @@
         <el-table-column prop="ProblemIndex" label="#" />
         <el-table-column :label="$t('rating')" prop="Rating" sortable="custom">
           <template #default="scope">
-            {{ formatNumber(scope.row.Rating) }}
+            <span
+              :style="{
+                color: getRatingColor(scope.row.Rating),
+                fontWeight: 'bold',
+              }"
+            >
+              {{ formatNumber(scope.row.Rating) }}
+            </span>
           </template>
         </el-table-column>
       </el-table>
@@ -154,6 +168,21 @@ interface SortInfo {
 
 let i18n = useI18n();
 let locale = i18n.locale;
+
+const isDark = ref(localStorage.getItem("isDark") === "true");
+function toggleDark() {
+  isDark.value = !isDark.value;
+  localStorage.setItem("isDark", String(isDark.value));
+  if (isDark.value) {
+    document.documentElement.classList.add("dark");
+  } else {
+    document.documentElement.classList.remove("dark");
+  }
+}
+if (isDark.value) {
+  document.documentElement.classList.add("dark");
+}
+
 let left = ref(null);
 let right = ref(null);
 let sortInfo = reactive({
@@ -272,6 +301,30 @@ function reset() {
   sortInfo.order = "descending";
   sortInfo.prop = "ID";
   query();
+}
+
+function goRandom() {
+  if (filterProblemSet.length === 0) {
+    ElMessage.warning("No problems available");
+    return;
+  }
+  const randomIndex = Math.floor(Math.random() * filterProblemSet.length);
+  const problem = filterProblemSet[randomIndex];
+  const targetUrl =
+    locale.value === "zh" ? problem.ProblemHrefZH : problem.ProblemHrefEN;
+  if (targetUrl) {
+    window.open(targetUrl, "_blank");
+  }
+}
+
+function getRatingColor(rating: number) {
+  if (rating < 1200) return "#a0a0a0";
+  if (rating < 1400) return "#43a047";
+  if (rating < 1600) return "#26c6da";
+  if (rating < 1900) return "#5c6bc0";
+  if (rating < 2100) return "#ab47bc";
+  if (rating < 2400) return "#ffb300";
+  return "#e53935";
 }
 </script>
 
